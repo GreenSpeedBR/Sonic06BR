@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_system" mst_version="1" endianness="B">
+	<message index="0" name="msg_pressstart_ps3">PRESS START BUTTON</message>
+	<message index="1" name="msg_select_save_device">Please choose a device to\nsave and load data.</message>
+	<message index="2" name="msg_completed">Completed.</message>
+	<message index="3" name="msg_road_failed">Load failed.</message>
+	<message index="4" name="msg_save_failed">Save failed.\nData was not saved.</message>
+	<message index="5" name="msg_change_savedevice">Change storage device.</message>
+	<message index="6" name="msg_access">Accessing contents.\nDo not switch off the console.</message>
+	<message index="7" name="msg_saving">Saving game data. \nPlease don't turn off your console.</message>
+	<message index="8" name="msg_save_success">Save complete.</message>
+	<message index="9" name="msg_make_new_file">Could not find "Sonic The Hedgehog" file.\nDo you want to create a new "Sonic The\nHedgehog" file?</message>
+	<message index="10" name="msg_quit_game">If you end the game, you will lose your game\nprogress from your last save up to this point.\nAre you sure you want to end the game?</message>
+	<message index="11" name="msg_controller" placeholder="picture(button_a)">Please connect a controller,\nand press the $ button.</message>
+	<message index="12" name="msg_controller_ps3">Please connect a wireless controller,\nand press the $ button.</message>
+	<message index="13" name="msg_saving_ps3">Now saving. Do not switch off the power \nwhile the HDD access indicator is flashing.</message>
+	<message index="14" name="msg_save_success_ps3">Save complete.</message>
+	<message index="15" name="msg_save01">Save data up to this point?</message>
+	<message index="16" name="msg_save02">Now saving.</message>
+	<message index="17" name="msg_save03">Save complete.</message>
+	<message index="18" name="msg_continue">Continue</message>
+	<message index="19" name="msg_status">Status</message>
+	<message index="20" name="msg_restart">Start Over</message>
+	<message index="21" name="msg_quitback">Quit</message>
+	<message index="22" name="msg_options">Options</message>
+	<message index="23" name="msg_system_twnpause01">Save</message>
+	<message index="24" name="msg_system_twnpause02">Map</message>
+	<message index="25" name="msg_system_missionpause01">Retry</message>
+	<message index="26" name="msg_system_backtomenu">Return to Menu</message>
+	<message index="27" name="msg_system_backtotitle">Return to Title</message>
+	<message index="28" name="msg_system_backtotown">Quit Mission</message>
+	<message index="29" name="msg_system_backtoselect">Return to Select</message>
+	<message index="30" name="msg_system_gameend">End Game</message>
+	<message index="31" name="msg_mission">MISSION</message>
+	<message index="32" name="msg_quitgame">Quit Game</message>
+	<message index="33" name="msg_goldmedal01">Got one Soleanna Gold Medal</message>
+	<message index="34" name="msg_goldmedal02">Cleared the Sonic The Hedgehog Episode!</message>
+	<message index="35" name="msg_goldmedal03">Cleared the Shadow The Hedgehog Episode!</message>
+	<message index="36" name="msg_goldmedal04">Cleared the Silver The Hedgehog Episode!</message>
+	<message index="37" name="msg_goldmedal05">Cleared all ACT Missions in the\nSonic Episode with Rank S!</message>
+	<message index="38" name="msg_goldmedal06">Cleared all ACT Missions in the\nShadow Episode with Rank S!</message>
+	<message index="39" name="msg_goldmedal07">Cleared all ACT Missions in the\nSilver Episode with Rank S!</message>
+	<message index="40" name="msg_goldmedal08">Cleared all Town Missions in the\nSonic Episode with Rank S!</message>
+	<message index="41" name="msg_goldmedal09">Cleared all Town Missions in the\nShadow Episode with Rank S!</message>
+	<message index="42" name="msg_goldmedal10">Cleared all Town Missions in the\nSilver Episode with Rank S!</message>
+	<message index="43" name="msg_goldmedal11">Collected all Silver Medals in the Sonic Episode!</message>
+	<message index="44" name="msg_goldmedal12">Collected all Silver Medals in the Shadow Episode!</message>
+	<message index="45" name="msg_goldmedal13">Collected all Silver Medals in the Silver Episode!</message>
+	<message index="46" name="msg_goldmedal14">Congratulations!</message>
+	<message index="47" name="msg_goldmedal_get">Get one Soleanna Gold Medal</message>
+	<message index="48" name="msg_goldmedal_get2">Get one Soleanna Gold Medal!</message>
+	<message index="49" name="msg_allgoldmedal_get">Collect All Gold Medals!</message>
+	<message index="50" name="msg_unlock_shadowepisode">Shadow Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
+	<message index="51" name="msg_unlock_silverepisode">Silver Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
+	<message index="52" name="msg_unlock_battle">Last Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
+	<message index="53" name="msg_unlock_audioroom">Cleared all ACT Missions in the\nLast Episode with Rank S!</message>
+	<message index="54" name="abc">Movie Theater is now unlocked.\nPlease select Movie Theater from Extras.</message>
+	<message index="55" name="msg_allgoldmedal_get2">Congratulations!\nYou have collected all Gold Medals!</message>
+	<message index="56" name="msg_allgoldmedal_get3">You have collected all Gold Medals!</message>
+	<message index="57" name="msg_allsilvermedal_get">You have collected all Silver Medals!</message>
+	<message index="58" name="msg_allsilvermedal_get2">Congratulations!\nYou have collected all Silver Medals!</message>
+	<message index="59" name="msg_stageclear">Stage Cleared!</message>
+	<message index="60" name="msg_twnallranksclear">Cleared all Town Missions with Rank S!</message>
+	<message index="61" name="msg_actstageclear">Cleared ACT Mission!</message>
+	<message index="62" name="msg_bossstageclear">Cleared Boss Stage!</message>
+	<message index="63" name="msg_hardactstageclear">Cleared Hard ACT Mission!</message>
+	<message index="64" name="msg_collecttownsilvermedals">Collected all Silver Medals in TOWN Stage!</message>
+	<message index="65" name="msg_allepisodeclear">All Episodes Cleared.</message>
+	<message index="66" name="msg_lastepisodeclear">Cleared Last Episode!</message>
+	<message index="67" name="msg_collect10silvermedals">Collected 10 Silver Medals in ACT Stage!</message>
+	<message index="68" name="msg_lastgoldmedal">Obtained the last Gold Medal!</message>
+	<message index="69" name="msg_unlock_theaterroom">Cleared ACT Mission with Rank S!</message>
+	<message index="70" name="msg_unlock_audioroom2">You have unlocked Audio Room.</message>
+	<message index="71" name="msg_unlock_audioroom_sonic">Music from Sonic Episode is now\navailable in Audio Room.</message>
+	<message index="72" name="msg_unlock_audioroom_shadow">Music from Shadow Episode is now\navailable in Audio Room.</message>
+	<message index="73" name="msg_unlock_audioroom_silver">Music from Silver Episode is now\navailable in Audio Room.</message>
+	<message index="74" name="msg_unlock_audioroom_last">Music from Last Episode is now\navailable in Audio Room.</message>
+	<message index="75" name="msg_unlock_theaterroom_2">Theater Room is now unlocked.</message>
+	<message index="76" name="msg_unlock_theaterroom_sonic">Sonic Episode is now \navailable in Theater Room.</message>
+	<message index="77" name="msg_unlocktheaterroom_shadow">Shadow Episode is now\navailable in Theater Room.</message>
+	<message index="78" name="msg_unlocktheaterroom_silver">Silver Episode is now \navailable in Theater Room.</message>
+	<message index="79" name="msg_unlocktheaterroom_last">Last Episode is now \navailable in Theater Room.</message>
+	<message index="80" name="msg_unlock_theaterroom_sonic2">You can now watch Sonic Episode\nin Theater Room.</message>
+	<message index="81" name="msg_unlock_theaterroom_shadow2">You can now watch Shadow Episode\nin Theater Room.</message>
+	<message index="82" name="msg_unlocktheaterroom_silver2">You can now watch Silver Episode\nin Theater Room.</message>
+	<message index="83" name="msg_alert_savebreak">Save Data is corrupted.</message>
+	<message index="84" name="msg_alert_savenotfound">Save Data cannot be found.</message>
+	<message index="85" name="msg_alert_savecannotload">Load failed.</message>
+	<message index="86" name="msg_alert_cannotuseprofile">You cannot use this gamer profile.</message>
+	<message index="87" name="msg_alert_hddaccess_360">Accessing the Xbox 360 Hard Drive.</message>
+	<message index="88" name="msg_alert_saveblock_360">There are not enough free blocks to create\nSave Data. You need to free at least $MB.</message>
+	<message index="89" name="msg_alert_makedata_360">There is no Save Data for Sonic The Hedgehog.\nDo you want to create a new Save Data?</message>
+	<message index="90" name="msg_alert_remakedata_360">Load failed. The Save Data cannot be loaded.\nWould you like to create a new Save Data?</message>
+	<message index="91" name="msg_alert_savesuccess_360">Save Data has been created.\nPlease press $ to continue.</message>
+	<message index="92" name="msg_alert_deletedata_360">Deleting...\nPlease do not switch off Xbox 360 console.</message>
+	<message index="93" name="msg_alert_savedata_360">Saving...\nPlease do not switch off Xbox 360 console.</message>
+	<message index="94" name="msg_alert_loadfaild">Save failed.</message>
+	<message index="95" name="msg_alert_loading">Loading...</message>
+	<message index="96" name="msg_alert_cannotload">Save Data cannot be loaded.</message>
+	<message index="97" name="msg_alert_makedata_360_2">Creating Save Data.\nPlease do not switch off Xbox 360 console.</message>
+	<message index="98" name="msg_alert_remakedata_360_2">Creating Save Data.\nPlease do not switch off Xbox 360 console.</message>
+	<message index="99" name="msg_alert_hddaccess_ps3">Accessing hard disc.\nPlease do not switch off Xbox 360 console.</message>
+	<message index="100" name="msg_alert_memorystick">Checking contents of Memory Stick™\nPlease do not remove the Memory Stick™,\nreset the console, or turn off the power.</message>
+	<message index="101" name="msg_alert_memorystick_unformat">The Memory Stick™ in slot 1 is not formatted.</message>
+	<message index="102" name="msg_alert_memorystick_unformat_2">The Memory Stick™ in slot 1 is not formatted.\nFormat the Memory Stick™ in Memory Stick™\nslot?</message>
+	<message index="103" name="msg_alert_memorystick_unformatting">Now formatting the Memory Stick™ in\nMemory Stick™ slot.  Please do not\nremove the Memory Stick™,\nreset the console, or turn off the power.</message>
+	<message index="104" name="msg_alert_memorystick_unformated">Format complete.</message>
+	<message index="105" name="msg_alert_memorystick_error">Memory Stick™ error.\nPlease check the Memory\nStick™ in Memory Stick™ slot.</message>
+	<message index="106" name="msg_alert_memorystick_error_2">There is no Memory Stick™ in Memory Stick™\nslot. Please insert a Memory Stick™ in\nMemory Stick™ slot.</message>
+	<message index="107" name="msg_alert_memorystick_error_3">There is insufficient space on the\nMemory Stick™ in Memory Stick™ slot.\nThis game requires $KB of free space\nto save data.</message>
+	<message index="108" name="msg_alert_saved">Save complete.</message>
+	<message index="109" name="msg_alert_save_failed">Save failed.</message>
+	<message index="110" name="msg_alert_cannot_save">Continue without saving.</message>
+	<message index="111" name="msg_alert_cannot_save_2">If you begin the game, you will not be able\nto save later. Is this okay?</message>
+	<message index="112" name="msg_alert_memorystick_error_4">The Memory Stick™ in Memory Stick™ slot\nis damaged and cannot be used.\nPlease insert a useable Memory Stick™.</message>
+	<message index="113" name="msg_alert_memorystick_format_error">Format failed.\nPlease check the Memory Stick™ \nin Memory Stick™ slot and try again.</message>
+	<message index="114" name="msg_alert_cannot_loadgamedata">Cannot read game data.</message>
+	<message index="115" name="msg_alert_break_gamedata">All game data is corrupted.</message>
+	<message index="116" name="msg_alert_break_savedata">Save Data is corrupted.</message>
+	<message index="117" name="msg_alert_cannot_connect_xboxlive">Could not connect to Xbox Live.</message>
+	<message index="118" name="msg_alert_confirm_xboxlive">Please check your Xbox Live settings.</message>
+	<message index="119" name="msg_alert_cannot_connect_network">Could not connect to network.</message>
+	<message index="120" name="msg_alert_confirm_network">Please check your network settings.</message>
+	<message index="121" name="msg_alert_connect_xboxlive">Connecting to Xbox Live.\nPlease do not turn the power off.</message>
+	<message index="122" name="msg_alert_connect_netwrok">Connecting to network.</message>
+	<message index="123" name="msg_alert_connect_network2">Connecting to network.\nPlease do not turn the power off.</message>
+	<message index="124" name="msg_newdata">NEW DATA</message>
+	<message index="125" name="msg_new">NEW</message>
+	<message index="126" name="msg_battlerule">Reach the goal before your opponent!</message>
+	<message index="127" name="msg_copying">Copying.</message>
+	<message index="128" name="msg_copy_success">Copy successful.</message>
+	<message index="129" name="msg_alert_nospacetosave">You have already reached the maximum\nnumber of Save Data files.</message>
+	<message index="130" name="msg_alert_delete_savedata">Please delete old Save Data if you wish\nto save new data.</message>
+	<message index="131" name="msg_title">SONIC THE HEDGEHOG</message>
+	<message index="132" name="msg_finish_game">End game?</message>
+	<message index="133" name="msg_alert_nospace_hdd">There is insufficient space on HDD.\nThis game requires $MB of free data.</message>
+	<message index="134" name="msg_alert_nospace_hdd_1">There is insufficient space on HDD.\nThis game requires</message>
+	<message index="135" name="msg_alert_nospace_hdd_2">$MB of free data.</message>
+	<message index="136" name="msg_alert_access_hdd">The HDD access indicator will blink during data\nsave. Please do not turn the power off.</message>
+	<message index="137" name="msg_alert_breadgamedata">Game data is corrupted. Please quit the\ngame and delete your game data.</message>
+	<message index="138" name="msg_alert_accesserror">Access error.</message>
+	<message index="139" name="msg_alert_accesserror2">An access error has occurred.</message>
+	<message index="140" name="msg_retry">Retry</message>
+	<message index="141" name="msg_alert_backtotitle">Returning to Title Screen.</message>
+	<message index="142" name="msg_alert_cannot_gogame">Cannot proceed with game.</message>
+	<message index="143" name="msg_alert_stopgame">Game progression halted.</message>
+	<message index="144" name="msg_alert_stopgame_2">Cannot proceed with game.\nReturning to Title Screen.</message>
+	<message index="145" name="msg_alert_stopgame_3">Cannot proceed with game.\nGame progression halted.</message>
+	<message index="146" name="msg_alert_networkerror">A communication error has occurred.</message>
+	<message index="147" name="msg_alert_networkerror_2">A communication error has occurred.\nCannot connect to PLAYSTATION®Network.</message>
+	<message index="148" name="msg_alert_networkerror_3">A communication error has occurred.\nCannot connect to PLAYSTATION®Network.</message>
+	<message index="149" name="msg_alert_connect_ps3">Connecting to PLAYSTATION®Network server.</message>
+	<message index="150" name="msg_alert_connect_ps3_2">Signing in to PLAYSTATION®Network.</message>
+	<message index="151" name="msg_alert_sighin_ps3">Signed in to PLAYSTATION®Network.</message>
+	<message index="152" name="msg_alert_cannotsighin_ps3">Could not sign in to PLAYSTATION®Network.</message>
+	<message index="153" name="msg_alert_confirm_network_ps3">Check your PLAYSTATION®Network settings.</message>
+	<message index="154" name="msg_alert_connectingserver">Connecting to server.</message>
+	<message index="155" name="msg_alert_resetgamedisk">Please insert the SONIC THE HEDGEHOG\ngame disk.</message>
+	<message index="156" name="msg_goldmedal">Gold Medals</message>
+	<message index="157" name="msg_goldmedal2">GOLD MEDALS</message>
+	<message index="158" name="msg_leaderboard">Leaderboards</message>
+	<message index="159" name="msg_start">Start</message>
+	<message index="160" name="msg_cancel">Cancel</message>
+	<message index="161" name="msg_copy">Copy</message>
+	<message index="162" name="msg_start2">Start</message>
+	<message index="163" name="msg_alert_rewritesave">Saved Data will be overwritten.\nIs this okay?</message>
+	<message index="164" name="msg_system_twn05">Custom</message>
+	<message index="165" name="msg_system_twn06">Tornado</message>
+	<message index="166" name="msg_system_twn07">Slow</message>
+	<message index="167" name="msg_system_twn08">Mach Speed</message>
+	<message index="168" name="msg_system_twn09">Gun Drive</message>
+	<message index="169" name="msg_system_twn10">Thunder Guard</message>
+	<message index="170" name="msg_system_twn11">Scale</message>
+	<message index="171" name="msg_system_twn12">Homing Smash</message>
+	<message index="172" name="msg_system_twn13">Super</message>
+	<message index="173" name="msg_system_twn14">???</message>
+	<message index="174" name="msg_system_twn15">Custom</message>
+	<message index="175" name="msg_system_twn16">Light Chip</message>
+	<message index="176" name="msg_system_twn17">Anti-Gravity</message>
+	<message index="177" name="msg_system_twn18">Bound Bracelet</message>
+	<message index="178" name="msg_system_twn19">Power Bracelet</message>
+	<message index="179" name="msg_system_twn20">No equipment</message>
+	<message index="180" name="msg_system_twn21">Green Gem</message>
+	<message index="181" name="msg_system_twn22">Red Gem</message>
+	<message index="182" name="msg_system_twn23">Blue Gem</message>
+	<message index="183" name="msg_system_twn24">White Gem</message>
+	<message index="184" name="msg_system_twn25">Sky Gem</message>
+	<message index="185" name="msg_system_twn26">Yellow Gem</message>
+	<message index="186" name="msg_system_twn27">Purple Gem</message>
+	<message index="187" name="msg_system_twn28">Rainbow Gem</message>
+	<message index="188" name="msg_system_twn29">LV. 1</message>
+	<message index="189" name="msg_system_twn30">LV. 2</message>
+	<message index="190" name="msg_system_twn31">LV. 3</message>
+	<message index="191" name="msg_lv">LV</message>
+	<message index="192" name="msg_level">LEVEL</message>
+	<message index="193" name="msg_custom_l">Customize</message>
+	<message index="194" name="msg_lv1">LV.1</message>
+	<message index="195" name="msg_lv2">LV.2</message>
+	<message index="196" name="msg_lv3">LV.3</message>
+	<message index="197" name="msg_level1">LEVEL 1</message>
+	<message index="198" name="msg_level2">LEVEL 2</message>
+	<message index="199" name="msg_level3">LEVEL 3</message>
+	<message index="200" name="msg_exp">EXP.</message>
+	<message index="201" name="msg_ex">EX.</message>
+	<message index="202" name="msg_experiencepoint_l">EXPERIENCE POINT</message>
+	<message index="203" name="msg_experiencepoint_s">Experience point</message>
+	<message index="204" name="msg_tornado_c">Attack surrounding enemies by stirring up a whirlwind</message>
+	<message index="205" name="msg_slow_c">Slows time down in the immediate vicinity</message>
+	<message index="206" name="msg_machspeed_c">A sonic-speed Burst Dash</message>
+	<message index="207" name="msg_homingsmash_c">Come to a midair stop and then attack with a Homing Dash</message>
+	<message index="208" name="msg_gundrive_c">Teleport to where you have tossed the gem</message>
+	<message index="209" name="msg_thunderguard_c">Protects against enemy attacks and pulls in Rings</message>
+	<message index="210" name="msg_scall_c">Sonic transforms into a larger size</message>
+	<message index="211" name="msg_super_c">Super Form</message>
+	<message index="212" name="msg_custom">Customize</message>
+	<message index="213" name="msg_win">WIN!</message>
+	<message index="214" name="msg_finish">FINISH!</message>
+	<message index="215" name="msg_congratulations">CONGRATULATIONS!</message>
+	<message index="216" name="msg_ready">READY?</message>
+	<message index="217" name="msg_go">GO!</message>
+	<message index="218" name="msg_ok_confirm">OK!</message>
+	<message index="219" name="msg_result">RESULT</message>
+	<message index="220" name="msg_score">SCORE</message>
+	<message index="221" name="msg_time">TIME</message>
+	<message index="222" name="msg_rings">Rings</message>
+	<message index="223" name="msg_timebonus">TIME BONUS</message>
+	<message index="224" name="msg_ringbonus">RING BONUS</message>
+	<message index="225" name="msg_missionbonus">MISSION BONUS</message>
+	<message index="226" name="msg_totalscore">TOTAL SCORE</message>
+	<message index="227" name="msg_rank">RANK</message>
+	<message index="228" name="msg_totalrings">TOTAL Rings</message>
+	<message index="229" name="msg_record">RECORD</message>
+	<message index="230" name="msg_besttime">BEST TIME</message>
+	<message index="231" name="msg_mostrings">MOST Rings</message>
+	<message index="232" name="msg_bestscore">BEST SCORE</message>
+	<message index="233" name="msg_bestrecord">BEST RECORD</message>
+	<message index="234" name="msg_points">POINTS</message>
+	<message index="235" name="msg_missioncompleted">MISSION COMPLETED!</message>
+	<message index="236" name="msg_missionfailed">MISSION FAILED... </message>
+	<message index="237" name="msg_finish_m">FINISH!</message>
+	<message index="238" name="msg_timesup_m">TIME'S UP!</message>
+	<message index="239" name="msg_success_m">SUCCESS!</message>
+	<message index="240" name="msg_goal">GOAL!</message>
+	<message index="241" name="msg_lap1">LAP 1</message>
+	<message index="242" name="msg_lap2">LAP 2</message>
+	<message index="243" name="msg_lap3">LAP 3</message>
+	<message index="244" name="msg_failed">FAILED</message>
+	<message index="245" name="msg_bestring">BEST Rings</message>
+	<message index="246" name="msg_totalring">TOTAL Rings</message>
+	<message index="247" name="msg_newrecord">NEW RECORD!</message>
+	<message index="248" name="msg_mission1">MISSION 1</message>
+	<message index="249" name="msg_mission2">MISSION 2</message>
+	<message index="250" name="msg_mission3">MISSION 3</message>
+	<message index="251" name="msg_mission4">MISSION 4</message>
+	<message index="252" name="msg_mission5">MISSION 5</message>
+	<message index="253" name="msg_mission6">MISSION 6</message>
+	<message index="254" name="msg_mission7">MISSION 7</message>
+	<message index="255" name="msg_mission8">MISSION 8</message>
+	<message index="256" name="msg_mission9">MISSION 9</message>
+	<message index="257" name="msg_mission10">MISSION 10</message>
+	<message index="258" name="msg_mission11">MISSION 11</message>
+	<message index="259" name="msg_mission12">MISSION 12</message>
+	<message index="260" name="msg_mission13">MISSION 13</message>
+	<message index="261" name="msg_mission14">MISSION 14</message>
+	<message index="262" name="msg_mission15">MISSION 15</message>
+	<message index="263" name="msg_mission16">MISSION 16</message>
+	<message index="264" name="msg_mission17">MISSION 17</message>
+	<message index="265" name="msg_mission18">MISSION 18</message>
+	<message index="266" name="msg_mission19">MISSION 19</message>
+	<message index="267" name="msg_mission20">MISSION 20</message>
+	<message index="268" name="msg_mission21">MISSION 21</message>
+	<message index="269" name="msg_mission22">MISSION 22</message>
+	<message index="270" name="msg_mission23">MISSION 23</message>
+	<message index="271" name="msg_mission24">MISSION 24</message>
+	<message index="272" name="msg_mission25">MISSION 25</message>
+	<message index="273" name="msg_mission26">MISSION 26</message>
+	<message index="274" name="msg_mission27">MISSION 27</message>
+	<message index="275" name="msg_mission28">MISSION 28</message>
+	<message index="276" name="msg_mission29">MISSION 29</message>
+	<message index="277" name="msg_mission30">MISSION 30</message>
+	<message index="278" name="msg_mission31">MISSION 31</message>
+	<message index="279" name="msg_mission32">MISSION 32</message>
+	<message index="280" name="msg_mission33">MISSION 33</message>
+	<message index="281" name="msg_mission34">MISSION 34</message>
+	<message index="282" name="msg_mission35">MISSION 35</message>
+	<message index="283" name="msg_mission36">MISSION 36</message>
+	<message index="284" name="msg_mission37">MISSION 37</message>
+	<message index="285" name="msg_mission38">MISSION 38</message>
+	<message index="286" name="msg_mission39">MISSION 39</message>
+	<message index="287" name="msg_mission40">MISSION 40</message>
+	<message index="288" name="msg_mission41">MISSION 41</message>
+	<message index="289" name="msg_mission42">MISSION 42</message>
+	<message index="290" name="msg_mission43">MISSION 43</message>
+	<message index="291" name="msg_mission44">MISSION 44</message>
+	<message index="292" name="msg_mission45">MISSION 45</message>
+	<message index="293" name="msg_mission46">MISSION 46</message>
+	<message index="294" name="msg_mission47">MISSION 47</message>
+	<message index="295" name="msg_mission48">MISSION 48</message>
+	<message index="296" name="msg_mission49">MISSION 49</message>
+	<message index="297" name="msg_mission50">MISSION 50</message>
+	<message index="298" name="msg_worldrank">WORLD RANK</message>
+	<message index="299" name="msg_myrank">MY RANK</message>
+	<message index="300" name="msg_worldranking">WORLD RANKING</message>
+	<message index="301" name="msg_myranking">MY RANKING</message>
+	<message index="302" name="msg_yes">Yes</message>
+	<message index="303" name="msg_no">No</message>
+	<message index="304" name="msg_deside">Enter</message>
+	<message index="305" name="msg_deleate">Delete</message>
+	<message index="306" name="msg_back">Return</message>
+	<message index="307" name="msg_next">Next</message>
+	<message index="308" name="msg_ok">OK</message>
+	<message index="309" name="msg_quit">Cancel</message>
+	<message index="310" name="msg_deside_360_withbutton" placeholder="picture(button_a),picture(button_b)">$Select  $Back</message>
+	<message index="311" name="msg_back_360_withbutton" placeholder="picture(button_b)">$Back</message>
+	<message index="312" name="msg_deside_ps3_withbutton" placeholder="picture(button_a)">$Select</message>
+	<message index="313" name="msg_back_ps3_withbutton" placeholder="picture(button_b)">$Back</message>
+	<message index="314" name="msg_yes_b_360" placeholder="picture(button_a)">$Yes</message>
+	<message index="315" name="msg_no_b_360" placeholder="picture(button_b)">$No</message>
+	<message index="316" name="msg_diside_b_360" placeholder="picture(button_a)">$Select</message>
+	<message index="317" name="msg_deleate_b_360" placeholder="picture(button_b)">$Delete</message>
+	<message index="318" name="msg_back_b_360" placeholder="picture(button_b)">$Back</message>
+	<message index="319" name="msg_next_b_360" placeholder="picture(button_a)">$Next</message>
+	<message index="320" name="msg_ok_b_b_360" placeholder="picture(button_a)">$OK</message>
+	<message index="321" name="msg_quit_b_360" placeholder="picture(button_a)">$Quit</message>
+	<message index="322" name="msg_yes_b_ps3" placeholder="picture(button_a)">$Yes</message>
+	<message index="323" name="msg_no_b_ps3" placeholder="picture(button_b)">$No</message>
+	<message index="324" name="msg_diside_b_ps3" placeholder="picture(button_a)">$Select</message>
+	<message index="325" name="msg_deleate_b_ps3" placeholder="picture(button_b)">$Delete</message>
+	<message index="326" name="msg_back_b_ps3" placeholder="picture(button_b)">$Back</message>
+	<message index="327" name="msg_next_b_ps3" placeholder="picture(button_a)">$Next</message>
+	<message index="328" name="msg_ok_b_b_ps3" placeholder="picture(button_a)">$OK</message>
+	<message index="329" name="msg_quit_b_ps3" placeholder="picture(button_a)">$Quit</message>
+	<message index="330" name="msg_save">Save</message>
+	<message index="331" name="msg_no_save">Continue without saving</message>
+	<message index="332" name="msg_save_360" placeholder="picture(button_a)">$Save</message>
+	<message index="333" name="msg_no_save_360" placeholder="picture(button_b)">$Continue without saving</message>
+	<message index="334" name="msg_save_ps3" placeholder="picture(button_a)">$Save</message>
+	<message index="335" name="msg_no_save_ps3" placeholder="picture(button_b)">$Continue without saving</message>
+	<message index="336" name="msg_ok2">OK?</message>
+	<message index="337" name="msg_great">GREAT!</message>
+	<message index="338" name="msg_good">GOOD!</message>
+	<message index="339" name="msg_artistic">ARTISTIC!</message>
+	<message index="340" name="msg_radical">RADICAL!</message>
+	<message index="341" name="msg_hunter">HUNTER!</message>
+	<message index="342" name="msg_double">DOUBLE!</message>
+	<message index="343" name="msg_triple">TRIPLE!</message>
+	<message index="344" name="msg_awesome">AWESOME!</message>
+	<message index="345" name="msg_extream">EXTREME!</message>
+	<message index="346" name="msg_perfect">PERFECT!</message>
+	<message index="347" name="msg_combo">COMBO</message>
+	<message index="348" name="msg_1p">1P</message>
+	<message index="349" name="msg_2p">2P</message>
+	<message index="350" name="msg_3p">not use data</message>
+	<message index="351" name="msg_4p">not use data</message>
+	<message index="352" name="msg_1ppause">1P PAUSE</message>
+	<message index="353" name="msg_2ppause">2P PAUSE</message>
+	<message index="354" name="msg_3ppause">3P PAUSE</message>
+	<message index="355" name="msg_4ppause">4P PAUSE</message>
+	<message index="356" name="msg_pause">PAUSE</message>
+	<message index="357" name="msg_nowloading">NOW LOADING... </message>
+	<message index="358" name="msg_loadgame">LOAD GAME</message>
+	<message index="359" name="msg_dataload">LOAD DATA</message>
+	<message index="360" name="msg_mission_quit">END MISSION</message>
+	<message index="361" name="msg_winner">dummy data</message>
+	<message index="362" name="msg_overwrite">Overwrite the Save Data.\nIf you overwrite you will lose the previously\nsaved data. OK?</message>
+	<message index="363" name="msg_dosave">Save</message>
+	<message index="364" name="msg_withoutsave">Continue without saving.</message>
+	<message index="365" name="msg_withoutsavestart">Start the game without saving.</message>
+	<message index="366" name="msg_withoutsavestart_yobi">Start the game without saving.</message>
+	<message index="367" name="msg_deviceselect">Select storage device.</message>
+	<message index="368" name="msg_selectdevice">You need to select a storage device to\nsave the game data. Please select a \nstorage device you wish to use.</message>
+	<message index="369" name="msg_selectdevice2">The storage device has been removed. \nYou need a storage device to save the \ngame data. Please select a storage \ndevice you wish to use.</message>
+	<message index="370" name="msg_saveshortage">There is not enough space to save in \nthe storage device you selected. You might\nnot be able to save to this storage device. \nPlease select a storage device you wish to use.</message>
+	<message index="371" name="msg_donotsignin">You have not signed in to the gamer profile. \nIf you continue the game you will not be able to\nsave game data. Do you want to sign in?</message>
+	<message index="372" name="msg_signin">Sign in</message>
+	<message index="373" name="msg_withoutsignin">Continue without signing in</message>
+	<message index="374" name="msg_donotsignin2">You have not signed in to the gamer profile. \nIf you continue you will not be able to save the\ngame data. OK?</message>
+	<message index="375" name="msg_nosavedata">No Save Data exists. You need to create\nSave Data to save game data. Do you want to \ncreate new Save Data?</message>
+	<message index="376" name="msg_makenewdata">Create new Save Data.</message>
+	<message index="377" name="msg_controllerreset_360" placeholder="picture(button_a)">Please re-insert Xbox 360 controller and\npress $ button.</message>
+	<message index="378" name="msg_controllerreset_ps3" placeholder="picture(button_a)">Please re-insert Xbox 360 controller and\npress $ button.</message>
+	<message index="379" name="msg_nowsaving">NOW SAVING…</message>
+	<message index="380" name="msg_donotsignin_controller360">NOT USED</message>
+	<message index="381" name="msg_donotsignin2_controller360">NOT USED</message>
+	<message index="382" name="msg_notsignin">You are not currently signed in.\nIf you do not sign in, you cannot\nsave your game data.</message>
+	<message index="383" name="msg_cannotsave">You are not signed in.\nYou cannot save your game\nunless you are signed in.</message>
+	<message index="384" name="msg_gamerprofile">Select gamer profile</message>
+	<message index="385" name="msg_continue2">Continue</message>
+	<message index="386" name="msg_cannnotconectxboxlive">You need to sign in to play\nXbox Live.</message>
+	<message index="387" name="msg_devicenotfound">Storage device cannot be found.</message>
+	<message index="388" name="msg_changedsignin">Your sign-in status has changed. \nThe game cannot be continued. \nReturning to the Title Screen. </message>
+	<message index="389" name="msg_donotsignin3">You are not signed in.</message>
+	<message index="390" name="msg_cannotsave2">No storage device selected. \nYou will not be able to save. \nContinue without saving?</message>
+	<message index="391" name="msg_cannotload">No storage device selected. \nYou will not be able to load. \nContinue without loading?</message>
+	<message index="392" name="msg_selectdevice3">Choose Storage device.</message>
+	<message index="393" name="msg_serverdisconect">Disconnected from server.</message>
+	<message index="394" name="msg_saveandback">Finish saving and return to the game?</message>
+	<message index="395" name="msg_notspace">There is not enough free space to create Save\nData. At least $KB free space is required to \ncreate Save Data. Please check the free space \nin the storage device and try again.</message>
+	<message index="396" name="msg_cannotlookfriend">This gamer profile is only viewable to Friends.</message>
+	<message index="397" name="msg_cannotlookgamerprofile">This gamer profile is not viewable.</message>
+	<message index="398" name="msg_gamequitconfirm1">Exit the game and go back to the Title Screen.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="399" name="msg_gamequitconfirm2">Exit the game.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="400" name="msg_gamequitconfirm3">Exit the game and go back to the Title Screen.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="401" name="msg_gamequitconfirm4">Exit the game.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="402" name="msg_backtotitle1">Go back to the Title Screen.\nOK?</message>
+	<message index="403" name="msg_backtotitle2">Go back to the Title Screen.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="404" name="msg_backtotitle3">Go back to the Title Screen.\nThe progress of the game from the last saved\npoint will not be saved. OK? </message>
+	<message index="405" name="msg_loadfaild">Load failed. Game data cannot be loaded.\nIf you continue you will not be able to save\nthe progress of the game. </message>
+	<message index="406" name="msg_savefailed">Save failed. Game data cannot be saved. \nIf you continue you will not be able to save\nthe progress of the game.</message>
+	<message index="407" name="msg_accessfailed">Failed to access to the Save Data.\nIf you continue you will not be able to save \nthe Same Data.</message>
+	<message index="408" name="msg_loadfaild_yobi1">Load failed. Same Data cannot be loaded.\nIf you continue you will not be able to save \nSave Data. Is this OK?</message>
+	<message index="409" name="msg_savefailed_yobi1">Save failed. Save Data cannot be saved.\nIf you continue you will not be able to save\nSave Data. Is this OK?</message>
+	<message index="410" name="msg_accessfailed_yobi1">Access to Save Data failed. If you continue\nyou will not be able to save Save Data.\nIs this OK?</message>
+	<message index="411" name="msg_loadfaild_yobi2">Load failed. \nSave Data cannot be loaded.\nIf you continue you will not be able to save \nthe progress of the game. Is this OK?</message>
+	<message index="412" name="msg_savefailed_yobi2">Save failed. Save Data cannot be saved.\nIf you continue you will not be able to save\nthe progress of the game. Is this OK?</message>
+	<message index="413" name="msg_accessfailed_yobi2">Access to Save Data failed. If you continue\nyou will not be able to save the progress of\nthe game. Is this OK?</message>
+	<message index="414" name="msg_signout">You have signed out your gamer profile. \nAll of your unsaved progress has been lost.\nYou will be returned to the Title Screen.</message>
+	<message index="415" name="msg_dlcontents_faild">Failed to load downloaded content.</message>
+	<message index="416" name="msg_dlcontents_accessfailed">Failed to access downloaded content.</message>
+	<message index="417" name="msg_cannot_continue_dame">You cannot continue the game.\nYou will be returned to the Title Screen.</message>
+	<message index="418" name="msg_dlcontents_roading">Loading the downloaded content.</message>
+	<message index="419" name="msg_dlcontents_roadsuccess">Load successful.</message>
+	<message index="420" name="msg_dlcontents_access">Accessing the downloaded content.</message>
+	<message index="421" name="msg_brokengamedata">The game data may be damaged and cannot\nbe loaded. Do you want to create new \ngame data? This will overwrite previously \nsaved game data.</message>
+	<message index="422" name="msg_brokensavedata">The Save Data may be damaged and \ncannot be loaded. Do you want to create\nnew Save Data? This will overwrite previously\nsaved Save Data.</message>
+	<message index="423" name="msg_withoutload">Continue without loading</message>
+	<message index="424" name="msg_withoutload_backtitle">Go back to the Title Screen without\nloading.</message>
+	<message index="425" name="msg_withaoutload_back">Go back without loading</message>
+	<message index="426" name="msg_withoutsave_back">Go back without saving</message>
+	<message index="427" name="msg_donotsave">Do not save</message>
+	<message index="428" name="msg_donotsave_end">End without saving</message>
+	<message index="429" name="msg_gamedata_load_failed">Load failed. Game data cannot be loaded.\nIf you continue you will not be able to save\nthe progress of the game. </message>
+	<message index="430" name="msg_savedata_load_failed">Load failed. Save data cannot be loaded.\nIf you continue you will not be able to save\nthe progress of the game.</message>
+	<message index="431" name="msg_savehdd_alert">Saving... HDD access indicator blinks while \nsaving. Please do not switch off the console \nwhile HDD access indicator is blinking.</message>
+	<message index="432" name="msg_loadhdd_alert">Loading... HDD access indicator blinks while\nloading. Please do not switch off the console \nwhile the HDD access indicator is blinking</message>
+	<message index="433" name="msg_makehdd_alert">Creating Save Data in HDD. HDD access indicator\nblinks while creating. Please do not switch off \nthe console while HDD access indicator is blinking.</message>
+	<message index="434" name="msg_makesavedata">Save Data has been created.</message>
+	<message index="435" name="msg_savesavedata">Save successful.</message>
+	<message index="436" name="msg_loadsavedata">Load successful.</message>
+	<message index="437" name="msg_cannotmakesavedata">There is not enough space to create Save Data.\n$ KB is required to create Save Data. \nDo you want to create space in HDD?</message>
+	<message index="438" name="msg_savedatanotfound">There is no Save Data found in HDD. \nDo you want to create new Save Data in HDD?</message>
+	<message index="439" name="msg_tagsave">NOT IN USE</message>
+	<message index="440" name="msg_tagsaved">NOT IN USE</message>
+	<message index="441" name="msg_savingnow">Saving…</message>
+	<message index="442" name="msg_tagloadsave">NOT IN USE</message>
+	<message index="443" name="msg_loadingnow">Loading…</message>
+	<message index="444" name="msg_interruptionsave">NOT IN USE</message>
+	<message index="445" name="msg_interruptionload">NOT IN USE</message>
+	<message index="446" name="msg_easy">EASY</message>
+	<message index="447" name="msg_normal">NORMAL</message>
+	<message index="448" name="msg_hard">HARD</message>
+	<message index="449" name="msg_veryhard">VERY HARD</message>
+	<message index="450" name="msg_superhard">SUPER HARD</message>
+	<message index="451" name="msg_ultimate">ULTIMATE</message>
+	<message index="452" name="sonic_stg_wvo">Pursue the Egg Carrier!</message>
+	<message index="453" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
+	<message index="454" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>
+	<message index="455" name="sonic_stg_csc">Find the Database!</message>
+	<message index="456" name="sonic_stg_flc">Find the Chaos Emerald!</message>
+	<message index="457" name="sonic_stg_rdt">Follow Dr. Eggman's Train!</message>
+	<message index="458" name="sonic_stg_tpj">Avoid Dr. Eggman's Pursuit!</message>
+	<message index="459" name="sonic_stg_wvo_tails">Follow Elise!</message>
+	<message index="460" name="sonic_sonic_stg_kdv">Follow the Egg Carrier!</message>
+	<message index="461" name="sonic_stg_aqa">Stop the Egg Carrier's Launch!</message>
+	<message index="462" name="last_stg_end">Collect the 7 Chaos Emeralds!</message>
+	<message index="463" name="all_stg_2nd">Gather 100 Rings!</message>
+	<message index="464" name="sonic_stg_wvo_3rd">Defeat $ Enemies!</message>
+	<message index="465" name="sonic_stg_dtd_sonic_3rd">Defeat $ Enemies!</message>
+	<message index="466" name="sonic_stg_wap_3rd">Defeat $ Enemies!</message>
+	<message index="467" name="sonic_stg_csc_3rd">Defeat $ Enemies!</message>
+	<message index="468" name="sonic_stg_flc_3rd">Defeat $ Enemies!</message>
+	<message index="469" name="sonic_stg_rdt_3rd">Defeat $ Enemies!</message>
+	<message index="470" name="sonic_stg_tpj_3rd">Defeat $ Enemies!</message>
+	<message index="471" name="sonic_stg_wvo_tails_3rd">Defeat $ Enemies!</message>
+	<message index="472" name="sonic_sonic_stg_kdv_3rd">Defeat $ Enemies!</message>
+	<message index="473" name="sonic_stg_aqa_3rd">Defeat $ Enemies!</message>
+	<message index="474" name="last_stg_end_3rd">Defeat $ Enemies!</message>
+	<message index="475" name="sonic_stg_wvo_4th">Reach the Goal Within $</message>
+	<message index="476" name="sonic_stg_dtd_sonic_4th">Reach the Goal Within $</message>
+	<message index="477" name="sonic_stg_wap_4th">Reach the Goal Within $</message>
+	<message index="478" name="sonic_stg_csc_4th">Reach the Goal Within $</message>
+	<message index="479" name="sonic_stg_flc_4th">Reach the Goal Within $</message>
+	<message index="480" name="sonic_stg_rdt_4th">Reach the Goal Within $</message>
+	<message index="481" name="sonic_stg_tpj_4th">Reach the Goal Within $</message>
+	<message index="482" name="sonic_stg_wvo_tails_4th">Reach the Goal Within $</message>
+	<message index="483" name="sonic_sonic_stg_kdv_4th">Reach the Goal Within $</message>
+	<message index="484" name="sonic_stg_aqa_4th">Reach the Goal Within $</message>
+	<message index="485" name="last_stg_end_4th">Reach the Goal Within $</message>
+	<message index="486" name="all_stg_5th">Clear Hard Mode!</message>
+	<message index="487" name="msg_act01">Get to the Goal Ring!</message>
+	<message index="488" name="msg_act02">Get to the goal within $ minutes!</message>
+	<message index="489" name="msg_act03">Collect $ Rings!</message>
+	<message index="490" name="msg_act04">Defeat all enemies!</message>
+	<message index="491" name="msg_act05">Wipe out all enemies!</message>
+	<message index="492" name="msg_act06">Get to the goal within $ minutes!</message>
+	<message index="493" name="msg_act07">Collect $ Rings!</message>
+	<message index="494" name="msg_act08">Get to the goal before your rival!</message>
+	<message index="495" name="msg_act09">Get to the goal before the ghost!</message>
+	<message index="496" name="msg_act10">Find $ Chao!</message>
+	<message index="497" name="msg_act11">Find the Goal Ring!</message>
+	<message index="498" name="msg_act12">Get to the new Goal Ring!</message>
+	<message index="499" name="msg_act13">Clear the minigame!</message>
+	<message index="500" name="msg_act14">Clear hard mode!</message>
+	<message index="501" name="msg_act15">Collect the Chaos Emeralds and save Sonic!</message>
+	<message index="502" name="msg_b0129">Find the Chaos Emerald!</message>
+	<message index="503" name="msg_act16">Defeat Iblis!</message>
+	<message index="504" name="msg_act17">Defeat Dr. Eggman!</message>
+	<message index="505" name="msg_act18">Defeat Mephiles!</message>
+	<message index="506" name="msg_act19">Defeat Dr. Eggman and save Elise!</message>
+	<message index="507" name="msg_act20">Defeat Mephiles!</message>
+	<message index="508" name="msg_act21">Seal away Iblis!</message>
+	<message index="509" name="msg_act22">Defeat Sonic!</message>
+	<message index="510" name="msg_act23">Defeat Shadow!</message>
+	<message index="511" name="msg_act24">Defeat Silver!</message>
+	<message index="512" name="msg_act25">Defeat Solaris!</message>
+	<message index="513" name="msg_act26">Stop the out-of-control Solaris!</message>
+	<message index="514" name="msg_act27">Defeat Egg Genesis!</message>
+	<message index="515" name="msg_act28">Defeat Egg Cerberus!</message>
+	<message index="516" name="msg_act29">Defeat Egg Wyvern!</message>
+	<message index="517" name="msg_twn_sonic01">Collect information!</message>
+	<message index="518" name="msg_twn_sonic02">Find out where Dr. Eggman's battleship went!</message>
+	<message index="519" name="msg_twn_sonic03">Collect information about Dr. Eggman!</message>
+	<message index="520" name="msg_twn_sonic04">Meet up with Tails!</message>
+	<message index="521" name="msg_twn_sonic05">Meet up with Tails!</message>
+	<message index="522" name="msg_twn_sonic06">Head for the sea!</message>
+	<message index="523" name="msg_twn_sonic07">Head for the desert!</message>
+	<message index="524" name="msg_twn_sonic08">Get Lord Regis' approval, and go to the desert!</message>
+	<message index="525" name="msg_twn_sonic09">Head for the tunnel to the desert!</message>
+	<message index="526" name="msg_twn_sonic10">Get a pass for the tunnel!</message>
+	<message index="527" name="msg_twn_sonic11">Take Elise, and head for the castle!</message>
+	<message index="528" name="msg_twn_sonic12">Head for the docks!</message>
+	<message index="529" name="msg_twn_sonic13">Go after Elise!</message>
+	<message index="530" name="msg_twn_sonic14">Meet up with Knuckles!</message>
+	<message index="531" name="msg_twn_sonic15">Meet Knuckles in the warehouse district!</message>
+	<message index="532" name="msg_twn_sonic16">Head for Dr. Eggman's base!</message>
+	<message index="533" name="msg_twn_sonic17">Head for the White Acropolis!</message>
+	<message index="534" name="msg_twn_sonic18">Collect information about Elise!</message>
+	<message index="535" name="msg_twn_sonic19">Head for the station!</message>
+	<message index="536" name="msg_twn_sonic20">Get into the station!</message>
+	<message index="537" name="msg_twn_sonic21">Go after Dr. Eggman!</message>
+	<message index="538" name="msg_twn_sonic22">Escape into the jungle!</message>
+	<message index="539" name="msg_twn_sonic23">Escape into the forest!</message>
+	<message index="540" name="msg_twn_sonic24">Go after Elise!</message>
+	<message index="541" name="msg_twn_sonic25">Head for Wave Ocean!</message>
+	<message index="542" name="msg_twn_sonic26">Head for the New City!</message>
+	<message index="543" name="msg_twn_sonic27">Head for the altar in the Castle Town!</message>
+	<message index="544" name="msg_twn_sonic28">Head for the old Soleanna castle!</message>
+	<message index="545" name="msg_twn_sonic29">Meet the bishop!</message>
+	<message index="546" name="msg_twn_sonic30">Complete the trials of Soleanna!</message>
+	<message index="547" name="msg_twn_sonic31">From the royal seal, go to the old castle's entry!</message>
+	<message index="548" name="msg_twn_sonic32">Head for the old castle!</message>
+	<message index="549" name="msg_twn_sonic33">Head for Dr. Eggman's secret base!</message>
+	<message index="550" name="msg_twn_sonic34">Head for the shop!</message>
+	<message index="551" name="msg_twn_sonic35">Buy a "Light Chip"!</message>
+	<message index="552" name="msg_twn_sonic36">Buy an "Anti-Gravity"!</message>
+	<message index="553" name="msg_twn_sonic37">Buy a "Bound Bracelet"!</message>
+	<message index="554" name="shadow_stg_wap">Rescue the Captured Agent!</message>
+	<message index="555" name="shadow_stg_kdv">Head to the Recovery Point!</message>
+	<message index="556" name="shadow_stg_csc">Find the Chaos Emerald!</message>
+	<message index="557" name="shadow_stg_flc">Find the Chaos Emerald!</message>
+	<message index="558" name="shadow_stg_tpj_rouge">Find E-123 Omega!</message>
+	<message index="559" name="shadow_stg_rdt">Follow Dr. Eggman!</message>
+	<message index="560" name="shadow_stg_aqa">Follow Mephiles!</message>
+	<message index="561" name="shadow_stg_wvo">Provide Backup for E-123 Omega!</message>
+	<message index="562" name="shadow_stg_dtd">Find the Chaos Emerald!</message>
+	<message index="563" name="shadow_stg_wap_3rd">Defeat $ Enemies!</message>
+	<message index="564" name="shadow_stg_kdv_3rd">Defeat $ Enemies!</message>
+	<message index="565" name="shadow_stg_csc_3rd">Defeat $ Enemies!</message>
+	<message index="566" name="shadow_stg_flc_3rd">Defeat $ Enemies!</message>
+	<message index="567" name="shadow_stg_tpj_rouge_3rd">Defeat $ Enemies!</message>
+	<message index="568" name="shadow_stg_rdt_3rd">Defeat $ Enemies!</message>
+	<message index="569" name="shadow_stg_aqa_3rd">Defeat $ Enemies!</message>
+	<message index="570" name="shadow_stg_wvo_3rd">Defeat $ Enemies!</message>
+	<message index="571" name="shadow_stg_dtd_3rd">Defeat $ Enemies!</message>
+	<message index="572" name="shadow_stg_wap_4th">Reach the Goal Within $</message>
+	<message index="573" name="shadow_stg_kdv_4th">Reach the Goal Within $</message>
+	<message index="574" name="shadow_stg_csc_4th">Reach the Goal Within $</message>
+	<message index="575" name="shadow_stg_flc_4th">Reach the Goal Within $</message>
+	<message index="576" name="shadow_stg_tpj_rouge_4th">Reach the Goal Within $</message>
+	<message index="577" name="shadow_stg_rdt_4th">Reach the Goal Within $</message>
+	<message index="578" name="shadow_stg_aqa_4th">Reach the Goal Within $</message>
+	<message index="579" name="shadow_stg_wvo_4th">Reach the Goal Within $</message>
+	<message index="580" name="shadow_stg_dtd_4th">Reach the Goal Within $</message>
+	<message index="581" name="msg_twn_shadow01">Head for the extraction point at the old castle!</message>
+	<message index="582" name="msg_twn_shadow02">Head for the old castle!</message>
+	<message index="583" name="msg_twn_shadow03">From the forest, head for Soleanna's old castle!</message>
+	<message index="584" name="msg_twn_shadow04">Light dash across the broken bridge!</message>
+	<message index="585" name="msg_twn_shadow05">Find the glider hidden in the woods!</message>
+	<message index="586" name="msg_twn_shadow06">Destroy the rock blocking the cave!</message>
+	<message index="587" name="msg_twn_shadow07">Use the glider to head to the old castle's entry!</message>
+	<message index="588" name="msg_twn_shadow08">Collect information about E-123 Omega!</message>
+	<message index="589" name="msg_twn_shadow09">Find E-123 Omega!</message>
+	<message index="590" name="msg_twn_shadow10">Head for the jungle!</message>
+	<message index="591" name="msg_twn_shadow11">Meet up with Rouge!</message>
+	<message index="592" name="msg_twn_shadow12">Hurry to the warehouse!</message>
+	<message index="593" name="msg_twn_shadow13">Meet up with Rouge in the warehouse district!</message>
+	<message index="594" name="msg_twn_shadow14">Collect information about Dr. Eggman!</message>
+	<message index="595" name="msg_twn_shadow15">Head for the station!</message>
+	<message index="596" name="msg_twn_shadow16">Collect information on the Scepter of Darkness!</message>
+	<message index="597" name="msg_twn_shadow17">Find the archaeologists!</message>
+	<message index="598" name="msg_twn_shadow18">Find archaeologists in the castle town!</message>
+	<message index="599" name="msg_twn_shadow19">Solve the puzzle of the dark candlestick!</message>
+	<message index="600" name="msg_twn_shadow20">Get the Scepter of Darkness!</message>
+	<message index="601" name="msg_twn_shadow21">Head for Wave Ocean!</message>
+	<message index="602" name="msg_twn_shadow22">Go after E-123 Omega!</message>
+	<message index="603" name="msg_twn_shadow23">Collect information about Mephiles!</message>
+	<message index="604" name="msg_twn_shadow24">Go to the headquarters building in the new city!</message>
+	<message index="605" name="msg_twn_shadow25">Go after Mephiles!</message>
+	<message index="606" name="msg_twn_shadow26">Head for the desert!</message>
+	<message index="607" name="msg_twn_shadow27">Head for the tunnel leading to the desert!</message>
+	<message index="608" name="msg_twn_shadow28">Head for the shop!</message>
+	<message index="609" name="msg_twn_shadow29">Buy an "Air Chip"!</message>
+	<message index="610" name="msg_twn_shadow30">Buy a "Memory Shard (Blue)"!</message>
+	<message index="611" name="silver_stg_csc">Hurry to Iblis, the Flames of Disaster!</message>
+	<message index="612" name="silver_stg_tpj">Escape the Jungle Ruins!</message>
+	<message index="613" name="silver_stg_wvo_blz">Head to Soleanna Castle Town!</message>
+	<message index="614" name="silver_stg_dtd">Find Sonic!</message>
+	<message index="615" name="silver_stg_wap">Infiltrate Dr. Eggman's Base!</message>
+	<message index="616" name="silver_stg_rdt">Find Sonic!</message>
+	<message index="617" name="silver_stg_aqa">Follow Iblis!</message>
+	<message index="618" name="silver_stg_kdv">Follow the Egg Carrier!</message>
+	<message index="619" name="silver_stg_flc">Hurry to Iblis!</message>
+	<message index="620" name="silver_stg_csc_3rd">Defeat $ Enemies!</message>
+	<message index="621" name="silver_stg_tpj_3rd">Defeat $ Enemies!</message>
+	<message index="622" name="silver_stg_wvo_blz_3rd">Defeat $ Enemies!</message>
+	<message index="623" name="silver_stg_dtd_3rd">Defeat $ Enemies!</message>
+	<message index="624" name="silver_stg_wap_3rd">Defeat $ Enemies!</message>
+	<message index="625" name="silver_stg_rdt_3rd">Defeat $ Enemies!</message>
+	<message index="626" name="silver_stg_aqa_3rd">Defeat $ Enemies!</message>
+	<message index="627" name="silver_stg_kdv_3rd">Defeat $ Enemies!</message>
+	<message index="628" name="silver_stg_flc_3rd">Defeat $ Enemies!</message>
+	<message index="629" name="silver_stg_csc_4th">Reach the Goal Within $</message>
+	<message index="630" name="silver_stg_tpj_4th">Reach the Goal Within $</message>
+	<message index="631" name="silver_stg_wvo_blz_4th">Reach the Goal Within $</message>
+	<message index="632" name="silver_stg_dtd_4th">Reach the Goal Within $</message>
+	<message index="633" name="silver_stg_wap_4th">Reach the Goal Within $</message>
+	<message index="634" name="silver_stg_rdt_4th">Reach the Goal Within $</message>
+	<message index="635" name="silver_stg_aqa_4th">Reach the Goal Within $</message>
+	<message index="636" name="silver_stg_kdv_4th">Reach the Goal Within $</message>
+	<message index="637" name="silver_stg_flc_4th">Reach the Goal Within $</message>
+	<message index="638" name="msg_twn_silver01">Find the Iblis Trigger!</message>
+	<message index="639" name="msg_twn_silver02">Head for the jungle!</message>
+	<message index="640" name="msg_twn_silver03">Go after the Iblis Trigger!</message>
+	<message index="641" name="msg_twn_silver04">Find Sonic!</message>
+	<message index="642" name="msg_twn_silver05">Find the person Amy's looking for!</message>
+	<message index="643" name="msg_twn_silver06">Head for the desert!</message>
+	<message index="644" name="msg_twn_silver07">Find Lord Regis!</message>
+	<message index="645" name="msg_twn_silver08">Find Lord Regis to get a pass to the desert!</message>
+	<message index="646" name="msg_twn_silver09">Find Lord Regis in the forest!</message>
+	<message index="647" name="msg_twn_silver10">Save Lord Regis!</message>
+	<message index="648" name="msg_twn_silver11">Go after Sonic!</message>
+	<message index="649" name="msg_twn_silver12">Head for the New City!</message>
+	<message index="650" name="msg_twn_silver13">Head for Dr. Eggman's base!</message>
+	<message index="651" name="msg_twn_silver14">Find Dr. Eggman's base!</message>
+	<message index="652" name="msg_twn_silver15">Escape and get to the castle!</message>
+	<message index="653" name="msg_twn_silver16">Head for the station!</message>
+	<message index="654" name="msg_twn_silver17">Stop Dr. Eggman's plans!</message>
+	<message index="655" name="msg_twn_silver18">Go after Dr. Eggman!</message>
+	<message index="656" name="msg_twn_silver19">Look for Anna!</message>
+	<message index="657" name="msg_twn_silver20">Complete the trials of Soleanna!</message>
+	<message index="658" name="msg_twn_silver21">Head for Soleanna's old castle!</message>
+	<message index="659" name="msg_twn_silver22">From the royal seal, go to the old castle's entry!</message>
+	<message index="660" name="msg_twn_silver23">Head for the shop!</message>
+	<message index="661" name="msg_twn_silver24">Buy a "Heart of Wind"!</message>
+	<message index="662" name="msg_twn_silver25">Buy a "Shock Bracelet"!</message>
+	<message index="663" name="msg_confirm">Confirm</message>
+</mst06>

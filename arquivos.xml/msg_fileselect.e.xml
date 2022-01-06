@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_fileselect" mst_version="1" endianness="B">
+	<message index="0" name="msg_no1">No. 1</message>
+	<message index="1" name="msg_no2">No. 2</message>
+	<message index="2" name="msg_no3">No. 3</message>
+	<message index="3" name="msg_no4">No. 4</message>
+	<message index="4" name="msg_no5">No. 5</message>
+	<message index="5" name="msg_no6">No. 6</message>
+	<message index="6" name="msg_no7">No. 7</message>
+	<message index="7" name="msg_no8">No. 8</message>
+	<message index="8" name="msg_no9">No. 9</message>
+	<message index="9" name="msg_no10">No. 10</message>
+	<message index="10" name="msg_totalplaytime">TOTAL PLAY TIME</message>
+	<message index="11" name="msg_lastsavedate">LAST SAVE DATE</message>
+	<message index="12" name="msg_fileselect">File Select: Select a saved file to load.</message>
+	<message index="13" name="msg_device_1">Change storage device.</message>
+	<message index="14" name="msg_device">Change storage device.</message>
+	<message index="15" name="msg_alart_deleat">If you delete this file,\nyou will be unable to use\nthis file to play the game.\nIs this okay?</message>
+	<message index="16" name="msg_file_deleating">Deleting file.</message>
+	<message index="17" name="msg_gile_deleated">File deleted.</message>
+	<message index="18" name="msg_newfile_create">Create a new file.</message>
+	<message index="19" name="msg_newfile_creating">Creating a new file.</message>
+	<message index="20" name="msg_newfile_created">New file created.</message>
+	<message index="21" name="msg_newfile_create_error">Unable to create new file.</message>
+	<message index="22" name="msg_fileselect_c">Select a saved file to load.</message>
+	<message index="23" name="msg_selectfile">Select a save file</message>
+	<message index="24" name="msg_selectfile2">Select a file</message>
+</mst06>

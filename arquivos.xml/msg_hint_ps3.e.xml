@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_hint" mst_version="1" endianness="B">
+	<message index="0" name="hint_twn01_h09_so" placeholder="picture(button_rb)">When the Chaos gauge is full, use the $ button\nto do a Chaos Boost.\fUse the Chaos Boost to destroy\nsolid objects like iron or rocks.</message>
+	<message index="1" name="hint_all02_a00_sn" placeholder="sound(all02_a00ps_sn),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="2" name="hint_all02_a00_tl" placeholder="sound(all02_a00ps_tl),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="3" name="hint_all02_a00_kn" placeholder="sound(all02_a00ps_kn),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="4" name="hint_all02_a00_sd" placeholder="sound(all02_a00ps_sd),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="5" name="hint_all02_a00_rg" placeholder="sound(all02_a00ps_rg),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="6" name="hint_all02_a00_om" placeholder="sound(all02_a00ps_om),picture(button_lt)">$Recenter camera with $ button.</message>
+	<message index="7" name="hint_all02_a00_am" placeholder="sound(all02_a00ps_am),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="8" name="hint_all02_a00_bz" placeholder="sound(all02_a00ps_bz),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="9" name="hint_all02_a00_sv" placeholder="sound(all02_a00ps_sv),picture(button_lt)">$Recenter the camera with the $ button.</message>
+	<message index="10" name="hint_all03_a01_sn" placeholder="sound(all03_a01ps_sn)">$To move to an adjacent rail, jump while\nusing the left analog stick.</message>
+	<message index="11" name="hint_all03_a01_sd" placeholder="sound(all03_a01ps_sd)">$To move to an adjacent rail, jump while\nusing the left analog stick.</message>
+	<message index="12" name="hint_all03_a01_bz" placeholder="sound(all03_a01ps_bz)">$To move to an adjacent rail, jump while\nusing the left analog stick.</message>
+	<message index="13" name="hint_all03_h00_so" placeholder="sound(all03_h00ps_so),picture(button_x)">$When you are near a trail of Rings, you can\ndo a Light Dash by pressing the $ button.</message>
+	<message index="14" name="hint_all03_h01_so" placeholder="sound(all03_h01ps_so),picture(button_a)">$While jumping, press and hold the $ button to fly.\nBe careful, you will tire after flying for too long.</message>
+	<message index="15" name="hint_all03_h02_so" placeholder="sound(all03_h02ps_so),picture(button_a)">$While jumping, you can Glide by pressing and\nholding the $ button.</message>
+	<message index="16" name="hint_all03_h03_so" placeholder="sound(all03_h03ps_so),picture(button_a)">$You can Glide by holding the $ button after\njumping.</message>
+	<message index="17" name="hint_all03_h04_so" placeholder="sound(all03_h04ps_so),picture(button_a)">$After jumping, you can hover by pressing the\n$ button.</message>
+	<message index="18" name="hint_all03_h05_so" placeholder="sound(all03_h05ps_so),picture(button_a)">$While jumping, pressing the $ button again will\nallow you to perform a Double Jump.</message>
+	<message index="19" name="hint_all03_h06_so" placeholder="sound(all03_h06ps_so),picture(button_a)">$After jumping, press the $ button to perform\nan Accelerator Tornado.\nYou can jump higher than usual.</message>
+	<message index="20" name="hint_all03_h07_so" placeholder="sound(all03_h07ps_so),picture(button_a)">$After jumping, you can press and hold the \n$ button to Levitate and move around in the air.</message>
+	<message index="21" name="hint_all03_h08_so" placeholder="sound(all03_h08ps_so),picture(button_a)">$While jumping, press the $ button to perform a\nHoming Attack.</message>
+	<message index="22" name="hint_all03_h09_so" placeholder="sound(all03_h09ps_so),picture(button_x),picture(button_x)">$Press the $ button to lay a Dummy Ring Bomb.\nHold the $ button to perform a Dummy Ring Snipe.</message>
+	<message index="23" name="hint_all03_h10_so" placeholder="sound(all03_h10ps_so),picture(button_x)">$Press the $ button once to do a Heat Knuckle, \nagain to do a Back Claw, and a third time to do \na Stone Breaker Punch for a combo attack.</message>
+	<message index="24" name="hint_all03_h11_so" placeholder="sound(all03_h11ps_so),picture(button_a)">$You can do a Homing Attack by pressing the \n$ button while jumping.</message>
+	<message index="25" name="hint_all03_h12_so" placeholder="sound(all03_h12ps_so),picture(button_x)">$To defeat enemies, press the $ button. Use the\nOmega Shot when fighting close range enemies,\nand the Lock-on laser for enemies at a distance.</message>
+	<message index="26" name="hint_all03_h13_so" placeholder="sound(all03_h13ps_so),picture(button_x)">$When you don't want to be discovered, hold the\n$ button to become invisible.</message>
+	<message index="27" name="hint_all03_h14_so" placeholder="sound(all03_h14ps_so),picture(button_x)">$Hold the $ button and release to perform a\nSpinning Claw. It's effective in situations with \na lot of enemies. </message>
+	<message index="28" name="hint_all03_h15_so" placeholder="sound(all03_h15ps_so),picture(button_a)">$While jumping, hold the $ button for a long time\nand release to perform a Homing Smash.</message>
+	<message index="29" name="hint_all03_h16_so" placeholder="sound(all03_h16ps_so),picture(button_x)">$Press and hold the $ button, then release it to\nperform a Screwdriver. It's a Homing Attack that\ntracks enemies.</message>
+	<message index="30" name="hint_all03_h17_so" placeholder="sound(all03_h17ps_so),picture(button_a)">$Press the $ button just when your Homing\nAttack hits to do a Chaos Attack for additional\ndamage.</message>
+	<message index="31" name="hint_all03_h18_so" placeholder="sound(all03_h18ps_so),picture(button_x)">$Press the $ button in midair to place a Bat\nCracker Mine. You can place them while\ngliding, too.</message>
+	<message index="32" name="hint_all03_h19_so" placeholder="sound(all03_h19ps_so),picture(button_x)">$While jumping, press the $ button to use your\nOmega Launcher.</message>
+	<message index="33" name="hint_all03_h20_so" placeholder="sound(all03_h20ps_so),picture(button_x)">$To throw things you're holding, release the \n$ button to perform a Hold Smash!</message>
+	<message index="34" name="hint_all03_h21_so" placeholder="sound(all03_h21ps_so),picture(button_x)">$While moving, press the $ button to attack.</message>
+	<message index="35" name="hint_all03_h22_so" placeholder="sound(all03_h22ps_so),picture(button_x),picture(button_x)">$Press the $ button to throw a bomb. Press\nand hold the $ button for a Bomb Snipe.</message>
+	<message index="36" name="hint_all03_h23_so" placeholder="sound(all03_h23ps_so),picture(button_x)">$While jumping, press the $ button to perform a\nGround Shake. Use this against quick enemies.</message>
+	<message index="37" name="hint_all03_h24_so" placeholder="sound(all03_h24ps_so),picture(button_a)">$While jumping, press and charge the $ button, then\nrelease it to do a Chaos Smash.</message>
+	<message index="38" name="hint_all03_h25_so" placeholder="sound(all03_h25ps_so),picture(button_rb),picture(button_x)">$To use Psychokinesis, press the $ button\nwhile near an object.\nYou can throw items with the $ button.</message>
+	<message index="39" name="hint_all03_h26_so" placeholder="sound(all03_h26ps_so),picture(button_x)">$While running, hold the $ button and release\nafter a while to perform a Sliding Attack.</message>
+	<message index="40" name="hint_all03_h27_so" placeholder="sound(all03_h27ps_so),picture(button_x)">$Move the left analog stick and press the $ button\nto perform an Edge Attack.</message>
+	<message index="41" name="hint_all03_h28_so" placeholder="sound(all03_h28ps_so),picture(button_x)">$Cling to a wall and press the $ button to place\na bomb on the wall.</message>
+	<message index="42" name="hint_all03_h29_so" placeholder="sound(all03_h29ps_so),picture(button_rt)">$Press the $ button twice rapidly to use your\nPsychokinesis over a wider range.</message>
+	<message index="43" name="hint_all03_h30_so" placeholder="sound(all03_h30ps_so),picture(button_x)">$After jumping, press the $ button to perform a\nBound Attack. If you perform multiple consecutive\nBound Attacks, your jumping height will increase.</message>
+	<message index="44" name="hint_all03_h31_so" placeholder="sound(all03_h31ps_so),picture(button_x)">$Press the $ button while near Rings to\nperform a Light Dash.</message>
+	<message index="45" name="hint_all03_h32_so" placeholder="sound(all03_h32ps_so),picture(button_a)">$Press the $ button twice in quick succession to\ndo a Teleport Dash.</message>
+	<message index="46" name="hint_all03_h33_so" placeholder="sound(all03_h33ps_so),picture(button_x)">$Press the $ button to perform a Spin Kick.\nIf you press the button in succession with proper\ntiming, the range of the attack will increase.</message>
+	<message index="47" name="hint_all03_h34_so" placeholder="sound(all03_h34ps_so),picture(button_x)">$While jumping, press the $ button to use the\nChaos Spear. The enemies that are hit by\nthis should be momentarily paralyzed. </message>
+	<message index="48" name="hint_all03_h35_so" placeholder="sound(all03_h35ps_so),picture(button_rb)">$Combine the strength of two with the\n$ button and use this new power to get rid of\nanything that blocks your path.</message>
+	<message index="49" name="hint_all06_a00_sd" placeholder="sound(all06_a01_sd),picture(button_y)">$It looks like that Armed Buggy still runs... \nPress the $ button to get on it.</message>
+	<message index="50" name="hint_all06_a00_rg" placeholder="sound(all06_a01_rg),picture(button_y)">$Hey, can you still use that Buggy over there?\nYou can get on it with the $ button.</message>
+	<message index="51" name="hint_all06_a03_sd" placeholder="sound(all06_a03ps_sd),picture(button_a)">$Press the $ button to accelerate, and use the\nleft analog stick to steer.</message>
+	<message index="52" name="hint_all06_a03_rg" placeholder="sound(all06_a03ps_rg),picture(button_a)">$The Buggy is steered with the left analog stick,\nand the $ button accelerates.</message>
+	<message index="53" name="hint_all06_a04_sd" placeholder="sound(all06_a04ps_rg),picture(button_x)">$Press the $ button twice quickly\nto do a Boost Dash.</message>
+	<message index="54" name="hint_all06_a04_rg" placeholder="sound(all06_a04ps_sd),picture(button_x)">$Press the $ button twice quickly\nto do a Boost Dash.</message>
+	<message index="55" name="hint_all06_a05_sd" placeholder="sound(all06_a05ps_sd),picture(button_rb)">$Use the $ button to fire Lock-on missiles.</message>
+	<message index="56" name="hint_all06_a05_rg" placeholder="sound(all06_a05ps_rg),picture(button_rb)">$Use the $ trigger to fire.</message>
+	<message index="57" name="hint_all06_a07_sd" placeholder="sound(all06_a07ps_sd),picture(button_y)">$It looks like that bike still runs.\nPress the $ button to get on.</message>
+	<message index="58" name="hint_all06_a09_sd" placeholder="sound(all06_a09ps_sd),picture(button_rb)">$Use the $ button to fire.</message>
+	<message index="59" name="hint_all06_a11_sd" placeholder="sound(all06_a11ps_sd)">$Even while jumping, the left analog stick\ncontrols the bike.</message>
+	<message index="60" name="hint_all06_a12_sd" placeholder="sound(all06_a12ps_sd),picture(button_y)">$That’s a Jet Glider over there.\nUse the $ button to get on.</message>
+	<message index="61" name="hint_all06_a14_sd" placeholder="sound(all06_a14ps_sd),picture(button_a)">$The $ button increases speed, and the left\nanalog stick steers the craft.</message>
+	<message index="62" name="hint_all06_a15_sd" placeholder="sound(all06_a15ps_sd),picture(button_x)">$The $ button decreases speed. While slowing\ndown, you can freely tilt the Glider.</message>
+	<message index="63" name="hint_all06_a16_sd" placeholder="sound(all06_a16ps_sd),picture(button_y)">$That's a Hover Vehicle over there.\nPress the $ button to get on.</message>
+	<message index="64" name="hint_all06_a19_sd" placeholder="sound(all06_a19ps_sd),picture(button_a)">$The $ button accelerates,\nand the left analog stick steers.</message>
+	<message index="65" name="hint_all06_a20_sd" placeholder="sound(all06_a20ps_sd),picture(button_a)">$Press the $ button twice quickly\nto do a Hover Jump.</message>
+	<message index="66" name="hint_all06_a21_sd" placeholder="sound(all06_a21ps_sd),picture(button_rb)">$Use the $ button to fire lasers.</message>
+	<message index="67" name="hint_all06_a22_sd" placeholder="sound(all06_a22ps_sd),picture(button_a)">$Holding the $ button in midair will maintain\nthat altitude.</message>
+	<message index="68" name="hint_wvo01_h00_so" placeholder="sound(wvo01_h00ps_so),picture(button_x)">$Spin the net to make it go faster by \npressing the $ button in front of the net.</message>
+	<message index="69" name="hint_wap01_a03_sn" placeholder="sound(wap01_a03ps_sn),picture(button_a)">$Press and hold the $ button as long as you can,\nand release it right at the jump ramp!</message>
+	<message index="70" name="hint_wap01_a03_tl" placeholder="sound(wap01_a03ps_tl),picture(button_a)">$Press and hold the $ button as long as you can,\nand release it right at the jump ramp!</message>
+	<message index="71" name="hint_bos04_a08_sd" placeholder="sound(bos04_a08_sd),sound(bos04_a01ps_sd),picture(button_rb),sound(bos04_a01_1ps_sd)">$Defeating Mephiles' shadows will build up the\nChaos Gauge.\f$When the Chaos Gauge is full, use the\n$ button to do a Chaos Boost.\f$In this state, where I'm radiating power,\nI should be able to drag him out of my shadow.</message>
+	<message index="72" name="hint_bos04_a05_om" placeholder="sound(bos04_a05ps_om),picture(button_x),sound(bos04_a05_1ps_om),picture(button_x)">$The $ button will fire an Omega Shot to blow\naway anything in close range.\f$Press the $ button repeatedly while jumping to \nuse Omega Launcher.</message>
+	<message index="73" name="hint_bos04_a06_om" placeholder="sound(bos04_a06ps_om),picture(button_x),sound(bos04_a06_1ps_om),picture(button_x)">$Press and hold down the $ button to lock on to\ntargets.\f$Release the $ button to initiate an attack on\nall enemies with target locks.</message>
+	<message index="74" name="hint_bos11_e02_tl" placeholder="sound(bos11_e02_tl),sound(bos11_e03ps_rg),picture(button_y)">$Everyone!\nYou need Rings to stay in a Super State, but\nmaintaining this form consumes Rings!\f$Make sure you don't run out of Rings!\nIf you're running low, use the $ button\nto switch to someone else!</message>
+	<message index="75" name="hint_bos11_e04_kn" placeholder="sound(bos11_e04ps_kn),picture(button_a),sound(bos11_e05ps_kn),picture(button_x),picture(button_rb)">$If you're in a Super State, you can use the\nleft analog stick to fly up, down, left or right, and\nuse the $ button to accelerate.\f$Use the $ button to attack with your abilities!\nUse the $ button to use your Super Gauge!</message>
+	<message index="76" name="hint_bos11_a20_tl" placeholder="sound(bos11_a20ps_tl)">$Solaris' light shells match up with up, down,\nleft and right with the left analog stick.\nUse it to do damage!</message>
+	<message index="77" name="hint_bos11_a21_kn" placeholder="sound(bos11_a21ps_kn),picture(button_x)">$The more the Super Gauge builds, the more\ndamage the $ button does! But if you get hit,\nyou'll lose energy from the gauge!</message>
+	<message index="78" name="hint_bos11_e07_sn" placeholder="sound(bos11_e07ps_sn),picture(button_y)">$Hey! Do you still have Ring energy?\nUse the $ button to switch with me!</message>
+	<message index="79" name="hint_bos11_e07_sd" placeholder="sound(bos11_e07ps_sd),picture(button_y)">$Are you okay!?\nUse the $ button to switch with me!</message>
+	<message index="80" name="hint_bos11_e07_sv" placeholder="sound(bos11_e07ps_sv),picture(button_y)">$Hey! You're running short on Rings.\nUse the $ button to switch with me!</message>
+	<message index="81" name="hint_twn01_e01_tl" placeholder="sound(twn01_e01ps_tl),picture(button_x)">$When you get close to a trail of Rings, press\nthe $ button to do a Light Dash!</message>
+	<message index="82" name="hint_twn01_e07_tl" placeholder="sound(twn01_e07ps_tl),picture(button_x)">$Press the $ button in the air to do\na Bound Jump. You can attack downward, or\njump high in the air.</message>
+	<message index="83" name="hint_twn01_e44_rg" placeholder="sound(twn01_e44ps_rg),picture(button_x)">$Press the $ button near the trail of Rings\nto do a Light Dash!\nNow you can get to the forest!</message>
+	<message index="84" name="hint_bos01_a03_bz" placeholder="sound(bos01_a03_bz),sound(bos01_A04ps_bz),picture(button_y),sound(bos01_a05_bz)">$Silver, use my power!\f$Press the $ button to wrap me in flames.\f$If you use your Psychokinesis to grab me, you\nshould be able to launch a powerful attack.</message>
+	<message index="85" name="hint_bos03_a03_bz" placeholder="sound(bos03_a03_bz),sound(bos03_a06_bz),picture(button_rb)">$If he gets in close, you'll have to do a lot of\ndamage, and push him back.\f$If you can find an opening and jump on his head,\nuse the $ button to use your Psychokinesis\non his weak spot.</message>
+	<message index="86" name="hint_bos11_e13_eg" placeholder="sound(bos11_e00_eg),sound(bos11_e01_eg),sound(bos11_e01_1_eg),sound(bos11_e01_2_eg),sound(bos11_e02_tl),sound(bos11_e03ps_rg),picture(button_y)">$That body of light is the sign of a super-\ndimensional life form. Standard attacks won't\nwork on him! He eats dimensions for lunch!\f$But... There should be something that's\nanchoring him in this dimension.\f$That's probably the light shells that\ncan be seen on his body.\f$If all of those are destroyed,\nhe can be defeated!\f$Everyone!\nYou need rings to stay in a Super State, but\nmaintaining this form consumes rings!\f$Make sure you don't run out of Rings!\nIf you're running low, use the $ button\nto switch to someone else!</message>
+</mst06>

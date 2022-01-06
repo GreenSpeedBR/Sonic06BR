@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_town_mission_shadow" mst_version="1" endianness="B">
+	<message index="0" name="msg_m1101_101_01_2">Huh...? Why isn't it blowing up on time...?\fDarn, time for another strategy...</message>
+	<message index="1" name="msg_m1103_103_01_3">Monsters will disappear after a while,\nso you'll need to hurry to defeat as many\nmonsters as possible, and collect the Light Cores.</message>
+	<message index="2" name="msg_m1104_104_01_3">Please, please defeat all of the monsters\nover there!</message>
+	<message index="3" name="msg_m1104_104_01_4">Thank you! You are so dependable!\nPlease save Princess Elise, too!</message>
+	<message index="4" name="msg_m1104_104_01_5">Oh no...\nOur shop...</message>
+	<message index="5" name="msg_m1105_105_02_2">I thought you would help me out...</message>
+	<message index="6" name="msg_m1105_105_01_3">Let's start filming!\nJump off that ramp with the car! \nIf you jump more than $ meters, we're good to go!\fAll right! \nReady, set, go!</message>
+	<message index="7" name="msg_m1105_105_01_4">Cut! Great job!\nThat was a fabulous scene!\nThis movie is going to be a hit!\fThank you so much!\nYou'll get a nice, big paycheck!</message>
+	<message index="8" name="msg_m1105_105_01_5">Nah... this is no good!\nWe're not going to make the deadline...</message>
+	<message index="9" name="msg_m1106_106_01_1">There are $ robbers on the run.\nPlease find and capture all of them.</message>
+	<message index="10" name="msg_m1106_106_01_2">Mr. Shadow, thank you so much\nfor taking care of everything...\fI don't know how to thank you.\nMaybe we'll put your statue in the lobby... No?</message>
+	<message index="11" name="msg_m1106_151_01_1">We have done nothing wrong.\fAll we did was to stop Rimlight from\nputting everyone in a lot of danger.\fIf you think I'm wrong, go to the Rimlight office\nin the New City.\fI wouldn't be surprised if something happened\nsoon. Light Cores attract monsters!</message>
+	<message index="12" name="msg_m1106_106_01_3">I thought you could do it,\nsince you're an agent...\nIt's too bad.</message>
+	<message index="13" name="msg_m1107_107_01_3">All right!\nOn to the next test!</message>
+	<message index="14" name="msg_m1107_107_01_4">This is your last challenge.\nHere we go!</message>
+	<message index="15" name="msg_m1107_107_01_5">You're not quite there yet.\nCome back when you're better!</message>
+	<message index="16" name="msg_m1107_107_01_6">Amazing!\nOnly a few people in Soleanna\nhave been able to clear this rank!</message>
+	<message index="17" name="msg_m1107_107_01_7">Hmm... you're out of rank.\nMaybe you should reconsider this whole\nlicense thing... </message>
+	<message index="18" name="msg_m1107_info001_01_1">Head to the goal!</message>
+	<message index="19" name="msg_m1107_info001_01_2">Destroy 5 boxes!</message>
+	<message index="20" name="msg_m1107_info001_01_3">Go through every cone!</message>
+	<message index="21" name="msg_m1107_info001_01_4">Get the 5 bronze medals!</message>
+	<message index="22" name="msg_m1107_info001_01_5">Head to the goal!</message>
+	<message index="23" name="msg_m1108_108_01_3">Monsters are attacking his car.\nDefeat them all before it's destroyed!</message>
+	<message index="24" name="msg_m1108_152_01_1">Thank you...\nYour name is Shadow...?\nAre you the one who solved the major crisis?\fWonderful! I'm so honored to meet you!\nThank you so much!</message>
+	<message index="25" name="msg_m1108_108_01_4">Oh no...\nThe professor will be killed...</message>
+	<message index="26" name="msg_m1109_109_01_3">All you have to do is go around the city once!\nDon't worry, our car is in top shape.\nLet's win this!</message>
+	<message index="27" name="msg_m1109_109_01_4">I can't believe it! We won!\nWe defeated Schultz...!\fI'm so glad I stuck with it for\nfive long years... I'm so lucky \nto have met you. Thank you!</message>
+	<message index="28" name="msg_m1109_109_01_5">It's okay. There's always next year.\nI'll just keep looking for a driver.</message>
+	<message index="29" name="msg_m1110_110_01_3">Just crush the rocks on the road!\nYou'll get a nice big reward if you crush a lot!\nLet's start!</message>
+	<message index="30" name="msg_m1110_110_01_4">Wow! $ rocks?\nNow I'm out of trouble! Thank you!\nHere's your reward!</message>
+	<message index="31" name="msg_m1110_110_01_5">Your rock total was $... Well, thanks anyway!\nHere's your reward!</message>
+	<message index="32" name="msg_m1111_111_01_3">My goal is to break the $ record\nfor the Hover Vehicle course!\nI'll get the vehicle ready, so let's do this!</message>
+	<message index="33" name="msg_m1111_111_01_4">My dream... thank you!\nI couldn't do it on my own, but now, \nI can move on!</message>
+	<message index="34" name="msg_m1111_111_01_5">Thank you anyway... I shouldn't \nhave asked others to \nfulfill my dream...</message>
+	<message index="35" name="msg_m1112_112_01_03">Let's start the test. Figure out the number\nthat belongs on the blank box.\nLook at the other numbers for clues.\fWhen you know the answer, break one of the\nnumbered boxes on the side! The questions\nwill get harder as you keep going.</message>
+	<message index="36" name="msg_m1112_112_01_04">Correct. \nGood job.\nOn to the next question!</message>
+	<message index="37" name="msg_m1112_112_01_05">This is the last question.</message>
+	<message index="38" name="msg_m1112_112_01_06">Too bad. \nThe answer is incorrect.</message>
+	<message index="39" name="msg_m1112_112_01_07">Wow, you got 3 correct!\nYour  IQ is about 200.\nPlease, join my team!</message>
+	<message index="40" name="msg_m1112_112_01_08">2 correct...\nYou could join the decryption unit with this score.\nYou're good at everything you do, Shadow.</message>
+	<message index="41" name="msg_m1112_112_01_09">1 correct. Not bad...\nBut, I can't let you join my team with that score.</message>
+	<message index="42" name="msg_m1112_112_01_10">The number you got correct was 0? \nI guess there are just some things\nyou're not really cut out for.</message>
+	<message index="43" name="msg_m1113_113_01_3">It takes a lot to become rich. \nYour destiny will be on the line in this game!\fPick the right box and you'll get Rings.\nPick the wrong one, and it'll blow up!\fYou'll get more Rings as you go.\nIf you pick the wrong box, you'll lose it all.\nBe careful!\fIf you talk to me when you have some Rings,\nI'll end the game at that point.\nYou can keep the Rings!\fLet's start!</message>
+	<message index="44" name="msg_m1113_113_01_4">What, done already?</message>
+	<message index="45" name="msg_m1113_113_01_5">Congratulations! You can \nkeep all of those Rings! It's \ngreat that you didn't get all greedy!</message>
+	<message index="46" name="msg_m1113_113_01_6">Hee-hee. Too bad. \nBut then, that's life!</message>
+	<message index="47" name="msg_m1114_153_01_1">Oh? You're an agent from GUN?\nYou don't look very cool, do you?\fOh, well. As a bodyguard,\nyou will have to do everything I say.\fOh, I forgot. I'm Sabrina, the daughter of Lord\nRegis. He runs Soleanna, you see, so I'm in\na different class than you.\fYour name? Nah, that's ok.\nI don't need to know the name of an agent.\fI'm so bored! \nOh, I left the key dad gave me under the bells.\fThere's not a lot of time,\nso go get it in 5 minutes!\fWhat? You want to know why do you have\nto go get it? What do you mean?\nAre you not going to do what I say?</message>
+	<message index="48" name="msg_m1114_153_01_2">Oh, the key. Just leave it there.\nAlso, I just got a call from the shop.\fThey just got a new shipment of dresses\nand shoes. I've already ordered five, so go\npick them up.\fWhat? \nYou can't? \nWho do you think I am?\fHurry up and go!</message>
+	<message index="49" name="msg_m1114_153_01_3">That took you long enough.\nCan't you move any faster?\nMy, you're useless.\fLet's see, what shall I have you do next...</message>
+	<message index="50" name="msg_m1114_153_01_4">Eeeek!\nRobots!\nYou! Do something!\fWhat? You want me to deal with them myself!?\nI can't do that!</message>
+	<message index="51" name="msg_m1114_153_01_5">No, not here...\nPlease help me.\nPlease.\fI apologize for everything I said.\nSo please help me!\nPlease!</message>
+	<message index="52" name="msg_m1114_153_01_6">Heh...\nWell, thanks.\fBut, you just did what you\nwere supposed to do as an agent.\nThat's all.\fBy the way, what's your name?\nShadow...\nNo big deal, I was just curious.</message>
+	<message index="53" name="msg_m1114_153_01_7">Oh? \nYou're awfully slow for an agent,\naren't you?</message>
+	<message index="54" name="msg_m1114_114_01_3">Shadow, the new agent has arrived.\nYou can go back to your regular duty.</message>
+	<message index="55" name="msg_m1115_115_01_3">There should be about 100\nRings in the water. You have\nto use a gondola to get them.</message>
+	<message index="56" name="msg_m1115_115_01_4">Thank you! I will donate this\nto the temple. I'm sure the bridge's\nname will change over time.</message>
+	<message index="57" name="msg_m1115_115_01_5">It's okay... \nMaybe we should just leave the money\nwhere it is.</message>
+	<message index="58" name="msg_m1116_116_01_3">The robots are still roaming above the city.\nShoot them down with a Glider!</message>
+	<message index="59" name="msg_m1116_116_01_4">You did it! I'm sure the information hasn't\nreach Dr. Eggman yet.\nYou're a great agent.</message>
+	<message index="60" name="msg_m1116_116_01_5">Oh, no. This is troubling...\nSomething bad is going to happen...</message>
+	<message index="61" name="msg_m1117_117_01_3">Let's start the test! Go through the Rings!\fHere we go!</message>
+	<message index="62" name="msg_m1117_117_01_4">Wow! You are not bad!\nYou've topped your own agent record!\fShadow, you're great!</message>
+	<message index="63" name="msg_m1117_117_01_5">Well, it's been a while. It's still good, though.</message>
+	<message index="64" name="msg_m1117_117_01_6">Shadow, what happened?\nYou have to do better if you\nstill want to be an agent!</message>
+	<message index="65" name="msg_m1118_118_01_03">I'll ask you several questions.\nThink, and answer quickly.\nHere we go!</message>
+	<message index="66" name="msg_m1118_118_01_04">Question 1\nMemorize these numbers.\f3842683\fGot it? Now, smash the group of boxes\nwith the same sequence.</message>
+	<message index="67" name="msg_m1118_118_01_05">Correct!\nDo you feel blood rushing into your brain?\nLet's go to the next question.\f6894923\fGot it? \nWas it 624563?\nNo?\fNow please answer the question.</message>
+	<message index="68" name="msg_m1118_118_01_06">Correct.\nExcellent.\nNext question.\fMemorize these numbers.\n5896455\fGot it? Now smash the \nboxes with the numbers \nthat weren't in the sequence.</message>
+	<message index="69" name="msg_m1118_118_01_07">Correct. You have a good brain!\nAgain, pick the numbers that \nweren't in the sequence.\f58994652564\fGot it? \nIt was long this time. \nNow, please answer the question. </message>
+	<message index="70" name="msg_m1118_118_01_08">Correct. You can feel your\nbrain working, right?\nNext question.\fMemorize these numbers.\f5\f3\f6\f2\f6\fGot it? Now add the second\nnumber and the fourth \nnumber together.</message>
+	<message index="71" name="msg_m1118_118_01_09">Wonderful, that's correct. \nOkay, this is the last exercise for your brain.\fMemorize these numbers.\f8\f2\f4\f6\f1\f3\f9\fGot it? Now, subtract the\nfifth number from the fourth number.</message>
+	<message index="72" name="msg_m1118_118_01_10">Excellent!\nYou have a very impressive brain. \nTake good care of it.\fHow was it? \nDoes your brain feel good?</message>
+	<message index="73" name="msg_m1118_118_01_11">Hmm...\nYou need to concentrate more,\nand keep your brain in shape.</message>
+	<message index="74" name="msg_m1119_119_01_3">Like I said before, Eggman's robots have\nthree disks. Get them back, Agent Shadow! </message>
+	<message index="75" name="msg_m1119_119_01_4">Great job! I'll take these back\nto headquarters right away!\nThey'll send your reward later.</message>
+	<message index="76" name="msg_m1119_info019_01_1">The power of the Light Cores is amazing,\non par with that of the plan.</message>
+	<message index="77" name="msg_m1119_info019_01_2">If we can achieve this goal,\nour profits will go up a thousand times\nor more.</message>
+	<message index="78" name="msg_m1119_info019_01_3">Eradicate the opposition,\nand collect the Light Cores\nthoroughly.</message>
+	<message index="79" name="msg_m1120_120_01_03">Now, let me take a look \ninside your mind.</message>
+	<message index="80" name="msg_m1120_120_01_04">Question 1\fYou're lost in the forest.\nLater, you find a big lake.\nWhat do you do?</message>
+	<message index="81" name="msg_m1120_120_01_05">1. Rest by the lake\n2. Move on\n3. Go back</message>
+	<message index="82" name="msg_m1120_120_01_06">I see. You are a calm and collected\nindividual. Very intelligent, as well.</message>
+	<message index="83" name="msg_m1120_120_01_07">I see. You depend on others.\nAppreciate the people around you.</message>
+	<message index="84" name="msg_m1120_120_01_08">I see. You are very strong,\nindependent and driven.</message>
+	<message index="85" name="msg_m1120_120_01_09">Question 2\fThere are beautiful flowers on\nthe other side of the river. \nWhat do you do?</message>
+	<message index="86" name="msg_m1120_120_01_10">1. Ignore them\n2. Go straight across the river and pick them\n3. Go around the river and pick them</message>
+	<message index="87" name="msg_m1120_120_01_11">I see, you are shy and passive.\nYou should open up more to people.</message>
+	<message index="88" name="msg_m1120_120_01_12">I see. You are aggressive. \nBut, you need to be more\nunderstanding of others.</message>
+	<message index="89" name="msg_m1120_120_01_13">I see, you are good with people.\nYou have good relationships with others.</message>
+	<message index="90" name="msg_m1120_120_01_14">The last question:\fWhen you drive a car, what do \nyou focus on the most?</message>
+	<message index="91" name="msg_m1120_120_01_15">1. Speed\n2. Destination\n3. Condition of the car</message>
+	<message index="92" name="msg_m1120_120_01_16">I see, you live in the moment.\nJust remember, the future is important as well.</message>
+	<message index="93" name="msg_m1120_120_01_17">I see, you worry about the future too much.\nYou need to enjoy the now and relax.</message>
+	<message index="94" name="msg_m1120_120_01_18">I see, you are very analytical.\nTry to go with the flow a little more.</message>
+	<message index="95" name="msg_m1120_120_01_19">I know what your darkness is now.\nBut, there's light ahead.\nBelieve in yourself and your future.</message>
+	<message index="96" name="msg_m1121_121_01_3">Here we go!\nJust break everything that appears.\fThe more you break, the more things will\nappear. This is a test to see how many you\ncan break within the time limit. Let's go!</message>
+	<message index="97" name="msg_m1121_121_01_4">$... Wow...\nDo you want to train with me to become \nthe ultimate champion? \fOkay... I understand.\nYou could have done it...\nIf you change your mind, let me know!</message>
+	<message index="98" name="msg_m1121_121_01_5">Don't worry about it.\nI'm looking for someone who can wield\nultimate power. I know it's not going to be easy.</message>
+	<message index="99" name="msg_m1122_122_01_1">Oh no...\nDr. Eggman's robots are trying to\ndestroy Soleanna's clock tower!\fThat clock tower has been\nhere since the nation was founded.\nPlease help! It's important!</message>
+	<message index="100" name="msg_m1122_122_01_2">Thank you for saving the clock tower!\nIt's the symbol of the country, so I'm sure\neveryone's grateful!</message>
+	<message index="101" name="msg_m1123_123_01_3">There are five keys total, in various places\naround the New City. They seem to be important,\nso find them as quickly as possible!</message>
+	<message index="102" name="msg_m1123_123_01_4">Great!\nYou're an excellent treasure hunter.\nRimlight will be very happy.</message>
+	<message index="103" name="msg_m1123_123_01_5">What's the matter, Rouge?\nThis task should've been easy for you...</message>
+	<message index="104" name="msg_m1124_124_01_3">Ready?\nThe first one to go around this forest\nonce wins! Let's go!</message>
+	<message index="105" name="msg_m1124_124_01_4">Arrgh... Again...\nNext time, I'll beat you for sure...</message>
+	<message index="106" name="msg_m1124_124_01_5">Haha! You're no match for me.\nI'm the fastest agent out there!</message>
+	<message index="107" name="msg_m1125_125_01_3">I was running everywhere, \nso the ten medals are scattered.\nMaybe the monster ate some of them...</message>
+	<message index="108" name="msg_m1125_125_01_4">Thank you!\nThese are my medals!\nI'm going to apologize to Mom when I go home.</message>
+	<message index="109" name="msg_m1126_126_01_3">Here we go!\nRemember, you need to go\nthrough every single Ring!</message>
+	<message index="110" name="msg_m1126_126_01_4">Wow, you broke the record!\nGo ahead and take the prize, man!</message>
+	<message index="111" name="msg_m1126_126_01_5">$ targets!\nThat's about average.\nIt's not much, but here's your prize!</message>
+	<message index="112" name="msg_m1126_126_01_6">Time over!\nUnfortunately, I can't give you a prize.\nCome back again!</message>
+	<message index="113" name="msg_m1127_127_01_3">Now, let's begin.\nFly through the Rings in the air.\fThe old Gliders went through about 15 Rings,\nso this time we expect more than that!\nLet's start!</message>
+	<message index="114" name="msg_m1127_127_01_4">$ Rings? Wow!\nThese new Gliders have\na high level of performance!\fThank you, Agent Shadow! \nThat was a great test!</message>
+	<message index="115" name="msg_m1127_127_01_5">$ Rings...\nIt's about the same as the old Gliders.\nIt looks like we need to work on this some more.</message>
+	<message index="116" name="msg_m1127_127_01_6">Total number of Rings you went through, $...\nThe old Gliders were better.\nOh well, back to the drawing board.</message>
+	<message index="117" name="msg_m1128_128_01_3">Go and get rid of the ghost! \nI'm counting on you!</message>
+	<message index="118" name="msg_m1128_128_01_4">What? It was Dr. Eggman's robots?\nReally?\nWell, I didn't really think it was a ghost, either.\fBut what were Dr. Eggman's robots doing\nthere? That's kinda scary, too, isn't it?</message>
+	<message index="119" name="msg_m1129_129_01_1">We at Rimlight secretly obtained information\nabout the Solaris Project that Duke Soleanna\nwas working on, and learned about Light Cores.\fOnce the Rimlight president learned the\nsecret behind the Light Cores, he told us to\ncollect them, to make a fortune from the energy.\fAs you know, Light Cores are very dangerous.\nSome of us didn't want to do it, but I couldn't\nstand up to the president.\fAnd then... this happened.\fBut, I was wrong.\nWe need to do what's right,\ninstead of trying to make a profit.\fMephiles? No, we've never\nheard of him before.</message>
+	<message index="120" name="msg_m1129_129_01_2">But, there was a large Light Core reaction\nin the desert area a short time ago.\nMaybe that has something to do with it.</message>
+	<message index="121" name="msg_m1130_130_01_1">Whew! \nYou saved us.\fOh, by the way, I'm Zof. I work for Rimlight.\nThank you so much, Shadow!\fThe thieves took our precious energy!\nThat energy is important to this country,\nas well.\fI'm glad I asked GUN to help us out!\nThank you! It's not much, but please take this.</message>
+	<message index="122" name="msg_m1131_131_01_2">Thank you! \nI'm Lord Regis.\nI govern this city.\fThe town has been turned upside down\never since Princess Elise was abducted.\nI hope it will all be solved soon.\n\fWhat brought you here? \nYou're a GUN agent? \nOh, I see.\fI'll tell the gatekeeper to let\nyou through the gate to the desert any time.</message>
+	<message index="123" name="msg_m1131_131_01_3">Arrgh...</message>
+	<message index="124" name="msg_m1132_132_01_1">Oh no! Help...!</message>
+	<message index="125" name="msg_m1132_132_01_2">Thank you! I'm Adrianna.\nI'm an archaeologist researching\nSoleanna's ruins.\fWhen I was researching the ruins,\nthey suddenly attacked me...\nI'm so glad you came.\fI was researching the Scepter of Darkness,\na royal treasure recorded in ancient\nSoleannan texts.\fI have a feeling that it's somewhere around\nthis Castle Town... but that's all I've been\nable to find.\fThis is what it says in the ancient texts:\f"When black flame lights the Candle of Darkness\nand priest's prayers are answered, the dark seal\nwill be no more, and so shall emerge the power."\fCandles are everywhere, you know, but I have no\nidea where to find the 'candle of darkness'?\nAnd the 'priest's prayers''… what is that?\fPlus, what's the "black flame"? \nThat's not normal... Maybe a special light?\fSpeaking of the 'black flame'... \ncan't you generate light?</message>
+	<message index="126" name="msg_m1134_134_01_3">Let's begin.  \nEnemies will emerge one after the other,\nso defeat them all.\fThe number of enemies you defeat\nwithin the time limit determines\nyour battle power. Ready?</message>
+	<message index="127" name="msg_m1134_134_01_4">You have defeated $ enemies.\nYou're very powerful!\nYour battle power level is Rank S.</message>
+	<message index="128" name="msg_m1134_134_01_5">Good job, you have defeated $ enemies.\nYour battle power level is Rank A.</message>
+	<message index="129" name="msg_m1134_134_01_6">Let's see, you have defeated $ enemies.\nYour battle power level is Rank B.</message>
+	<message index="130" name="msg_m1134_134_01_7">Let's see, you have defeated $ enemies.\nYour battle power level is Rank C.</message>
+	<message index="131" name="msg_m1134_134_01_8">Let's see, the number of enemies you\ndefeated was $. Unfortunately, your\nbattle power level is Rank D.</message>
+	<message index="132" name="msg_m1135_135_01_3">Let's start the slalom!\nGo through the Rings at full speed.\nHere we go!</message>
+	<message index="133" name="msg_m1135_135_01_4">Wow, you're a genius.\nI've never seen anyone run like that.</message>
+	<message index="134" name="msg_m1135_135_01_5">Hmm... You're not quite there yet.\nDon't sweat it, that guy was awesome.</message>
+	<message index="135" name="msg_m1136_136_01_3">There are 10 lights on the water.\nLook thoroughly!</message>
+	<message index="136" name="msg_m1136_136_01_4">Bronze medals...!\nSee, I told you.\nThey're all mine, of course.</message>
+	<message index="137" name="msg_m1136_136_01_5">They were Bronze medals?\nWhy didn't you get them!?</message>
+	<message index="138" name="msg_m1100_rule000_01_1">Mission</message>
+	<message index="139" name="msg_m1101_rule001_01_1">Destroy the bombs within\nthe time limit!</message>
+	<message index="140" name="msg_m1102_rule002_01_1">Go through more Rings than Rouge!</message>
+	<message index="141" name="msg_m1103_rule003_01_1">Defeat as many enemies as you can\nwithin the time limit!</message>
+	<message index="142" name="msg_m1104_rule004_01_1">Destroy all enemies in the\nshopping mall!</message>
+	<message index="143" name="msg_m1105_rule005_01_1">Jump over $ meters with the car!</message>
+	<message index="144" name="msg_m1106_rule006_01_1">Capture all $ thieves!</message>
+	<message index="145" name="msg_m1107_rule007_01_1">Ride the motorcycle while following\nthe instructions!</message>
+	<message index="146" name="msg_m1108_rule008_01_1">Defeat the enemies to protect\nthe professor's car!</message>
+	<message index="147" name="msg_m1109_rule009_01_1">Be the first to reach the goal!</message>
+	<message index="148" name="msg_m1110_rule010_01_1">Break as many rocks on the road\nas possible within the time limit!</message>
+	<message index="149" name="msg_m1111_rule011_01_1">Go around the Vehicle Course $ times\nwithin $ seconds!</message>
+	<message index="150" name="msg_m1112_rule012_01_1">Figure out which number belongs on the blank\nbox, and smash the corresponding box!</message>
+	<message index="151" name="msg_m1113_rule013_01_1">Pick a box, and break it! Guess right, and you'll\nget Rings. Guess wrong, and a bomb will get you.\nTalk to D'Alema to keep the Rings you have!</message>
+	<message index="152" name="msg_m1114_rule014_01_1">Bring the key that's under\nthe bells within the time limit!</message>
+	<message index="153" name="msg_m1114_rule014_01_2">Bring 5 products!</message>
+	<message index="154" name="msg_m1114_rule014_01_3">Destroy all enemies!</message>
+	<message index="155" name="msg_m1115_rule015_01_1">Collect 100 Rings from the water!</message>
+	<message index="156" name="msg_m1116_rule016_01_1">Destroy all of Eggman's robots with the Glider!</message>
+	<message index="157" name="msg_m1117_rule017_01_1">Go through as many Rings as \npossible within the time limit!</message>
+	<message index="158" name="msg_m1118_rule018_01_1">Answer the mathematician's questions!</message>
+	<message index="159" name="msg_m1119_rule019_01_1">Destroy Dr. Eggman's robots \nand get the 3 disks back!</message>
+	<message index="160" name="msg_m1120_rule020_01_1">Pick one of the 3 choices given to you!</message>
+	<message index="161" name="msg_m1121_rule021_01_1">Destroy everything that appears\nwithin the time limit!</message>
+	<message index="162" name="msg_m1122_rule022_01_1">Defeat all of the enemies\nbefore the clock tower is destroyed!</message>
+	<message index="163" name="msg_m1123_rule023_01_1">Collect 5 keys within the time limit!</message>
+	<message index="164" name="msg_m1124_rule024_01_1">Go around once on the Buggy \nand be the first to the goal!</message>
+	<message index="165" name="msg_m1125_rule025_01_1">Find 10 bronze medals!</message>
+	<message index="166" name="msg_m1126_rule026_01_1">Go through all the Rings within the\ntime limit!</message>
+	<message index="167" name="msg_m1127_rule027_01_1">Go through more than 15 Rings\nwith the Glider Missile!</message>
+	<message index="168" name="msg_m1128_rule028_01_1">Defeat the ghost and solve the mystery!</message>
+	<message index="169" name="msg_m1129_rule029_01_1">Destroy all of the enemies\nand protect Company employees!</message>
+	<message index="170" name="msg_m1130_rule030_01_1">Destroy thieves' cars with missiles\nbefore they get away!</message>
+	<message index="171" name="msg_m1131_rule031_01_1">Protect the citizens and \ndestroy all of the enemies!</message>
+	<message index="172" name="msg_m1132_rule032_01_1">Protect the archaeologist\nand destroy all of the enemies!</message>
+	<message index="173" name="msg_m1133_rule033_01_1">Work with Omega to defeat the enemy!</message>
+	<message index="174" name="msg_m1134_rule034_01_1">Defeat as many enemies as possible\nwithin the time limit!</message>
+	<message index="175" name="msg_m1135_rule035_01_1">Go through as many Rings as possible\nwithin the time limit!</message>
+	<message index="176" name="msg_m1136_rule036_01_1">Collect the 10 treasures \nlighting up the water!</message>
+	<message index="177" name="msg_m1101_title001_01_1">Principality Under Fire</message>
+	<message index="178" name="msg_m1102_title002_01_1">Ring Battle Vs. Rouge</message>
+	<message index="179" name="msg_m1103_title003_01_1">Request from the \nRimlight Employee</message>
+	<message index="180" name="msg_m1104_title004_01_1">Defeat the Enemies \non the Shopping Street</message>
+	<message index="181" name="msg_m1105_title005_01_1">Racing Movie: \nStuntman Wanted!</message>
+	<message index="182" name="msg_m1106_title006_01_1">Capture the Thieves!</message>
+	<message index="183" name="msg_m1107_title007_01_1">Motorcycle License Test</message>
+	<message index="184" name="msg_m1108_title008_01_1">Protect the Professor's Car</message>
+	<message index="185" name="msg_m1109_title009_01_1">Car Festival</message>
+	<message index="186" name="msg_m1110_title010_01_1">Crush the Rocks</message>
+	<message index="187" name="msg_m1111_title011_01_1">Dream of a Sea-Loving Man</message>
+	<message index="188" name="msg_m1112_title012_01_1">Agent Test: Intelligence</message>
+	<message index="189" name="msg_m1113_title013_01_1">Russian Roulette</message>
+	<message index="190" name="msg_m1114_title014_01_1">Lord Regis' Daughter, \nSabrina</message>
+	<message index="191" name="msg_m1115_title015_01_1">100 Rings and \nthe Bridge of Tears</message>
+	<message index="192" name="msg_m1116_title016_01_1">Aerial Battle</message>
+	<message index="193" name="msg_m1117_title017_01_1">Agent Test: Strength</message>
+	<message index="194" name="msg_m1118_title018_01_1">The Mathematician's Training</message>
+	<message index="195" name="msg_m1119_title019_01_1">Stolen Rimlight Information</message>
+	<message index="196" name="msg_m1120_title020_01_1">The Psychologist's Test</message>
+	<message index="197" name="msg_m1121_title021_01_1">The Quest for \nUltimate Power</message>
+	<message index="198" name="msg_m1122_title022_01_1">Protect Soleanna's \nClock Tower</message>
+	<message index="199" name="msg_m1123_title023_01_1">Request from GUN: \nCollect 5 Keys</message>
+	<message index="200" name="msg_m1124_title024_01_1">The Rival Agent</message>
+	<message index="201" name="msg_m1125_title025_01_1">The Lost Bronze Medals</message>
+	<message index="202" name="msg_m1126_title026_01_1">Buggy Ring Race</message>
+	<message index="203" name="msg_m1127_title027_01_1">New Glider Flight Test</message>
+	<message index="204" name="msg_m1128_title028_01_1">The Mystery of the Ghost</message>
+	<message index="205" name="msg_m1129_title029_01_1">Protect the Rimlight \nEmployees!</message>
+	<message index="206" name="msg_m1130_title030_01_1">Emergency Order: \nCapture the Thieves' Cars!</message>
+	<message index="207" name="msg_m1131_title031_01_1">Destroy the Enemies \nInvading from the Desert!</message>
+	<message index="208" name="msg_m1132_title032_01_1">Save the Archaeologist!</message>
+	<message index="209" name="msg_m1133_title033_01_1">Strongest and Ultimate!</message>
+	<message index="210" name="msg_m1134_title034_01_1">The Battle Master</message>
+	<message index="211" name="msg_m1135_title035_01_1">Motorcycle Slalom</message>
+	<message index="212" name="msg_m1136_title036_01_1">Bronze Medals \non the Water</message>
+	<message index="213" name="msg_m1101_n101">Guiberutti</message>
+	<message index="214" name="msg_m1103_n103">Elkan</message>
+	<message index="215" name="msg_m1104_n104">Claudia</message>
+	<message index="216" name="msg_m1105_n105">Alessandro</message>
+	<message index="217" name="msg_m1106_n106">Ekberg</message>
+	<message index="218" name="msg_m1106_n151">Thieves</message>
+	<message index="219" name="msg_m1107_n107">Solomon</message>
+	<message index="220" name="msg_m1108_n108">Nicolo</message>
+	<message index="221" name="msg_m1108_n152">Puccini</message>
+	<message index="222" name="msg_m1109_n109">Prodi</message>
+	<message index="223" name="msg_m1110_n110">Verrio</message>
+	<message index="224" name="msg_m1111_n111">Stollaro</message>
+	<message index="225" name="msg_m1112_n112">Frances</message>
+	<message index="226" name="msg_m1113_n113">D'Alema</message>
+	<message index="227" name="msg_m1114_n114">GUN soldier</message>
+	<message index="228" name="msg_m1114_n153">Sabrina</message>
+	<message index="229" name="msg_m1115_n115">Nino</message>
+	<message index="230" name="msg_m1116_n116">Valentino</message>
+	<message index="231" name="msg_m1117_n117">Herman</message>
+	<message index="232" name="msg_m1118_n118">Alfano</message>
+	<message index="233" name="msg_m1119_n119">Parr</message>
+	<message index="234" name="msg_m1121_n121">Marcello</message>
+	<message index="235" name="msg_m1122_n122">Lauren</message>
+	<message index="236" name="msg_m1123_n123">Norman</message>
+	<message index="237" name="msg_m1124_n124">James</message>
+	<message index="238" name="msg_m1125_n125">Cucchi</message>
+	<message index="239" name="msg_m1126_n126">Dante</message>
+	<message index="240" name="msg_m1127_n127">Samuel</message>
+	<message index="241" name="msg_m1128_n128">Mancini</message>
+	<message index="242" name="msg_m1129_n129">Mazzola</message>
+	<message index="243" name="msg_m1130_n130">Zof</message>
+	<message index="244" name="msg_m1131_n131">Lord Regis</message>
+	<message index="245" name="msg_m1132_n132">Archaeologist</message>
+	<message index="246" name="msg_m1134_n134">Zeus</message>
+	<message index="247" name="msg_m1135_n135">Lorenzo</message>
+	<message index="248" name="msg_m1136_n136">Buffon</message>
+	<message index="249" name="msg_m1107_107_01_1">Let's begin the driving test!</message>
+	<message index="250" name="msg_m1131_131_01_1">Oh no! The Castle Town will be\ndestroyed!\fPlease...please save our Castle Town! </message>
+	<message index="251" name="msg_m1103_103_01_4">I was right about you.\nNow, we can make real progress on our research!</message>
+	<message index="252" name="msg_m1103_103_01_5">Well... thanks anyway. I'll have to find a\nway to collect more Light Core, though.</message>
+</mst06>

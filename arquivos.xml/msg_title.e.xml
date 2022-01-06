@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_title" mst_version="1" endianness="B">
+	<message index="0" name="msg_pressstart">PRESS START BUTTON</message>
+	<message index="1" name="msg_newgame">NEW GAME</message>
+	<message index="2" name="msg_continue">CONTINUE</message>
+</mst06>

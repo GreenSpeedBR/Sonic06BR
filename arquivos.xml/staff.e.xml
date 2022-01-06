@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="staff" mst_version="1" endianness="B">
+	<message index="0" name="staff0000">STAFF</message>
+	<message index="1" name="staff0001">Director</message>
+	<message index="2" name="staff0002">Shun Nakamura</message>
+	<message index="3" name="staff0003">Producer</message>
+	<message index="4" name="staff0004">Masahiro Kumono</message>
+	<message index="5" name="staff0005">Chief Game Designers</message>
+	<message index="6" name="staff0006">Shun Nakamura</message>
+	<message index="7" name="staff0007">Atsushi Kanno</message>
+	<message index="8" name="staff0008">Game Designers</message>
+	<message index="9" name="staff0009">Takao Hirabayashi</message>
+	<message index="10" name="staff0010">Masayuki Inoue</message>
+	<message index="11" name="staff0011">Takako Nagase</message>
+	<message index="12" name="staff0012">Makoto Hirata</message>
+	<message index="13" name="staff0013">Daisuke Shimizu</message>
+	<message index="14" name="staff0100">Hiroshi Miyamoto</message>
+	<message index="15" name="staff0101">Chief Programmers</message>
+	<message index="16" name="staff0102">Yoshitaka Kawabata</message>
+	<message index="17" name="staff0103">Makoto Suzuki</message>
+	<message index="18" name="staff0104">Programmers</message>
+	<message index="19" name="staff0105">Ryuichi Ishiguro</message>
+	<message index="20" name="staff0106">Takuma Komatsu</message>
+	<message index="21" name="staff0107">Tsutomu Matsuo</message>
+	<message index="22" name="staff0108">Yoshihiko Toyoshima</message>
+	<message index="23" name="staff0109">Koji Ogino</message>
+	<message index="24" name="staff0110">Yuichi Matsuoka</message>
+	<message index="25" name="staff0111">Kentarou Tomii</message>
+	<message index="26" name="staff0112">Naoko Shimura</message>
+	<message index="27" name="staff0113">Tomoatsu Imai</message>
+	<message index="28" name="staff0114">Yosuke Yamazaki</message>
+	<message index="29" name="staff0115">Hiromasa Kaneko</message>
+	<message index="30" name="staff0116">Takateru Ohyama</message>
+	<message index="31" name="staff0117">Ryouhei Yamada</message>
+	<message index="32" name="staff0118">Maki Nishimori</message>
+	<message index="33" name="staff0119">Yusuke Ichiyama</message>
+	<message index="34" name="staff0200">Daigo Matsuura</message>
+	<message index="35" name="staff0201">Hiroshi Iwasaki</message>
+	<message index="36" name="staff0202">Chief Artist</message>
+	<message index="37" name="staff0203">Akira Mikame</message>
+	<message index="38" name="staff0204">Character Artists</message>
+	<message index="39" name="staff0205">Yoshinari Amaike</message>
+	<message index="40" name="staff0206">Shinkichi Tanahashi</message>
+	<message index="41" name="staff0207">Akio Sakai </message>
+	<message index="42" name="staff0208">Takashi Iida</message>
+	<message index="43" name="staff0209">Masao Tsunoda</message>
+	<message index="44" name="staff0210">Sho Kunieda</message>
+	<message index="45" name="staff0211">Yuka Matsumoto</message>
+	<message index="46" name="staff0212">Enemy Artists</message>
+	<message index="47" name="staff0213">Wataru Watanabe</message>
+	<message index="48" name="staff0214">Masatoshi Yasumura</message>
+	<message index="49" name="staff0215">Motion Artists</message>
+	<message index="50" name="staff0216">Kentaro Niina</message>
+	<message index="51" name="staff0217">Motomu Hayashi</message>
+	<message index="52" name="staff0218">Tomoaki Yuyama</message>
+	<message index="53" name="staff0219">Hiroaki Take</message>
+	<message index="54" name="staff0220">Event Scene Artists</message>
+	<message index="55" name="staff0221">Tamotsu Kushibe</message>
+	<message index="56" name="staff0222">Yusuke Kashiwagi</message>
+	<message index="57" name="staff0223">Mamoru Ohta</message>
+	<message index="58" name="staff0224">Hiromasa Yoshida</message>
+	<message index="59" name="staff0225">Fumihiko Kagawa</message>
+	<message index="60" name="staff0226">Yukihiro Ishida</message>
+	<message index="61" name="staff0227">Tatsuya Yabuta</message>
+	<message index="62" name="staff0228">Effects Artists</message>
+	<message index="63" name="staff0229">Tadakazu Aramaki</message>
+	<message index="64" name="staff0230">Takafumi Yoshioka</message>
+	<message index="65" name="staff0231">Seiichi Tsuruoka</message>
+	<message index="66" name="staff0232">Menu Screen Artist</message>
+	<message index="67" name="staff0233">Eriko Mikawa</message>
+	<message index="68" name="staff0234">Field Artists</message>
+	<message index="69" name="staff0235">Yuki Takahashi</message>
+	<message index="70" name="staff0236">Kazuko Ito</message>
+	<message index="71" name="staff0237">Takeshi Matsuura</message>
+	<message index="72" name="staff0238">Yuji Yamaga</message>
+	<message index="73" name="staff0239">Kenji Odaka</message>
+	<message index="74" name="staff0240">Michio Abe</message>
+	<message index="75" name="staff0241">Hitomi Nagao</message>
+	<message index="76" name="staff0242">Hisae Jibiki</message>
+	<message index="77" name="staff0243">Mayo Sudo</message>
+	<message index="78" name="staff0244">Akiko Muto</message>
+	<message index="79" name="staff0245">Ryouhei Yanase</message>
+	<message index="80" name="staff0246">Naoko Irube</message>
+	<message index="81" name="staff0247">Masashi Kuma</message>
+	<message index="82" name="staff0248">Takashi Saito</message>
+	<message index="83" name="staff0249">Akane Hayashi</message>
+	<message index="84" name="staff1184">Ken Suganuma</message>
+	<message index="85" name="staff0300">Hideaki Fujisawa</message>
+	<message index="86" name="staff0301">Keihan Fujii</message>
+	<message index="87" name="staff0302">Shuhei Sakamoto</message>
+	<message index="88" name="staff0303">Ryuichi Yamanaka</message>
+	<message index="89" name="staff0304">Akiko Ikehara</message>
+	<message index="90" name="staff0305">Yuichi Komagata</message>
+	<message index="91" name="staff0306">SEGA OF CHINA Staff</message>
+	<message index="92" name="staff0307">Makoto Uchida</message>
+	<message index="93" name="staff0308">Katusnori Kosuge</message>
+	<message index="94" name="staff0309">Cheng Li</message>
+	<message index="95" name="staff0310">Shao Mingzhu</message>
+	<message index="96" name="staff0311">Li MuZhang</message>
+	<message index="97" name="staff0312">Fang Jie</message>
+	<message index="98" name="staff0313">Sheng FeiFei</message>
+	<message index="99" name="staff0314">Bao JanGang</message>
+	<message index="100" name="staff0315">Mei Ling</message>
+	<message index="101" name="staff0316">Liu ChengLing</message>
+	<message index="102" name="staff0317">Yu YongQing</message>
+	<message index="103" name="staff0318">Li Shuo</message>
+	<message index="104" name="staff0319">Jing Huan</message>
+	<message index="105" name="staff0320">Digital Media Labo.,ink</message>
+	<message index="106" name="staff0321">Polygon Magic,ink.</message>
+	<message index="107" name="staff0322">Storyboard</message>
+	<message index="108" name="staff0323">Tatsuya Yabuta (EnumaElisch.LLP)</message>
+	<message index="109" name="staff0324">Masaya Suzuki (EnumaElisch.LLP)</message>
+	<message index="110" name="staff0325">Lighting Imageboard</message>
+	<message index="111" name="staff0326">Yukihiro Ishida (EnumaElisch.LLP)</message>
+	<message index="112" name="staff0327">Artist Special Thanks</message>
+	<message index="113" name="staff0328">AM2 AuthMotion Team</message>
+	<message index="114" name="staff0329">Masaharu Nakayama</message>
+	<message index="115" name="staff0330">Yoshiyuki Tomatsu</message>
+	<message index="116" name="staff0340">Seiju Taniguchi</message>
+	<message index="117" name="staff0341">Makoto Yonezu</message>
+	<message index="118" name="staff0342">Taro Hino</message>
+	<message index="119" name="staff0343">Sound Director</message>
+	<message index="120" name="staff0344">Tomoya Ohtani</message>
+	<message index="121" name="staff0345">Music Composer</message>
+	<message index="122" name="staff0346">Mariko Nanba</message>
+	<message index="123" name="staff0347">Tomoya Ohtani</message>
+	<message index="124" name="staff0348">Hideaki Kobayashi</message>
+	<message index="125" name="staff0400">tai-hey</message>
+	<message index="126" name="staff0401">Jun Senoue</message>
+	<message index="127" name="staff0402">Recording &amp; Mixing Engineer</message>
+	<message index="128" name="staff0403">Yoshitada Miya</message>
+	<message index="129" name="staff0404">Masahiro Fukuhara</message>
+	<message index="130" name="staff0405">Yutaka Yamamoto (ATTIC ARCADE)</message>
+	<message index="131" name="staff0406">Yoshikazu Sasahara</message>
+	<message index="132" name="staff0407">Hideyuki Arima (POWER HOUSE STUDIO)</message>
+	<message index="133" name="staff0408">Stan Katayama</message>
+	<message index="134" name="staff0409">Recorded at</message>
+	<message index="135" name="staff0410">SOUND CREW STUDIO</message>
+	<message index="136" name="staff0411">POWER HOUSE STUDIO</message>
+	<message index="137" name="staff0412">ONKIO HAUS STUDIO</message>
+	<message index="138" name="staff0413">SOUND INN STUDIOS</message>
+	<message index="139" name="staff0414">OLYMPIC STUDIOS</message>
+	<message index="140" name="staff0415">DEL REY STUDIO</message>
+	<message index="141" name="staff0416">Mixed at</message>
+	<message index="142" name="staff0417">SEGA DIGITAL STUDIO</message>
+	<message index="143" name="staff0418">ATTIC ARCADE STUDIO</message>
+	<message index="144" name="staff0419">ONKIO HAUS STUDIO</message>
+	<message index="145" name="staff0420">SOUND INN STUDIOS</message>
+	<message index="146" name="staff0421">MIT STUDIO</message>
+	<message index="147" name="staff0422">Musicians</message>
+	<message index="148" name="staff0423">Drums</message>
+	<message index="149" name="staff0424">Toru Kawamura</message>
+	<message index="150" name="staff0177">Nobuo Eguchi</message>
+	<message index="151" name="staff0425">Electric Bass</message>
+	<message index="152" name="staff0426">Takeshi Taneda</message>
+	<message index="153" name="staff0427">Electric Guitar</message>
+	<message index="154" name="staff0428">Chewtaro Moritake</message>
+	<message index="155" name="staff0429">Yasutaka Kume</message>
+	<message index="156" name="staff0430">Jun Senoue</message>
+	<message index="157" name="staff0431">Acoustic Guitar</message>
+	<message index="158" name="staff0432">Chewtaro Moritake</message>
+	<message index="159" name="staff0433">Naganori Sakakibara</message>
+	<message index="160" name="staff0434">Electric Sitar</message>
+	<message index="161" name="staff0435">Chewtaro Moritake</message>
+	<message index="162" name="staff0436">Piano</message>
+	<message index="163" name="staff0437">Nobuo Kurata</message>
+	<message index="164" name="staff0438">Masaki Matsumoto</message>
+	<message index="165" name="staff0439">Chorus</message>
+	<message index="166" name="staff0440">Miho Fujiwara</message>
+	<message index="167" name="staff0500">Kazuko Hamano</message>
+	<message index="168" name="staff0501">Takenobu Mitsuyoshi</message>
+	<message index="169" name="staff0502">Flute</message>
+	<message index="170" name="staff0503">Bob Zung</message>
+	<message index="171" name="staff0504">Oboe</message>
+	<message index="172" name="staff0505">Hiroshi Shibayama</message>
+	<message index="173" name="staff0506">Accordion</message>
+	<message index="174" name="staff0507">Yoshiaki Sato</message>
+	<message index="175" name="staff0508">Strings</message>
+	<message index="176" name="staff0509">Kuwano Strings</message>
+	<message index="177" name="staff0510">Shinozaki Strings</message>
+	<message index="178" name="staff0511">1stVl</message>
+	<message index="179" name="staff0512">Hiroyuki Koike</message>
+	<message index="180" name="staff0513">2ndVl</message>
+	<message index="181" name="staff0514">Rei Koike</message>
+	<message index="182" name="staff0515">Vla</message>
+	<message index="183" name="staff0516">Tomoko Fukuhara</message>
+	<message index="184" name="staff0517">Vc</message>
+	<message index="185" name="staff0518">Tomio Yajima</message>
+	<message index="186" name="staff0519">Cb</message>
+	<message index="187" name="staff0520">Shinji Tanaka</message>
+	<message index="188" name="staff0521">Arranger</message>
+	<message index="189" name="staff0522">Takahito Eguchi</message>
+	<message index="190" name="staff0523">Yasutaka Kume</message>
+	<message index="191" name="staff0524">Additional Recording Director</message>
+	<message index="192" name="staff0525">Tadashi Otsubo</message>
+	<message index="193" name="staff0526">Recording Coordinator</message>
+	<message index="194" name="staff0527">Kiyoshi Yoshida (ATTIC ARCADE)</message>
+	<message index="195" name="staff0528">Hidetaka"Carl"Shibata (POWER HOUSE STUDIO)</message>
+	<message index="196" name="staff0529">Yoji Sugiyama (WITCH CRAFT)</message>
+	<message index="197" name="staff0530">Kazuyuki Doki (RE-BIRTH)</message>
+	<message index="198" name="staff0531">Jun Senoue</message>
+	<message index="199" name="staff0532">Tomoya Ohtani</message>
+	<message index="200" name="staff0533">Game Sound Department</message>
+	<message index="201" name="staff0534">Supervisor Sound Editor</message>
+	<message index="202" name="staff0600">Tatsuya Kouzaki</message>
+	<message index="203" name="staff0601">Sound Editor</message>
+	<message index="204" name="staff0602">Hiroaki Funane</message>
+	<message index="205" name="staff0603">Movie Sound Department</message>
+	<message index="206" name="staff0604">Supervisor Sound Editor</message>
+	<message index="207" name="staff0605">Eiji "AJ"Nakamura (RedAJ Sound)</message>
+	<message index="208" name="staff0606">Sound Editor</message>
+	<message index="209" name="staff0607">Chiharu "Micchi"Minekawa (RedAJ Sound)</message>
+	<message index="210" name="staff0608">Kenichi "KEN" Saito (RedAJ Sound)</message>
+	<message index="211" name="staff0609">Yoshihiro "PIRO" Maeda (RedAJ Sound)</message>
+	<message index="212" name="staff0610">Post-Production Manager</message>
+	<message index="213" name="staff0611">Masayasu Yamashita</message>
+	<message index="214" name="staff0612">Kazuya Taniguchi</message>
+	<message index="215" name="staff0613">Mixing Engineer</message>
+	<message index="216" name="staff0614">Kazutaka Someya</message>
+	<message index="217" name="staff0615">Assistant Engineer</message>
+	<message index="218" name="staff0616">Tomohiro Fuchikami</message>
+	<message index="219" name="staff0617">Foley Artist &amp; Editor</message>
+	<message index="220" name="staff0618">Yuka Kitazawa</message>
+	<message index="221" name="staff0619">Visual Technician</message>
+	<message index="222" name="staff0620">Natsuko Yamashita</message>
+	<message index="223" name="staff0621">Mixing Studio</message>
+	<message index="224" name="staff0622">DIGITAL EGG STUDIO MA-1 &lt;THXpm3&gt;</message>
+	<message index="225" name="staff0623">Sound Section Special Thanks</message>
+	<message index="226" name="staff0624">Todd Singerman</message>
+	<message index="227" name="staff0625">Lynn Grossman</message>
+	<message index="228" name="staff0626">Melody Santos</message>
+	<message index="229" name="staff0627">Ken Sakata (A&amp;K CORPORATION)</message>
+	<message index="230" name="staff1185">Koji Matsumoto</message>
+	<message index="231" name="staff0628">Teruhiko Nakagawa</message>
+	<message index="232" name="staff0700">Ai Muroi</message>
+	<message index="233" name="staff0701">Naofumi Hataya</message>
+	<message index="234" name="staff0702">Masaru Setsumaru</message>
+	<message index="235" name="staff0703">Seirou Okamoto</message>
+	<message index="236" name="staff0704">VP Product Development</message>
+	<message index="237" name="staff0705">Jin Shimazaki</message>
+	<message index="238" name="staff0706">Voice Coordinator</message>
+	<message index="239" name="staff0707">Dialog Director</message>
+	<message index="240" name="staff0708">Eriko Kimura</message>
+	<message index="241" name="staff0709">Dubibing Production Manager</message>
+	<message index="242" name="staff0710">Hiroyuki Inage</message>
+	<message index="243" name="staff0711">Yae Tateyama</message>
+	<message index="244" name="staff0712">(TOHOKUSHINSHA FILM CORPORATION)</message>
+	<message index="245" name="staff0713">Voice Recording Studio</message>
+	<message index="246" name="staff0714">STUDIO UNI</message>
+	<message index="247" name="staff0715">OMNIBUS JAPAN</message>
+	<message index="248" name="staff0716">CG movie Director</message>
+	<message index="249" name="staff0717">Minoru Kusakabe</message>
+	<message index="250" name="staff0718">Tomokazu Takahashi</message>
+	<message index="251" name="staff0719">Tomohiro Yonemichi</message>
+	<message index="252" name="staff0720">CG movie Modeling</message>
+	<message index="253" name="staff0721">Hideyuki Higashi</message>
+	<message index="254" name="staff0722">Yoshihiko Suzuki</message>
+	<message index="255" name="staff0723">Hiroaki Ohta</message>
+	<message index="256" name="staff0724">Toshiya Sugiura</message>
+	<message index="257" name="staff0725">Satoshi Takahashi</message>
+	<message index="258" name="staff0726">Hideaki Makinouchi</message>
+	<message index="259" name="staff0727">Takayuki Hayama</message>
+	<message index="260" name="staff0728">Yoshihiro Hanada</message>
+	<message index="261" name="staff0729">Takeshi Hoshino</message>
+	<message index="262" name="staff0730">Yutaka Yamaki</message>
+	<message index="263" name="staff0800">Satoshi Kounosu</message>
+	<message index="264" name="staff0801">Kazushige Hayakawa</message>
+	<message index="265" name="staff0802">Emiri Minagawa</message>
+	<message index="266" name="staff0803">Tomohiro Mitsui</message>
+	<message index="267" name="staff0804">Naoto Kawaguchi</message>
+	<message index="268" name="staff0805">Jun Masuda</message>
+	<message index="269" name="staff0806">CG movie Setup &amp; Animation</message>
+	<message index="270" name="staff0807">Jiro Yamagishi</message>
+	<message index="271" name="staff0808">Yusuke Sakai</message>
+	<message index="272" name="staff0810">Kiminori Kusano</message>
+	<message index="273" name="staff0811">Kenou Hakamaya</message>
+	<message index="274" name="staff0812">Mio Tagiri</message>
+	<message index="275" name="staff0813">Tsuyoshi Tanaka</message>
+	<message index="276" name="staff0814">Takaaki Kise</message>
+	<message index="277" name="staff0815">Tatsunori Tomiyama</message>
+	<message index="278" name="staff0816">Tatsuya Akagi</message>
+	<message index="279" name="staff0817">Kengou Nukizono</message>
+	<message index="280" name="staff0818">Yoshimasa Kimura</message>
+	<message index="281" name="staff0819">Hideyuki Kinoshita</message>
+	<message index="282" name="staff0820">Kei Miyamoto</message>
+	<message index="283" name="staff0821">CG movie VFX &amp; Sequence</message>
+	<message index="284" name="staff0822">Yoshihisa Inoue</message>
+	<message index="285" name="staff0823">Keisuke Takahashi</message>
+	<message index="286" name="staff0824">Shuntaro Furukawa</message>
+	<message index="287" name="staff0825">Kouhei Kajisa</message>
+	<message index="288" name="staff0826">Satoshi Tomatsu</message>
+	<message index="289" name="staff0827">Tsubasa Nakai</message>
+	<message index="290" name="staff0828">Takeyuki Suzuki</message>
+	<message index="291" name="staff0829">Masayuki Tanaka</message>
+	<message index="292" name="staff0830">Takuya Hada</message>
+	<message index="293" name="staff0831">CG movie Engineer</message>
+	<message index="294" name="staff0832">Taku Wakisaka</message>
+	<message index="295" name="staff0833">Toru Iwata</message>
+	<message index="296" name="staff0834">Jun Saito</message>
+	<message index="297" name="staff0835">CG movie Management</message>
+	<message index="298" name="staff0836">Takeshi Ito</message>
+	<message index="299" name="staff0837">Masahito Imamura</message>
+	<message index="300" name="staff0838">Yoshifumi Sueda</message>
+	<message index="301" name="staff0839">Chikako Tanaka</message>
+	<message index="302" name="staff0840">CG movie</message>
+	<message index="303" name="staff0841">AOKI Prod.</message>
+	<message index="304" name="staff0842">Blur Studio, Inc.</message>
+	<message index="305" name="staff0843">SHIROGUMI INC.</message>
+	<message index="306" name="staff0844">FORO GRAFICO CO.,LTD.</message>
+	<message index="307" name="staff0845">GEMBA.Inc.</message>
+	<message index="308" name="staff0846">Motion Capture</message>
+	<message index="309" name="staff0847">SEGA Motion Capture Team</message>
+	<message index="310" name="staff0848">Takeo Iwata</message>
+	<message index="311" name="staff0849">Hiroshi Tanaka</message>
+	<message index="312" name="staff0850">Shunkichi Yukitake</message>
+	<message index="313" name="staff0851">Kimiko Nakaizumi</message>
+	<message index="314" name="staff0852">Hitoshi Noda</message>
+	<message index="315" name="staff0853">Yukie Hagiwara</message>
+	<message index="316" name="staff0854">Motion Capture Actor</message>
+	<message index="317" name="staff0855">WONDERMAN</message>
+	<message index="318" name="staff0856">Tony Hosokawa </message>
+	<message index="319" name="staff0857">Iori Sakakibara</message>
+	<message index="320" name="staff0858">Ami Sakai</message>
+	<message index="321" name="staff0859">Tomomi Ohta</message>
+	<message index="322" name="staff0860">Naoyasu Achi </message>
+	<message index="323" name="staff0861">Wataru Koga</message>
+	<message index="324" name="staff0862">ACTION ACTOR GROUP "KATSUGEKIZA"</message>
+	<message index="325" name="staff0863">Dancer</message>
+	<message index="326" name="staff0864">Kaori Nishimura</message>
+	<message index="327" name="staff0865">Sachiko Takagi</message>
+	<message index="328" name="staff0866">Mariko Tagami</message>
+	<message index="329" name="staff0867">Choreographer</message>
+	<message index="330" name="staff0868">EASY</message>
+	<message index="331" name="staff0869">Motion Capture Data Editing</message>
+	<message index="332" name="staff0870">DOUBLE-O-BUCK Inc.</message>
+	<message index="333" name="staff0871">ORBITAL LINK Inc.</message>
+	<message index="334" name="staff0872">Dynamo Pictures, Inc.</message>
+	<message index="335" name="staff0873">Publicity Artwork</message>
+	<message index="336" name="staff0874">Yuji Uekawa</message>
+	<message index="337" name="staff0875">Game Script</message>
+	<message index="338" name="staff0876">Kiyoko Yoshimura</message>
+	<message index="339" name="staff0877">Shiro Maekawa</message>
+	<message index="340" name="staff0878">Web Team</message>
+	<message index="341" name="staff0879">Mayumi Moro</message>
+	<message index="342" name="staff0880">Yuichi Kikuchi</message>
+	<message index="343" name="staff0881">Takeshi Ichimura</message>
+	<message index="344" name="staff0882">Special Thanks</message>
+	<message index="345" name="staff0883">Takashi Iizuka</message>
+	<message index="346" name="staff0884">Hirono Sato</message>
+	<message index="347" name="staff0885">Keith Palmer</message>
+	<message index="348" name="staff0886">Keisuke Nakamura</message>
+	<message index="349" name="staff0887">Yojiro Ogawa </message>
+	<message index="350" name="staff0888">Sachiko Kawamura</message>
+	<message index="351" name="staff0889">Masanobu Yamamoto</message>
+	<message index="352" name="staff0890">Tetsu Katano</message>
+	<message index="353" name="staff0891">Fumitaka Shibata (wave master)</message>
+	<message index="354" name="staff0892">Tetsuya Hotozuka</message>
+	<message index="355" name="staff0893">Takeshi Sakakibara</message>
+	<message index="356" name="staff0894">Keiichi Noda</message>
+	<message index="357" name="staff0895">Eitaro Toyoda</message>
+	<message index="358" name="staff1180">Yoshihisa Hashimoto</message>
+	<message index="359" name="staff1181">Takashi Atsu</message>
+	<message index="360" name="staff1182">Yoshiaki Hattori</message>
+	<message index="361" name="staff1183">Hitoshi Ohta</message>
+	<message index="362" name="staff0896">CAST</message>
+	<message index="363" name="staff0897">English Character Voices</message>
+	<message index="364" name="staff0898">Lacey Chabert as Princess Elise</message>
+	<message index="365" name="staff0899">Lisa Ortiz</message>
+	<message index="366" name="staff0900">Bella Hudson</message>
+	<message index="367" name="staff0901">Mike Pollock</message>
+	<message index="368" name="staff0902">David Wills</message>
+	<message index="369" name="staff0903">Dan Green</message>
+	<message index="370" name="staff0904">Maddie Blaustein</message>
+	<message index="371" name="staff0905">Kathleen Delaney</message>
+	<message index="372" name="staff0906">Jason Griffith</message>
+	<message index="373" name="staff0907">Pete Capella</message>
+	<message index="374" name="staff0908">Amy Palant</message>
+	<message index="375" name="staff0909">Japanese Character Voices</message>
+	<message index="376" name="staff0910">Jun-ichi Kanemaru</message>
+	<message index="377" name="staff0911">Kouji Yusa</message>
+	<message index="378" name="staff0912">Daisuke Ono</message>
+	<message index="379" name="staff0913">Maaya Sakamoto</message>
+	<message index="380" name="staff0914">Takayuki Sakazume</message>
+	<message index="381" name="staff0915">Ryoh Hirohashi</message>
+	<message index="382" name="staff0916">Nobutoshi Canna</message>
+	<message index="383" name="staff0917">Rumi Ochiai</message>
+	<message index="384" name="staff0918">Taitem Kusunoki</message>
+	<message index="385" name="staff0919">Nawo Takamori</message>
+	<message index="386" name="staff0920">Taeko Kawata</message>
+	<message index="387" name="staff0921">Hikari Yono</message>
+	<message index="388" name="staff0922">Keiji Okuda</message>
+	<message index="389" name="staff0923">Yoshikazu Kazuma</message>
+	<message index="390" name="staff0924">Kenji Utsumi</message>
+	<message index="391" name="staff0925">Chikao Ohtsuka</message>
+	<message index="392" name="staff0926">SEGA CORPORATION (JAPAN)</message>
+	<message index="393" name="staff0927">Product Marketing Manager</message>
+	<message index="394" name="staff0928">Yasushi Yamashita</message>
+	<message index="395" name="staff0929">Naoko Ooka</message>
+	<message index="396" name="staff0930">Satoshi Imai</message>
+	<message index="397" name="staff0931">Takeshi Shimizu</message>
+	<message index="398" name="staff0932">Retail Sales Manager</message>
+	<message index="399" name="staff0933">Akihide Ichimura</message>
+	<message index="400" name="staff0934">Sales Promotion</message>
+	<message index="401" name="staff0935">Osamu Sato</message>
+	<message index="402" name="staff0936">Public Relations Leader</message>
+	<message index="403" name="staff0937">Hiromi Seida</message>
+	<message index="404" name="staff0938">Technical Support</message>
+	<message index="405" name="staff0939">Takashi Shoji</message>
+	<message index="406" name="staff0940">Akihiro Etori</message>
+	<message index="407" name="staff0941">Osamu Ogata</message>
+	<message index="408" name="staff0942">Toyoji Kurose</message>
+	<message index="409" name="staff0943">Localization Support</message>
+	<message index="410" name="staff0944">Representatives at IBPD</message>
+	<message index="411" name="staff0945">Aya Takeuchi</message>
+	<message index="412" name="staff0946">Shinobu Shindo</message>
+	<message index="413" name="staff0947">Product Management</message>
+	<message index="414" name="staff0948">Junichi Shimizu</message>
+	<message index="415" name="staff0949">Product Support</message>
+	<message index="416" name="staff0950">Akira Nishikawa</message>
+	<message index="417" name="staff0951">Hiroyuki Miyano</message>
+	<message index="418" name="staff0952">Yuki Takahashi</message>
+	<message index="419" name="staff0953">Daisuke Suzuki</message>
+	<message index="420" name="staff0954">Quality Control</message>
+	<message index="421" name="staff0955">Sunao Murayama</message>
+	<message index="422" name="staff0956">Yuji Nakamura</message>
+	<message index="423" name="staff0957">Kenji Oohashi</message>
+	<message index="424" name="staff0958">Support Team</message>
+	<message index="425" name="staff0959">Masayuki Takahashi</message>
+	<message index="426" name="staff0960">Kiyotaka Kondo</message>
+	<message index="427" name="staff0961">Yukihiro Taguchi</message>
+	<message index="428" name="staff0962">Software Manuals &amp; Packaging　　</message>
+	<message index="429" name="staff0963">Yoshihiro Sakuta</message>
+	<message index="430" name="staff0964">Hisakazu Nakagawa</message>
+	<message index="431" name="staff0965">Hiroki Osawa</message>
+	<message index="432" name="staff0966">Takashi Nishimura </message>
+	<message index="433" name="staff0967">Tetsuya Honda</message>
+	<message index="434" name="staff0968">Colin Restall</message>
+	<message index="435" name="staff0969">SEGA OF AMERICA, INC.</message>
+	<message index="436" name="staff0970">CEO</message>
+	<message index="437" name="staff0971">Naoya Tsurumi</message>
+	<message index="438" name="staff0972">President/COO</message>
+	<message index="439" name="staff0973">Simon Jeffery</message>
+	<message index="440" name="staff0974">VP of Product Development</message>
+	<message index="441" name="staff0975">David Cobb</message>
+	<message index="442" name="staff0976">Technical Director</message>
+	<message index="443" name="staff0977">Jez Sherlock</message>
+	<message index="444" name="staff0978">VP, Marketing</message>
+	<message index="445" name="staff0979">Scott Steinberg</message>
+	<message index="446" name="staff0980">Director, Marketing</message>
+	<message index="447" name="staff0981">Don Mesa</message>
+	<message index="448" name="staff0982">Producer</message>
+	<message index="449" name="staff0983">Justin Lambros</message>
+	<message index="450" name="staff0984">Producer Assistant</message>
+	<message index="451" name="staff0985">Marta Khosraw</message>
+	<message index="452" name="staff0986">PR</message>
+	<message index="453" name="staff0987">Anne-Marie Stein, One PR</message>
+	<message index="454" name="staff0988">Jeane Wong, One PR</message>
+	<message index="455" name="staff0989">Dana Whitney, One PR</message>
+	<message index="456" name="staff0990">Creative Services</message>
+	<message index="457" name="staff0991">Jen Groeling</message>
+	<message index="458" name="staff0992">Heather Luchetti</message>
+	<message index="459" name="staff0993">Bridget Oates</message>
+	<message index="460" name="staff0994">Head of Operations</message>
+	<message index="461" name="staff0995">Tom Dudley</message>
+	<message index="462" name="staff0996">Online</message>
+	<message index="463" name="staff0997">Chris Olson</message>
+	<message index="464" name="staff0998">Leri Greer</message>
+	<message index="465" name="staff0999">Mike Dobbins</message>
+	<message index="466" name="staff1000">Mastering Lab</message>
+	<message index="467" name="staff1001">Rey Buzon</message>
+	<message index="468" name="staff1002">Andrew Byrne</message>
+	<message index="469" name="staff1003">Rhianna Kellom</message>
+	<message index="470" name="staff1004">QA Manager</message>
+	<message index="471" name="staff1005">Deni Skeens</message>
+	<message index="472" name="staff1006">QA Supervisor</message>
+	<message index="473" name="staff1007">Josh Morton</message>
+	<message index="474" name="staff1008">Senior Test Lead</message>
+	<message index="475" name="staff1009">Shawn Dobbins</message>
+	<message index="476" name="staff1010">Project Lead</message>
+	<message index="477" name="staff1011">Lee Frohman</message>
+	<message index="478" name="staff1012">Assistant Lead</message>
+	<message index="479" name="staff1013">Chad Ginsburg</message>
+	<message index="480" name="staff1014">Testers</message>
+	<message index="481" name="staff1015">Chris Pierce</message>
+	<message index="482" name="staff1016">Jesse LaGrange</message>
+	<message index="483" name="staff1017">Andrew Thanyawatpokin</message>
+	<message index="484" name="staff1018">Peter Koenig</message>
+	<message index="485" name="staff1019">Compliancy Test Lead</message>
+	<message index="486" name="staff1020">Stephen Akana</message>
+	<message index="487" name="staff1021">Compliancy Assistant Lead</message>
+	<message index="488" name="staff1022">Lawrence Mann</message>
+	<message index="489" name="staff1023">Compliancy Testers</message>
+	<message index="490" name="staff1024">Andrew Weaver</message>
+	<message index="491" name="staff1025">Joe Floyd</message>
+	<message index="492" name="staff1026">John Belcher</message>
+	<message index="493" name="staff1027">Eduardo Camacho</message>
+	<message index="494" name="staff1028">Special Thanks</message>
+	<message index="495" name="staff1029">Beejey Enriquez</message>
+	<message index="496" name="staff1030">Kevin Frane</message>
+	<message index="497" name="staff1031">Takashi Iizuka</message>
+	<message index="498" name="staff1032">Jason Kuo</message>
+	<message index="499" name="staff1033">Keith Palmer</message>
+	<message index="500" name="staff1034">Yosuke Moriya</message>
+	<message index="501" name="staff1035">Ben Harrison</message>
+	<message index="502" name="staff1036">4Kids Production, Inc.</message>
+	<message index="503" name="staff1037">Voice Directors</message>
+	<message index="504" name="staff1038">Christopher Collet</message>
+	<message index="505" name="staff1039">Julie Rath</message>
+	<message index="506" name="staff1040">Production Coordinator</message>
+	<message index="507" name="staff1041">Salvatore Oppedisano</message>
+	<message index="508" name="staff1042">Pro Tools Engineers</message>
+	<message index="509" name="staff1043">Suzy Goldish</message>
+	<message index="510" name="staff1044">Paul Grassini</message>
+	<message index="511" name="staff1045">Mike Knoblauch</message>
+	<message index="512" name="staff1046">Alon Namdar</message>
+	<message index="513" name="staff1047">Questar Welsh</message>
+	<message index="514" name="staff1048">Blindlight</message>
+	<message index="515" name="staff1049">Casting Director</message>
+	<message index="516" name="staff1050">Dawn Hershey, C.S.A.</message>
+	<message index="517" name="staff1051">Voice Director</message>
+	<message index="518" name="staff1052">Lisa Schaffer</message>
+	<message index="519" name="staff1053">VO Producer</message>
+	<message index="520" name="staff1054">Alexandra Dorris</message>
+	<message index="521" name="staff1055">Casting Assistant</message>
+	<message index="522" name="staff1056">Dave Lieber</message>
+	<message index="523" name="staff1057">Production Assistant</message>
+	<message index="524" name="staff1058">Wes Gleason</message>
+	<message index="525" name="staff1059">Recording Engineer</message>
+	<message index="526" name="staff1060">J. David Atherton</message>
+	<message index="527" name="staff1061">SEGA EUROPE LTD</message>
+	<message index="528" name="staff1062">SEGA Europe Limited Staff Credits</message>
+	<message index="529" name="staff1063">SONIC THE HEDGEHOG</message>
+	<message index="530" name="staff1064">CEO</message>
+	<message index="531" name="staff1065">Naoya Tsurumi</message>
+	<message index="532" name="staff1066">President/COO</message>
+	<message index="533" name="staff1067">Mike Hayes</message>
+	<message index="534" name="staff1068">Development Director</message>
+	<message index="535" name="staff1069">Gary Dunn</message>
+	<message index="536" name="staff1070">Creative Director</message>
+	<message index="537" name="staff1071">Matthew Woodley</message>
+	<message index="538" name="staff1072">Director of European Marketing</message>
+	<message index="539" name="staff1073">Gary Knight </message>
+	<message index="540" name="staff1074">Head of Studio, Localisation</message>
+	<message index="541" name="staff1075">Kuniyo Matsumoto</message>
+	<message index="542" name="staff1076">Senior Producer, Localisation</message>
+	<message index="543" name="staff1077">Akiko Uchida</message>
+	<message index="544" name="staff1078">European PR</message>
+	<message index="545" name="staff1079">Lynn Daniel</message>
+	<message index="546" name="staff1080">Kerry Martyn</message>
+	<message index="547" name="staff1081">Senior Brand Manager - Japanese Studios</message>
+	<message index="548" name="staff1082">David Allen</message>
+	<message index="549" name="staff1083">International Brand Manager</message>
+	<message index="550" name="staff1084">Ben Chalmers-Stevens</message>
+	<message index="551" name="staff1085">Creative Services</message>
+	<message index="552" name="staff1086">Alison Warfield</message>
+	<message index="553" name="staff1087">Tom Bingle</message>
+	<message index="554" name="staff1088">Morgan Gibbons</message>
+	<message index="555" name="staff1089">Akane Hiraoka</message>
+	<message index="556" name="staff1090">Arnoud Tempelaere</message>
+	<message index="557" name="staff1091">Head of Operations</message>
+	<message index="558" name="staff1092">Mark Simmons</message>
+	<message index="559" name="staff1093">Operations</message>
+	<message index="560" name="staff1094">Caroline Searle</message>
+	<message index="561" name="staff1095">Natalie Cooke</message>
+	<message index="562" name="staff1096">Online Services</message>
+	<message index="563" name="staff1097">Justin Moodie</message>
+	<message index="564" name="staff1098">Nina Ahmad</message>
+	<message index="565" name="staff1099">Bennie Booysen</message>
+	<message index="566" name="staff1100">Mike Evans</message>
+	<message index="567" name="staff1101">Romily Broad</message>
+	<message index="568" name="staff1102">Head of Development Services</message>
+	<message index="569" name="staff1103">Mark Le Breton</message>
+	<message index="570" name="staff1104">Master Tech. Group</message>
+	<message index="571" name="staff1105">John Hegarty</message>
+	<message index="572" name="staff1106">Jigar Patel</message>
+	<message index="573" name="staff1107">QA Supervisors</message>
+	<message index="574" name="staff1108">Marlon Grant</message>
+	<message index="575" name="staff1109">Stuart Arrowsmith</message>
+	<message index="576" name="staff1110">Senior Team Leads</message>
+	<message index="577" name="staff1111">Dominic Berzins </message>
+	<message index="578" name="staff1112">Julie Metior</message>
+	<message index="579" name="staff1113">Assistant Team Leads</message>
+	<message index="580" name="staff1114">Gabriel Ralls </message>
+	<message index="581" name="staff1115">Alex Humphries</message>
+	<message index="582" name="staff1116">Renée Teloka</message>
+	<message index="583" name="staff1117">Marlon Andall</message>
+	<message index="584" name="staff1118">Standards Coordinators</message>
+	<message index="585" name="staff1119">Mohammed Ajaib</message>
+	<message index="586" name="staff1120">Michael Hanley</message>
+	<message index="587" name="staff1121">Ali Hassan</message>
+	<message index="588" name="staff1122">Language Team Leads</message>
+	<message index="589" name="staff1123">Jean Baptiste Bagot</message>
+	<message index="590" name="staff1124">Sven Wittmaack</message>
+	<message index="591" name="staff1125">Uses Havok, copyright © 1999-2006</message>
+	<message index="592" name="staff1178">Havok.com Inc (or its licensors).</message>
+	<message index="593" name="staff1126">See www.havok.com for details.</message>
+	<message index="594" name="staff1127">2003-2006 Kynapse, </message>
+	<message index="595" name="staff1179">Kynogon is a registered trademark. All rights reserved.</message>
+	<message index="596" name="staff1128">SWEET SWEET SWEET - 06 AKON MIX -</message>
+	<message index="597" name="staff1129">Lyrics : MIWA YOSHIDA</message>
+	<message index="598" name="staff1130">Music : MASATO NAKAMURA</message>
+	<message index="599" name="staff1131">Arrangement : AKON　</message>
+	<message index="600" name="staff1132">MIWA YOSHIDA… Vocal, Backing Vocal, Vocal Arrangement </message>
+	<message index="601" name="staff1133">MASATO NAKAMURA… Backing Vocals </message>
+	<message index="602" name="staff1134">AKON …. All Instruments Performance &amp; Backing Vocals</message>
+	<message index="603" name="staff1135">SWEET DREAM - 06 AKON MIX -</message>
+	<message index="604" name="staff1136">Lyrics : MIWA YOSHIDA</message>
+	<message index="605" name="staff1137">Music : MASATO NAKAMURA</message>
+	<message index="606" name="staff1138">Arrangement : AKON　　</message>
+	<message index="607" name="staff1139">MIWA YOSHIDA… Vocal, Backing Vocal, Vocal Arrangement </message>
+	<message index="608" name="staff1140">MASATO NAKAMURA… Backing Vocals </message>
+	<message index="609" name="staff1141">AKON …. All Instruments Performance &amp; Backing Vocals</message>
+	<message index="610" name="staff1142">HIS WORLD.... Ali Tabatabaee &amp; Matty Lewis from ZEBRAHEAD</message>
+	<message index="611" name="staff1143">Music : Tomoya Ohtani</message>
+	<message index="612" name="staff1144">Words : Johnny Gioeli &amp; Ali Tabatabaee</message>
+	<message index="613" name="staff1145">Strings Arrangement : Takahito Eguchi</message>
+	<message index="614" name="staff1146">Vocal Tracks Producer : Jun Senoue</message>
+	<message index="615" name="staff1147">ALL HAIL SHADOW.... Crush 40</message>
+	<message index="616" name="staff1148">Music : Jun Senoue &amp; Mike Szuter</message>
+	<message index="617" name="staff1149">Words : Mike Szuter</message>
+	<message index="618" name="staff1150">DREAMS OF AN ABSOLUTION.... Lee Brotherton</message>
+	<message index="619" name="staff1151">Music : Mariko Nanba</message>
+	<message index="620" name="staff1152">Arrangement : Tomoya Ohtani</message>
+	<message index="621" name="staff1153">Vocals &amp; Words : Lee Brotherton</message>
+	<message index="622" name="staff1154">Vocal Tracks Producer : Remix Factory, UK</message>
+	<message index="623" name="staff1155">MY DESTINY.... Donna De Lory</message>
+	<message index="624" name="staff1156">Music : Mariko Nanba</message>
+	<message index="625" name="staff1157">Words : Candie Y</message>
+	<message index="626" name="staff1158">Arrangement : Takahito Eguchi</message>
+	<message index="627" name="staff1159">Vocal Tracks Producer : Jun Senoue</message>
+	<message index="628" name="staff1160">Executive  Management</message>
+	<message index="629" name="staff1161">Hiroyuki Miyazaki</message>
+	<message index="630" name="staff1162">Masanao Maeda </message>
+	<message index="631" name="staff1163">Hideki Okamura</message>
+	<message index="632" name="staff1164">Chief Producer</message>
+	<message index="633" name="staff1165">Takayuki Kawagoe</message>
+	<message index="634" name="staff1166">Akinori Nishiyama</message>
+	<message index="635" name="staff1167">Executive Producer</message>
+	<message index="636" name="staff1168">Hisao Oguchi</message>
+	<message index="637" name="staff1169">Special Thanks to:</message>
+	<message index="638" name="staff1170">All staff members and their families</message>
+	<message index="639" name="staff1171">ソニチ（ロゴ）</message>
+	<message index="640" name="staff1172">© SEGA </message>
+	<message index="641" name="staff1173">Presented by </message>
+	<message index="642" name="staff1174">SEGA</message>
+	<message index="643" name="staff1175">END</message>
+</mst06>

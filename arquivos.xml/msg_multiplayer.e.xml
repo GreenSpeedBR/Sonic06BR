@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_multiplayer" mst_version="1" endianness="B">
+	<message index="0" name="msg_multiplayer01">Tag team: Cooperate as Sonic and Shadow!</message>
+	<message index="1" name="msg_multiplayer02">Battle: Fight it out with 2 to 4 players!</message>
+</mst06>

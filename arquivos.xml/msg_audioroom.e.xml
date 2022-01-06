@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_audioroom" mst_version="1" endianness="B">
+	<message index="0" name="sonic_theme">THEME OF SONIC</message>
+	<message index="1" name="shadow_theme">THEME OF SHADOW</message>
+	<message index="2" name="silver_theme">THEME OF SILVER</message>
+	<message index="3" name="elise_theme">THEME OF ELISE</message>
+	<message index="4" name="msg_sweetdream2006">Sweet Dream 2006</message>
+	<message index="5" name="stg_wvo_a">WAVE OCEAN "The Water's Edge"</message>
+	<message index="6" name="stg_wvo_b">WAVE OCEAN "The Inlet"</message>
+	<message index="7" name="stg_dtd_a">DUSTY DESERT "Quicksand"</message>
+	<message index="8" name="stg_dtd_b">DUSTY DESERT "The Ruins"</message>
+	<message index="9" name="stg_wap_a">WHITE ACROPOLIS "Snowy Peak"</message>
+	<message index="10" name="stg_wap_b">WHITE ACROPOLIS "The Base"</message>
+	<message index="11" name="stg_csc_a">CRISIS CITY "The Flame"</message>
+	<message index="12" name="stg_csc_b">CRISIS CITY "Skyscraper"</message>
+	<message index="13" name="stg_csc_c">CRISIS CITY "Highway"</message>
+	<message index="14" name="stage_csc_e">CRISIS CITY "Whirlwind"</message>
+	<message index="15" name="stg_csc_f">CRISIS CITY "Tornado"</message>
+	<message index="16" name="stg_flc_a">FLAME CORE "Volcano"</message>
+	<message index="17" name="stg_flc_b">FLAME CORE "The Cavern"</message>
+	<message index="18" name="stg_rct_a">RADICAL TRAIN "The Abandoned Mine"</message>
+	<message index="19" name="stg_rct_b">RADICAL TRAIN "The Chase"</message>
+	<message index="20" name="stg_tpj_a">TROPICAL JUNGLE "The Jungle"</message>
+	<message index="21" name="stg_tpj_b">TROPICAL JUNGLE "The Swamp"</message>
+	<message index="22" name="stg_tpj_c">TROPICAL JUNGLE "The Ruins"</message>
+	<message index="23" name="stg_kdv_a">KINGDOM VALLEY "Wind"</message>
+	<message index="24" name="stg_kdv_b">KINGDOM VALLEY "The Castle"</message>
+	<message index="25" name="stg_kdv_c">KINGDOM VALLEY "Water"</message>
+	<message index="26" name="stg_kdv_d">KINGDOM VALLEY "Lakeside"</message>
+	<message index="27" name="stg_aqa_a">AQUATIC BASE "Level 1"</message>
+	<message index="28" name="stg_aqa_b">AQUATIC BASE "Level 2"</message>
+	<message index="29" name="boss_iblis01">IBLIS</message>
+	<message index="30" name="boss_iblis03">IBLIS PHASE 3</message>
+	<message index="31" name="boss_mefiless01">MEPHILES</message>
+	<message index="32" name="boss_mefiless02">MEPHILES PHASE 2</message>
+	<message index="33" name="boss_character">VS. CHARACTER</message>
+	<message index="34" name="boss_cerberus">EGG-CERBERUS &amp; EGG-GENESIS</message>
+	<message index="35" name="boss_wyvern">EGG-WYVERN</message>
+	<message index="36" name="boss_solaris1">SOLARIS</message>
+	<message index="37" name="stg_twn_a">SOLEANNA CASTLE TOWN</message>
+	<message index="38" name="stg_twn_b">SOLEANNA NEW CITY</message>
+	<message index="39" name="stg_twn_c">SOLEANNA FOREST</message>
+	<message index="40" name="stg_twn_shop">TOWN MISSION 1</message>
+	<message index="41" name="twn_mission_slow">TOWN MISSION 2</message>
+	<message index="42" name="twn_mission_comical">TOWN MISSION 3</message>
+	<message index="43" name="twn_mission_fast">TOWN MISSION 4</message>
+	<message index="44" name="twn_clear">TOWN MISSION COMPLETED!</message>
+	<message index="45" name="clear">MISSION COMPLETED!</message>
+	<message index="46" name="clear_2">MISSION COMPLETED!</message>
+	<message index="47" name="speed_up">INVINCIBLE</message>
+	<message index="48" name="title">TITLE</message>
+	<message index="49" name="stg_end_a">END OF THE WORLD "Yellow"</message>
+	<message index="50" name="stg_end_b">END OF THE WORLD "Green"</message>
+	<message index="51" name="stg_end_c">END OF THE WORLD "Light Blue"</message>
+	<message index="52" name="stg_end_d">END OF THE WORLD "White"</message>
+	<message index="53" name="stg_end_e">END OF THE WORLD "Purple"</message>
+	<message index="54" name="stg_end_f">END OF THE WORLD "Blue"</message>
+	<message index="55" name="stg_end_g">END OF THE WORLD "Red"</message>
+	<message index="56" name="twn_accordion">ACCORDION SONG</message>
+	<message index="57" name="btl_roundclear">Total Victory</message>
+	<message index="58" name="speedup">INVINCIBLE</message>
+	<message index="59" name="twnclear">TOWN MISSION COMPLETED!</message>
+	<message index="60" name="mainmenu">MAIN MENU</message>
+	<message index="61" name="select">CHARACTER SELECT</message>
+	<message index="62" name="extra">EXTRAS</message>
+	<message index="63" name="result">RESULT</message>
+	<message index="64" name="boss_solaris2">SOLARIS PHASE 2</message>
+	<message index="65" name="sweetdream">SWEET DREAM 06 AKON MIX</message>
+	<message index="66" name="sweetsweetsweet">SWEET SWEET SWEET 06 AKON MIX</message>
+	<message index="67" name="msg_sweetsweetsweet2006">SWEET SWEET SWEET 2006</message>
+	<message index="68" name="msg_play">Play</message>
+	<message index="69" name="msg_stop">Stop</message>
+	<message index="70" name="msg_autoplay">Auto Play</message>
+	<message index="71" name="msg_audioroom_c">Select a song to play.</message>
+	<message index="72" name="msg_nowplaying_c">NOW PLAYING</message>
+	<message index="73" name="msg_bgm">MUSIC</message>
+	<message index="74" name="msg_se">SE</message>
+	<message index="75" name="msg_character">CHARACTER</message>
+	<message index="76" name="msg_theme">THEME</message>
+	<message index="77" name="msg_act">ACT</message>
+	<message index="78" name="msg_stage">STAGE</message>
+	<message index="79" name="msg_boss">BOSS</message>
+	<message index="80" name="msg_town">TOWN</message>
+	<message index="81" name="msg_jingle">JINGLE</message>
+	<message index="82" name="msg_other">OTHER</message>
+	<message index="83" name="msg_shuffle">SHUFFLE</message>
+	<message index="84" name="msg_randomplay">RANDOM PLAY</message>
+</mst06>

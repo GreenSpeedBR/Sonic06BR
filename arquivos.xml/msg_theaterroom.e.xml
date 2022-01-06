@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_theaterroom" mst_version="1" endianness="B">
+	<message index="0" name="ev0000">The Soleanna Festival</message>
+	<message index="1" name="ev0031">The Chaos Emeralds entrusted</message>
+	<message index="2" name="ev0001">Meeting with Tails</message>
+	<message index="3" name="ev0002">Too late, Sonic</message>
+	<message index="4" name="ev0003">Sonic Rescues Elise</message>
+	<message index="5" name="ev0004">Let's Split Up</message>
+	<message index="6" name="ev0005">Running through the plains</message>
+	<message index="7" name="ev0006">Silver appears</message>
+	<message index="8" name="ev0007">Saved by Amy</message>
+	<message index="9" name="ev0008">Knuckles delivers a letter from Eggman</message>
+	<message index="10" name="ev0009">Eggman sends Sonic to the future</message>
+	<message index="11" name="ev0010">Shadow and Rouge</message>
+	<message index="12" name="ev0011">Allies</message>
+	<message index="13" name="ev0012">The death of Elise!?</message>
+	<message index="14" name="ev0013">Beyond the flames...</message>
+	<message index="15" name="ev0014">Fiery Iblis</message>
+	<message index="16" name="ev0015">Going back to the present</message>
+	<message index="17" name="ev0016">Return to the present</message>
+	<message index="18" name="ev0017">Silver and Shadow</message>
+	<message index="19" name="ev0018">Elise jumps</message>
+	<message index="20" name="ev0019">Thanks to you...</message>
+	<message index="21" name="ev0020">Sonic and Elise, in the forest</message>
+	<message index="22" name="ev0021">Elise goes alone</message>
+	<message index="23" name="ev0022">Eggman's plot</message>
+	<message index="24" name="ev0023">Things have changed</message>
+	<message index="25" name="ev0024">Out of control</message>
+	<message index="26" name="ev0026">Battleship explosion</message>
+	<message index="27" name="ev0027">The day before</message>
+	<message index="28" name="ev0028">Sonic boards the battleship</message>
+	<message index="29" name="ev0029">Showdown with Eggman</message>
+	<message index="30" name="ev0030">Nice smile!</message>
+	<message index="31" name="ev0100">Shadow's infiltration</message>
+	<message index="32" name="ev0102">Attempt to escape</message>
+	<message index="33" name="ev0103">To the ancient Soleanna castle</message>
+	<message index="34" name="ev0104">The resurrection of Mephiles</message>
+	<message index="35" name="ev0105">The destroyed world</message>
+	<message index="36" name="ev0106">Confirming the future</message>
+	<message index="37" name="ev0107">Meeting with Sonic and the others</message>
+	<message index="38" name="ev0108">Allies</message>
+	<message index="39" name="ev0109">Omega located</message>
+	<message index="40" name="ev0110">Beyond the flames...</message>
+	<message index="41" name="ev0111">Fiery Iblis</message>
+	<message index="42" name="ev0112">Shadow remains in the future</message>
+	<message index="43" name="ev0113">Rouge returns to the present</message>
+	<message index="44" name="ev0114">Trusting Omega</message>
+	<message index="45" name="ev0115">Mephiles' whisper</message>
+	<message index="46" name="ev0116">Omega appears</message>
+	<message index="47" name="ev0117">Mephiles flees</message>
+	<message index="48" name="ev0118">Shadow &amp; Omega return to the present</message>
+	<message index="49" name="ev0119">Working with Rouge</message>
+	<message index="50" name="ev0120">Who is Mephiles?</message>
+	<message index="51" name="ev0121">Helping Sonic</message>
+	<message index="52" name="ev0122">10 years ago</message>
+	<message index="53" name="ev0123">The accident 10 years ago</message>
+	<message index="54" name="ev0124">Sealing Mephiles</message>
+	<message index="55" name="ev0125">Leaving the Scepter of Darkness</message>
+	<message index="56" name="ev0126">The sealing revealed</message>
+	<message index="57" name="ev0127">Omega's confession</message>
+	<message index="58" name="ev0128">To the ruins</message>
+	<message index="59" name="ev0129">Mephiles' temptation</message>
+	<message index="60" name="ev0130">Showdown with Mephiles</message>
+	<message index="61" name="ev0200">The ruined world of the future</message>
+	<message index="62" name="ev0201">Confrontation with Iblis</message>
+	<message index="63" name="ev0202">Mephiles appears</message>
+	<message index="64" name="ev0203">"He's the Iblis Trigger!"</message>
+	<message index="65" name="ev0204">Silver goes to the present</message>
+	<message index="66" name="ev0205">Blaze goes to the present</message>
+	<message index="67" name="ev0206">Meeting Amy</message>
+	<message index="68" name="ev0207">This is a nice place</message>
+	<message index="69" name="ev0208">Finding the Iblis Trigger</message>
+	<message index="70" name="ev0209">Amy puts her foot down</message>
+	<message index="71" name="ev0210">Amy leaves</message>
+	<message index="72" name="ev0211">Is it right...?</message>
+	<message index="73" name="ev0212">Infiltrating Eggman's base</message>
+	<message index="74" name="ev0213">Obtaining a Chaos Emerald</message>
+	<message index="75" name="ev0214">Amy meets Elise</message>
+	<message index="76" name="ev0215">Elise and Amy's discussion of love</message>
+	<message index="77" name="ev0216">Eggman attacks</message>
+	<message index="78" name="ev0217">Head for the Train Terminal</message>
+	<message index="79" name="ev0218">Shadow appears</message>
+	<message index="80" name="ev0219">10 years ago</message>
+	<message index="81" name="ev0220">The accident 10 years ago</message>
+	<message index="82" name="ev0221">Iblis' Seal</message>
+	<message index="83" name="ev0222">The Talisman</message>
+	<message index="84" name="ev0223">Meeting up with Blaze</message>
+	<message index="85" name="ev0224">Things have changed</message>
+	<message index="86" name="ev0225">Each future</message>
+	<message index="87" name="ev0226">Return to the future</message>
+	<message index="88" name="ev0227">The last battle</message>
+	<message index="89" name="ev0228">Sealing Iblis</message>
+	<message index="90" name="ev0300">Mephiles' smile</message>
+	<message index="91" name="ev0301">Elise's tears</message>
+	<message index="92" name="ev0302">Shadow &amp; his friends: Into the light</message>
+	<message index="93" name="ev0303">The resurrection of Solaris</message>
+	<message index="94" name="ev0304">The time-space rift</message>
+	<message index="95" name="ev0305">Wishing upon the Chaos Emeralds</message>
+	<message index="96" name="ev0306">Solaris destroyed</message>
+	<message index="97" name="ev0307">Embers of Solaris</message>
+	<message index="98" name="ev0308">Elise puts out the flames</message>
+	<message index="99" name="ev0309">Parade: Past memories</message>
+	<message index="100" name="msg_episodosonic_c">View Sonic's s story events </message>
+	<message index="101" name="msg_episodeshadow_c">View Shadow's story events.</message>
+	<message index="102" name="msg_episodesilver_c">View Silver's story events.</message>
+	<message index="103" name="msg_lastepisode_c">View Last Episode story events.</message>
+	<message index="104" name="msg_titles_c">Select a title to view</message>
+	<message index="105" name="msg_playall_c">View graphics in order, following the episode's storyline</message>
+	<message index="106" name="msg_credits_c">View the credits</message>
+	<message index="107" name="msg_playall">PLAY ALL</message>
+	<message index="108" name="msg_credits">CREDITS</message>
+</mst06>

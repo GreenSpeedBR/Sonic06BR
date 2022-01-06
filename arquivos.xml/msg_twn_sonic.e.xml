@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_twn_sonic" mst_version="1" endianness="B">
+	<message index="0" name="msg_m1000_000_01_1">Will you accept the request?</message>
+	<message index="1" name="msg_m1000_001_01_1">Yes</message>
+	<message index="2" name="msg_m1000_002_01_1">No</message>
+	<message index="3" name="msg_m1001_001_01_1">My name is Alberto Robert, and I've been making\nshoes in this town for a very long time.\nI'm making the ultimate shoes now.\fThese shoes use the power of Soleanna's\nmysterious stones to change... \nI'm calling them Custom Shoes!\fBut, there is no one that \ncan test the full potential of these shoes!\fIs there anyone who can test the design of \nthese shoes?\fYou will be able to do that?\nReally?</message>
+	<message index="4" name="msg_m1001_001_01_2">Oh, no... \nIf no one can use them to their full potential,\nthere's not much use.</message>
+	<message index="5" name="msg_m1003_003_01_1">Oh, no! Dr. Eggman's mechs, the ones that\nstole away Princess Elise, are invading\nthe town to look for something!\fSonic!\nCan you help us?</message>
+	<message index="6" name="msg_m1004_004_01_1">Help!\nMy precious Pele is over there... \fHelp Pele!\nPlease!</message>
+	<message index="7" name="msg_m1004_004_01_2">Fine! I can save him by myself!</message>
+	<message index="8" name="msg_m1005_005_01_1">Hey Sonic!\nFight us!\fWe're the Soleanna Boys!\nWe're here to protect Soleanna.\fThere's six of us. When we're older, we're\ngoing to join the Soleannan royal guards,\nand defend this country!\fEveryone says you'll save Princess Elise, but\nwe don't believe that. Let's see if you can\ndefeat us, first!\fHow about it? Are you going to show us what\nyou've got?</message>
+	<message index="9" name="msg_m1005_005_01_2">See?\nYou're not capable of saving the Princess!</message>
+	<message index="10" name="msg_m1006_006_01_1">Hey!\nAre you good at soccer?\fReally?\nThen can you take this ball to my brother?\nHe's going to a soccer match.\fThere's no time!\nPlease!?</message>
+	<message index="11" name="msg_m1006_006_01_2">Okay, I understand.\nI'll take it to him myself!</message>
+	<message index="12" name="msg_m1007_007_01_1">Strong people, come for the famous Soleanna \nBarrel Smash!\fSimple rules!\nRoll the ball and smash \nSoleanna's barrels!\n\fWin a prize when you\nsmash a lot!\fHey, you want to try it?</message>
+	<message index="13" name="msg_m1007_007_02_1">Oh, it's you again.\nDid you come to try again?</message>
+	<message index="14" name="msg_m1007_007_01_2">You're no fun.</message>
+	<message index="15" name="msg_m1009_009_01_1">Oh no!\nI'm Gabbani, the chairman\nof the Soleanna Tourism Association.\fThe fountain statue, the landmark of Soleanna,\nis about to be destoyed by the mysterious\nrobots that took Princess Elise.\fIf the robots are stopped before the statue\nis destroyed, it can still be repaired, but\nno one will help me!\fPlease, please,\nsave the fountain!</message>
+	<message index="16" name="msg_m1009_009_01_2">I see... \nWell, that's it for the Soleanna Tourism\nAssociation, then... </message>
+	<message index="17" name="msg_m1010_010_01_1">Haha! Most excellent!\nI'm Berluni.\nI'm a jeweler in Soleanna.\fI have assets of 10 billion Rings... \nmaking me the richest man in Soleanna.\fHey, let's play a little game.\nI will hide 100 Rings all over Soleanna.\fIf you can find them all, you can have them!\nHow about it? Do you want to try it?\f(Hee-hee, there's only 99 Rings.\nI have one hidden in my pocket...)</message>
+	<message index="18" name="msg_m1010_010_01_2">No?\nYou don't want to do it even if\nyou get a lot of cash?</message>
+	<message index="19" name="msg_m1012_012_01_1">Help!\nA person in that blue car stole\na product from my shop and ran away...\fIt's really important...\nYou're fast, right?\nWill you catch the thief?</message>
+	<message index="20" name="msg_m1012_012_01_2">What? It would only have taken a minute!</message>
+	<message index="21" name="msg_m1013_013_01_1">Did you call me?\nAh, you want to know who I am, do you?\fI saved Princess Elise and I fight bad guys. \nI'm the superhero, Sonic Man!\f(Man, I'm cool!)\fWhy are you dressed like me?\nOh, I get it!\nYou look up to me, don't you?\fHaha!\nI will give you my autograph!\fYou don't want it?\nYou're the real Sonic?\nSure, kid, sure.\fJust for you,\nI'll prove to you that I'm the real thing!\nLet's race!</message>
+	<message index="22" name="msg_m1013_013_02_1">Sonic!\nI've been training to become\nmore like you!\fWill you race me again? Please?</message>
+	<message index="23" name="msg_m1013_013_01_2">Heh, you're intimidated.\nWell, it can't be helped, I suppose.</message>
+	<message index="24" name="msg_m1013_013_02_2">Yes, I understand.\nYou're busy, aren't you... </message>
+	<message index="25" name="msg_m1014_014_01_1">I'm Aristo.\nNamed after Aristotle, I'm\na young scientist.\fI've been challenging a lot of people to\nintellectual battles, but \nno one can solve my problems.\fDo you want to challenge me?</message>
+	<message index="26" name="msg_m1015_015_01_1">Oh, no!\nThe discs with the passwords\nwere taken by robots!\fThere's an important Silver medal in here,\nbut I don't know the password.\nWhat should I do?\fSonic! Please, defeat the enemy\nand get the discs back!</message>
+	<message index="27" name="msg_m1015_015_01_2">Oh, I see... \nThis Silver medal was very important... </message>
+	<message index="28" name="msg_m1016_016_01_1">Welcome! I'm Salvatore, the manager of\nGelato Happy. Well, I'm the only one working\nhere, but I still am the manager.\fMy business is doing great\nrecently. I'm so busy.\fI can't handle all of the orders myself, so\nI need to hire some part-time help.\fI'll pay you according to the \nnumber of orders delivered.\nI'll pay more for long-distance deliveries, too!\fSo how about it?\nDo you want to work for me?</message>
+	<message index="29" name="msg_m1016_018_02_1">Oh, you're the one who worked for me before!\nI haven't found anyone else to help out yet.\fDo you want to work for me again?</message>
+	<message index="30" name="msg_m1016_018_01_2">Okay, that's too bad.\nI'll find someone else.</message>
+	<message index="31" name="msg_m1018_018_01_1">I'm the hotel manager, Ken Williams. \nWe're putting on a Festival of Rings to mark\nthe 15th anniversary of our hotel.\fThe game for the festival is easy. \nYou keep the Rings you \ncollect within the time limit.\fThere are no entry fees.\nWe do this out of gratitude\nto the people of Soleanna.\fWould you like to enter?</message>
+	<message index="32" name="msg_m1018_018_02_1">Thank you for participating in the game the\nother day. The Festival of Rings is still\nunderway.\fDo you want to try again?</message>
+	<message index="33" name="msg_m1018_018_01_2">Oh well, that's too bad.</message>
+	<message index="34" name="msg_m1017_017_01_1">Hey, do you want to challenge me to a quiz?\nI'll give you a secret letter if you can get\nall the answers!\fDo you want to try it?</message>
+	<message index="35" name="msg_m1017_017_01_2">Aww... you're a party pooper.</message>
+	<message index="36" name="msg_m1019_019_01_1">We are Solsaliente, the best circus troupe\nin Soleanna!\nSolsaliente gives hope to people.\fBut, one of our members got\ninto an accident while practicing.\nWe may have to close the show.\fIf there is someone who can \ndo the acrobatic Rings,\nwe wouldn't have to cancel it...\fAcrobatic Rings is when you \ngo through a lot of Rings fast.\nIt takes athletic ability to do it!\fI wonder if we can find anyone to do it... </message>
+	<message index="37" name="msg_m1019_019_01_2">It's okay, thanks anyway.\nI know it's a lot to ask.</message>
+	<message index="38" name="msg_m1020_020_01_1">Thief! Thief!\nCatch the thief!\fMy precious apples were stolen!\nThere were three sneaky thieves!\nPlease catch them!</message>
+	<message index="39" name="msg_m1020_020_01_2">What!?\nI thought you were a hero...</message>
+	<message index="40" name="msg_m1021_021_01_1">Have you seen a bronze medal around here?\nI lost them here!\nSomeone will take them if I don't find them soon!\fThe medals were my grandpa's.\nHe got them from King Soleanna \nwhen he was a soldier.\fPlease!\nWill you help me find the bronze medals?</message>
+	<message index="41" name="msg_m1021_021_01_2">Okay, sorry to bother you.</message>
+	<message index="42" name="msg_m1022_022_01_1">This is the royal training grounds\nfor Soleanna's guards.\fWhat kind of training is it?\nIt's a training to quickly handle targets.\fThe point is to attack targets quickly! We try to\nbreak as many targets as possible within a\nlimited time.\fTo become a Soleannan guard, you need to\nbreak at least 15 targets. It's not easy to do\nif you haven't had any training.\fDo you want to try it?</message>
+	<message index="43" name="msg_m1022_022_02_1">This is the royal training grounds\nfor Soleanna's guards... Oh, it's you again.\fYou like training, huh?\nDo you want to try again?</message>
+	<message index="44" name="msg_m1022_022_01_2">Yeah.\nIt's hard for commoners like you. </message>
+	<message index="45" name="msg_m1023_023_01_1">Ta-la-la...\nNo... this song won't do.\nIt needs to be more upbeat.\fIf only there were something swift and\nstrong and gripping that I could use as\ninspiration... \fI need some swift action\nin there... something new.\fLike moving through 30 Rings at once...</message>
+	<message index="46" name="msg_m1023_023_01_2">I see... \nI need to find some inspiration... </message>
+	<message index="47" name="msg_m1026_026_01_1">Oh no, Sonic!\nThere's a bomb in the station.\nBut, the phone's dead...\fPlease go in the station and defuse the bomb!</message>
+	<message index="48" name="msg_m1028_028_01_1">Yo!\nAre you looking for the key, too?\fWhat? You don't know about the key?\nDuring festivals, the Principality of Soleanna \ngives a prize to the one who finds the key.\fThere's only one key. Hints are posted on\nboards all over the place, so you'll have look at\nthem in various places.\fIf you find the key from the hints,\nyou'll get a prize!\nDo you want to participate?</message>
+	<message index="49" name="msg_m1028_028_01_2">Okay, well, that's too bad.</message>
+	<message index="50" name="msg_m1033_033_01_1">Once upon a time, there were\nthree musketeers that saved\nSoleanna.\fAccording to the legend, they hid treasure\nsomewhere, but there were conditions that\nyou had to fulfill to get the treasure.\fRunning speed, rock-crushing\nstrength, and flying speed are the things\nyou had to show.\fBut, it's all a legend, so you can't find three\npeople who take it seriously enough to try it.\fHuh? You want to try it?\nThey say that if you go to the clock tower with\nthe right people, you can hear voices... \fYou really want to do it?</message>
+	<message index="51" name="msg_m1033_033_01_2">Yeah,\nthose legends aren't real, anyway.</message>
+	<message index="52" name="msg_m1034_034_01_1">Name That Song!\nHi, I'm Scott from Soleanna TV.\fI'll be hosting a Name That Song\ntournament in Soleanna today!\fHey you, are you into music?\nDo you want to try Name That Song?</message>
+	<message index="53" name="msg_m1034_034_01_2">Oh well, too bad.</message>
+	<message index="54" name="msg_m1008_008_01_1">Hey, did you know?\nThe legend of Soleanna's Ring Race!\fLong time ago there was a guy called Mels.\nHe went through all the Rings in this Castle\nTown in 5 minutes!\fIncredible speed, don’t you think?\nWhat? You think you are fast, too?\nWhy don’t you try it?</message>
+	<message index="55" name="msg_m1008_008_01_5">You're not going to do it?\nToo bad...</message>
+	<message index="56" name="msg_m1035_035_01_1">Oh no. I've hidden my key\ninside one of the barrels, but I\nforgot which one it was.\fThe Castle Town is huge, so I \ncan't look inside every barrel.\nI wish someone would help me... </message>
+	<message index="57" name="msg_m1035_035_01_2">Yeah, I guess it's hard to find one key\nin this whole town...</message>
+	<message index="58" name="msg_m1024_024_01_1">H... help!\nEggman's mechs ran off with my company's\ndisk!\fThat disk has all my company's top secret\nclassified data on it! Sonic, please!\nGet my disk back from them, hurry!</message>
+	<message index="59" name="msg_m1024_024_01_2">Hey, shouldn't you be busy doing something?\nWhat gives?\nYou call yourself a hero?!</message>
+	<message index="60" name="msg_m1029_029_01_1">P, please help me! Eggman's mechs\nsuddenly attacked me.\fI am terribly sorry, but you seem very strong.\nCan you please escort me to the Castle Town?</message>
+	<message index="61" name="msg_m1029_029_01_2">Oh…\nOkay…</message>
+	<message index="62" name="msg_m1003_003_01_2">What? It would only have taken a minute!</message>
+	<message index="63" name="msg_m1001_n001">Robert</message>
+	<message index="64" name="msg_m1003_n003">Galienna</message>
+	<message index="65" name="msg_m1004_n004">Pinto</message>
+	<message index="66" name="msg_m1005_n005">Pucci</message>
+	<message index="67" name="msg_m1005_n051">Porta</message>
+	<message index="68" name="msg_m1005_n052">Senni</message>
+	<message index="69" name="msg_m1005_n053">Ares</message>
+	<message index="70" name="msg_m1005_n054">Roberto</message>
+	<message index="71" name="msg_m1005_n055">Domenico</message>
+	<message index="72" name="msg_m1006_n006">Sandro</message>
+	<message index="73" name="msg_m1006_n056">Rocco</message>
+	<message index="74" name="msg_m1007_n007">Palermo</message>
+	<message index="75" name="msg_m1008_n008">Alessio</message>
+	<message index="76" name="msg_m1008_n057">Pietro</message>
+	<message index="77" name="msg_m1009_n009">Gabbani</message>
+	<message index="78" name="msg_m1010_n010">Berruni</message>
+	<message index="79" name="msg_m1011_n011">Guido</message>
+	<message index="80" name="msg_m1011_n058">Giorgio</message>
+	<message index="81" name="msg_m1011_n059">Fabio</message>
+	<message index="82" name="msg_m1011_n060">Alessio</message>
+	<message index="83" name="msg_m1012_n012">Gina</message>
+	<message index="84" name="msg_m1013_n013">Sonicman</message>
+	<message index="85" name="msg_m1014_n014">Aristo</message>
+	<message index="86" name="msg_m1015_n015">Lauren</message>
+	<message index="87" name="msg_m1016_n016">Salvatore</message>
+	<message index="88" name="msg_m1018_n018">Ken Williams</message>
+	<message index="89" name="msg_m1019_n019">Monica</message>
+	<message index="90" name="msg_m1020_n020">Enzo</message>
+	<message index="91" name="msg_m1020_n061">Thief</message>
+	<message index="92" name="msg_m1021_n021">Dino</message>
+	<message index="93" name="msg_m1022_n022">Soleanna Guard</message>
+	<message index="94" name="msg_m1023_n023">Verdi</message>
+	<message index="95" name="msg_m1026_n026">Station Staff</message>
+	<message index="96" name="msg_m1026_n062">Station Staff</message>
+	<message index="97" name="msg_m1027_n027">Julio</message>
+	<message index="98" name="msg_m1027_n063">Soleanna</message>
+	<message index="99" name="msg_m1028_n028">Sophia</message>
+	<message index="100" name="msg_m1030_n030">Oracle</message>
+	<message index="101" name="msg_m1031_n031">Oracle</message>
+	<message index="102" name="msg_m1032_n032">Oracle</message>
+	<message index="103" name="msg_m1033_n033">Rossi</message>
+	<message index="104" name="msg_m1033_n064">Antonio</message>
+	<message index="105" name="msg_m1034_n034">Ivan</message>
+	<message index="106" name="msg_m1035_n035">Lippi</message>
+	<message index="107" name="msg_m1014_014_01_2">Okay, that's too bad.\nI'll find someone else.</message>
+	<message index="108" name="msg_m1024_n024">Sandro</message>
+	<message index="109" name="me0003" placeholder="picture(button_a)">If you're near some Rings and you press\nthe $ button, you can do a Light Dash!</message>
+	<message index="110" name="msg_t00104a901_01_1">I saw a fox with two tails over by the plaza.\nIt seemed like he was looking for someone... </message>
+	<message index="111" name="msg_t00104a901_03_1">Are you going after the princess?\nPlease, help her!\fPromise me!\nSonic! Tails!</message>
+	<message index="112" name="msg_t00104a902_01_1">I was helping with the reconstruction,\nand boy, am I tired. I just finished.\fThere was someone called Tails who was helping,\nbut it seemed like he was looking for someone... </message>
+	<message index="113" name="msg_t00104a902_02_1">That Tails sure is a nice kid.\fHe was helping with the work the whole time.</message>
+	<message index="114" name="msg_t00104a902_03_1">Are you going after Dr. Eggman?\nYou should just forget about it.\fNot even Soleannan soldiers can stand up to\nthose robots.\nKids like you wouldn't stand a chance.</message>
+	<message index="115" name="msg_t00104a903_03_1">I'm not supposed to be here, but I snuck out.\nDon't tell anyone.\fHey, do you know the store in this town?\nThere's a lot of interesting things, so\nI always come to look.</message>
+	<message index="116" name="msg_t00104a904_03_1">I wonder what's going on at the beach?</message>
+	<message index="117" name="msg_t00104a011_03_1">(pant, pant)\nI was taking a walk by the beach... \fAnd suddenly all these mechs appeared... \nI barely got here alive.</message>
+	<message index="118" name="msg_t00104a012_03_1">It seems that there's danger over by the beach.\nAll I hear is rumors though.\nWho knows what's really going on?</message>
+	<message index="119" name="msg_t00104a905_03_1">The entrance to the beach is right there.\nCan you see it?\fThere's a "mirror" beyond the\nline of Rings.\fThat "mirror" is linked to the beach.</message>
+	<message index="120" name="msg_t00104a906_01_1">Soleanna has always been a peaceful country.\nI can't believe something like this would happen\novernight... </message>
+	<message index="121" name="msg_t00104a906_03_1">Do you know about this tower?\nThere is a huge bell on the top.\fThe fasteners are rusted, so they haven't rung\nin ages, but they were a symbol of peace in\nSoleanna... </message>
+	<message index="122" name="msg_t00104a907_01_1">I'm sure the soldiers will take care of Eggman!</message>
+	<message index="123" name="msg_t00104a908_01_1">There were rumors that the "Blue Wind" was\nseen during the festival, but I wonder if they're\ntrue... </message>
+	<message index="124" name="msg_t00104a909_01_1">We haven't seen anything like that since the\nfestivals started... no, there hasn't been anything\nlike that since there's been a Soleanna.\fWhat were the royal guards doing!?</message>
+	<message index="125" name="msg_t00104a910_01_1">The ocean is so calm... \nIt's hard to believe that all of that even\nhappened.</message>
+	<message index="126" name="msg_t00104a911_01_1">There's nothing we can do but pray... \nIf only someone would help us... </message>
+	<message index="127" name="msg_t00104a912_01_1">Princess, please be safe... </message>
+	<message index="128" name="msg_t00305a005_05_1">I'm sorry to make you worry... \n(sniff)\fI heard Eggman was going to the desert,\nso I just wanted to keep watch from\na high place.</message>
+	<message index="129" name="msg_t00305a005_06_1">I'm sorry... \n(sniff)</message>
+	<message index="130" name="msg_t00305a921_01_1">Is that true?\nI hope he doesn't come back to town.</message>
+	<message index="131" name="msg_t00305a922_01_1">If only I had a lot of Rings,\nI could buy that... </message>
+	<message index="132" name="msg_t00305a922_03_1">Have you collected a lot of Rings?\fThey just got a new shipment of stuff at the\nshop. Check it out before they sell out!</message>
+	<message index="133" name="msg_t00305a922_04_1">Dang, I can't buy the new stuff they have at the\nshop with just my allowance.</message>
+	<message index="134" name="msg_t00305a922_05_1">Hey, you just bought that, didn't you!?\nOh, wow, that's so cool!</message>
+	<message index="135" name="msg_t00305a017_01_1">Hey, did you hear?\fThey say the way to the desert was closed off\nbecause Eggman showed up there.</message>
+	<message index="136" name="msg_t00305a018_01_1">The way to the desert is usually left open,\nbut now there's soldiers blocking it... \fI wonder what happened?</message>
+	<message index="137" name="msg_t00305a018_03_1">Did you know that you can apply for permission\nto get to the desert? I just heard about it.</message>
+	<message index="138" name="msg_t00305a018_06_1">I heard some voices from over there, but\ndid something happen?</message>
+	<message index="139" name="msg_t00305a923_01_1">My daughter... my daughter... </message>
+	<message index="140" name="msg_t00305a923_03_1">I only looked away for just a second... \nHow did this happen?</message>
+	<message index="141" name="msg_t00305a923_06_1">Thank you!\nThank you so much!</message>
+	<message index="142" name="msg_t00305a923_07_1">Thank you very much.</message>
+	<message index="143" name="msg_t00305a021_03_1">You want to go to the desert?\nNot now, not now.\fA little girl got up on a roof somehow,\nand can't get down... \fWe need to do something... </message>
+	<message index="144" name="msg_t00305a021_05_1">Can't someone do something?</message>
+	<message index="145" name="msg_t00305a021_07_1">Be careful, you hear?</message>
+	<message index="146" name="msg_t00305a022_01_1">This is the way to the desert area.\nDr. Eggman has been seen in the desert, so\nwe're limiting access.\fIf you need to get through,\nyou'll need to get permission from Lord Regis.</message>
+	<message index="147" name="msg_t00305a924_01_1">What should I do?\nLord Regis told me to come here, but\nI can't climb up to that roof.</message>
+	<message index="148" name="msg_t00305a924_04_1">I think I can see something in that crack... </message>
+	<message index="149" name="msg_t00305a924_06_1">Wow, that was awesome!\nYou were great!</message>
+	<message index="150" name="msg_t00305a925_01_1">Hey, that kid's climbed all the way up there.\nWhat's she doing?</message>
+	<message index="151" name="msg_t00305a925_06_1">Sonic! I was watching you.\nThat was so cool!\fHow come you can jump so high?\nCome on, tell me!</message>
+	<message index="152" name="msg_t00305a926_01_1">Did you know?\nLord Regis used to be some kind of researcher.\nHe's really smart, you know.</message>
+	<message index="153" name="msg_t00406a927_09_1">Sonic... \nPlease don't fight... </message>
+	<message index="154" name="msg_t00406a928_09_1">Are you okay?\nI don't know what happened,\nbut it's not good to fight.</message>
+	<message index="155" name="msg_t00406a928_10_1">The New City?\nIt's a lively place for sure.</message>
+	<message index="156" name="msg_t00406a929_09_1">Hey, what's with that white-colored guy?\nHe was something else...\nmaking boxes float and stuff.</message>
+	<message index="157" name="msg_t00406a930_09_1">The guy you were fighting... \nHe had the most determined look in his eyes\nthat I've ever seen.\fI wonder what he's been through... </message>
+	<message index="158" name="msg_t00406a931_09_1">You want to know if Eggman's mechs came\nthis way?\fDo you think I'd be this calm if they had?\nWhat's going on?</message>
+	<message index="159" name="msg_t00406a931_10_1">The warehouse district?\nThat's not in the Castle Town…\nthat's over in the New City.\fThe warehouse district is pretty far from here,\nbut... \fYou're really fast, so it probably won't take long\nto get there.</message>
+	<message index="160" name="msg_t00406a005_09_1">Hey Sonic, do you remember me?\nMy name is Francesca.\fThank you for saving me when I couldn't get\ndown from the roof.\fIt seemed like something big happened\nover there, but were you okay, Sonic?</message>
+	<message index="161" name="msg_t00406a005_10_1">Sonic, are you going to the New City?\nBe sure to come back soon!</message>
+	<message index="162" name="msg_t00406a933_09_1">And, all of a sudden, one of Eggman's mechs\nwas right in front of me.\fWhere it went?\nSorry, I have no idea.\nIt was just so sudden... </message>
+	<message index="163" name="msg_t00406a933_10_1">The warehouse district?\nThat's over in the New City.\fThat gate right there leads to the New City.</message>
+	<message index="164" name="msg_t00406a934_09_1">This way is closed.\nI don't know why, but the captain\nsaid not to let you through... \fThere's a captain over there,\nso why don't you try asking there?</message>
+	<message index="165" name="msg_t00406a934_10_1">The captain said that?\nPlease, save the Princess, for me as well.</message>
+	<message index="166" name="msg_t00406a935_09_1">I'm not sure what to do about these sudden\norders. What did you do?</message>
+	<message index="167" name="msg_t00406a935_10_1">Well, the captain is a serious guy at heart.\nJust be careful.</message>
+	<message index="168" name="msg_t00406a996_10_1">Did you talk to the captain?</message>
+	<message index="169" name="msg_m1011_035_10_1">Please, help us!</message>
+	<message index="170" name="msg_t00406a936_09_1">Eggman's mechs have appeared in the New City...\nThis is terrible! I need to let everyone know\nright away.</message>
+	<message index="171" name="msg_t00406a936_10_1">I wonder what's happening in the New City?\nThe suspense is killing me!</message>
+	<message index="172" name="msg_t00406a937_09_1">This is just a rumor, but I heard that this building\nholds a very important secret... \fI tried to look inside, but no matter how much\nI pulled or pushed, I couldn't get the door open.</message>
+	<message index="173" name="msg_t00406b938_10_1">The warehouse district? Hmm... \nYou need to go all the way to the other side\nof town... \fThis is your first time to the New City?\nIf that's the case, it's probably better if you just\nfollow this big street.\fIt might take a little longer, but you'll be able\nto find it easier.</message>
+	<message index="174" name="msg_t00406b938_18_1">White Acropolis?\nHmm... No, never heard of it... </message>
+	<message index="175" name="msg_t00406b939_10_1">I keep hearing this really creepy sound coming\nfrom the warehouses... </message>
+	<message index="176" name="msg_t00406b939_16_1">What? Eggman's mechs were hiding there?\fThis city area's becoming pretty dangerous... \fMaybe I'll just skip work, and go home... </message>
+	<message index="177" name="msg_t00406b939_18_1">The White Acropolis?\nSorry, I don't know it... \fOh, but there was a kid I passed on the way\nhere yelling about something or the other.\fMaybe he knows something.</message>
+	<message index="178" name="msg_t00406b940_10_1">We've decided to patrol the town to make sure\neveryone's safe.</message>
+	<message index="179" name="msg_t00406b940_18_1">Wait, Sonic!\nIt's dangerous!\fEggman's mechs are over there.\nIt seems like they haven't noticed us yet, but... \fI wonder what they're doing?\nI'm scared... </message>
+	<message index="180" name="msg_t00406b941_10_1">Shh! Keep it down!\nI'm keeping watch on that sewer pipe to make\nsure no enemies are hiding there!</message>
+	<message index="181" name="msg_t00406b941_18_1">I tried to take a look in the sewer pipe,\nbut one of Eggman's mechs showed up\nall of a sudden!\fDo something, Sonic!</message>
+	<message index="182" name="msg_t00406b942_10_1">I can hear the wind coming through this hole.\nI wonder what it's connected to?</message>
+	<message index="183" name="msg_t00707b951_01_1">Oh, is something the matter?\fIf you need help, try going to the shop.</message>
+	<message index="184" name="msg_t00707b952_01_1">I just got a call from a friend, and he says that\nhe just saw Eggman inside the station!\fThe station?\nJust go straight along this street,\nand you'll see it.</message>
+	<message index="185" name="msg_t00707b953_01_1">Listen, I just got the biggest lead on a story!\nI'm so happy!\fHuh? You want to know what it is?\nOh, okay.\fI was inside the station, and I saw a strange\ntrain go by.\fI've never seen a train like that before.\nI'll bet it has something to do with Eggman!\fDon't tell anyone else about this!</message>
+	<message index="186" name="msg_t00707b954_01_1">Hey, did you hear?\nA friend of mine is a reporter, and sometimes I\nhear things on the down-low... \fI heard that Eggman got on a train, and\nwent somewhere.\fDon't tell anyone that I told you that!</message>
+	<message index="187" name="msg_t00707b955_01_1">The station has been closed off for security\nreasons.</message>
+	<message index="188" name="msg_t00707b956_01_1">The station is currently closed.</message>
+	<message index="189" name="msg_t00707b957_01_1">Have you ever met Lord Regis from the castle\ntown? He used to do a lot of research, and even\ngot some kind of award a long time ago.\fI wonder what he's like?</message>
+	<message index="190" name="msg_t00707b958_01_1">This is supposed to be a ventilation shaft\nthat connects to the station. I wonder if\nthere's some way to open it, and get inside.</message>
+	<message index="191" name="msg_t00707b959_01_1">Did you know?\nThere's a legend in Soleanna about an eagle.\fA long time ago, the city of Soleanna was hit by\na huge fire. A big eagle appeared, and saved the\nwhole city... \fIt's a crazy old fairy tale.\nSome of the old folks still believe it, though.</message>
+	<message index="192" name="msg_t00707b960_01_1">What?\nThe battleship is about to explode?\fThat's terrible!\nI've got to let Mom and Dad know!</message>
+	<message index="193" name="msg_t00707b961_01_1">What are you so worked up about?\nWhat!? The battleship is about to explode!?\nThat's terrible!\fYeah, right. You can't trick me that easily.</message>
+	<message index="194" name="msg_t01009a964_12_1">Sigh... \nWhen will we be able to go home again?</message>
+	<message index="195" name="msg_t01009a965_12_1">You were talking to Anna earlier, right?\nIs there anything new going on?</message>
+	<message index="196" name="msg_t01009a966_12_1">I wonder what this building is.\nI've lived here in Soleanna for a long time,\nbut no one knows what this building is.\fI wonder what's inside... </message>
+	<message index="197" name="msg_t01009a971_12_1">I heard Princess Elise went to find Eggman\nall by herself.\fI'm sure she was trying to protect us from harm.\nShe's so kind, and so noble... </message>
+	<message index="198" name="msg_t01009a973_12_1">I heard Princess Elise has been kidnapped again.\nI don't know what to believe any more... </message>
+	<message index="199" name="msg_t01009a974_12_1">Poor Princess Elise... \fIf only she'd been born to a normal family,\nshe wouldn't have to go through all of this... </message>
+	<message index="200" name="msg_t01210a981_01_1">The way to the old castle of Soleanna?\fHmm... \nIt has always been a holy place, and only\nthose of the royal family could enter.\fPeople associated with the royal family\nmay know something helpful.</message>
+	<message index="201" name="msg_t01210a046_01_1">The way to the old castle of Soleanna?\nIt's been a while since anyone has asked\nme that.\fThe old castle is a holy place, and only those\nof the royal family may enter.\fThe entrance is blocked by a special seal, which\ntests anyone who tries to enter.\fIf you want to enter the old castle, you must\novercome three trials.\fThese are trials of life and death... \fAre you sure you want to face them?</message>
+	<message index="202" name="msg_t01210a046_03_2">Very well, I will take you to the trials.</message>
+	<message index="203" name="msg_t01210a046_03_3">I see. It can't be helped... </message>
+	<message index="204" name="msg_t01210c046_05_1">This is where the trials are held.\fWhen all three of the stone pillars around you\nare alight, the path to the old castle shall open.</message>
+	<message index="205" name="msg_t01210c046_06_1">You have successfully cleared the "Trial of\nKnowledge." But there are still two trials to go... </message>
+	<message index="206" name="msg_t01210c046_07_1">You have cleared the "Trial of Courage"\nas well... \fBut the last trial may prove to be\nthe most difficult.</message>
+	<message index="207" name="msg_t01210c046_08_1">You have cleared even the final trial... \fGrab onto that eagle,\nand proceed to the old castle.\fPlease save the Princess,\nsmall hero... </message>
+	<message index="208" name="msg_m1030_038_05_1">The first trial is the "Trial of Knowledge."\nThis will test your mind... \fAre you ready?\nBegin!</message>
+	<message index="209" name="msg_m1030_038_06_1">You have done well.\nProceed to the second trial.</message>
+	<message index="210" name="msg_m1030_038_07_1">Only the final trial remains.\nBe ready for anything!</message>
+	<message index="211" name="msg_m1030_038_08_1">You have completed all of the trials.\nPlease, save the Princess... </message>
+	<message index="212" name="msg_m1032_039_05_1">First, complete the first trial.</message>
+	<message index="213" name="msg_m1032_039_06_1">The second trial is the "Trial of Courage."\nThis will test the strength of your heart.\fAre you ready?\nLet us begin the second trial.</message>
+	<message index="214" name="msg_m1032_039_07_1">You have done well.\nNow, proceed to the final trial.</message>
+	<message index="215" name="msg_m1032_039_08_1">You have completed all of the trials.\nNow, hurry to the old castle.</message>
+	<message index="216" name="msg_m1031_040_05_1">First, complete the first trial.</message>
+	<message index="217" name="msg_m1031_040_06_1">First, complete the second trial.</message>
+	<message index="218" name="msg_m1031_040_07_1">The final trial is the "Trial of Love."\nThis may be the most difficult trial\nfor you.\fAre you ready?\nLet us begin the final trial.</message>
+	<message index="219" name="msg_m1031_040_08_1">You have done well.\nNow, let that eagle carry you.</message>
+	<message index="220" name="msg_t01210a970_01_1">Eggman came again... \nIt was so scary... </message>
+	<message index="221" name="msg_t01210a971_01_1">Princess Elise went to find Eggman all by herself.\fI'm sure she did it to keep the rest of us\nfrom harm... She's so kind, and so noble... </message>
+	<message index="222" name="msg_t01210a972_01_1">The wind of Soleanna will blow again.\nI hope we'll see peace soon... </message>
+	<message index="223" name="msg_t01210a973_01_1">I heard Princess Elise was kidnapped again.\nI don't know what to believe any more... </message>
+	<message index="224" name="msg_t01210a974_01_1">Poor Princess Elise... \fIf only she'd been born to a normal family,\nshe wouldn't have to go through any of this... </message>
+	<message index="225" name="msg_t01410a021_03_1">You're looking for Soleannan researchers?\nWell, perhaps I can help you there.\fI myself used to work at the Soleannan\nlaboratory.\fThe way into the secret base?\nI could tell you, I suppose, but I don't know how\nuseful it would be... \fTo enter the secret base,\nyou need to ring the three bells of Soleanna.\fBut... \nIt may no longer be possible.\fThe clasps are rusted, and the bells no longer\nring for as long as they used to.\fWith a strong impact, they may still ring\nlong enough... </message>
+	<message index="226" name="msg_t01410a021_05_1">The bells rang perfectly.\nThe door to the laboratory should now be open.</message>
+	<message index="227" name="msg_t01410a992_03_1">It's been a really long time since there was\nresearch going in in Soleanna, so I can't really\nhelp. Sorry... </message>
+	<message index="228" name="msg_t01410a992_05_1">The bells rang all of a sudden,\nbut what was that about?</message>
+	<message index="229" name="msg_t01410a993_03_1">Soleannan researchers?\fI was still a kid when the laboratory\nwas open, so I don't really know... \fThe incident happened ten years ago, so\nyou're going to need to ask some older people.</message>
+	<message index="230" name="msg_t01410a993_05_1">It's been a while since I heard the bells.\nIt reminds me of when I was a kid... </message>
+	<message index="231" name="msg_t01410a994_03_1">Heh, heh. Ah, yes, I remember.\fOne of my friends was a researcher, too.\nHe's very different now, though.</message>
+	<message index="232" name="msg_t01410a994_05_1">Heh, heh.\nSuch nice weather, and the sound of the bells.\nIt's a perfect day for a walk.</message>
+	<message index="233" name="msg_t01410a995_03_1">You're looking for former researchers?\nMy old man used to work at the laboratory,\nbut he lives pretty far away now... \fAny other researchers?\nWhat are you talking about?\nHave you forgotten about Lord Regis?\fHe's pretty old now, but he used to be\nan elite researcher in his time.</message>
+	<message index="234" name="msg_t01410a995_05_1">How long has it been since I've heard\nthe bells ring?</message>
+	<message index="235" name="msg_t00104a080_01_1">Entry is prohibited while\nreconstruction is underway.</message>
+	<message index="236" name="msg_t00104a081_01_1">You can't get through here\nbecause of the construction.</message>
+	<message index="237" name="msg_t00104a082_01_1">Please wait until the\nconstruction is completed.</message>
+	<message index="238" name="msg_t00104a083_01_1">Entry past this point is\nprohibited for now.</message>
+	<message index="239" name="1">Not to sound weird or anything,\nbut did you have something you\nneeded to do here?</message>
+	<message index="240" name="msg_t00305a022_07_1">Oh, you have a pass from Lord Regis!\nThen there's no problem.\nGo right ahead.</message>
+	<message index="241" name="msg_t01210b982_01_1">Tails was over in Castle Town.\nHe seemed to be in a panic over something,\nso you might want to catch up with him.</message>
+	<message index="242" name="msg_t01210b985_01_1">Something's going on over in Castle Town.\nI wonder if it has something to do with\nthat flying battleship?</message>
+	<message index="243" name="msg_t01210a983_01_1">I saw Tails over that way.</message>
+	<message index="244" name="msg_t01210a983_02_1">The bishop?\nI didn't see him come this way.</message>
+	<message index="245" name="msg_t01210a984_01_1">Tails?  I think I saw him around the Altar.</message>
+	<message index="246" name="msg_t01210a984_02_1">The bishop headed over there. You can see\nthe building from the bell tower.</message>
+	<message index="247" name="msg_t00305a021_06_1">You've saved us! On\nbehalf of the townsfolk,\nlet me give you our thanks.\fYou want to go to the desert?\nJust let the soldiers know\nthat you're heading out.\fThey say Eggman headed out\nthat way, so please be\ncareful.</message>
+	<message index="248" name="msg_t00305a022_06_1">Oh, Lord Regis told me\nabout you. Please, go\nright on ahead.</message>
+	<message index="249" name="msg_t01210a986_01_1">I saw the bishop over there.</message>
+	<message index="250" name="msg_t01210a987_01_1">The bishop? I think I saw\nhim down by the bell tower.</message>
+	<message index="251" name="msg_t01210a988_01_1">The bishop is down below\nthe bell.</message>
+	<message index="252" name="msg_t01410a996_03_1">You're looking for the\nSoleanna laboratory? I'm\nnot actually sure, but...\f"When the 3 sounds chime,\nthe royal family's secret\ndoor will open," they say.\fI wonder if they're talking\nabout the bells around town.</message>
+	<message index="253" name="msg_t01410a996_05_1">You rang all the bells!\nNow you can get to the lab\nfrom the temple.\fThe temple? It's the round\nbuilding surrounded by the\narched pillars.</message>
+	<message index="254" name="msg_t01410a997_03_1">You're looking for the\nSoleanna laboratory? I'm\nnot actually sure, but...\f"When the 3 sounds chime,\nthe royal family's secret\ndoor will open," they say.\fI wonder if they're talking\nabout the bells around town.</message>
+	<message index="255" name="msg_t01410a997_05_1">You rang all the bells!\nNow you can get to the lab\nfrom the temple.\fThe temple? It's the round\nbuilding surrounded by the\narched pillars.</message>
+	<message index="256" name="msg_t01410a998_03_1">One of the bells is atop this\nbuilding. The other two are in\nhigh towers.\fThe bells are placed in a\ntriangle, so they should be\neasy to find.</message>
+	<message index="257" name="msg_t01410a999_03_1">You can get to the laboratory\nfrom this building, but you\nhave to open the door.\fPerhaps some former lab workers\ncould tell you how the door\ncan be opened.</message>
+	<message index="258" name="msg_t01410a999_05_1">Hey, you rang the bells!\nNow you can get to the lab\nfrom here.</message>
+	<message index="259" name="msg_t00406a996_09_1">Have you been to the gate?\nThey've got it closed off.\nI heard the captain did that.</message>
+	<message index="260" name="msg_m1011_035_09_1">Huh? You want me to open the\ngate so you can get into the\nNew City plaza?\fDid somebody tell you that\nI'd just go ahead and do\nthat for you?\fIn that case, I'm sorry\nto say I can't actually\nhelp you.\fI'm just a lieutenant.\nAre you looking for the\ncommander?\fWell, if you just talk to\nevery soldier in town, you'll\nfind him eventually, right?</message>
+	<message index="261" name="msg_t00305a021_01_1">Dr. Eggman?\nI don't have time for that right now.\nPlease, come back later.\fA little girl got up on a roof somehow,\nand can't get down... </message>
+	<message index="262" name="msg_t01210a001_01_1" placeholder="sound(twn01_e17_an)">$Ancient castle? But to get there... \nYou need to pass Soleanna's test.\nThe bishop will know more.</message>
+	<message index="263" name="msg_t01410a001_01_1" placeholder="sound(twn01_e19_an),sound(twn01_e19_1_an)">$Soleanna's lab is underneath the castle.\nBut, after the Duke's death, it has been\nshut down and sealed away.\f$If you can find one of the former\nresearchers, they may be able to guide you.</message>
+	<message index="264" name="msg_t01009a001_01_1" placeholder="sound(twn01_e14_an)">$This is terrible!\nPrincess Elise went to see Eggman by herself.\nTails, please help her!</message>
+	<message index="265" name="msg_t00104a913_01_1">I've never seen you before.\nAre you a tourist?\nWell, welcome to Soleanna!\fPeople that you can talk to\nhave a conversation icon\nabove their heads, like me.\fYellow icons show people who\nwant to talk to you.\fOrange icons show people who\nhave valuable hints.\fBlue icons show people who\nare looking for help.\fThe same colors are also\nshown on your radar.\nTake a look!\fIf you're lost on where to\ngo, you might want to check\naround for info first!</message>
+	<message index="266" name="msg_t00000b151_01_1">Welcome to the New City of Soleanna.\fThis city's big, isn't it?\nKeep an eye out for tall buildings and other\nlandmarks so you don't get lost.</message>
+	<message index="267" name="msg_t00000b152_01_1">Uh... Turn right at the second building, then\nleft at the intersection... No, wait, was it right?\fPlus a bunch of strange kids were running after\nme, yelling something about littering... Sigh... </message>
+	<message index="268" name="msg_t00000b153_01_1">Do you know about the caves near here?\nI wanted to explore them after school,\nbut my girlfriend doesn't want me to go.\fI just want some more "me" time, you know?\nI wonder if this is what marriage is like?</message>
+	<message index="269" name="msg_t00000b154_01_1">Even if the world was ending,\nall I want is to be with my boyfriend.\f...I wonder if I'm too clingy?</message>
+	<message index="270" name="msg_t00000b155_01_1">This city of Soleanna used to be a calm,\npeaceful city, filled with nature.\fLife's more convenient, sure, but it makes\nme long for the good old days... </message>
+	<message index="271" name="msg_t00000b156_01_1">Sigh... \fOh, I'm sorry.\nI'm a freelance journalist, you see... \fI wanted to come out to the big city, and\nget some big stories, and make it big as\na journalist.\fBut this city's so peaceful!\nThere was a little earthquake, but\nnothing else happens here!</message>
+	<message index="272" name="msg_t00000b157_01_1">Luppy!\fOh, sorry. Don't be scared.\nThis is a new greeting I came up with.\fI've combined "lucky" and "happy" into one word!\n"Luppy"!\fHere, why don't you try it, too?\nLu... Come on, don't be shy!</message>
+	<message index="273" name="msg_t00000b158_01_1">Hey, are you a tourist?\nLet me tell you about Soleannan cuisine.\fFirst and foremost, you've got to try the\nseafood. Soleanna is surrounded by the\nsea, and the seafood is to die for.\fThe Soleannan crab, in particular, is world-famous\nfor its juicy meat and intense flavor!\fComing to Soleanna and not eating the crab\nis like turning down a date with the Princess!</message>
+	<message index="274" name="msg_t00000b159_01_1">This is odd... \nI still can't get to my meeting... \nIs this the wrong way?\fAnd to top it all off, a bunch of strange kids ran\nafter me yelling something about jaywalking... \nSigh... </message>
+	<message index="275" name="msg_t00000b160_01_1">I'm going shopping with my daughter today!\nI can't even remember the last time we did this.</message>
+	<message index="276" name="msg_t00000b161_01_1">Come on, Mom!\nI wanted to go out with my friends today, not\ngo shopping with you!</message>
+	<message index="277" name="msg_t00000b162_01_1">Freeze! Don't move!\fI can't believe I lost it... \nIt doesn't look like it's around here.\fHuh? What's wrong?\nOh, you can go ahead and move now.</message>
+	<message index="278" name="msg_t00000b163_01_1">What?\nWhat do you want from me?</message>
+	<message index="279" name="msg_t00000b164_01_1">We're the Soleannan patrol!\fWe're patrolling the city... \nBut there's absolutely nothing going on.\fI wish something would happen.\nSomething not too scary... </message>
+	<message index="280" name="msg_t00000b165_01_1">We're the Soleannan patrol!\fWe arrested one person for littering, and\none person for jaywalking today!</message>
+	<message index="281" name="msg_t00000b166_01_1">Hm? You want to know what I'm doing?\nIt's kind of a long story... \fI'm going on an international business trip for the\nfirst time. I need to take a long train ride, but... \fI thought the trip was today, but this ticket\nis for tomorrow.\fI can't get on the train, and my boss is probably\nwondering where I am... \nWhat am I supposed to do?</message>
+	<message index="282" name="msg_t00000b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
+	<message index="283" name="msg_t00000b168_01_1">The gates are closed temporarily!\nThank you for your cooperation!</message>
+	<message index="284" name="msg_t00000b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
+	<message index="285" name="msg_t00000b170_01_1">Hi.\nI'm a starving artist, as you can see.\fI've fallen in love with the Soleannan sea.\nI've been here for years, just painting\nthe sea.\fThe sea here is amazing. The colors are entirely\ndifferent depending on the day and the time.\nI can never get enough of painting it!\fOh, sorry. I got a little carried away.\nCome by and visit if you have some time.\nI'll be around here somewhere.</message>
+	<message index="286" name="msg_t00000b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
+	<message index="287" name="msg_t00000b172_01_1">... ... \fCoo... </message>
+	<message index="288" name="msg_t00000b173_01_1">This is the station. Look, there's a lot of\npeople walking around the station.</message>
+	<message index="289" name="msg_t00000b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
+	<message index="290" name="msg_t00000b175_01_1">That's a "Network Shop."\nYou can use it to shop without going all the way\nto the Castle Town.\fEverything's so convenient these days.</message>
+	<message index="291" name="msg_t00000b176_01_1">Hey, try getting on this spring.</message>
+	<message index="292" name="msg_t00000b176_01_2">Hee hee, surprised?\fI put this here, but there's a lot more\nin other places, so look for them!\nYou might find some surprising places.</message>
+	<message index="293" name="msg_t00000b177_01_1">There's an exclamation point above the heads of\npeople you can talk to in town.\fPeople with important hints have different\ncolors, so keep an eye out for them.</message>
+	<message index="294" name="msg_t00000b178_01_1">This is the famous clocktower for the New City.\nThis city's large, so if you get lost\nyou can use this as a landmark.</message>
+	<message index="295" name="msg_t00000b182_01_1">To save, press $ and select save.\fIf you don't do anything, you won't save at all,\nso be careful.</message>
+	<message index="296" name="msg_t00000b179_01_1">This is the warehouse district.\nThe vast majority of the goods that arrive in\nSoleanna are distributed from here.</message>
+	<message index="297" name="msg_t00000b180_01_1">This is a nice place, isn't it?\nI like to come here and watch the yachts\nwhen the weather's good.</message>
+	<message index="298" name="msg_t00000b181_01_1">This is the entrance to the highway.\nThere are a lot of cars beyond here, so\nplease watch out.</message>
+	<message index="299" name="msg_t00000b199_01_1">I'm the accordion player in this town.\nHere, let me play an old Soleannan tune for you.\f"The Sea is Calling"\fOn the quiet sea, the birds rest... \nThe Soleannan sun shines warmly... \fOur sea, our ocean, with its great love... \nBringing us peace and hope... \fThis town has a long history, so\nthere are a lot of old songs.\nCome by any time if you want to hear more.</message>
+	<message index="300" name="msg_t00000c251_01_1">If you go straight on here\nthere's a gate leading to the city.</message>
+	<message index="301" name="msg_t00000c252_01_1">I was taking a walk, and I fell from the cliff.\nNow I can't get back without going all the\nway around. What a pain... Maybe I'll go home.</message>
+	<message index="302" name="msg_t00000c253_01_1">My Dad thinks he tells the best jokes\nin the world. He's always practicing\nwhen Mom's not looking.</message>
+	<message index="303" name="msg_t00000c254_01_1">I ordered a pizza the other day, and the\nguy asked me, "Do you want that cut into\n8 pieces? Or 6?"\fSo I told him!\f"Hey, I may be fat, but I can't eat 8 pizzas!\n6 is enough!"</message>
+	<message index="304" name="msg_t00000c255_01_1">I've gotten used to living in the city,\nbut it's always nice to get away from\nit all, and relax in the woods.</message>
+	<message index="305" name="msg_t00002c251_01_1">If you go straight on here\nthere's a gate leading to the city.\fI think it's closed now, though.</message>
+	<message index="306" name="msg_t00002c252_01_1">If you go up this hill and follow the road,\nthere's a tall tower that looks like a ruin.\nIt looks like there's something at the top of it... </message>
+	<message index="307" name="msg_t00002c253_01_1">My Dad thinks he tells the best jokes\nin the world. He's always practicing\nwhen Mom's not looking.\fI don't think he's that funny, though... </message>
+	<message index="308" name="msg_t00002c254_01_1">A friend of mine said the other day,\n"I ate too many donuts, and put on all\nthis weight!"\fSo I told him!\f"At least you could've left the holes\nin the middle!"</message>
+	<message index="309" name="msg_t00002c255_01_1">Listening to the birds chirping in the woods\nis so relaxing.\nThat's why I always find myself here.</message>
+	<message index="310" name="msg_t00004a051_01_1">I'm Emanuella.\nI go to college in Soleanna.\nYou can call me Emma.\fSometimes I get this feeling like someone's\nwatching me. I turn around, and no one's there,\nbut... It's just kind of creepy, you know?</message>
+	<message index="311" name="msg_t00004a052_01_1">She says she feels like someone's watching her.\nIt's okay, though, because I'll protect her.\fI fell madly in love with her the first time\nI saw her. But she'd never give me the time\nof day... \fThat's what I always thought.\nBut watching you, I feel like I can do it, too!\fI'm going to tell her how I feel about her!\nI'm going to tell her that I... uh... </message>
+	<message index="312" name="msg_t00004a053_01_1">What is Eggman trying to do?\nThe way he's acting, it's hard to believe that\nhe's just after ransom money... \fWhat's going to happen to this country?</message>
+	<message index="313" name="msg_t00004a054_01_1">I heard the "Blue Wind" blew when the\nPrincess was kidnapped, but couldn't\nsave her.\fMan, that's weak.\nI would've karate-chopped Eggman and saved the\nPrincess, no problem!\fHuh? Well, I had a stomach ache that day, so\nI was at home in bed. Really.</message>
+	<message index="314" name="msg_t00004a055_01_1">There's no school today.\nIt's right after all of that happened, so\nI guess it can't be helped.\fI was really looking forward to class today, too.\nI'll never forgive that Eggman person!</message>
+	<message index="315" name="msg_t00004a056_01_1">You're not thinking about fighting Eggman,\nare you?\fYou should really think twice about that.\nHe may look kinda silly, but he's a\ngenius scientist, right?</message>
+	<message index="316" name="msg_t00004a057_01_1">Come on, Sis!\nLet's go home!</message>
+	<message index="317" name="msg_t00004a058_01_1">This sucks.\nWe came out here on vacation, but\ndid something happen?\fA lot of shops are closed, and people are looking\nall tense... You look a little tense, too.\fDid something happen?\nIt's okay, you can tell me.</message>
+	<message index="318" name="msg_t00004a059_01_1">Eggman's nothing!\nI'll take him down with my famous\nkarate-chop!\f...That's what my dad said.</message>
+	<message index="319" name="msg_t00004a060_01_1">The sun of Soleanna shines down equally on\neveryone, young and old.\fOn rainy days, and on windy days... \nEven the day that Eggman arrived.\fWow, I'm a poet!</message>
+	<message index="320" name="msg_t00004a061_01_1">I spent years saving my money, and finally\nbought a condo in the New City.\nI was supposed to move in today.\fBut with the big earthquake the other day,\nand Eggman's attack yesterday, the whole\nplace is a mess!\fI can't move in for a while, but my old place has\nalready been sold.\nWhat am I supposed to do now?</message>
+	<message index="321" name="msg_t00004a062_01_1">Lord Regis in the Castle Town was an old\nschool buddy of mine.\fWe used to do a lot of science experiments\ntogether.\fHe's always been such a serious fellow.</message>
+	<message index="322" name="msg_t00004a063_01_1">Grandpa's always like this...telling stories\nabout his friend Lord Regis.\nThey must've been really good friends.</message>
+	<message index="323" name="msg_t00004a064_01_1">I'm keeping an eye on the sea.\nIf he attacks again, I've got to let everyone\nknow, so they can get away.\fI don't know what Eggman wants, but\nI'm going to protect this town!</message>
+	<message index="324" name="msg_t00004a065_01_1">The New City is up ahead.\nThe gate may be closed from time to time\nfor security reasons.</message>
+	<message index="325" name="msg_t00004a066_01_1">It seems that Princess Elise's kidnapping\nis causing many people to volunteer\nto become soldiers and fight Eggman.\fBut Soleanna has never had a strong military.\nWe have only minimal weaponry, so more\nsoldiers won't really help us.\fThere's not much we can do against advanced\nweaponry and military power, unfortunately.\nWe need to think of something, though... </message>
+	<message index="326" name="msg_t00004a068_01_1">My son left home years ago, saying that\nhe was going to make it big in the city.\fI wonder what he's doing now... </message>
+	<message index="327" name="msg_t00004a070_01_1">I haven't seen you around before... \nAre you a traveler?\nThis is the Altar of Flame.\fThis altar has been used in festivals for\ngenerations.\fBut now... </message>
+	<message index="328" name="msg_t00004a071_01_1">Hey, did you hear?\nWhen Princess Elise was about to be kidnapped,\nthe "Blue Wind" saved her!</message>
+	<message index="329" name="msg_t00004a072_01_1">Did you hear about the "Blue Wind"?\nIt's gotta be the guardian spirit of Soleanna!</message>
+	<message index="330" name="msg_t00004a073_01_1">The previous Duke Soleanna was a noble man.\nHe was very intelligent, even in his younger days.\fEveryone loved Duke Soleanna.\fBut for something like that to happen... \nNo, never mind.\nIt's just the ramblings of an old man.</message>
+	<message index="331" name="msg_t00004a074_01_1">The Principality of Soleanna has always been\na neutral country. It has never invaded another\nnation.\fBut Eggman's sudden attack... \nWhat is he trying to do?</message>
+	<message index="332" name="msg_t00004b151_01_1">Welcome to the New City of Soleanna.\fSoleanna has always been a peaceful city.\nI can't believe that anything like last night\nwould happen. The Princess, kidnapped... </message>
+	<message index="333" name="msg_t00004b152_01_1">Let's see... Right at the second building, then\nright at the intersection... No, was it left?\nI keep getting lost here... \fEveryone looks so tense, too... \nI wonder if something happened?</message>
+	<message index="334" name="msg_t00004b153_01_1">I'm going to go save the Princess!\nI can't sit here and do nothing!\fBut my girlfriend doesn't want me to go.\nShe's jealous, or something.\nWomen can be such a pain... </message>
+	<message index="335" name="msg_t00004b154_01_1">Who's more important to you, Princess Elise\nor me? Would you rather go chasing after her\nthan be with me?\fIf only I could come right out and say that.\nOh, wait, I just did, didn't I?</message>
+	<message index="336" name="msg_t00004b155_01_1">Soleanna used to be a calm, peaceful\nplace, filled with nature.\fLife is more convenient, but it's hard for\nan old woman to adapt.</message>
+	<message index="337" name="msg_t00004b156_01_1">This is it! This is my big story!\nIt may not be good news, but... \fI'm a journalist, and it's my job to report\nwhat happens.\fMy next scoop will be, "The mysterious shadow\nthat saved the kidnapped Princess!"\nI'll be rooting for you!</message>
+	<message index="338" name="msg_t00004b157_01_1">Luppy!\fOh, sorry. Don't be scared.\nThis is a new greeting I came up with.\fI've combined "lucky" and "happy" into one word!\n"Luppy"!\fHere, why don't you try it, too?\nLu... Come on, don't be shy!</message>
+	<message index="339" name="msg_t00004b158_01_1">Hey, are you a tourist?\nLet me tell you about Soleannan cuisine.\fSoleanna is well-known for its seafood, but\nyou need to try the local junk food,\nthe frite sandwich!\fIt's fresh vegetables and fish,\ndeep-fried and put in a bun with\nfresh lemon juice.\fThe food here is so good that if you're here for\na week, you'll gain 10 pounds. You better make\nsure you don't eat too much!</message>
+	<message index="340" name="msg_t00004b159_01_1">What's going on here?\nI still can't find my business meeting.\nIs this the wrong street...?</message>
+	<message index="341" name="msg_t00004b160_01_1">Hee hee, I'm out shopping with my daughter\nagain today.\fShe treats me like I'm old, and insists on\ncarrying my bags.</message>
+	<message index="342" name="msg_t00004b161_01_1">Geez, Mom!\nI'm just trying to be nice!</message>
+	<message index="343" name="msg_t00004b162_01_1">Freeze! Don't move!\fI can't find it! Where is it!?\nIf it's not here,\nthe only other place it could be is... \fHey, what's wrong?\nOh, you can go ahead and move now.</message>
+	<message index="344" name="msg_t00004b163_01_1">Go away.\nJust go away... </message>
+	<message index="345" name="msg_t00004b164_01_1">We're the Soleannan Patrol!\fThere's been a major incident in the peaceful\ntown of Soleanna!\fOur idol, the Princess Elise, has been\nkidnapped by the evil scientist Eggman!\fBut this is no time to panic. We must first\ngather information!\fSo... Do you have any information?</message>
+	<message index="346" name="msg_t00004b165_01_1">We're the Soleannan Patrol!\fWe need to arrest Eggman on charges of\nkidnapping Princess Elise, but we don't know\nwhere he is!</message>
+	<message index="347" name="msg_t00004b166_01_1">Hm? You want to know what I'm doing?\nIt's kind of a long story, but... \fToday is the day of my first international\nbusiness trip! I got the dates messed up and\nshowed up yesterday, but today I'm ready to go!\fI put the ticket in my wallet so I wouldn't forget\nit, but then I forgot my wallet at home.\fIf I go home now I'll miss the train,\nand I don't have my wallet, so I can't buy\nanother ticket. What should I do?</message>
+	<message index="348" name="msg_t00004b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
+	<message index="349" name="msg_t00004b168_01_1">This is the gate between the Castle Town and\nthe New City. I'm guarding it to make sure no\nsuspicious people pass through.</message>
+	<message index="350" name="msg_t00004b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
+	<message index="351" name="msg_t00004b170_01_1">Hi. I'm a starving artist, as you can see.\nI sit here every day painting the sea, but\nsomeone just made me an offer... \fThey offered to pay me a lot of money to\npaint a perfect imitation of a famous artist's\npainting of the sea.\fI've heard about an organization that pays\npoor artists to make fakes of famous paintings,\nthen sells them to museums.\fI like the idea of lots of people seeing my work,\nand getting paid, but still... I don't know if this\nis such a good idea... </message>
+	<message index="352" name="msg_t00004b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
+	<message index="353" name="msg_t00004b172_01_1">Coo... </message>
+	<message index="354" name="msg_t00004b173_01_1">This is the station, but with all of the things\nthat have been going on, it keeps getting shut\ndown. It's terrible, really.</message>
+	<message index="355" name="msg_t00004b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
+	<message index="356" name="msg_t00004b175_01_1">The shop gets new products every once in a\nwhile, so it's a good idea to keep checking back.</message>
+	<message index="357" name="msg_t00004b176_01_1">Apparently you can find places in town where\nyou can grind.\fYou might find some hidden in some surprising\nplaces.</message>
+	<message index="358" name="msg_t00004b199_01_1">I'm the town's accordion player.\nHere's a song for Princess Elise. I hope\nshe's okay... \f"Beautiful Elise"\fOh, beautiful Princess Elise... \nPrincess Elise, Princess Elise... \fOh, beautiful Princess Elise... \nBeautiful beautiful Princess Elise... \fAll of my love and all of my dreams\nare only for you... \fOh, beautiful Princess Elise... \nBeautiful beautiful Princess Elise... \fI've got to come up with a song of celebration\nfor when she comes back safely.</message>
+	<message index="359" name="msg_t00004c251_01_1">If you go down here and to the right,\nthere's a gate leading to the city.</message>
+	<message index="360" name="msg_t00004c252_01_1">If you go up this hill and follow the road,\nthere's a tall tower that looks like a ruin.\nIt looks like there's something at the top of it... </message>
+	<message index="361" name="msg_t00004c253_01_1">My Dad thinks he tells the best jokes\nin the world. He's always practicing\nwhen Mom's not looking.\fI don't think he's that funny, though... </message>
+	<message index="362" name="msg_t00004c254_01_1">The other day, a friend of mine says,\n"They're saying on the radio that there's\na car going the wrong way on the highway!"\fSo I told him!\f"That's nothing! Every other car except for ours\nis going the wrong way!"</message>
+	<message index="363" name="msg_t00004c255_01_1">The woods seem different today... \fI wonder if it's just me.\nI hope nothing bad happens... </message>
+	<message index="364" name="msg_t00007a051_01_1">Sometimes I get this feeling like someone's\nwatching me.\fI turn around, and no one's there,\nbut... It's just kind of creepy, you know?</message>
+	<message index="365" name="msg_t00007a052_01_1">She says she feels like someone's watching her.\fI'm so glad that I follow her around to protect\nher.\fI've... I've decided.\nI'm going to tell her how I feel about her!</message>
+	<message index="366" name="msg_t00007a053_01_1">I wonder what Eggman's up to?\nHe's so desperate, he must be\ntrying to do something big... \fI can't even begin to imagine what it might be... </message>
+	<message index="367" name="msg_t00007a054_01_1">Things are getting kind of dangerous lately,\nso a lot of girls are coming up to me and\nasking me to protect them.\fWhat? You want to meet those girls?\nUh, sure! Maybe some other time.\nI'm busy practicing my karate-chop.</message>
+	<message index="368" name="msg_t00007a055_01_1">School's closed, so we all wanted to go to\nthe New City to play, but my parents said\nit's too dangerous.\fSigh... \nI wish someone would hurry up and stop Eggman.</message>
+	<message index="369" name="msg_t00007a056_01_1">You're doing some pretty risky things,\naren't you?\nI worry about you... \fWhen things settle down, why don't you come\nby? I'll make a tasty stew for you!</message>
+	<message index="370" name="msg_t00007a057_01_1">Hm? You want to know what a bunch of\nSoleannan soldiers are doing here?\fWe're certainly not slacking off or anything.\nWe're discussing how best to protect the country.</message>
+	<message index="371" name="msg_t00007a058_01_1">Simply wishing for something won't make it\nhappen. We need to actively make it happen!\fFreedom for Soleanna!\nPeace and happiness for her citizens!\fSo... How do we make that happen?</message>
+	<message index="372" name="msg_t00007a059_01_1">Those soldiers have just been sitting there\nand talking all day.\fThey should just do whatever they can,\ninstead of sitting there talking.</message>
+	<message index="373" name="msg_t00007a060_01_1">When things settle down I'd like to\ngo to the beach with my girlfriend.\nOr maybe a barbeque in the desert!\fHmm... No, a barbeque in the woods might be\nbetter. Or skiing! Or snowboarding!\fBut first, I need to find a girlfriend.\nSo much to do, so little time... </message>
+	<message index="374" name="msg_t00007a061_01_1">The condo I bought in the New City is ruined.\nI already sold my old house, so I have nowhere\nto live... \fWhat am I supposed to do?</message>
+	<message index="375" name="msg_t00007a062_01_1">Lord Regis in the Castle Town is an old\nschool buddy of mine.\fI heard that he stood up to Eggman, and\ngot locked away somewhere. He's always\nbeen a brave man.</message>
+	<message index="376" name="msg_t00007a063_01_1">Grandpa keeps telling anyone who'll listen\nall about his friend Lord Regis. He must be\nreally happy.</message>
+	<message index="377" name="msg_t00007a064_01_1">Why are you looking so serious?\nIs something wrong? What is it?\fDon't just keep it all bottled up inside.\nYou can always trust me.</message>
+	<message index="378" name="msg_t00007a065_01_1">The New City is just beyond here. This gate may\nbe closed for security reasons from\ntime to time. Thank you for cooperating!</message>
+	<message index="379" name="msg_t00007a066_01_1">I'm new here, so if you have questions,\nplease ask the guard on the right!</message>
+	<message index="380" name="msg_t00007a067_01_1">I heard that there was trouble in Soleanna,\nso I came back home. I was worried about\nmy Mom... \fI'm so glad she's okay.\nThis is a good chance to stay for a while,\nand take care of her.</message>
+	<message index="381" name="msg_t00007a068_01_1">My son, the one that ran away from home... \nHe came back! He heard about what was going\non, and he got worried and came back!\fI'm so happy!\nNot everything that happens is bad, is it?</message>
+	<message index="382" name="msg_t00007a070_01_1">In Soleanna, the sun has always been considered\nto be sacred.\fThe flames used during festivals probably have\nsomething to do with that.</message>
+	<message index="383" name="msg_t00007a071_01_1">Hey, did you hear?\nThey say the "Blue Wind"\nlooks like a hedgehog.</message>
+	<message index="384" name="msg_t00007a072_01_1">A hedgehog?\nIsn't that a white one, then? I've been seeing\na white hedgehog around here a lot.</message>
+	<message index="385" name="msg_t00007a073_01_1">Ever since Duke Soleanna passed away,\nPrincess Elise has done a wonderful job\nprotecting and leading her people.\fThat's why everyone loves and respects\nher so much.\fI do hope she comes back soon... </message>
+	<message index="386" name="msg_t00007a074_01_1">Soleanna used to be known for its natural beauty\nand peacefulness. But now... </message>
+	<message index="387" name="msg_t00007b151_01_1">Welcome to the New City of Soleanna.\fI wonder why Eggman kidnapped Princess Elise?\nI hope she's okay... </message>
+	<message index="388" name="msg_t00007b152_01_1">Let's see... Right at the third building, then\nleft at the intersection... No, was it right?\nI keep getting lost here... \fEveryone looks so tense, too... \nI wonder if something happened?</message>
+	<message index="389" name="msg_t00007b153_01_1">I'm going to go save the Princess!\nI can't wait any longer!\fHow can I do nothing when a maiden is in\ndistress!? But my girlfriend won't let\nme go... What should I do?</message>
+	<message index="390" name="msg_t00007b154_01_1">If it's that important to you,\nthen I won't stop you anymore... \fI wish I had enough self-confidence\nto say that to him.</message>
+	<message index="391" name="msg_t00007b155_01_1">This city isn't a good place for old folks like me.\nI keep thinking of the good old days, when there\nwas plenty of nature here.\fThat was back when Duke Soleanna was just\na child... \fHe was such a cute child, with an intelligent little\nface... \nOh well, never mind me... </message>
+	<message index="392" name="msg_t00007b156_01_1">This girl says she got lost, and can't find\nher boyfriend. So I'm helping her look for him.\fMy job as a journalist is important too,\nbut I can't just ignore her... \fIt's times like this, when we all need to\nfight against evil, we really need\nto come together in the spirit of cooperation.\fWhoa. Where did that come from?\nNever mind, forget I said anything.</message>
+	<message index="393" name="msg_t00007b157_01_1">Luppyluppy!\fOh, sorry. Don't be scared.\nThis is a new greeting I came up with.\fI've combined "luppy" and "luppy" into one word!\n"Luppyluppy"!\fIn times like these, it's important to stay upbeat!</message>
+	<message index="394" name="msg_t00007b158_01_1">Hey, are you a tourist?\nLet me tell you about Soleannan cuisine.\fThe sweet, juicy fruits of Soleanna are\nworld-famous, especially apples!\fThey're crispy, yet bursting with\nsweet, flavorful juice! Soleannan apples\nare enjoyed worldwide.\fApples are used as hidden flavoring in all kinds\nof Soleannan cooking, too.\nTry one if you get a chance!</message>
+	<message index="395" name="msg_t00007b159_01_1">What's going on here?\nI still can't find my business meeting.\nIs this the wrong street...?</message>
+	<message index="396" name="msg_t00007b160_01_1">Hee hee, I'm out shopping with my daughter\nagain today.\fWe can't agree on who's going to carry\nthe bags, so we're switching every\n50 yards.</message>
+	<message index="397" name="msg_t00007b161_01_1">Geez, my mom's so stubborn!\nI said I'd carry the bags, but she just\nwon't listen!\fBut I guess I'm just as stubborn... \nI'm her daughter, after all! Ha!</message>
+	<message index="398" name="msg_t00007b162_01_1">Freeze! Don't move!\fIt's not here... It's not here!\nIt's not here, either!\nI'm going to have to look for it all over again!\fWhat's wrong?\nOh, yeah, you can go ahead and move now.</message>
+	<message index="399" name="msg_t00007b163_01_1">Don't look at me.\nI don't like it when people look at me... </message>
+	<message index="400" name="msg_t00007b164_01_1">We're the Soleannan Patrol!\fWe need to arm ourselves for the upcoming\nbattle against Eggman!\fI'm a melee fighting kind of guy, so I'm going\nto use the bat my dad got me!</message>
+	<message index="401" name="msg_t00007b165_01_1">We're the Soleannan Patrol!\fWe must arm ourselves for the upcoming\nbattle against Eggman.\fI'm more of a ranged fighter, so I'm going to use\nthe super water rifle my mom bought me!</message>
+	<message index="402" name="msg_t00007b166_01_1">Hm? You want to know what I'm doing?\nIt's a long story, but... \fToday was supposed to be the day of my first\ninternational business trip. I've had the worst\nluck, but I thought I could finally go today.\fBut they say that something happened,\nand the station is closed.\fThe company I was going to meet with\nis mad at me, and my boss says I'm fired.\nWhat am I supposed to do now?\fWell, since I lost my job anyway,\nmaybe I'll write a book about my experiences.\f"How To Have the Worst Luck Ever"... \nNo one's going to buy that, are they?</message>
+	<message index="403" name="msg_t00007b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
+	<message index="404" name="msg_t00007b168_01_1">This is the gate between the Castle Town and\nthe New City. I'm guarding it to make sure no\nsuspicious people pass through.</message>
+	<message index="405" name="msg_t00007b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
+	<message index="406" name="msg_t00007b170_01_1">Hi. I'm a starving artist, as you can see.\nI sit here every day painting the sea, but\nsomeone just made me an offer... \fThey offered to pay me a lot of money to\npaint a perfect imitation of a famous artist's\npainting of the sea.\fI'm still trying to figure out what to do.\nShould I make money by painting forgeries?\fDo I take money, or my pride?\nThat's the question... </message>
+	<message index="407" name="msg_t00007b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
+	<message index="408" name="msg_t00007b172_01_1">Coo... </message>
+	<message index="409" name="msg_t00007b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
+	<message index="410" name="msg_t00007b175_01_1">If you don't have enough money to buy things\nin stores, try helping out people in town.\fIf you take care of requests for them,\nthey might give you some Rings.</message>
+	<message index="411" name="msg_t00007b176_01_1">If you go through this warp hole,\nyou'll end up somewhere else.\fIf you use it right, you can get to faraway\nplaces really quickly.</message>
+	<message index="412" name="msg_t00007b199_01_1">I'm the town's accordion player.\nOnce everything's over, I'll make a song\nabout your adventures.</message>
+	<message index="413" name="msg_t00007c251_01_1">If you go straight on here\nthere's a gate leading to the city.</message>
+	<message index="414" name="msg_t00007c252_01_1">I wonder what that tower is\nat the top of the hill?\nIt looks really old... </message>
+	<message index="415" name="msg_t00007c253_01_1">My Dad thinks he tells the best jokes\nin the world. He's always practicing\nwhen Mom's not looking.\fI don't think he's that funny, though... </message>
+	<message index="416" name="msg_t00007c254_01_1">A friend of mine says the other day,\n"I got bitten by a dog in town, and it was\nterrible!"\fSo I told him!\f"Put a sign on your pants that says,\n'No biting!'"</message>
+	<message index="417" name="msg_t00007c255_01_1">Am I seeing things?\nI thought I saw a huge eagle flying by... </message>
+	<message index="418" name="msg_t00009a051_01_1">Moldi is such an interesting person!\fWe get along so well.\nI've never met anyone who understands me\nlike he does!</message>
+	<message index="419" name="msg_t00009a052_01_1">We've decided to start off as friends,\nand see where it goes from there!\fI'm so happy I finally told her how I feel!\nLife is awesome!\nI love the whole world!</message>
+	<message index="420" name="msg_t00009a053_01_1">I finally know what Eggman is after!\nHe must be in love with the Princess!\fBut, hmm... \fIf it's love he's after,\nwhy didn't he kidnap my wife?\nShe's so amazingly beautiful... </message>
+	<message index="421" name="msg_t00009a054_01_1">There's rumors about Eggman's mechs in\nthe New City.\fIt's time for me to unveil my karate-chop.\nI'm on my way, just as soon as I get something\nto eat!</message>
+	<message index="422" name="msg_t00009a055_01_1">Why are you in such a hurry?\nAre you going to go save the Princess?\nCome on, tell me!</message>
+	<message index="423" name="msg_t00009a056_01_1">You're doing some pretty risky things,\naren't you?\nI worry about you... \fWhen things settle down, why don't you come\nby? I'll make a tasty stew for you!</message>
+	<message index="424" name="msg_t00009a057_01_1">Hm? You want to know what a bunch of\nSoleannan soldiers are doing here?\fWe're certainly not slacking off or anything.\nWe're discussing how best to protect the country.</message>
+	<message index="425" name="msg_t00009a058_01_1">Simply wishing for something won't make it\nhappen. We need to actively make it happen!\fFreedom for Soleanna!\nPeace and happiness for her citizens!\fSo... How do we make that happen?</message>
+	<message index="426" name="msg_t00009a059_01_1">Those soldiers have just been sitting there\nand talking all day.\fThey should just do whatever they can,\ninstead of sitting there talking.</message>
+	<message index="427" name="msg_t00009a060_01_1">When things settle down I'd like to\ngo to the beach with my girlfriend.\nOr maybe a barbeque in the desert!\fHmm... No, a barbeque in the woods might be\nbetter. Or skiing! Or snowboarding!\fBut first, I need to find a girlfriend.\nSo much to do, so little time... </message>
+	<message index="428" name="msg_t00009a061_01_1">The condo I bought in the New City is ruined,\nso I can't move in for a while.\fI'd already moved out of my old place, so\nI wasn't sure what to do, but... \fI'd been fighting with my dad for the longest\ntime, but we patched things up, and I'm going\nto live with him for a while.</message>
+	<message index="429" name="msg_t00009a062_01_1">I'm glad to help. Plus I'm glad that we're\nfinally talking again. Ho, ho.</message>
+	<message index="430" name="msg_t00009a063_01_1">I wonder why Eggman kidnapped Princess Elise?\fCould it be... love?\nNah... </message>
+	<message index="431" name="msg_t00009a064_01_1">Why are you looking so serious?\nIs something wrong? What is it?\fDon't just keep it all bottled up inside.\nYou can always trust me.</message>
+	<message index="432" name="msg_t00009a065_01_1">The New City is just beyond here. This gate may\nbe closed for security reasons from\ntime to time. Thank you for cooperating!</message>
+	<message index="433" name="msg_t00009a066_01_1">I'm new here, so if you have questions,\nplease ask the guard on the right!</message>
+	<message index="434" name="msg_t00009a067_01_1">I heard that there was trouble in Soleanna,\nso I came back home. I was worried about\nmy Mom... \fI'm so glad she's okay.\nThis is a good chance to stay for a while,\nand take care of her.</message>
+	<message index="435" name="msg_t00009a068_01_1">My son, the one that ran away from home... \nHe came back! He heard about what was going\non, and he got worried and came back!\fI'm so happy!\nNot everything that happens is bad, is it?</message>
+	<message index="436" name="msg_t00009a070_01_1">This the Altar of Flame, also known as the\nAltar of Light.\fI've heard from the bishop that there is\nsomething nearby that is connected to\nthe dark... \fPerhaps it's true that light and darkness\nalways come in pairs.</message>
+	<message index="437" name="msg_t00009a071_01_1">Hey, did you hear?\nThe people over in the royal family\nare running around like something happened.\fDo you think something's happened to\nPrincess Elise?</message>
+	<message index="438" name="msg_t00009a072_01_1">It's okay,\nI'm sure the guardian of Soleanna will\nsave her.\fYou know, like the time at the festival,\nwhen the "Blue Wind" saved her.</message>
+	<message index="439" name="msg_t00009a073_01_1">The incident 10 years ago was so terrible.\nEveryone cried when the Duke passed away.\fEven now, I get misty-eyed when I talk about\nit like this... </message>
+	<message index="440" name="msg_t00009a074_01_1">Soleanna used to be known for its natural beauty\nand peacefulness. But now... </message>
+	<message index="441" name="msg_t00009b151_01_1">Welcome to the New City of Soleanna.\fI wonder when Princess Elise will return?\nI hope she's okay... </message>
+	<message index="442" name="msg_t00009b152_01_1">Let's see... Right at the fifth building, then\nstraight at the intersection... No, was it right?\nWait, wasn't I just here?\fEveryone looks so tense, too... \nI wonder if something happened?</message>
+	<message index="443" name="msg_t00009b153_01_1">I tried to go save the Princess!\nBut I ran into one of Eggman's mechs,\nand it came running after me... \fIt was really scary! My girlfriend was with me,\nbut then we lost sight of each other. I have to\nfind her quickly, or she'll slap me!</message>
+	<message index="444" name="msg_t00009b154_01_1">I was with my boyfriend, but we got separated\nin all the confusion. I wonder where he went?\fWe promised each other we'd be together\nforever... *sob*</message>
+	<message index="445" name="msg_t00009b155_01_1">Eggman's mechs are showing up in town now,\ntoo... \fI can understand how everyone feels, but\nwe need to make sure we don't panic.\fFear and worry lead to panic.\nYou should make sure you always stay calm, too.</message>
+	<message index="446" name="msg_t00009b156_01_1">This girl says she got lost, and can't find\nher boyfriend. So I'm helping her look for him.\fMy job as a journalist is important too,\nbut I can't just ignore her... \fIt's times like this, when we all need to\nfight against evil, we really need\nto come together in the spirit of cooperation.\fWhoa. Where did that come from?\nNever mind, forget I said anything.</message>
+	<message index="447" name="msg_t00009b157_01_1">Luppyluppy!\fOh, sorry. Don't be scared.\nThis is a new greeting I came up with.\fI've combined "luppy" and "luppy" into one word!\n"Luppyluppy"!\fIn times like these, it's important to stay upbeat!</message>
+	<message index="448" name="msg_t00009b158_01_1">Hey, are you a tourist?\nLet me tell you about Soleannan cuisine.\fThe tastiest part of any Soleannan meal\nis the dessert!\fSorbets made with fresh fruit,\nflavorful gelatos... \nThere's nothing wrong with loving dessert!\fI can never get enough dessert!\nThat's why I keep gaining weight... \nIt's terrible... </message>
+	<message index="449" name="msg_t00009b159_01_1">What's going on here?\nI still can't find my business meeting.\nIs this the wrong street...?</message>
+	<message index="450" name="msg_t00009b160_01_1">Hee hee, I'm out shopping with my daughter\nagain today.\fWe can't agree on who's going to carry\nthe bags, so we're switching every\n50 yards.</message>
+	<message index="451" name="msg_t00009b161_01_1">Geez, my mom's so stubborn!\nI said I'd carry the bags, but she just\nwon't listen!\fBut I guess I'm just as stubborn... \nI'm her daughter, after all! Ha!</message>
+	<message index="452" name="msg_t00009b162_01_1">Freeze! Don't move!\fHere it is!\nI found my contact lens!\nI'm so glad!\fWhat's wrong with you?\nOh, you can move now.\fIt flew all the way over here... \nI'm so glad I kept looking for it.</message>
+	<message index="453" name="msg_t00009b163_01_1">What do you want?\nGo away.\fIt looks like Agent Rouge did well... \nI didn't have to do anything.\fHm?\nNo, nothing.\nGo away.</message>
+	<message index="454" name="msg_t00009b164_01_1">We're the Soleannan Patrol!\fWe need to arm ourselves for the upcoming\nbattle against Eggman!\fI'm a melee fighting kind of guy, so I'm going\nto use the bat my dad got me!</message>
+	<message index="455" name="msg_t00009b165_01_1">We're the Soleannan Patrol!\fWe must arm ourselves for the upcoming\nbattle against Eggman.\fI'm more of a ranged fighter, so I'm going to use\nthe super water rifle my mom bought me!</message>
+	<message index="456" name="msg_t00009b166_01_1">Hm? You want to know what I'm doing?\nIt's a long story, but... \fToday was supposed to be the day of my first\ninternational business trip. I've had the worst\nluck, but I thought I could finally go today.\fBut they say that something happened,\nand the station is closed.\fThe company I was going to meet with\nis mad at me, and my boss says I'm fired.\nWhat am I supposed to do now?\fWell, since I lost my job anyway,\nmaybe I'll write a book about my experiences.\f"How To Have the Worst Luck Ever"... \nNo one's going to buy that, are they?</message>
+	<message index="457" name="msg_t00009b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
+	<message index="458" name="msg_t00009b168_01_1">This is the gate between the Castle Town and\nthe New City. I'm guarding it to make sure no\nsuspicious people pass through.</message>
+	<message index="459" name="msg_t00009b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
+	<message index="460" name="msg_t00009b170_01_1">I'm a starving artist, as you can see.\nI was offered a lot of money to do a forgery\nof a famous artist's painting of the sea... \fBut I turned it down.\nI want to paint my own art, not get money for\nfaking someone else's.\fThen the guy took off his hat, and said,\n"I've been looking for someone like you."\nIt was a world-famous painter!\fHe agreed to take me on as his apprentice,\nand he never takes apprentices!\nI'm so happy, I don't know what to think!\fI can't believe something like this would\nhappen! I'm so glad I didn't give up... </message>
+	<message index="461" name="msg_t00009b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
+	<message index="462" name="msg_t00009b172_01_1">Coo... </message>
+	<message index="463" name="msg_t00009b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
+	<message index="464" name="msg_t00009b175_01_1">The owner of the shop is named Enrique.\nHe's a good guy.\nHe never gives discounts, though.</message>
+	<message index="465" name="msg_t00009b199_01_1">I'm the town's accordion player.\nOnce everything's over, I'll make a song\nabout your adventures.</message>
+	<message index="466" name="msg_t00009c251_01_1">If you go straight on here\nthere's a gate leading to the city.</message>
+	<message index="467" name="msg_t00009c252_01_1">I wonder what that tower is\nat the top of the hill?\nIt looks really old... </message>
+	<message index="468" name="msg_t00009c253_01_1">The other day, my dad says,\n"Good kids who listen to Mom deserve\na nice present."\fSo I told him!\f"That's a good idea, Dad. Why don't you\ngo get yourself a nice present?"</message>
+	<message index="469" name="msg_t00009c254_01_1">My daughter has started telling jokes, too.\nNot only that, she's even funnier than I am.\fWe're going to be the funniest\nfather-daughter comedy duo ever!\nHa, ha!</message>
+	<message index="470" name="msg_t00009c255_01_1">There's so much unpleasantness in the city\nand Castle Town these days. I've been coming\nout to the woods a lot more often.</message>
+	<message index="471" name="msg_t_n051">Emma</message>
+	<message index="472" name="msg_t_n052">Moldi</message>
+	<message index="473" name="msg_t_n053">Old Man</message>
+	<message index="474" name="msg_t_n054">Middle-aged Man</message>
+	<message index="475" name="msg_t_n055">Girl</message>
+	<message index="476" name="msg_t_n056">Middle-aged Woman</message>
+	<message index="477" name="msg_t_n057">Soleannan Soldier</message>
+	<message index="478" name="msg_t_n058">Soleannan Soldier</message>
+	<message index="479" name="msg_t_n059">Boy</message>
+	<message index="480" name="msg_t_n060">Soleannan Soldier</message>
+	<message index="481" name="msg_t_n061">Middle-aged Man</message>
+	<message index="482" name="msg_t_n062">Old Man</message>
+	<message index="483" name="msg_t_n063">Woman</message>
+	<message index="484" name="msg_t_n064">Woman</message>
+	<message index="485" name="msg_t_n065">Soleannan Soldier</message>
+	<message index="486" name="msg_t_n066">Soleannan Soldier</message>
+	<message index="487" name="msg_t_n067">Young Man</message>
+	<message index="488" name="msg_t_n068">Middle-aged Woman</message>
+	<message index="489" name="msg_t_n069">Woman</message>
+	<message index="490" name="msg_t_n070">Woman</message>
+	<message index="491" name="msg_t_n071">Young Man</message>
+	<message index="492" name="msg_t_n072">Young Man</message>
+	<message index="493" name="msg_t_n073">Old Man</message>
+	<message index="494" name="msg_t_n074">Old Man</message>
+	<message index="495" name="msg_t_n151">Woman</message>
+	<message index="496" name="msg_t_n152">Business Man</message>
+	<message index="497" name="msg_t_n153">Boy</message>
+	<message index="498" name="msg_t_n154">Girl</message>
+	<message index="499" name="msg_t_n155">Old Man</message>
+	<message index="500" name="msg_t_n156">Woman</message>
+	<message index="501" name="msg_t_n157">Middle-aged Man</message>
+	<message index="502" name="msg_t_n158">Middle-aged Man</message>
+	<message index="503" name="msg_t_n159">Business Man</message>
+	<message index="504" name="msg_t_n160">Middle-aged Woman</message>
+	<message index="505" name="msg_t_n161">Woman</message>
+	<message index="506" name="msg_t_n162">Business Woman</message>
+	<message index="507" name="msg_t_n163">Middle-aged Man</message>
+	<message index="508" name="msg_t_n164">Boy</message>
+	<message index="509" name="msg_t_n165">Boy</message>
+	<message index="510" name="msg_t_n166">Business Man</message>
+	<message index="511" name="msg_t_n167">Soleannan Soldier</message>
+	<message index="512" name="msg_t_n168">Soleannan Soldier</message>
+	<message index="513" name="msg_t_n169">Soleannan Soldier</message>
+	<message index="514" name="msg_t_n170">Painter</message>
+	<message index="515" name="msg_t_n171">Waiter</message>
+	<message index="516" name="msg_t_n172">Hatsun</message>
+	<message index="517" name="msg_t_n173">Station Worker</message>
+	<message index="518" name="msg_t_n174">Young Man</message>
+	<message index="519" name="msg_t_n175">Young Man</message>
+	<message index="520" name="msg_t_n176">Young Man</message>
+	<message index="521" name="msg_t_n177">Young Man</message>
+	<message index="522" name="msg_t_n178">Young Man</message>
+	<message index="523" name="msg_t_n179">Young Man</message>
+	<message index="524" name="msg_t_n180">Young Man</message>
+	<message index="525" name="msg_t_n181">Woman</message>
+	<message index="526" name="msg_t_n199">Accordion Player</message>
+	<message index="527" name="msg_t_n251">Young Man</message>
+	<message index="528" name="msg_t_n252">Boy</message>
+	<message index="529" name="msg_t_n253">Woman</message>
+	<message index="530" name="msg_t_n254">Middle-aged Man</message>
+	<message index="531" name="msg_t_n255">Old Man</message>
+	<message index="532" name="msg_t_npp001">Townsperson</message>
+	<message index="533" name="msg_t_npp002">Young Man</message>
+	<message index="534" name="msg_t_npp003">Woman</message>
+	<message index="535" name="msg_t_npp004">Youth</message>
+	<message index="536" name="msg_t_npp005">Man</message>
+	<message index="537" name="msg_t_npp006">Woman</message>
+	<message index="538" name="msg_t_npp007">Middle-aged Man</message>
+	<message index="539" name="msg_t_npp008">Middle-aged Woman</message>
+	<message index="540" name="msg_t_npp009">Old Man</message>
+	<message index="541" name="msg_t_npp010">Old Woman</message>
+	<message index="542" name="msg_t_npp011">Child</message>
+	<message index="543" name="msg_t_npp012">Boy</message>
+	<message index="544" name="msg_t_npp013">Girl</message>
+	<message index="545" name="msg_t_npp014">Young Child</message>
+	<message index="546" name="msg_t_npp015">Little Boy</message>
+	<message index="547" name="msg_t_npp016">Little Girl</message>
+	<message index="548" name="msg_t_npp017">Business Man</message>
+	<message index="549" name="msg_t_npp018">Business Woman</message>
+	<message index="550" name="msg_t_npp019">Soleannan Soldier</message>
+	<message index="551" name="msg_t_npp020">Guard</message>
+	<message index="552" name="msg_t_npp021">Station Worker</message>
+	<message index="553" name="msg_t_npp022">Gondolier</message>
+	<message index="554" name="msg_t_npp023">Thief</message>
+	<message index="555" name="msg_t_npp024">Accordion Player</message>
+	<message index="556" name="msg_t_npp025">Waiter</message>
+	<message index="557" name="msg_t_npp026">Camera Crew</message>
+	<message index="558" name="msg_t_npp027">Sonicman</message>
+	<message index="559" name="msg_t_npp028">Shop Worker</message>
+	<message index="560" name="msg_t_npp029">Enrique</message>
+	<message index="561" name="msg_t_npp030">Worker</message>
+	<message index="562" name="msg_t_npp031">Painter</message>
+	<message index="563" name="msg_t_npp032">Director</message>
+	<message index="564" name="msg_t_npp033">Priest</message>
+	<message index="565" name="msg_t_npp034">Bishop</message>
+	<message index="566" name="msg_t_npp035">Archaeologist</message>
+	<message index="567" name="msg_t_npp036">Agent</message>
+	<message index="568" name="msg_t_npp037">Lady-in-waiting</message>
+	<message index="569" name="msg_t_npp038">GUN Soldier</message>
+	<message index="570" name="msg_t_npp039">Lord Regis</message>
+	<message index="571" name="msg_t_npp040">Francesca</message>
+	<message index="572" name="msg_t_npp041">Mother</message>
+	<message index="573" name="msg_t_npp042">Royal Guard</message>
+	<message index="574" name="msg_t_npp043">Royal Guard Alessio</message>
+	<message index="575" name="msg_t_npp044">Lieutenant</message>
+	<message index="576" name="msg_t_npp045">Captain</message>
+	<message index="577" name="msg_t_npp046">Pietro</message>
+	<message index="578" name="msg_t_npp047">Guido</message>
+	<message index="579" name="msg_t_npp048">Georgio</message>
+	<message index="580" name="msg_t_npp049">Alessio</message>
+	<message index="581" name="msg_t_npp050">Fabio</message>
+	<message index="582" name="msg_t_npp051">Researcher</message>
+	<message index="583" name="msg_t_npp052">Former Researcher</message>
+	<message index="584" name="msg_t_npp053">Rimlight Employee</message>
+	<message index="585" name="msg_t_npp054">Emma</message>
+	<message index="586" name="msg_t_npp055">Moldi</message>
+	<message index="587" name="msg_t_npp056">Hatsun</message>
+	<message index="588" name="msg_t_npp057">Hyande</message>
+	<message index="589" name="msg_t_npp058">Metti</message>
+	<message index="590" name="msg_t_npp059">Nicol</message>
+	<message index="591" name="msg_t_npp060">Tayje</message>
+	<message index="592" name="msg_t_npp061">Faren</message>
+	<message index="593" name="msg_t_npp062">Morrio</message>
+	<message index="594" name="msg_t_npp063">Samasun</message>
+	<message index="595" name="msg_t_npp064">Mizo</message>
+	<message index="596" name="msg_t_npp065">Danny</message>
+	<message index="597" name="msg_t_npp066">Madouna</message>
+	<message index="598" name="msg_t_npp067">Mary</message>
+	<message index="599" name="msg_t_npp068">Maxi</message>
+	<message index="600" name="msg_t_npp069">Cabas</message>
+	<message index="601" name="msg_t_npp070">Makerolens</message>
+	<message index="602" name="msg_t_npp071">Abraham</message>
+	<message index="603" name="msg_t_npp072">Ding</message>
+	<message index="604" name="msg_t_npp073">Bob</message>
+	<message index="605" name="msg_t_npp074">Simona</message>
+	<message index="606" name="msg_t_npp075">Tomaso</message>
+	<message index="607" name="msg_t_npp076">Baldasare</message>
+	<message index="608" name="msg_t_npp077">Tronto</message>
+	<message index="609" name="msg_t_npp078">Laura</message>
+	<message index="610" name="msg_t_npp079">Simon</message>
+	<message index="611" name="msg_t_npp080">Marco</message>
+	<message index="612" name="msg_t_npp081">Luca</message>
+	<message index="613" name="msg_t_npp082">Federico</message>
+	<message index="614" name="msg_t_npp083">Kiara</message>
+	<message index="615" name="msg_t00007b173_01_1">This is the station, but with all of the things\nthat have been going on, it keeps getting shut\ndown. It's terrible, really.</message>
+	<message index="616" name="hint_twn01_a00_sn" placeholder="sound(twn01_a00_sn)">$Maybe I'll go to the Castle Town.</message>
+	<message index="617" name="hint_twn01_a00_tl" placeholder="sound(twn01_a00_tl)">$Let's go to the Castle Town!</message>
+	<message index="618" name="hint_twn01_a00_kn" placeholder="sound(twn01_a00_kn)">$Let's go to the Castle Town!</message>
+	<message index="619" name="hint_twn01_a00_sd" placeholder="sound(twn01_a00_sd)">$Maybe I'll go to the Castle Town... </message>
+	<message index="620" name="hint_twn01_a00_rg" placeholder="sound(twn01_a00_rg)">$Do you want to go to the Castle Town?</message>
+	<message index="621" name="hint_twn01_a00_om" placeholder="sound(twn01_a00_om)">$Let's go to the Castle Town.</message>
+	<message index="622" name="hint_twn01_a00_am" placeholder="sound(twn01_a00_am)">$Do you want to go to the Castle Town?</message>
+	<message index="623" name="hint_twn01_a00_bz" placeholder="sound(twn01_a00_bz)">$Let's go to the Castle Town.</message>
+	<message index="624" name="hint_twn01_a00_sv" placeholder="sound(twn01_a00_sv)">$Maybe I'll go to the Castle Town.</message>
+	<message index="625" name="hint_twn01_a01_sn" placeholder="sound(twn01_a01_sn)">$Maybe I'll go to the forest.</message>
+	<message index="626" name="hint_twn01_a01_tl" placeholder="sound(twn01_a01_tl)">$Let's go to the forest!</message>
+	<message index="627" name="hint_twn01_a01_kn" placeholder="sound(twn01_a01_kn)">$Let's go to the forest!</message>
+	<message index="628" name="hint_twn01_a01_sd" placeholder="sound(twn01_a01_sd)">$Maybe I'll go to the forest... </message>
+	<message index="629" name="hint_twn01_a01_rg" placeholder="sound(twn01_a01_rg)">$Do you want to go to the forest?</message>
+	<message index="630" name="hint_twn01_a01_om" placeholder="sound(twn01_a01_om)">$Let's go to the forest.</message>
+	<message index="631" name="hint_twn01_a01_am" placeholder="sound(twn01_a01_am)">$Do you want to go to the forest?</message>
+	<message index="632" name="hint_twn01_a01_bz" placeholder="sound(twn01_a01_bz)">$Let's go to the forest.</message>
+	<message index="633" name="hint_twn01_a01_sv" placeholder="sound(twn01_a01_sv)">$Maybe I'll go to the forest.</message>
+	<message index="634" name="hint_twn01_a02_sn" placeholder="sound(twn01_a02_sn)">$I'll head to the New City!</message>
+	<message index="635" name="hint_twn01_a02_tl" placeholder="sound(twn01_a02_tl)">$Do you want to head to the New City?</message>
+	<message index="636" name="hint_twn01_a02_kn" placeholder="sound(twn01_a02_kn)">$Let's go to the New City.</message>
+	<message index="637" name="hint_twn01_a02_sd" placeholder="sound(twn01_a02_sd)">$Maybe I'll head over to the New City.. </message>
+	<message index="638" name="hint_twn01_a02_rg" placeholder="sound(twn01_a02_rg)">$Do you want to go to the New City?</message>
+	<message index="639" name="hint_twn01_a02_om" placeholder="sound(twn01_a02_om)">$Let's go to the New City.</message>
+	<message index="640" name="hint_twn01_a02_am" placeholder="sound(twn01_a02_am)">$Do you want to go to the New City?</message>
+	<message index="641" name="hint_twn01_a02_bz" placeholder="sound(twn01_a02_bz)">$Let's head to the New City.</message>
+	<message index="642" name="hint_twn01_a02_sv" placeholder="sound(twn01_a02_sv)">$Maybe I'll go to the New City.</message>
+	<message index="643" name="hint_twn01_a03_sn" placeholder="sound(twn01_a03_sn)">$I don't think I should go there yet... </message>
+	<message index="644" name="hint_twn01_a03_tl" placeholder="sound(twn01_a03_tl)">$Shouldn't ya stay here for a while?</message>
+	<message index="645" name="hint_twn01_a03_kn" placeholder="sound(twn01_a03_kn)">$You still have unfinished business!</message>
+	<message index="646" name="hint_twn01_a03_sd" placeholder="sound(twn01_a03_sd)">$I shouldn't go there just yet.</message>
+	<message index="647" name="hint_twn01_a03_rg" placeholder="sound(twn01_a03_rg)">$Shouldn't you stay here for a while?</message>
+	<message index="648" name="hint_twn01_a03_om" placeholder="sound(twn01_a03_om)">$No target readings from that area.</message>
+	<message index="649" name="hint_twn01_a03_am" placeholder="sound(twn01_a03_am)">$I don't think you should go over there yet... </message>
+	<message index="650" name="hint_twn01_a03_bz" placeholder="sound(twn01_a03_bz)">$It's too early to go over there.</message>
+	<message index="651" name="hint_twn01_a03_sv" placeholder="sound(twn01_a03_sv)">$I shouldn't go over there just yet.</message>
+	<message index="652" name="hint_twn01_a04_sn" placeholder="sound(twn01_a04_sn)">$Maybe I'll talk to some people in the town... </message>
+	<message index="653" name="hint_twn01_a04_tl" placeholder="sound(twn01_a04_tl)">$Let's talk to the people in the town!</message>
+	<message index="654" name="hint_twn01_a04_kn" placeholder="sound(twn01_a04_kn)">$Let's talk to some people in the town!</message>
+	<message index="655" name="hint_twn01_a04_sd" placeholder="sound(twn01_a04_sd)">$Maybe I'll talk to some people in the town... </message>
+	<message index="656" name="hint_twn01_a04_rg" placeholder="sound(twn01_a04_rg)">$Let's talk to some people in the town!</message>
+	<message index="657" name="hint_twn01_a04_om" placeholder="sound(twn01_a04_om)">$Get information from the people in the town!</message>
+	<message index="658" name="hint_twn01_a04_am" placeholder="sound(twn01_a04_am)">$Do you want to talk to the people in the town?</message>
+	<message index="659" name="hint_twn01_a04_bz" placeholder="sound(twn01_a04_bz)">$Let's talk to some people in the town!</message>
+	<message index="660" name="hint_twn01_a04_sv" placeholder="sound(twn01_a04_sv)">$Maybe I'll talk to some people in the town... </message>
+	<message index="661" name="hint_twn01_a05_sn" placeholder="sound(twn01_a05_sn)">$Maybe I'll go to the store... </message>
+	<message index="662" name="hint_twn01_a05_tl" placeholder="sound(twn01_a05_tl)">$Do you want to go to the store?</message>
+	<message index="663" name="hint_twn01_a05_kn" placeholder="sound(twn01_a05_kn)">$Let's go to the store!</message>
+	<message index="664" name="hint_twn01_a05_sd" placeholder="sound(twn01_a05_sd)">$Maybe I'll go to the store... </message>
+	<message index="665" name="hint_twn01_a05_rg" placeholder="sound(twn01_a05_rg)">$Let's go to the store!</message>
+	<message index="666" name="hint_twn01_a05_om" placeholder="sound(twn01_a05_om)">$Go to the store!</message>
+	<message index="667" name="hint_twn01_a05_am" placeholder="sound(twn01_a05_am)">$Do you want to go to the store?</message>
+	<message index="668" name="hint_twn01_a05_bz" placeholder="sound(twn01_a05_bz)">$Let's go to the store!</message>
+	<message index="669" name="hint_twn01_a05_sv" placeholder="sound(twn01_a05_sv)">$Maybe I'll go to the store... </message>
+	<message index="670" name="hint_twn01_a06_sn" placeholder="sound(twn01_a06_sn)">$I think I should look around here some more.</message>
+	<message index="671" name="hint_twn01_a06_tl" placeholder="sound(twn01_a06_tl)">$Shouldn't you investigate some more around here?</message>
+	<message index="672" name="hint_twn01_a06_kn" placeholder="sound(twn01_a06_kn)">$Shouldn't you investigate some more around here?</message>
+	<message index="673" name="hint_twn01_a06_sd" placeholder="sound(twn01_a06_sd)">$There might be more information around here.</message>
+	<message index="674" name="hint_twn01_a06_rg" placeholder="sound(twn01_a06_rg)">$Isn't there more you need to find out here?</message>
+	<message index="675" name="hint_twn01_a06_om" placeholder="sound(twn01_a06_om)">$Collect information in this area.</message>
+	<message index="676" name="hint_twn01_a06_am" placeholder="sound(twn01_a06_am)">$Do you wanna look around some more?</message>
+	<message index="677" name="hint_twn01_a06_bz" placeholder="sound(twn01_a06_bz)">$Do you want to investigate more around here?</message>
+	<message index="678" name="hint_twn01_a06_sv" placeholder="sound(twn01_a06_sv)">$I think there's something important around here.</message>
+	<message index="679" name="hint_twn01_e00_sn" placeholder="sound(twn01_e00_sn)">$What's Eggman up to...?\nI need to gather some information.</message>
+	<message index="680" name="hint_twn01_e00_tl" placeholder="sound(twn01_e00_tl)">$Sonic!\nThere's a nice store in this town.  It\nmight help you find a way to cross the sea.</message>
+	<message index="681" name="hint_twn01_e01_tl" placeholder="sound(twn01_e01_tl),picture(button_x)">$When you get close to a trail of Rings, press\nthe $ button to do a Light Dash!</message>
+	<message index="682" name="hint_twn01_e02_tl" placeholder="sound(twn01_e02_tl)">$If you can squeeze through this gap,\nyou'll be able to save the girl!</message>
+	<message index="683" name="hint_twn01_e03_sn" placeholder="sound(twn01_e03_sn)">$It's getting pretty late.\nWe should be getting back.\nI'll take you to the castle.</message>
+	<message index="684" name="hint_twn01_e04_tl" placeholder="sound(twn01_e04_tl)">$Sonic, can you hear me?\nKnuckles wants to see you.\nHead to the town's warehouse!</message>
+	<message index="685" name="hint_twn01_e05_tl" placeholder="sound(twn01_e05_tl)">$Sonic, let's hurry and find the princess!</message>
+	<message index="686" name="hint_twn01_e05_kn" placeholder="sound(twn01_e05_kn)">$Heh, there's a secret room here!\nLet's hurry to the White Acropolis!</message>
+	<message index="687" name="hint_twn01_e06_tl" placeholder="sound(twn01_e06_tl)">$Sonic! I think you can get into the station\nthrough that vent, but first you need to\nbreak that wire net.</message>
+	<message index="688" name="hint_twn01_e07_tl" placeholder="sound(twn01_e07_tl),picture(button_x)">$Press the $ button in the air to do\na bound jump. You can attack downward, or\njump high in the air.</message>
+	<message index="689" name="hint_twn01_e08_pr" placeholder="sound(twn01_e08_pr)">$Sonic!\nFor now, let's run into the jungle over there!</message>
+	<message index="690" name="hint_twn01_e09_pr" placeholder="sound(twn01_e09_pr)">$If we work together, I'm sure we'll be able to\nget across the water!</message>
+	<message index="691" name="hint_twn01_e10_sn" placeholder="sound(twn01_e10_sn)">$Tails, I've taken Elise back to the castle.\nI'll go after Eggman.\nKeep me posted!</message>
+	<message index="692" name="hint_twn01_e11_sn" placeholder="sound(twn01_e11_sn)">$Aquatic base?</message>
+	<message index="693" name="hint_twn01_e12_sn" placeholder="sound(twn01_e12_sn)">$It looks like it's information about Eggman's\nsecret  base.</message>
+	<message index="694" name="hint_twn01_e13_tl" placeholder="sound(twn01_e13_tl)">$Sonic, this is bad! Elise has... \nNever mind, I'll tell you later.\nHurry to the Castle Town's altar!</message>
+	<message index="695" name="hint_twn01_e14_an" placeholder="sound(twn01_e14_an)">$This is terrible!\nPrincess Elise went to see Eggman by herself.\nTails, please help her!</message>
+	<message index="696" name="hint_twn01_e15_tl" placeholder="sound(twn01_e15_tl)">$Elise went to see Eggman all by herself.\nI tried to go after her... </message>
+	<message index="697" name="hint_twn01_e16_tl" placeholder="sound(twn01_e16_tl)">$Eggman will probably go to the ancient castle. \nLet's get there first and save Elise!</message>
+	<message index="698" name="hint_twn01_e17_an" placeholder="sound(twn01_e17_an)">$Ancient castle? But to get there... \nYou need to pass Soleanna's test.\nThe bishop will know more.</message>
+	<message index="699" name="hint_twn01_e18_sn" placeholder="sound(twn01_e18_sn)">$Elise... \nI'll save you this time!</message>
+	<message index="700" name="hint_twn01_e18_tl" placeholder="sound(twn01_e18_tl)">$Sonic! The door's open!\nLet's hurry to Eggman's secret base!</message>
+	<message index="701" name="hint_twn01_e18_kn" placeholder="sound(twn01_e18_kn)">$Ring three bells at once... \nSonic, you should be able to do it!</message>
+	<message index="702" name="hint_twn01_e19_an" placeholder="sound(twn01_e19_an),sound(twn01_e19_1_an)">$Soleanna's lab is underneath the castle.\nBut, after the Duke's death, it has been\nshut down and sealed away.\f$If you can find one of the former\nresearchers, they may be able to guide you.</message>
+	<message index="703" name="hint_twn01_e20_sv" placeholder="sound(twn01_e20_sv)">$The "Iblis Trigger"... \nWhere is he?\nFirst, I need to gather information…</message>
+	<message index="704" name="hint_twn01_e21_sv" placeholder="sound(twn01_e21_sv)">$I guess I'll head over to the jungle for\nstarters... </message>
+	<message index="705" name="hint_twn01_e22_am" placeholder="sound(twn01_e22_am)">$Did Sonic really head to the desert?\nSilver, do me a favor and \nhelp me find my target first!</message>
+	<message index="706" name="hint_twn01_e23_am" placeholder="sound(twn01_e23_am)">$The mayor isn't here?\nI wonder where he went... \nWhat should I do, Silver?</message>
+	<message index="707" name="hint_twn01_e24_sv" placeholder="sound(twn01_e24_sv)">$Fine... \nI'll show you my power.</message>
+	<message index="708" name="hint_twn01_e25_am" placeholder="sound(twn01_e25_am)">$Oh no, Silver!\nEggman's robots are breaking down the gate!\nYou can do something, right?</message>
+	<message index="709" name="hint_twn01_e26_sv" placeholder="sound(twn01_e26_sv)">$I know where the mayor is.\nAmy, let's go!</message>
+	<message index="710" name="hint_twn01_e27_sv" placeholder="sound(twn01_e27_sv)">$Why is Amy protecting him?\nBut I... I must defeat him.</message>
+	<message index="711" name="hint_twn01_e28_am" placeholder="sound(twn01_e28_am)">$Man... \nWe came all the way here,\nand the town's filled with bad guys... </message>
+	<message index="712" name="hint_twn01_e29_am" placeholder="sound(twn01_e29_am)">$You stay put.\nI'll take them all down!</message>
+	<message index="713" name="hint_twn01_e30_bz" placeholder="sound(twn01_e30_bz)">$You need to short out the electricity\nin order to stop this laser. We'll need to\nhit the switches at the same time.</message>
+	<message index="714" name="hint_twn01_e31_sv" placeholder="sound(twn01_e31_sv)">$Darn!\nI can't get in because of the laser.</message>
+	<message index="715" name="hint_twn01_e32_bz" placeholder="sound(twn01_e32_bz)">$Darn! Why can't I get into the station?\nSilver, is there a way to do this \nwithout being noticed?</message>
+	<message index="716" name="hint_twn01_e33_sv" placeholder="sound(twn01_e33_sv)">$Okay, let's go after Sonic!</message>
+	<message index="717" name="hint_twn01_e34_sv" placeholder="sound(twn01_e34_sv)">$I'm going to stop Dr. Eggman\nno matter what!\nBlaze, let's go after him!</message>
+	<message index="718" name="hint_twn01_e35_sv" placeholder="sound(twn01_e35_sv)">$Wave Ocean?\nOk, let's hurry to the Castle Town!</message>
+	<message index="719" name="hint_twn01_e36_sv" placeholder="sound(twn01_e36_sv)">$Sonic... \nAnd who's this?\nI'll try to find her!</message>
+	<message index="720" name="hint_twn01_e37_sv" placeholder="sound(twn01_e37_sv)">$Oh, no... Without her,\nI won't be able to find Elise.\nI've got to hurry!</message>
+	<message index="721" name="hint_twn01_e38_an" placeholder="sound(twn01_e38_an)">$Ahhh!</message>
+	<message index="722" name="hint_twn01_e39_sv" placeholder="sound(twn01_e39_sv)">$Where's Sonic!?</message>
+	<message index="723" name="hint_twn01_e40_an" placeholder="sound(twn01_e40_an)">$Sonic went to the ancient castle\nto find Elise.\nThe bishop will know more.</message>
+	<message index="724" name="hint_twn01_e41_gn" placeholder="sound(twn01_e41_gn)">$Rouge, respond.\nI've prepared the means to go to Kingdom Valley.\nGo to the forest cave immediately!</message>
+	<message index="725" name="hint_twn01_e42_sd" placeholder="sound(twn01_e42_sd)">$Gotta get to the ancient castle extraction point!</message>
+	<message index="726" name="hint_twn01_e43_rg" placeholder="sound(twn01_e43_rg)">$The bridge is broken!\nShadow, can't you do something?</message>
+	<message index="727" name="hint_twn01_e44_rg" placeholder="sound(twn01_e44_rg),picture(button_x)">$Press the $ button near the trail of Rings\nto do a Light Dash!\nNow you can get to the forest!</message>
+	<message index="728" name="hint_twn01_e45_gn" placeholder="sound(twn01_e45_gn),sound(twn01_e45_1_gn)">$Agent Shadow:\nEmergency orders from GUN.\nBandits are loose on the highway.\f$Use of firearms is authorized.\nCapture the bandits immediately!</message>
+	<message index="729" name="hint_twn01_e46_rg" placeholder="sound(twn01_e46_rg)">$No use fretting... \nWe'll just have to wait until\nGUN sends the information.</message>
+	<message index="730" name="hint_twn01_e47_gn" placeholder="sound(twn01_e47_gn)">$Agent Rouge, respond.\nMission recipient E123 Omega located.\nHe's in the jungle ruins inside the forest.</message>
+	<message index="731" name="hint_twn01_e48_gn" placeholder="sound(twn01_e48_gn)">$Agent Shadow.\nWe've lost contact with Agent Rouge.\nHead to the warehouse district immediately.</message>
+	<message index="732" name="hint_twn01_e49_sd" placeholder="sound(twn01_e49_sd)">$The Doctor's traveling by train?\nShoot! I've got to get to the station.</message>
+	<message index="733" name="hint_twn01_e50_gn" placeholder="sound(twn01_e50_gn),sound(twn01_e50_1_gn)">$Agent Rouge, respond. The location of the\nScepter of Darkness is unknown, but there is an\narchaeologist who is researching it.\f$If you find the archeologist, you might \nget more information.</message>
+	<message index="734" name="hint_twn01_e51_sd" placeholder="sound(twn01_e51_sd)">$Good... Now I can finally stop Mephiles.</message>
+	<message index="735" name="hint_twn01_e52_gn" placeholder="sound(twn01_e52_gn)">$Agent Shadow.\nE123 Omega has engaged Mephiles.\nHead to Wave Ocean immediately!</message>
+	<message index="736" name="hint_twn01_h00_so" placeholder="sound(twn01_h00_so)">$You can get money by collecting Rings,\nand clearing action stages or missions\nin towns.</message>
+	<message index="737" name="hint_twn01_h01_so" placeholder="sound(twn01_h01_so)">$With the money, you can shop in town!\nGo to the stores often to check out the\nnew items.</message>
+	<message index="738" name="hint_twn01_h02_so" placeholder="sound(twn01_h02_so)">$There are a lot of people in town.\nListen to them, and help them.\nIt may open new paths for you.</message>
+	<message index="739" name="hint_twn01_h03_so" placeholder="sound(twn01_h03_so)">$If you see a mark above the head of\nsomeone in town, try talking to them.\nYou may learn something important!</message>
+	<message index="740" name="hint_twn01_h04_so" placeholder="sound(twn01_h04_so)">$This is the Mirror of Soleanna.\nIt will take you right to your destination\nwith its magical power.</message>
+	<message index="741" name="hint_twn01_h05_so" placeholder="sound(twn01_h05_so)">$This is a silver medal.\nThey are scattered all over Soleanna.\nIt may be hard to collect them all.</message>
+	<message index="742" name="hint_twn01_h06_so" placeholder="sound(twn01_h06_so)">$When in doubt, consult your map and\nradar. They should tell you exactly where\nyou need to go next.</message>
+	<message index="743" name="hint_twn01_h07_so" placeholder="sound(twn01_h07_so),sound(twn01_h07_1_so)">$Shadow, you need something to help you\nunlock your full potential.\f$If you can find it, you will have amazing\npowers at your command.</message>
+	<message index="744" name="hint_mis01_e00_am" placeholder="sound(mis01_e00_am)">$You'll choose me, won't you, Sonic?\nI'll be waiting over to the right.</message>
+	<message index="745" name="hint_mis01_e00_pr" placeholder="sound(mis01_e00_pr)">$Sonic... I've been thinking about you a lot... \nI'll be waiting for you on the left here.</message>
+	<message index="746" name="hint_mis01_e01_am" placeholder="sound(mis01_e01_am)">$Sonic! You came!</message>
+	<message index="747" name="hint_mis01_e01_pr" placeholder="sound(mis01_e01_pr)">$Sonic! I knew you would come... </message>
+	<message index="748" name="hint_mis01_e02_sn" placeholder="sound(mis01_e02_sn)">$All right, Tails! Let's race to the bell!</message>
+	<message index="749" name="hint_mis01_e02_tl" placeholder="sound(mis01_e02_tl)">$Okay, Sonic! I won't lose!</message>
+	<message index="750" name="hint_mis01_e03_sn" placeholder="sound(mis01_e03_sn)">$Nice try, Tails!</message>
+	<message index="751" name="hint_mis01_e03_tl" placeholder="sound(mis01_e03_tl)">$Yay!</message>
+	<message index="752" name="hint_mis01_e04_sn" placeholder="sound(mis01_e04_sn)">$You're the one that did it!</message>
+	<message index="753" name="hint_mis01_e05_sn" placeholder="sound(mis01_e05_sn)">$Not going to give up, are you?\nAll right, I'll take you all on!</message>
+	<message index="754" name="hint_mis01_e06_sn" placeholder="sound(mis01_e06_sn)">$Okay then... \nTails, Knuckles, let's do this together!</message>
+	<message index="755" name="hint_mis01_e06_tl" placeholder="sound(mis01_e06_tl)">$Team Sonic is back!</message>
+	<message index="756" name="hint_mis01_e06_kn" placeholder="sound(mis01_e06_kn)">$All right, I'll help ya!</message>
+	<message index="757" name="hint_mis01_e07_sn" placeholder="sound(mis01_e07_sn)">$Okay, let's do this!</message>
+	<message index="758" name="hint_mis01_e07_tl" placeholder="sound(mis01_e07_tl)">$Here you go, Knuckles!</message>
+	<message index="759" name="hint_mis01_e07_kn" placeholder="sound(mis01_e07_kn)">$It's all you, Sonic!</message>
+	<message index="760" name="hint_mis01_e08_am" placeholder="sound(mis01_e08_am)">$Aaah! What're you doing, Silver?</message>
+	<message index="761" name="hint_mis01_e08_sv" placeholder="sound(mis01_e08_sv)">$Where is Amy going?\nI might be able to learn about Sonic if... \nI'll try following her.</message>
+	<message index="762" name="hint_mis01_e09_am" placeholder="sound(mis01_e09_am)">$Sonic...  I hope I can give this to him\nthe next time I see him... </message>
+	<message index="763" name="hint_mis01_e09_bz" placeholder="sound(mis01_e09_bz)">$Ngh... There's too many enemies.</message>
+	<message index="764" name="hint_mis01_e09_sv" placeholder="sound(mis01_e09_sv)">$Blaze! I'm coming!</message>
+	<message index="765" name="hint_mis01_e10_bz" placeholder="sound(mis01_e10_bz)">$Silver!\nThank you!</message>
+	<message index="766" name="hint_mis01_e11_rg" placeholder="sound(mis01_e11_rg)">$Hey, Shadow.\nHow about a little contest, to see which\none of us is the better special agent?</message>
+	<message index="767" name="hint_mis01_e12_sd" placeholder="sound(mis01_e12_rg)">$Heh, a waste of time, I suppose.\nThe answer's obvious anyway.</message>
+	<message index="768" name="hint_mis01_e13_rg" placeholder="sound(mis01_e13_rg)">$Aw, come on!\nLet's go!</message>
+	<message index="769" name="hint_mis01_e14_om" placeholder="sound(mis01_e14_om)">$Detecting multiple readings on radar!</message>
+	<message index="770" name="hint_mis01_e15_sd" placeholder="sound(mis01_e15_sd)">$The Doctor's not holding back, is he?\nLet him witness my ultimate power!</message>
+	<message index="771" name="msg_t00009b173_01_1">This is the station. Look, there's a lot of\npeople walking around the station.</message>
+	<message index="772" name="sonic_stg_wvo">Pursue the Egg Carrier!</message>
+	<message index="773" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
+	<message index="774" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>
+	<message index="775" name="sonic_stg_csc">Find the Database!</message>
+	<message index="776" name="sonic_stg_flc">Find the Chaos Emerald!</message>
+	<message index="777" name="sonic_stg_rdt">Follow Dr. Eggman's Train!</message>
+	<message index="778" name="sonic_stg_tpj">Avoid Dr. Eggman's Pursuit!</message>
+	<message index="779" name="sonic_stg_wvo_tails">Follow Elise!</message>
+	<message index="780" name="sonic_sonic_stg_kdv">Follow the Egg Carrier!</message>
+	<message index="781" name="sonic_stg_aqa">Stop the Egg Carrier's Launch!</message>
+	<message index="782" name="last_stg_end">Collect the 7 Chaos Emeralds!</message>
+	<message index="783" name="all_stg_2nd">Gather 100 Rings!</message>
+	<message index="784" name="sonic_stg_wvo_3rd">Defeat $ Enemies!</message>
+	<message index="785" name="sonic_stg_dtd_sonic_3rd">Defeat $ Enemies!</message>
+	<message index="786" name="sonic_stg_wap_3rd">Defeat $ Enemies!</message>
+	<message index="787" name="sonic_stg_csc_3rd">Defeat $ Enemies!</message>
+	<message index="788" name="sonic_stg_flc_3rd">Defeat $ Enemies!</message>
+	<message index="789" name="sonic_stg_rdt_3rd">Defeat $ Enemies!</message>
+	<message index="790" name="sonic_stg_tpj_3rd">Defeat $ Enemies!</message>
+	<message index="791" name="sonic_stg_wvo_tails_3rd">Defeat $ Enemies!</message>
+	<message index="792" name="sonic_sonic_stg_kdv_3rd">Defeat $ Enemies!</message>
+	<message index="793" name="sonic_stg_aqa_3rd">Defeat $ Enemies!</message>
+	<message index="794" name="last_stg_end_3rd">Defeat $ Enemies!</message>
+	<message index="795" name="sonic_stg_wvo_4th">Reach the Goal Within $</message>
+	<message index="796" name="sonic_stg_dtd_sonic_4th">Reach the Goal Within $</message>
+	<message index="797" name="sonic_stg_wap_4th">Reach the Goal Within $</message>
+	<message index="798" name="sonic_stg_csc_4th">Reach the Goal Within $</message>
+	<message index="799" name="sonic_stg_flc_4th">Reach the Goal Within $</message>
+	<message index="800" name="sonic_stg_rdt_4th">Reach the Goal Within $</message>
+	<message index="801" name="sonic_stg_tpj_4th">Reach the Goal Within $</message>
+	<message index="802" name="sonic_stg_wvo_tails_4th">Reach the Goal Within $</message>
+	<message index="803" name="sonic_sonic_stg_kdv_4th">Reach the Goal Within $</message>
+	<message index="804" name="sonic_stg_aqa_4th">Reach the Goal Within $</message>
+	<message index="805" name="last_stg_end_4th">Reach the Goal Within $</message>
+	<message index="806" name="all_stg_5th">Clear Hard Mode!</message>
+	<message index="807" name="msg_act01">Get to the Goal Ring!</message>
+	<message index="808" name="msg_act02">Get to the goal within $ minutes!</message>
+	<message index="809" name="msg_act03">Collect $ Rings!</message>
+	<message index="810" name="msg_act04">Defeat all enemies!</message>
+	<message index="811" name="msg_act05">Wipe out all enemies!</message>
+	<message index="812" name="msg_act06">Get to the goal within $ minutes!</message>
+	<message index="813" name="msg_act07">Collect $ Rings!</message>
+	<message index="814" name="msg_act08">Get to the goal before your rival!</message>
+	<message index="815" name="msg_act09">Get to the goal before the ghost!</message>
+	<message index="816" name="msg_act10">Find $ Chao!</message>
+	<message index="817" name="msg_act11">Find the Goal Ring!</message>
+	<message index="818" name="msg_act12">Get to the new Goal Ring!</message>
+	<message index="819" name="msg_act13">Clear the minigame!</message>
+	<message index="820" name="msg_act14">Clear hard mode!</message>
+	<message index="821" name="msg_act15">Collect the Chaos Emeralds and save Sonic!</message>
+	<message index="822" name="msg_act16">Defeat Iblis!</message>
+	<message index="823" name="msg_act17">Defeat Dr. Eggman!</message>
+	<message index="824" name="msg_act18">Defeat Mephiles!</message>
+	<message index="825" name="msg_act19">Defeat Dr. Eggman and save Elise!</message>
+	<message index="826" name="msg_act20">Defeat Mephiles!</message>
+	<message index="827" name="msg_act21">Seal away Iblis!</message>
+	<message index="828" name="msg_act22">Defeat Sonic!</message>
+	<message index="829" name="msg_act23">Defeat Shadow!</message>
+	<message index="830" name="msg_act24">Defeat Silver!</message>
+	<message index="831" name="msg_act25">Defeat Solaris!</message>
+	<message index="832" name="msg_act26">Stop the out-of-control Solaris!</message>
+	<message index="833" name="msg_act27">Defeat Egg Genesis!</message>
+	<message index="834" name="msg_act28">Defeat Egg Cerberus!</message>
+	<message index="835" name="msg_act29">Defeat Egg Wyvern!</message>
+	<message index="836" name="msg_twn_sonic01">Collect information!</message>
+	<message index="837" name="msg_twn_sonic02">Find out where Dr. Eggman's battleship went!</message>
+	<message index="838" name="msg_twn_sonic03">Collect information about Dr. Eggman!</message>
+	<message index="839" name="msg_twn_sonic04">Meet up with Tails!</message>
+	<message index="840" name="msg_twn_sonic05">Meet up with Tails!</message>
+	<message index="841" name="msg_twn_sonic06">Head for the sea!</message>
+	<message index="842" name="msg_twn_sonic07">Head for the desert!</message>
+	<message index="843" name="msg_twn_sonic08">Get Lord Regis' approval, and go to the desert!</message>
+	<message index="844" name="msg_twn_sonic09">Head for the tunnel to the desert!</message>
+	<message index="845" name="msg_twn_sonic10">Get a pass for the tunnel!</message>
+	<message index="846" name="msg_twn_sonic11">Take Elise, and head for the castle!</message>
+	<message index="847" name="msg_twn_sonic12">Head for the docks!</message>
+	<message index="848" name="msg_twn_sonic13">Go after Elise!</message>
+	<message index="849" name="msg_twn_sonic14">Meet up with Knuckles!</message>
+	<message index="850" name="msg_twn_sonic15">Meet Knuckles in the warehouse district!</message>
+	<message index="851" name="msg_twn_sonic16">Head for Dr. Eggman's base!</message>
+	<message index="852" name="msg_twn_sonic17">Head for the White Acropolis!</message>
+	<message index="853" name="msg_twn_sonic18">Collect information about Elise!</message>
+	<message index="854" name="msg_twn_sonic19">Head for the station!</message>
+	<message index="855" name="msg_twn_sonic20">Get into the station!</message>
+	<message index="856" name="msg_twn_sonic21">Go after Dr. Eggman!</message>
+	<message index="857" name="msg_twn_sonic22">Escape into the jungle!</message>
+	<message index="858" name="msg_twn_sonic23">Escape into the forest!</message>
+	<message index="859" name="msg_twn_sonic24">Go after Elise!</message>
+	<message index="860" name="msg_twn_sonic25">Head for Wave Ocean!</message>
+	<message index="861" name="msg_twn_sonic26">Head for the New City!</message>
+	<message index="862" name="msg_twn_sonic27">Head for the altar in the Castle Town!</message>
+	<message index="863" name="msg_twn_sonic28">Head for the old Soleanna castle!</message>
+	<message index="864" name="msg_twn_sonic29">Meet the bishop!</message>
+	<message index="865" name="msg_twn_sonic30">Complete the trials of Soleanna!</message>
+	<message index="866" name="msg_twn_sonic31">From the royal seal, go to the old castle's entry!</message>
+	<message index="867" name="msg_twn_sonic32">Head for the old castle!</message>
+	<message index="868" name="msg_twn_sonic33">Head for Dr. Eggman's secret base!</message>
+	<message index="869" name="msg_twn_sonic34">Head for the shop!</message>
+	<message index="870" name="msg_twn_sonic35">Buy a "Light Chip"!</message>
+	<message index="871" name="msg_twn_sonic36">Buy an "Anti-Gravity"!</message>
+	<message index="872" name="msg_twn_sonic37">Buy a "Bound Bracelet"!</message>
+</mst06>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_town_mission_silver" mst_version="1" endianness="B">
+	<message index="0" name="msg_m1232_001_01_1">Let me look into your memory.\nBlue hedgehog... Future world...\nWhat do you see from these words?</message>
+	<message index="1" name="msg_m1232_001_01_2">It looks like your mind is set.</message>
+	<message index="2" name="msg_m1232_select_01">Cooperation</message>
+	<message index="3" name="msg_m1232_select_02">Hatred</message>
+	<message index="4" name="msg_m1201_201_01_3">Put the apples in the barrels over there!\nGood luck!</message>
+	<message index="5" name="msg_m1201_201_01_4">Wow! Good job!\nI knew you would be a huge help.\nThe festival is going to be great this year.\fOh yeah, this is your reward!\nIt's not much, but it's yours.</message>
+	<message index="6" name="msg_m1201_201_01_5">Man...\nI would have done a much better job.\nI can't reward you for this.</message>
+	<message index="7" name="msg_m1202_202_01_1">If I see a robot, I'll probably freeze with fear...\nIf I do, help me, okay!?\fI'll get to see my mom soon, right?</message>
+	<message index="8" name="msg_m1202_202_01_2">Thank you!\nThis is from mom!</message>
+	<message index="9" name="msg_m1202_202_01_3">Sonic?\nI know him!\fHe helped me when I got stuck on the roof!\nHe's cool and really nice!\fYou want to know where he went?\nI'm sorry, I don't know...</message>
+	<message index="10" name="msg_m1202_202_01_4">Waaah!\nMommy!</message>
+	<message index="11" name="msg_m1203_203_01_3">Training will begin!\nGo through every single Ring!\nHere we go!</message>
+	<message index="12" name="msg_m1203_203_01_4">What...!?\nUnbelievable...\nWho are you...?\fPlease, join the Soleannan guards!\nPlease!</message>
+	<message index="13" name="msg_m1203_203_01_5">Haha! \nI knew you couldn't do it!\fOnly chosen ones can become\nSoleanna's soldiers!\nNow you know.</message>
+	<message index="14" name="msg_m1204_204_01_3">Let's start the game!\nGrab the E Gunner model and throw\nit anywhere you like!</message>
+	<message index="15" name="msg_m1204_204_01_4">Your point total is $.\nYou're good!\nTake this prize!</message>
+	<message index="16" name="msg_m1204_204_01_5">Your point total is only $?\nI can't give you a prize for that.\nCome back sometime!</message>
+	<message index="17" name="msg_m1205_205_01_3">John has black and white stripes.\nPucci is a dark brown dog.\nThey're probably wandering in the forest.</message>
+	<message index="18" name="msg_m1205_205_01_4">Thank you!\nYou can find the other one too, right?</message>
+	<message index="19" name="msg_m1206_206_01_2">I don't know you, but thank you\nfor helping me.\fWhen Eggman was telling his mechs\nto destroy the town gate, I tried to \nstop him. So, he locked me up!\fYou want a pass for the desert?\nI'd like to help you, but I need to do something\nto protect the gate, first...\fPlease help us out by fighting them off.\nIf you protect the gate,\nI will get your pass right away.</message>
+	<message index="20" name="msg_m1207_207_01_3">There are five keys.\nThey're probably in the forest somewhere.\nPlease find them!</message>
+	<message index="21" name="msg_m1207_207_01_4">Thank you, you saved them!\nHere's your reward.</message>
+	<message index="22" name="msg_m1207_207_01_5">My precious dogs...\nI shouldn't have asked for your help.</message>
+	<message index="23" name="msg_m1208_208_01_1">There are only a few enemies \nnear the entrance to the forest.\nCarefully escort Anna there please.</message>
+	<message index="24" name="msg_m1208_208_01_2">Thank you very much for protecting Anna.</message>
+	<message index="25" name="msg_m1208_208_01_3">I thought you would take good care\nof her...</message>
+	<message index="26" name="msg_m1210_210_01_3">Let's start the test.\nWatch the first scene closely, and \ntouch what has changed in the next scene!</message>
+	<message index="27" name="msg_m1210_210_01_4">Question 1 start!</message>
+	<message index="28" name="msg_m1210_210_01_5">Pretty good. Next question!</message>
+	<message index="29" name="msg_m1210_210_01_6">This might be the best one yet!\nThis is the last question!</message>
+	<message index="30" name="msg_m1210_210_01_7">What...?\nIQ of... 158... No, 200.\nFabulous...\n\fThank you for the wonderful sample.\nHere is a small reward for you!</message>
+	<message index="31" name="msg_m1210_210_01_8">Heh...\nYour IQ turned out to be just as bad as I'd\nthought. No reward for you.</message>
+	<message index="32" name="msg_m1211_211_01_3">I looked for the 10 medals, but I \ncouldn't find them in places I can get to...\nPlease find all of them!</message>
+	<message index="33" name="msg_m1211_211_01_4">Thank you! \nMom won't yell at me now. \nWhew!</message>
+	<message index="34" name="msg_m1212_212_01_3">At the tournament, a team that \nwent through 20 Rings won.\fWith my airplane, I could have done\n21 Rings. If you can break that record, \nI'll be able to finally let go. Help me!</message>
+	<message index="35" name="msg_m1212_212_01_4">Thank you! \nBecause of you, I feel better now.\nThanks so much!\n</message>
+	<message index="36" name="msg_m1212_212_01_5">It's okay.\nWith time, I'll be able to let go eventually...</message>
+	<message index="37" name="msg_m1213_213_01_3">The first place I went to today is...\nthe shop! I think.</message>
+	<message index="38" name="msg_m1213_213_01_4">Thank you!\nWhat's the present?\nI can't tell you... it's embarrassing.\fYou really want to know?\nUmm... no, I can't!\nIt's a secret between the two of us!</message>
+	<message index="39" name="msg_m1214_214_01_3">Thanks for your help!\nI wanted to stop them because the town\nis just starting to flourish again.</message>
+	<message index="40" name="msg_m1215_215_01_3">The first one to reach the goal wins!\nLet's go!</message>
+	<message index="41" name="msg_m1215_215_01_4">Heh, I'm just warming up.\nI haven't shown you anything yet!\fWhat? Oh, sorry. \nSomeone needs my help!\nGot to go, bye!</message>
+	<message index="42" name="msg_m1215_215_01_5">You did your best, but you didn't \nknow who you were up against.\nI'm the hero, Sonic Man!</message>
+	<message index="43" name="msg_m1216_216_01_3">Show us what you've got!\nLet's hit it!</message>
+	<message index="44" name="msg_m1216_216_01_4">Man!\nYou cleared it so quickly?!  Wow!\fThis is among the top scores in\nSoleanna's 1500-year history!\nYou're the man!</message>
+	<message index="45" name="msg_m1216_216_01_5">I can't tell you with a record like this.\nWeak guys can't be trusted.\nCome back when you're a real man!</message>
+	<message index="46" name="msg_m1217_217_01_3">Put the ingredients around here!\nThey need to stay fresh, so hurry!</message>
+	<message index="47" name="msg_m1217_217_01_4">Excellent! Thanks!\nNow, I can cook great dishes.\nThanks for your help!\n\fIt's not much, but this is your reward.\nTake it!</message>
+	<message index="48" name="msg_m1217_217_01_5">Oh no, the ingredients...\nI was a fool to ask for your help.</message>
+	<message index="49" name="msg_m1218_218_01_3">If you can catch all six of us,\nI'll tell you about Sonic! Let's start!</message>
+	<message index="50" name="msg_m1218_251_01_1">Ow... Okay, you got me.</message>
+	<message index="51" name="msg_m1218_252_01_1">Ouch, ouch!</message>
+	<message index="52" name="msg_m1218_253_01_1">Oops, you caught me.</message>
+	<message index="53" name="msg_m1218_254_01_1">Darn it!</message>
+	<message index="54" name="msg_m1218_255_01_1">Ouch!</message>
+	<message index="55" name="msg_m1218_218_01_4">Ouch...\nWow, you caught us all.\nAll right, I'll tell you about Sonic!</message>
+	<message index="56" name="msg_m1218_218_01_5">Heh.\nIs that all you've got? I'm not telling\nyou anything about Sonic.</message>
+	<message index="57" name="msg_m1219_219_01_2">Thank you! Things have been crazy after\nthe festival... First Princess Elise, then this...\fWhen is Soleanna's peace coming back?</message>
+	<message index="58" name="msg_m1222_222_01_3">That red car is mine.\nYou can break it, just stop the car!</message>
+	<message index="59" name="msg_m1222_222_01_4">I don't know what would've happened.\nThank you so very much!</message>
+	<message index="60" name="msg_m1222_222_01_5">Oh no!\nMy life is over...\nDarn it!</message>
+	<message index="61" name="msg_m1223_223_01_3">Find the 10 medals within the time limit!\nGo!</message>
+	<message index="62" name="msg_m1223_223_01_4">Oh no, you found them all.\nI need to do a better job next time.</message>
+	<message index="63" name="msg_m1223_223_01_5">Heh, I knew it would be too hard for you.\nI'll take it easy on you next time!</message>
+	<message index="64" name="msg_m1224_224_01_3">If you see him, please talk to him!</message>
+	<message index="65" name="msg_m1224_256_01_1">Am I waiting for someone?\nHow did you know?\nOh, I get it.\fI'm waiting for something from my aunt.\nThat's it! Her red sweater\fIf I sling this over my shoulders,\nI'm going to kick butt at work.\nThank you!</message>
+	<message index="66" name="msg_m1224_224_01_4">Thank you! You're great!\nYou found him among all of these people!</message>
+	<message index="67" name="msg_m1224_224_01_5">Yeah, there's too many people \naround here... too bad.</message>
+	<message index="68" name="msg_m1225_225_01_2">What...? Why won't it explode?\nIf I don't do this, I'll be stuck forever \nas an Earl...\fIt's supposed to work perfectly.\nWhat's wrong with it!?\nDarn it!</message>
+	<message index="69" name="msg_m1226_226_01_3">I think there's a secret hidden in this \nwarehouse district. Good luck!</message>
+	<message index="70" name="msg_m1226_226_01_4">Thank you! There really was a monster...\nThank you for your help.\fManagement is delighted.\nThis is a reward from our company.\nPlease take it!</message>
+	<message index="71" name="msg_m1227_227_01_1">This is your first test!\nThe Test of Friendship!\fShow with your actions how much\nyou value your friends!\nHere we go!</message>
+	<message index="72" name="msg_m1227_227_01_2">You seem to value your friends.\nKeep it up.\nOn to the next test!</message>
+	<message index="73" name="msg_m1227_227_01_3">You don't value your friends enough.\nRethink how much they mean to you!</message>
+	<message index="74" name="msg_m1228_228_01_1">This is your third test!\nThe Test of the Heart!\fThe heart is your true self.\nYou must fight yourself, and win\nin order to pass.</message>
+	<message index="75" name="msg_m1228_228_01_2">Get to the destination faster than \nyour own shadow! Here we go!</message>
+	<message index="76" name="msg_m1228_228_01_3">You did it... You overcame yourself.\nYou have passed the tests of Soleanna,\nand proved yourself worthy of the royal family.\fThe route is open!\nGo to the Old Castle!</message>
+	<message index="77" name="msg_m1228_228_01_4">There is still trouble in your heart.\nI cannot allow you to pass...</message>
+	<message index="78" name="msg_m1229_229_01_3">If you can find the Silver and Bronze\nmedals, I'm sure I can bring alchemy back!</message>
+	<message index="79" name="msg_m1229_229_01_4">Yes! I was right about you!\nNow that I have them, it's back\nto my research!\fOops, sorry. \nI almost forgot your reward.\nPlease take this!</message>
+	<message index="80" name="msg_m1229_229_01_5">It's okay. Maybe trying to bring \nalchemy back is just a hopeless dream...\nI'll have to accept that...</message>
+	<message index="81" name="msg_m1231_231_01_3">Let's start the Domino Game!\nReady, set, go!\n</message>
+	<message index="82" name="msg_m1231_231_01_4">Wow! You're all doing great!\nA total of $ dominos!\nWonderful score!\fYou are... Mr. Silver?\nMr. Silver will receive a prize!\fThat's it for today!\nTune in tomorrow for another episode\nof the Domino Game! See you!</message>
+	<message index="83" name="msg_m1231_231_01_5">Oh no...!\nThe Domino Game is not as easy as it\nlooks. Stay tuned for more tomorrow!</message>
+	<message index="84" name="msg_m1232_232_01_01">This is the second test!\nThe Test of Memory...\nLet's see how good your memory is.\fI'll ask you three questions from \nyour past. If you can answer them,\nyou will pass.</message>
+	<message index="85" name="msg_m1232_232_01_2">First question!</message>
+	<message index="86" name="msg_m1232_232_01_3">Impressive.\nOnto the next question!</message>
+	<message index="87" name="msg_m1232_232_01_4">Here's the last question!</message>
+	<message index="88" name="msg_m1232_232_01_5">Perfect!\nYou've cleared this test.\nOnto the last test.</message>
+	<message index="89" name="msg_m1232_232_01_6">Take stock of your past once again!\nThis is important if you want to\nprove yourself worthy of the royal family!</message>
+	<message index="90" name="msg_m1233_233_01_3">Okay, let's start the Domino Game!\nReady, set, go!</message>
+	<message index="91" name="msg_m1233_233_01_4">Wow! A new record of $ dominos!!\nIt's the highest score yet!\fThe winner is Mr. Silver!!\nHe will receive an amazing prize!\fHow was the Domino Game?\nUntil next time, adios!</message>
+	<message index="92" name="msg_m1233_233_01_5">Too bad! Marcos gets the highest score! \nCongratulations, Marcos!\fThis was the Domino Game.\nSee you next time!\nAdios!</message>
+	<message index="93" name="msg_m1234_234_01_3">Let's start the challenge!\nGo!</message>
+	<message index="94" name="msg_m1234_234_01_4">Whoa!\nI've never imagined anyone cracking this rock.\nWonderful! This is unbelievable!\fYour strength is truly divine!\nPlease take the prizes!</message>
+	<message index="95" name="msg_m1234_234_01_5">Haha, too bad.\nThe only one who can crack it is a god!</message>
+	<message index="96" name="msg_m1235_235_01_3">Let's begin. You have 0 Rings. \nEnemies will appear one after another,\nso you must defeat them.\fThe number of enemies you defeat\nwithin the time limit determines \nyour battle power. Ready?</message>
+	<message index="97" name="msg_m1235_235_01_4">You have defeated $ enemies.\nYou're very powerful!\nYour battle power level is Rank S.</message>
+	<message index="98" name="msg_m1235_235_01_5">Good job at defeating $ enemies.\nYour battle power level is Rank A.</message>
+	<message index="99" name="msg_m1235_235_01_6">Let's see... you defeated $ enemies.\nYour battle power level is Rank B.</message>
+	<message index="100" name="msg_m1235_235_01_7">Let's see... you defeated $ enemies.\nYour battle power level is Rank C.</message>
+	<message index="101" name="msg_m1235_235_01_8">Let's see... the total number of enemies\nyou defeated was $. Unfortunately, your\nbattle power level is Rank D.</message>
+	<message index="102" name="msg_m1236_236_01_3">The 1-ball is over there.\nPlease find it and bring it to me.</message>
+	<message index="103" name="msg_m1236_236_01_4">My boss is very strict, so I was really scared.\nThank you so much!</message>
+	<message index="104" name="msg_m1236_236_01_5">What? You couldn't find it?\nI'm in big trouble...</message>
+	<message index="105" name="msg_m1237_237_01_1">This is your first test\nThe Test of Friendship!\fShow with your actions how much\nyou value your friends!\nHere we go!</message>
+	<message index="106" name="msg_m1237_237_01_2">You seem to value your friends.\nKeep it up.\nOn to the next test!</message>
+	<message index="107" name="msg_m1237_237_01_3">You don't value your friends enough.\nRethink how much they mean to you!</message>
+	<message index="108" name="msg_m1238_238_01_1">This is your third test!\nThe Test of Heart!\fThis is about battling the fears deep inside\nyou. You need to battle the enemy without\nusing any objects.</message>
+	<message index="109" name="msg_m1238_238_01_2">There are no objects nearby that you can\nuse your Psychokinesis on.\nAll you can depend on is yourself!</message>
+	<message index="110" name="msg_m1238_238_01_3">You have faced your fears and overcome the\ntests... You have proved yourself worthy of\nthe royal family.\fThe route is open!\nGo to the Old Castle!</message>
+	<message index="111" name="msg_m1238_238_01_4">Unfortunately, you have not overcome your\ndeepest fears. I cannot allow you to pass\nthe test...</message>
+	<message index="112" name="msg_m1239_239_01_2">The red barrel is the most dangerous!\nDon't let them touch it!</message>
+	<message index="113" name="msg_m1239_239_01_3">Oh good! We've prevented the explosion!\nThank you so much!</message>
+	<message index="114" name="msg_m1239_239_01_4">Oh no!</message>
+	<message index="115" name="msg_m1200_rule000_01_1">Mission</message>
+	<message index="116" name="msg_m1201_rule001_01_1">Put as many apples in the barrels as \npossible before time runs out!</message>
+	<message index="117" name="msg_m1202_rule002_01_1">Take Francesca to her mom!</message>
+	<message index="118" name="msg_m1203_rule003_01_1">Go through all the Rings within \nthe time limit!</message>
+	<message index="119" name="msg_m1204_rule004_01_1">Grab the E Gunner model, and cause as\nmany crashes as possible! You need to get\nat least $ points to get a prize.</message>
+	<message index="120" name="msg_m1205_rule005_01_1">Find John and Pucci!\nTake them to their owner!</message>
+	<message index="121" name="msg_m1206_rule006_01_1">Destroy the rock before the bomb\nexplodes! Take the bomb next to \nLord Regis to a safe place and destroy it!</message>
+	<message index="122" name="msg_m1207_rule007_01_1">Find five keys and save the dogs\ntrapped in the cages!</message>
+	<message index="123" name="msg_m1208_rule008_01_1">Keep Anna safe, and escort \nher to the destination!</message>
+	<message index="124" name="msg_m1209_rule009_01_1">Discover Amy's intentions without\nletting her see you!</message>
+	<message index="125" name="msg_m1210_rule010_01_1">Touch the places that are different\nbetween the first and the second\nscene!</message>
+	<message index="126" name="msg_m1211_rule011_01_1">Find the ten Bronze Medals!</message>
+	<message index="127" name="msg_m1212_rule012_01_1">Go through all the Rings\nwithin the time limit!</message>
+	<message index="128" name="msg_m1213_rule013_01_1">Follow Valeria's memory and find\nthe lost present!</message>
+	<message index="129" name="msg_m1214_rule014_01_1">Defeat the enemies before they reach\nthe town!</message>
+	<message index="130" name="msg_m1215_rule015_01_1">Go around the Castle Town once and \nreach the goal before Sonic Man does!</message>
+	<message index="131" name="msg_m1216_rule016_01_1">Destroy all the targets within\nthe time limit!</message>
+	<message index="132" name="msg_m1217_rule017_01_1">Take all of the ingredients to Collard\nwithin the time limit!</message>
+	<message index="133" name="msg_m1218_rule018_01_1">Capture the six children within the time limit!</message>
+	<message index="134" name="msg_m1221_rule021_01_1">Defeat all of the enemies!</message>
+	<message index="135" name="msg_m1222_rule022_01_1">Stop the red car before it crashes\ninto a building!</message>
+	<message index="136" name="msg_m1223_rule023_01_1">Collect ten Bronze medals within\nthe time limit!</message>
+	<message index="137" name="msg_m1224_rule024_01_1">Find a young man with brown hair,\nwearing a white shirt, with a blue\nsweater over his shoulders!</message>
+	<message index="138" name="msg_m1225_rule025_01_1">The stolen present.</message>
+	<message index="139" name="msg_m1226_rule026_01_1">Find out why goods from the \nwarehouse district are disappearing,\nand stop it!</message>
+	<message index="140" name="msg_m1227_rule027_01_1">Protect Blaze and defeat all of the enemies!</message>
+	<message index="141" name="msg_m1228_rule028_01_1">Get to the goal before your\nalter ego!</message>
+	<message index="142" name="msg_m1229_rule029_01_1">Find the Silver and Bronze medals!</message>
+	<message index="143" name="msg_m1230_rule030_01_1">Use memories of the past to find Anna,\nwho knows the secret!</message>
+	<message index="144" name="msg_m1231_rule031_01_1">Push the switch at the right time \nto make the dominos appear! \nThere's a prize for over $ dominos!</message>
+	<message index="145" name="msg_m1232_rule032_01_1">Answer all three questions from the past.\nIf you can do it, you'll pass!</message>
+	<message index="146" name="msg_m1233_rule033_01_1">Push the switch at the right time\nto make the dominos appear! \nThere's a prize for over $ dominos!</message>
+	<message index="147" name="msg_m1234_rule034_01_1">Attack the divine rock and \ncrack it within the time limit!</message>
+	<message index="148" name="msg_m1235_rule048_01_1">Take down all of the enemies with 0 Rings.</message>
+	<message index="149" name="msg_m1236_rule049_01_1">Take the 1-ball to Festi!</message>
+	<message index="150" name="msg_m1237_rule050_01_1">Save the captured Blaze within \nthe time limit!</message>
+	<message index="151" name="msg_m1238_rule051_01_1">Destroy all enemies without any objects\nto use Psychokinesis on!</message>
+	<message index="152" name="msg_m1239_rule052_01_1">Defeat the enemies to prevent\nthe barrels from exploding!</message>
+	<message index="153" name="msg_m1240_rule052_01_1">Avoid being spotted by the guards\nand get into the station!</message>
+	<message index="154" name="msg_m1201_title001_01_1">Soleanna's Apple Festival</message>
+	<message index="155" name="msg_m1202_title002_01_1">Escort the Lost Child!</message>
+	<message index="156" name="msg_m1203_title003_01_1">The Training Grounds</message>
+	<message index="157" name="msg_m1204_title004_01_1">Crash Game!</message>
+	<message index="158" name="msg_m1205_title005_01_1">Find John and Pucci!</message>
+	<message index="159" name="msg_m1206_title006_01_1">Save Lord Regis!</message>
+	<message index="160" name="msg_m1207_title007_01_1">The Animal Doctor</message>
+	<message index="161" name="msg_m1208_title008_01_1">Protect Anna--\nShe Knows the Secret!</message>
+	<message index="162" name="msg_m1209_title009_01_1">Amy's Secret</message>
+	<message index="163" name="msg_m1210_title010_01_1">Memory Quiz!</message>
+	<message index="164" name="msg_m1211_title011_01_1">The Stolen Bronze Medals</message>
+	<message index="165" name="msg_m1212_title012_01_1">The Airplane Tournament</message>
+	<message index="166" name="msg_m1213_title013_01_1">The Lost Present</message>
+	<message index="167" name="msg_m1214_title014_01_1">Protect the Coastline!</message>
+	<message index="168" name="msg_m1215_title015_01_1">Sonic Man Returns!</message>
+	<message index="169" name="msg_m1216_title016_01_1">The Soleanna \nWater Target Tournament!</message>
+	<message index="170" name="msg_m1217_title017_01_1">The Chef's Ingredients</message>
+	<message index="171" name="msg_m1218_title018_01_1">Catch the Soleanna Boys!</message>
+	<message index="172" name="msg_m1219_title019_01_1">Raid: Evil Monster</message>
+	<message index="173" name="msg_m1220_title020_01_1">Defeat the Pursuers \nand Escort Elise!</message>
+	<message index="174" name="msg_m1221_title021_01_1">Protect the Gate to \nthe Castle Town</message>
+	<message index="175" name="msg_m1222_title022_01_1">Stop the Thieves' Car!</message>
+	<message index="176" name="msg_m1223_title023_01_1">Battle of the Mind: Find \nthe Hidden Bronze Medals!</message>
+	<message index="177" name="msg_m1224_title024_01_1">Find the Waiting Person!</message>
+	<message index="178" name="msg_m1225_title025_01_1">Principality Under Fire 2</message>
+	<message index="179" name="msg_m1226_title026_01_1">Lost Company Property</message>
+	<message index="180" name="msg_m1227_title027_01_1">Soleanna's Test \n(The Test of Friendship)</message>
+	<message index="181" name="msg_m1228_title028_01_1">Soleanna's Test \n(The Test of Heart)</message>
+	<message index="182" name="msg_m1229_title029_01_1">Ancient Alchemy Research</message>
+	<message index="183" name="msg_m1230_title030_01_1">Find Anna--\nShe Knows the Secret!</message>
+	<message index="184" name="msg_m1231_title031_01_1">Domino Game</message>
+	<message index="185" name="msg_m1232_title032_01_1">The Test of Memory</message>
+	<message index="186" name="msg_m1233_title033_01_1">Domino Game \nChampionship Tournament</message>
+	<message index="187" name="msg_m1234_title034_01_1">The Rock of Legend</message>
+	<message index="188" name="msg_m1235_title048_01_1">The Battle Master</message>
+	<message index="189" name="msg_m1236_title049_01_1">The Forgotten 1-Ball</message>
+	<message index="190" name="msg_m1237_title050_01_1">The Test of Friendship</message>
+	<message index="191" name="msg_m1238_title051_01_1">The Test of Heart</message>
+	<message index="192" name="msg_m1239_title052_01_1">Protect the Barrels \nin the Warehouse District!</message>
+	<message index="193" name="msg_m1240_title052_01_1">Get into the station!</message>
+	<message index="194" name="msg_m1201_n201">Paganini</message>
+	<message index="195" name="msg_m1202_n202">Francesca</message>
+	<message index="196" name="msg_m1203_n203">Soleannan Guard</message>
+	<message index="197" name="msg_m1204_n204">Paolo</message>
+	<message index="198" name="msg_m1205_n205">Pierre</message>
+	<message index="199" name="msg_m1206_n206">Lord Regis</message>
+	<message index="200" name="msg_m1207_n207">Tina</message>
+	<message index="201" name="msg_m1210_n210">Fanfani</message>
+	<message index="202" name="msg_m1208_n208">Soleannan Guard</message>
+	<message index="203" name="msg_m1211_n211">Mikhail</message>
+	<message index="204" name="msg_m1212_n212">Renzo</message>
+	<message index="205" name="msg_m1213_n010">Valeria</message>
+	<message index="206" name="msg_m1214_n214">Soleannan Guard</message>
+	<message index="207" name="msg_m1215_n215">Sonic Man</message>
+	<message index="208" name="msg_m1213_n213">Buonarroti</message>
+	<message index="209" name="msg_m1214_n">Collard</message>
+	<message index="210" name="msg_m1218_n218">Pucci</message>
+	<message index="211" name="msg_m1216_n216">Porta</message>
+	<message index="212" name="msg_m1219_n219">Liza</message>
+	<message index="213" name="msg_m1218_n">Stefano</message>
+	<message index="214" name="msg_m1218_n251">Jean Marco</message>
+	<message index="215" name="msg_m1224_n224">Gravina</message>
+	<message index="216" name="msg_m1224_n256">Muller</message>
+	<message index="217" name="msg_m1225_n225">Guiberutti</message>
+	<message index="218" name="msg_m1226_n226">Alan</message>
+	<message index="219" name="msg_m1226_n257">Alan</message>
+	<message index="220" name="msg_m1227_n227">Priest </message>
+	<message index="221" name="msg_m1228_n228">Priest </message>
+	<message index="222" name="msg_m1232_n232">Priest </message>
+	<message index="223" name="msg_m1229_n229">Odrich</message>
+	<message index="224" name="msg_m1231_n231">Moroni</message>
+	<message index="225" name="msg_m1233_n233">Moroni</message>
+	<message index="226" name="msg_m1234_n234">Danilo</message>
+	<message index="227" name="msg_m1235_n235">Zeus</message>
+	<message index="228" name="msg_m1236_n236">Festi</message>
+	<message index="229" name="msg_m1237_n237">Priest </message>
+	<message index="230" name="msg_m1238_n238">Priest </message>
+	<message index="231" name="msg_m1239_n239">Roberta</message>
+	<message index="232" name="msg_m1232_232_01_08">First question. What comes to mind with\nthe words "future," "inferno," and\n"ruined city"?\fIf you think "mission," go right.\nIf you think "escape," go left.</message>
+	<message index="233" name="msg_m1232_232_01_09">Next question. What comes to mind with\nthe words "Flames of Disaster," "seal,"\nand "ten years ago"?\fFor "Princess Elise," go right.\nFor "Blaze," go left.</message>
+	<message index="234" name="msg_m1232_232_01_10">Last question.\nWhat comes to mind with the words\n"blue hedgehog"?\fFor "hatred," go right.\nFor "teamwork," go left.</message>
+	<message index="235" name="msg_m1232_232_01_11">I have seen into your heart.\fYou may have banished all doubt from\nyour mind.\fHowever, looking back on the past may\nbe what has calmed the wavering of\nyour heart.\fKeep your heart and mind strong as\nyou proceed to the next battle.</message>
+	<message index="236" name="msg_m1232_232_01_12">Your heart still falters.\nGoing any further will bring you nothing\nbut despair.</message>
+	<message index="237" name="msg_m1240_240_01_1">Halt! This area is under high alert!\nEntry is strictly prohibited!\nLeave at once!</message>
+	<message index="238" name="msg_m1219_rule019_01_1">Defeat all enemies attacking the town!</message>
+	<message index="239" name="msg_m1220_rule020_01_1">Defeat all enemies going after Elise!</message>
+	<message index="240" name="msg_m1219_219_01_1">Help! Weird monsters are everywhere!</message>
+	<message index="241" name="msg_m1221_021_01_2">Thank you! The town is saved, thanks to\nyou. As promised, here is the pass to the\ndesert.</message>
+	<message index="242" name="msg_m1214_214_01_1">Please get rid of them! They will destroy\nthe town!</message>
+	<message index="243" name="msg_m1212_n009">Renzo</message>
+	<message index="244" name="msg_m1211_n008">Mikhail</message>
+</mst06>

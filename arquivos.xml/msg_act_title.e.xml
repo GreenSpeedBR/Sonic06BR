@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mst06 name="msg_act_title" mst_version="1" endianness="B">
+	<message index="0" name="msg_act_title01">Get to the Goal Ring!</message>
+	<message index="1" name="msg_act_title02">Get to the goal within $ minutes!</message>
+	<message index="2" name="msg_act_title03">Collect $ rings!</message>
+	<message index="3" name="msg_act_title04">Defeat all enemies!</message>
+	<message index="4" name="msg_act_title05">Wipe out all enemies!</message>
+	<message index="5" name="msg_act_title06">Get to the goal within $ minutes!</message>
+	<message index="6" name="msg_act_title07">Collect $ rings!</message>
+	<message index="7" name="msg_act_title08">Get to the goal before your rival!</message>
+	<message index="8" name="msg_act_title09">Get to the goal before the ghost!</message>
+	<message index="9" name="msg_act_title10">Find $ Chao!</message>
+	<message index="10" name="msg_act_title11">Find the Goal Ring!</message>
+	<message index="11" name="msg_act_title12">Get to the new Goal Ring!</message>
+	<message index="12" name="msg_act_title13">Clear the minigame!</message>
+	<message index="13" name="msg_act_title14">Clear hard mode!</message>
+	<message index="14" name="msg_act_title15">Collect the Chaos Emeralds and save Sonic!</message>
+	<message index="15" name="msg_act_title16">Defeat Iblis!</message>
+	<message index="16" name="msg_act_title17">Defeat Eggman!</message>
+	<message index="17" name="msg_act_title18">Defeat Mephiles!</message>
+	<message index="18" name="msg_act_title19">Defeat Eggman, and save Elise!</message>
+	<message index="19" name="msg_act_title20">Defeat Mephiles!</message>
+	<message index="20" name="msg_act_title21">Seal away Iblis!</message>
+	<message index="21" name="msg_act_title22">Defeat Sonic!</message>
+	<message index="22" name="msg_act_title23">Defeat Shadow!</message>
+	<message index="23" name="msg_act_title24">Defeat Silver!</message>
+	<message index="24" name="msg_act_title25">Defeat Solaris!</message>
+	<message index="25" name="msg_act_title26">Stop the out-of-control Solaris!</message>
+</mst06>
