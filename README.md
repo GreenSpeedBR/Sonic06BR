@@ -1,6 +1,6 @@
 # Sonic the Hedgehog: Brazilian Localization / Localização Brasileira
 ## "Não tem uso!"
-![Sonicman](https://user-images.githubusercontent.com/23565102/148466065-a265caa2-c6b6-4668-a197-3f9dff9442a3.png)
-![Berruni](https://user-images.githubusercontent.com/23565102/148466074-c2a483e4-9049-4f7f-9784-5e92503bebe6.png)
-![Pinto_1](https://user-images.githubusercontent.com/23565102/148466079-5250e821-ea58-49ab-8370-fa08f5cb1a20.png)
-![unknown](https://user-images.githubusercontent.com/23565102/148466088-f047fae9-100e-43ac-9f45-a2336f23eb1f.png)
+![Sonicman](https://user-images.githubusercontent.com/23565102/148466187-19e2a7c9-62b2-4988-9272-e5305fe36258.png)
+![Berruni](https://user-images.githubusercontent.com/23565102/148466212-fad3a070-bb24-4940-b655-5acbace72422.png)
+![Pinto_1](https://user-images.githubusercontent.com/23565102/148466219-4c53925e-81ac-4e9c-bcb1-29896973fccb.png)
+![unknown](https://user-images.githubusercontent.com/23565102/148466230-fc494fc8-9b8f-4b62-bf61-82f537ac537d.png)
