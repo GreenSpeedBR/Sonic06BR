@@ -12,7 +12,7 @@
 	<message index="9" name="msg_no10">No. 10</message>
 	<message index="10" name="msg_totalplaytime">TEMPO TOTAL DE JOGO</message>
 	<message index="11" name="msg_lastsavedate">ÚLTIMO SALVAMENTO</message>
-	<message index="12" name="msg_fileselect">Selecionar progresso: Selecione um progresso salvo para carregar.</message>
+	<message index="12" name="msg_fileselect">Selecionar progresso: Selecione um jogo salvo para carregar.</message>
 	<message index="13" name="msg_device_1">Alterar dispositivo de armazenamento.</message>
 	<message index="14" name="msg_device">Alterar dispositivo de armazenamento.</message>
 	<message index="15" name="msg_alart_deleat">Caso delete esse progresso,\nvocê não poderá mais\ncarregá-lo novamente.\nTem certeza?</message>
@@ -23,6 +23,6 @@
 	<message index="20" name="msg_newfile_created">Novo progresso criado.</message>
 	<message index="21" name="msg_newfile_create_error">Indisponível para criar um novo progresso.</message>
 	<message index="22" name="msg_fileselect_c">Selecione um progresso salvo.</message>
-	<message index="23" name="msg_selectfile">Selecione um progresso salvo</message>
+	<message index="23" name="msg_selectfile">Selecione um jogo salvo</message>
 	<message index="24" name="msg_selectfile2">Selecione um progresso</message>
 </mst06>

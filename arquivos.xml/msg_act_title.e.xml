@@ -2,11 +2,11 @@
 <mst06 name="msg_act_title" mst_version="1" endianness="B">
 	<message index="0" name="msg_act_title01">Chegue ao final da fase!</message>
 	<message index="1" name="msg_act_title02">Chegue ao objetivo em menos de $ minutos!</message>
-	<message index="2" name="msg_act_title03">Colete $ anéis!</message>
+	<message index="2" name="msg_act_title03">Colete $ Anéis!</message>
 	<message index="3" name="msg_act_title04">Derrote todos os inimigos!</message>
 	<message index="4" name="msg_act_title05">Elimine todos os inimigos!</message>
 	<message index="5" name="msg_act_title06">Chegue ao objetivo em menos de $ minutos!</message>
-	<message index="6" name="msg_act_title07">Colete $ anéis!</message>
+	<message index="6" name="msg_act_title07">Colete $ Anéis!</message>
 	<message index="7" name="msg_act_title08">Chegue ao objetivo antes do seu rival!</message>
 	<message index="8" name="msg_act_title09">Chegue ao objetivo antes do fantasma!</message>
 	<message index="9" name="msg_act_title10">Encontre $ Chao!</message>
@@ -18,7 +18,7 @@
 	<message index="15" name="msg_act_title16">Derrote Iblis!</message>
 	<message index="16" name="msg_act_title17">Derrote Eggman!</message>
 	<message index="17" name="msg_act_title18">Derrote Mephiles!</message>
-	<message index="18" name="msg_act_title19">Derrote Eggman, e salve Elise!</message>
+	<message index="18" name="msg_act_title19">Derrote Eggman e salve Elise!</message>
 	<message index="19" name="msg_act_title20">Derrote Mephiles!</message>
 	<message index="20" name="msg_act_title21">Sele Iblis!</message>
 	<message index="21" name="msg_act_title22">Derrote Sonic!</message>

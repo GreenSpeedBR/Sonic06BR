@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_tag" mst_version="1" endianness="B">
-	<message index="0" name="msg_tag01">Tag team story: A special story for 2 players</message>
-	<message index="1" name="msg_tag02">Tag team challenge: Replay cleared missions with 2 players!</message>
-	<message index="2" name="msg_tag03">points to win</message>
-	<message index="3" name="msg_tag04">times to play</message>
+	<message index="0" name="msg_tag01">História Tag Team: Um modo história para 2 jogadores!</message>
+	<message index="1" name="msg_tag02">Desafio Tag Team: Rejogue missões com 2 jogadores!</message>
+	<message index="2" name="msg_tag03">pontos para vencer</message>
+	<message index="3" name="msg_tag04">vezes para jogar</message>
 </mst06>
