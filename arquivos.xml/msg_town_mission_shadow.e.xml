@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_town_mission_shadow" mst_version="1" endianness="B">
-	<message index="0" name="msg_m1101_101_01_2">Huh...? Why isn't it blowing up on time...?\fDarn, time for another strategy...</message>
-	<message index="1" name="msg_m1103_103_01_3">Monsters will disappear after a while,\nso you'll need to hurry to defeat as many\nmonsters as possible, and collect the Light Cores.</message>
-	<message index="2" name="msg_m1104_104_01_3">Please, please defeat all of the monsters\nover there!</message>
-	<message index="3" name="msg_m1104_104_01_4">Thank you! You are so dependable!\nPlease save Princess Elise, too!</message>
-	<message index="4" name="msg_m1104_104_01_5">Oh no...\nOur shop...</message>
-	<message index="5" name="msg_m1105_105_02_2">I thought you would help me out...</message>
-	<message index="6" name="msg_m1105_105_01_3">Let's start filming!\nJump off that ramp with the car! \nIf you jump more than $ meters, we're good to go!\fAll right! \nReady, set, go!</message>
-	<message index="7" name="msg_m1105_105_01_4">Cut! Great job!\nThat was a fabulous scene!\nThis movie is going to be a hit!\fThank you so much!\nYou'll get a nice, big paycheck!</message>
-	<message index="8" name="msg_m1105_105_01_5">Nah... this is no good!\nWe're not going to make the deadline...</message>
-	<message index="9" name="msg_m1106_106_01_1">There are $ robbers on the run.\nPlease find and capture all of them.</message>
-	<message index="10" name="msg_m1106_106_01_2">Mr. Shadow, thank you so much\nfor taking care of everything...\fI don't know how to thank you.\nMaybe we'll put your statue in the lobby... No?</message>
-	<message index="11" name="msg_m1106_151_01_1">We have done nothing wrong.\fAll we did was to stop Rimlight from\nputting everyone in a lot of danger.\fIf you think I'm wrong, go to the Rimlight office\nin the New City.\fI wouldn't be surprised if something happened\nsoon. Light Cores attract monsters!</message>
+	<message index="0" name="msg_m1101_101_01_2">Huh...? Por que isso não tá explodindo...?\fDroga, hora do plano B...</message>
+	<message index="1" name="msg_m1103_103_01_3">Monstros aparecerão depois de um tempo,\nvocê tem que se apressar e\nderrotar quantos puder e colete as Light Cores.</message>
+	<message index="2" name="msg_m1104_104_01_3">Por favor, por favor derrote todos os monstros\nlogo ali!</message>
+	<message index="3" name="msg_m1104_104_01_4">Muito obrigada! Você foi de grande ajuda!\nPor favor salve a Princesa Elise também!</message>
+	<message index="4" name="msg_m1104_104_01_5">Oh não...\nNossa loja...</message>
+	<message index="5" name="msg_m1105_105_02_2">Eu pensei que você poderia me ajudar...</message>
+	<message index="6" name="msg_m1105_105_01_3">Vamos começar a filmagem!\nUse o carro pra pular daquela rampa! \nSe você conseguir ir mais de $ metros vai ser o suficiente!\fBeleza! \nPreparar, apontar, já!</message>
+	<message index="7" name="msg_m1105_105_01_4">Corta! Ótimo trabalho!\nEssa foi uma cena fabulosa!\nEsse filme vai ser um sucesso!\fLhe agradeço pela ajuda!\nAqui, seu merecido pagamento!</message>
+	<message index="8" name="msg_m1105_105_01_5">Uh... isso não é bom!\nNós não vamos conseguir no prazo...</message>
+	<message index="9" name="msg_m1106_106_01_1">Tem $ ladrões fugindo.\nPor favor encontre-os e capture eles.</message>
+	<message index="10" name="msg_m1106_106_01_2">Muito obrigado senhor Shadow\npor cuidar de tudo...\fEu nem sei como agradecer.\nTalvez eu faça uma estatua sua... Não?</message>
+	<message index="11" name="msg_m1106_151_01_1">Nós não fizemos nada de errado.\fTudo o que nós fizemos foi parar a Rimlight de\ncolocar os outros em perigo.\fSe você acha que estou errado, vá até o escritório da Rimlight\nna Nova Cidade.\fEu não ficaria surpreso se algo acontecesse.\nLight Cores atraem monstros!</message>
 	<message index="12" name="msg_m1106_106_01_3">I thought you could do it,\nsince you're an agent...\nIt's too bad.</message>
 	<message index="13" name="msg_m1107_107_01_3">All right!\nOn to the next test!</message>
 	<message index="14" name="msg_m1107_107_01_4">This is your last challenge.\nHere we go!</message>
