@@ -162,75 +162,75 @@
 	<message index="159" name="msg_m1031_030_01_3">Entendido.\fNão vou comentar isso com a Princesa.\nÉ preciso ter muita coragem para escolher alguém\nque carrega o peso de uma nação nos seus ombros.\fCom isso em mente, você irá\nsuperar os obstáculos que\nestão pela frente.\fO caminho para o antigo castelo foi \naberto. Siga o seu destino.</message>
 	<message index="160" name="msg_m1035_035_01_3">Há uma chave em um dos \nbarris. Você pode me ajudar a encontrá-la?\nVocê pode destruir todos os barris se quiser.</message>
 	<message index="161" name="msg_m1035_035_01_4">Valeu!\nBem, agora eu posso ir pra casa.</message>
-	<message index="162" name="msg_m1000_rule000_01_1">Mission</message>
-	<message index="163" name="msg_m1001_rule001_01_1">Go through all the Rings in time!</message>
-	<message index="164" name="msg_m1003_rule003_01_1">Destroy all of Dr. Eggman's mechs!</message>
-	<message index="165" name="msg_m1004_rule004_01_1">Save Pele the dog!</message>
-	<message index="166" name="msg_m1005_rule005_01_1">Catch 6 kids within the time limit!</message>
-	<message index="167" name="msg_m1006_rule006_01_1">Dribble the ball and take it to\nthe child at the foot of the tall bells!</message>
-	<message index="168" name="msg_m1007_rule007_01_1">Attack the ball once to roll it. \nSmash as many barrels as you can!\nYou win a prize for smashing more then $ barrels!</message>
-	<message index="169" name="msg_m1008_rule008_01_1">Go through all the Rings in 5 minutes!</message>
-	<message index="170" name="msg_m1009_rule009_01_1">Destroy all enemies before the \nfountain is destroyed!</message>
-	<message index="171" name="msg_m1010_rule010_01_1">Find 100 Rings!</message>
-	<message index="172" name="msg_m1012_rule012_01_1">Chase the blue car and destroy\nit before the time limit!</message>
-	<message index="173" name="msg_m1013_rule013_01_1">Get to the station before Sonic Man does!</message>
-	<message index="174" name="msg_m1014_rule014_01_1">Count the stacked wooden boxes and \ndestroy the wooden box with the right number!</message>
-	<message index="175" name="msg_m1015_rule015_01_1">Get the password from the enemy! \nSmash the numbered boxes matching the\npassword to get the Silver medal!</message>
-	<message index="176" name="msg_m1016_rule016_01_1">Deliver gelato to as many customers as you can\nbefore time runs out! Earn more for long-\ndistance deliveries.</message>
-	<message index="177" name="msg_m1017_rule01&apos;_01_1">Answer all questions correctly!</message>
-	<message index="178" name="msg_m1018_rule018_01_1">Collect as many Rings as possible\nwithin the time limit!</message>
-	<message index="179" name="msg_m1019_rule019_01_1">Go through all the Rings \nwithin the time limit!</message>
-	<message index="180" name="msg_m1020_rule020_01_1">Catch the three thieves!</message>
-	<message index="181" name="msg_m1021_rule021_01_1">Collect 10 bronze medals within\nthe time limit!</message>
-	<message index="182" name="msg_m1022_rule022_01_1">Destroy as many targets as possible\nwithin the time limit!</message>
-	<message index="183" name="msg_m1024_rule024_01_1">Destroy the enemies in the new \ntown and get the 3 disks!</message>
-	<message index="184" name="msg_m1025_rule025_01_1">Destroy all enemies in the \nwarehouse!</message>
-	<message index="185" name="msg_m1027_rule027_01_1">Defeat the enemy in front\nof the cave and open the gate!</message>
-	<message index="186" name="msg_m1026_rule026_01_1">Get to the goal before time runs out!</message>
-	<message index="187" name="msg_m1023_rule023_01_1">Go through the Rings in right order!</message>
-	<message index="188" name="msg_m1028_rule028_01_1">Use the hints to find the key!</message>
-	<message index="189" name="msg_m1029_rule029_01_1">Destroy the robots attacking the \nlady-in-waiting and take her to the\nentrance of the Castle Town!</message>
-	<message index="190" name="msg_m1030_rule030_01_1">Follow the warp gates to the goal!</message>
-	<message index="191" name="msg_m1031_rule031_01_1">Overcome the test of love!</message>
-	<message index="192" name="msg_m1032_rule032_01_1">Defeat all enemies with 0 Rings!</message>
-	<message index="193" name="msg_m1033_rule033_01_1">Tails: Go through all the Rings in time!\nKnuckles: Smash all the Rocks in time!\nSonic: Get to the Goal in time!</message>
-	<message index="194" name="msg_m1034_rule034_01_1">Listen to the opening, and pick the correct song!</message>
-	<message index="195" name="msg_m1035_rule035_01_1">Find the key hidden in a barrel!</message>
-	<message index="196" name="msg_m1001_title001_01_1">The winder of a Shoemaker</message>
-	<message index="197" name="msg_m1002_title002_01_1">Racing with Tails</message>
-	<message index="198" name="msg_m1003_title003_01_1">Shadows of \nEggman's Mechs</message>
-	<message index="199" name="msg_m1004_title004_01_1">Find Pele, \nthe Beloved Dog</message>
-	<message index="200" name="msg_m1005_title005_01_1">The Soleanna Boys' \nChallenge</message>
-	<message index="201" name="msg_m1006_title006_01_1">Get the Soccer Ball \nto My Brother!</message>
-	<message index="202" name="msg_m1007_title007_01_1">Soleanna's Famous \nBarrel Smash</message>
-	<message index="203" name="msg_m1008_title008_01_1">Mels, the Soleanna \nRunning Legend</message>
-	<message index="204" name="msg_m1009_title009_01_1">Protect the Sacred Statue</message>
-	<message index="205" name="msg_m1010_title010_01_1">The 100 Forgotten Rings</message>
-	<message index="206" name="msg_m1011_title011_01_1">Who is the Captain?</message>
-	<message index="207" name="msg_m1012_title012_01_1">Chase the Fleeing Car!</message>
+	<message index="162" name="msg_m1000_rule000_01_1">Missão</message>
+	<message index="163" name="msg_m1001_rule001_01_1">Passe por todos os Anéis a tempo!</message>
+	<message index="164" name="msg_m1003_rule003_01_1">Destrua todos os robôs do Eggman!</message>
+	<message index="165" name="msg_m1004_rule004_01_1">Salve o cachorro Pele!</message>
+	<message index="166" name="msg_m1005_rule005_01_1">Pegue as 6 crianças antes do tempo acabar!</message>
+	<message index="167" name="msg_m1006_rule006_01_1">Drible a bola e leve-a para\na criança próxima do sino!</message>
+	<message index="168" name="msg_m1007_rule007_01_1">Ataque a bola uma vez e deixe-a rolar. \nDestrua o máximo de barris que puder!\nVocê ganhará um prêmio por destruir mais do que $ barris!</message>
+	<message index="169" name="msg_m1008_rule008_01_1">Passe pelos Anéis em 5 minutos!</message>
+	<message index="170" name="msg_m1009_rule009_01_1">Destrua todos os inimigos antes que eles \nquebrem a fonte!</message>
+	<message index="171" name="msg_m1010_rule010_01_1">Encontre 100 Anéis!</message>
+	<message index="172" name="msg_m1012_rule012_01_1">Persiga o carro azul e destrua-o\nantes do tempo acabar!</message>
+	<message index="173" name="msg_m1013_rule013_01_1">Chegue na estação antes do Sonic Man!</message>
+	<message index="174" name="msg_m1014_rule014_01_1">Conte quantas caixas há nas pilhas e \ndestrua a caixa que indica a quantidade certa!</message>
+	<message index="175" name="msg_m1015_rule015_01_1">Pegue a senha do inimigo! \nDestrua as caixas na ordem da\nsenha para pegar a Medalha de Prata!</message>
+	<message index="176" name="msg_m1016_rule016_01_1">Entregue sorvetes para o máximo de clientes\nantes que o tempo acabe! Você será recompensado por\nrealizar entregas que estejam longe.</message>
+	<message index="177" name="msg_m1017_rule01&apos;_01_1">Respondam todas as perguntas corretamente!</message>
+	<message index="178" name="msg_m1018_rule018_01_1">Colete o máximo de anéis possíveis\nantes do tempo acabar!</message>
+	<message index="179" name="msg_m1019_rule019_01_1">Passe por todos os anéis \nantes do tempo acabar!</message>
+	<message index="180" name="msg_m1020_rule020_01_1">Pegue os três ladrões!</message>
+	<message index="181" name="msg_m1021_rule021_01_1">Colete 10 Medalhas de Bronze antes\ndo tempo acabar!</message>
+	<message index="182" name="msg_m1022_rule022_01_1">Destrua o máximo de alvos possíveis\nantes do tempo acabar!</message>
+	<message index="183" name="msg_m1024_rule024_01_1">Destrua os inimigos na Nova \nCidade e pegue os 3 discos!</message>
+	<message index="184" name="msg_m1025_rule025_01_1">Destrua todos os inimigos no \narmazém!</message>
+	<message index="185" name="msg_m1027_rule027_01_1">Derrote o inimigo em frente\nà caverna e abra o portão!</message>
+	<message index="186" name="msg_m1026_rule026_01_1">Vá para o objetivo antes que o tempo acabe!</message>
+	<message index="187" name="msg_m1023_rule023_01_1">Passe pelos Anéis na ordem correta!</message>
+	<message index="188" name="msg_m1028_rule028_01_1">Use as dicas para encontrar a chave!</message>
+	<message index="189" name="msg_m1029_rule029_01_1">Destrua os roboôs atacando a \nDama de companhia e leve-a para a\nentrada do Castelo da Cidade!</message>
+	<message index="190" name="msg_m1030_rule030_01_1">Siga os portais para chegar no objetivo!</message>
+	<message index="191" name="msg_m1031_rule031_01_1">Supere o teste do amor!</message>
+	<message index="192" name="msg_m1032_rule032_01_1">Derrote todos os inimigos com 0 Anéis!</message>
+	<message index="193" name="msg_m1033_rule033_01_1">Tails: Passe pelos Anéis a tempo!\nKnuckles: Esmague as pedras a tempo!\nSonic: Chegue no objetivo a tempo!</message>
+	<message index="194" name="msg_m1034_rule034_01_1">Ouça a abertura, e escolha a música correta!</message>
+	<message index="195" name="msg_m1035_rule035_01_1">Encontre a chave escondida no baú!</message>
+	<message index="196" name="msg_m1001_title001_01_1">O sonho de um Sapateiro</message>
+	<message index="197" name="msg_m1002_title002_01_1">Corrida contra o Tails</message>
+	<message index="198" name="msg_m1003_title003_01_1">Sombras dos \nRobôs do Eggman</message>
+	<message index="199" name="msg_m1004_title004_01_1">Encontre Pele, \no Amável Cachorro</message>
+	<message index="200" name="msg_m1005_title005_01_1">O Desafio dos Garotos de \nSoleanna</message>
+	<message index="201" name="msg_m1006_title006_01_1">Leve a Bola de Futebol \npara o meu Irmão!</message>
+	<message index="202" name="msg_m1007_title007_01_1">A Famosa Destruição dos Barris \nde Soleanna</message>
+	<message index="203" name="msg_m1008_title008_01_1">Mels, o Lendário \nCorredor de Soleanna</message>
+	<message index="204" name="msg_m1009_title009_01_1">Proteja a Estátua Sagrada</message>
+	<message index="205" name="msg_m1010_title010_01_1">Os 100 Anéis Esquecidos</message>
+	<message index="206" name="msg_m1011_title011_01_1">Quem é o Capitão?</message>
+	<message index="207" name="msg_m1012_title012_01_1">Persiga o Carro em Fuga!</message>
 	<message index="208" name="msg_m1013_title013_01_1">VS Sonic Man</message>
-	<message index="209" name="msg_m1014_title014_01_1">Aristo's Challenge</message>
-	<message index="210" name="msg_m1015_title015_01_1">Solve the Mystery!</message>
-	<message index="211" name="msg_m1016_title016_01_1">Deliver the Ice Cream!</message>
-	<message index="212" name="msg_m1017_title017_01_1">The Secret Letter Quiz</message>
-	<message index="213" name="msg_m1018_title018_01_1">The Hotel's Festival \nof Rings</message>
-	<message index="214" name="msg_m1019_title019_01_1">Acrobatic Circus Scout</message>
-	<message index="215" name="msg_m1020_title020_01_1">Catch the Apple Thieves</message>
-	<message index="216" name="msg_m1021_title021_01_1">Grandpa's Medals</message>
-	<message index="217" name="msg_m1022_title022_01_1">The Training Grounds 1</message>
-	<message index="218" name="msg_m1023_title023_01_1">An Accordion \nPlayer's Dream</message>
-	<message index="219" name="msg_m1024_title024_01_1">Destroy all Enemies \nin the New City!</message>
-	<message index="220" name="msg_m1025_title025_01_1">Battle at the Warehouse!</message>
-	<message index="221" name="msg_m1026_title026_01_1">Defuse the Bomb \nin the Station!</message>
-	<message index="222" name="msg_m1027_title027_01_1">Open the Cave Gate!</message>
-	<message index="223" name="msg_m1028_title028_01_1">Soleanna's Key \nHunting Festival</message>
-	<message index="224" name="msg_m1029_title029_01_1">Take the Lady-in-Waiting \nto Town!</message>
-	<message index="225" name="msg_m1030_title030_01_1">The Test of Intelligence</message>
-	<message index="226" name="msg_m1031_title031_01_1">The Test of Love</message>
-	<message index="227" name="msg_m1032_title032_01_1">The Test of Courage</message>
-	<message index="228" name="msg_m1033_title033_01_1">The Legend of \nthe Three Musketeers</message>
-	<message index="229" name="msg_m1034_title034_01_1">Sonic's Name That Song!</message>
-	<message index="230" name="msg_m1035_title035_01_1">The Lost Key in the Barrel</message>
+	<message index="209" name="msg_m1014_title014_01_1">Desafio do Aristo</message>
+	<message index="210" name="msg_m1015_title015_01_1">Solucione o Mistério!</message>
+	<message index="211" name="msg_m1016_title016_01_1">Entregue o Sorvete!</message>
+	<message index="212" name="msg_m1017_title017_01_1">O Quiz da Carta Secreta</message>
+	<message index="213" name="msg_m1018_title018_01_1">O Festival de Anéis \ndo Hotel</message>
+	<message index="214" name="msg_m1019_title019_01_1">O Desafio do Circo</message>
+	<message index="215" name="msg_m1020_title020_01_1">Pegue os Ladrões de Maçã</message>
+	<message index="216" name="msg_m1021_title021_01_1">Medalhas do Vovô</message>
+	<message index="217" name="msg_m1022_title022_01_1">Área de Treinamento 1</message>
+	<message index="218" name="msg_m1023_title023_01_1">O Sonho de um Acordeonista</message>
+	<message index="219" name="msg_m1024_title024_01_1">Destrua todos os Inimigos \nna Nova Cidade!</message>
+	<message index="220" name="msg_m1025_title025_01_1">Batalhe no Armazém!</message>
+	<message index="221" name="msg_m1026_title026_01_1">Desarme a Bomba \nna Estação!</message>
+	<message index="222" name="msg_m1027_title027_01_1">Abra o Portão da Caverna!</message>
+	<message index="223" name="msg_m1028_title028_01_1">Festival de Caça à chave \nChave de Soleanna</message>
+	<message index="224" name="msg_m1029_title029_01_1">Leve a Dama de companhia \npara a Cidade!</message>
+	<message index="225" name="msg_m1030_title030_01_1">O Teste de Inteligência</message>
+	<message index="226" name="msg_m1031_title031_01_1">O Teste do Amor</message>
+	<message index="227" name="msg_m1032_title032_01_1">O Teste da Coragem</message>
+	<message index="228" name="msg_m1033_title033_01_1">A Lenda dos \nTrês Mosqueteiros</message>
+	<message index="229" name="msg_m1034_title034_01_1">Sonic nomeia a Música!</message>
+	<message index="230" name="msg_m1035_title035_01_1">A Chave Perdida no Barril</message>
 	<message index="231" name="msg_m1001_n001">Robert</message>
 	<message index="232" name="msg_m1003_n003">Galienna</message>
 	<message index="233" name="msg_m1004_n004">Pinto</message>
@@ -263,8 +263,8 @@
 	<message index="260" name="msg_m1021_n021">Dino</message>
 	<message index="261" name="msg_m1022_n022">Soleanna Guard</message>
 	<message index="262" name="msg_m1023_n023">Verdi</message>
-	<message index="263" name="msg_m1026_n026">Station Staff</message>
-	<message index="264" name="msg_m1026_n062">Station Staff</message>
+	<message index="263" name="msg_m1026_n026">Staff da Estação</message>
+	<message index="264" name="msg_m1026_n062">Staff da Estação</message>
 	<message index="265" name="msg_m1027_n027">Julio</message>
 	<message index="266" name="msg_m1027_n063">Soleanna</message>
 	<message index="267" name="msg_m1028_n028">Sophia</message>
@@ -275,18 +275,18 @@
 	<message index="272" name="msg_m1033_n064">Antonio</message>
 	<message index="273" name="msg_m1034_n034">Ivan</message>
 	<message index="274" name="msg_m1035_n035">Lippi</message>
-	<message index="275" name="msg_m1024_001">Light Cores have tremendous power that\nrivals that of the Chaos Drive.</message>
-	<message index="276" name="msg_m1024_002">The strange monsters that have been\nbeen appearing recently are in possession\nof Light Cores.</message>
-	<message index="277" name="msg_m1024_003">Black monsters carry a particularly high\nnumber of Light Cores.</message>
-	<message index="278" name="msg_m1014_014_01_13">Well?\nDoes that help you?</message>
-	<message index="279" name="msg_m1010_010_01_6">Bahaha! Can't find them?\nGiving up so soon?</message>
-	<message index="280" name="msg_m1010_010_01_7">Whoa! I'm shocked!\nWhat's the reason for busting up something\nlike that?</message>
-	<message index="281" name="msg_m1011_rule010_01_1">Someone point me to the real commander!</message>
-	<message index="282" name="msg_m1000_001_01_1">Yes</message>
-	<message index="283" name="msg_m1000_002_01_1">No</message>
-	<message index="284" name="msg_m1024_024_01_3">Oh, thank you!\nTo think I almost lost this disk...\nYou've saved my company!\fI should have mentioned this earlier, but\nI'm a representative of Rimlight.\nWe're a very fast-growing corporation.\fWe hope to use the new type of energy\ndiscovered in Light Cores to...\nOh, you've got better things to do, I'm sure.\fAgain, thank you very much.\nWe are in your debt.</message>
-	<message index="285" name="msg_m1003_003_01_1">Mr. Sonic! Dr. Eggman's mechs suddenly appeared!\fWe are no match to them...\nMr. Sonic, Please help us!</message>
-	<message index="286" name="msg_m1033_064_01_2">Welcome, you three.\nI'm the spirit of Antonio, one of\nthe three musketeers of Soleanna.\fIf you can overcome the \nchallenges, I will give you\nthe treasure of Soleanna.\fLet's begin!\fFirst, the flying speed challenge.</message>
-	<message index="287" name="msg_m1024_024_01_1">That disk has all my company's top secret\nclassified data on it! If I lose it I will get \nsacked!\fSonic, please!\nGet my disk back from them, hurry!</message>
+	<message index="275" name="msg_m1024_001">Os Light Cores possuem um poder tremendo\nque rivaliza com os dos Chaos Drives.</message>
+	<message index="276" name="msg_m1024_002">Os monstros que\napareceram recentemente estão sendo possuídos\npelos Light Cores.</message>
+	<message index="277" name="msg_m1024_003">Monstros Obscuros carregam uma grande\nquantidade de Light Cores.</message>
+	<message index="278" name="msg_m1014_014_01_13">Bem?\nIsso te ajuda?</message>
+	<message index="279" name="msg_m1010_010_01_6">Bahaha! Não conseguiu encontrá-los?\nJá vai desistir?</message>
+	<message index="280" name="msg_m1010_010_01_7">Uou! Estou chocado!\nQual é o motivo de terem detonado\nalgo assim?</message>
+	<message index="281" name="msg_m1011_rule010_01_1">Alguém me leve para o verdadeiro comandante!</message>
+	<message index="282" name="msg_m1000_001_01_1">Sim</message>
+	<message index="283" name="msg_m1000_002_01_1">Não</message>
+	<message index="284" name="msg_m1024_024_01_3">Ah, obrigado!\nE pensar que eu quase perdi esse disco...\nVocê salvou a minha firma!\fEu devia ter dito isso antes, mas\neu sou um representante da Rimlight.\nSomos uma corporação que está crescendo muito.\fEsperamos usar esse novo tipo de energia\ndescoberta nos Light Cores para...\nAh, você deve ter mais o que fazer, Tenho certeza.\fNovamente, muito obrigado.\nTe devemos uma.</message>
+	<message index="285" name="msg_m1003_003_01_1">Sr. Sonic! Os robôs do Dr.Eggman apareceram do nada!\fNão somos nada para eles...\nSr. Sonic, Por favor nos ajude!</message>
+	<message index="286" name="msg_m1033_064_01_2">Bem-vindo, vocês três.\nSou o espírito do Antonio, um dos\ntrês mosqueteiros de Soleanna.\fSe vocês puderem superar os \ndesafios, darei a vocês\no tesouro de Soleanna.\fVamos começar!\fPrimeiro, o desafio de voo.</message>
+	<message index="287" name="msg_m1024_024_01_1">Aquele disco possui todos os segredos da minha firma! Se eu o perder, serei \ndemitido!\fSonic, por favor!\nPegue o meu disco de volta, depressa!</message>
 	<message index="288" name="msg_m1024_n024">Sandro</message>
 </mst06>
