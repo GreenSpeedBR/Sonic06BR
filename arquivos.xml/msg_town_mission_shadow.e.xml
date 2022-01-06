@@ -12,20 +12,20 @@
 	<message index="9" name="msg_m1106_106_01_1">Tem $ ladrões fugindo.\nPor favor encontre-os e capture eles.</message>
 	<message index="10" name="msg_m1106_106_01_2">Muito obrigado senhor Shadow\npor cuidar de tudo...\fEu nem sei como agradecer.\nTalvez eu faça uma estatua sua... Não?</message>
 	<message index="11" name="msg_m1106_151_01_1">Nós não fizemos nada de errado.\fTudo o que nós fizemos foi parar a Rimlight de\ncolocar os outros em perigo.\fSe você acha que estou errado, vá até o escritório da Rimlight\nna Nova Cidade.\fEu não ficaria surpreso se algo acontecesse.\nLight Cores atraem monstros!</message>
-	<message index="12" name="msg_m1106_106_01_3">I thought you could do it,\nsince you're an agent...\nIt's too bad.</message>
-	<message index="13" name="msg_m1107_107_01_3">All right!\nOn to the next test!</message>
-	<message index="14" name="msg_m1107_107_01_4">This is your last challenge.\nHere we go!</message>
-	<message index="15" name="msg_m1107_107_01_5">You're not quite there yet.\nCome back when you're better!</message>
-	<message index="16" name="msg_m1107_107_01_6">Amazing!\nOnly a few people in Soleanna\nhave been able to clear this rank!</message>
-	<message index="17" name="msg_m1107_107_01_7">Hmm... you're out of rank.\nMaybe you should reconsider this whole\nlicense thing... </message>
-	<message index="18" name="msg_m1107_info001_01_1">Head to the goal!</message>
-	<message index="19" name="msg_m1107_info001_01_2">Destroy 5 boxes!</message>
-	<message index="20" name="msg_m1107_info001_01_3">Go through every cone!</message>
-	<message index="21" name="msg_m1107_info001_01_4">Get the 5 bronze medals!</message>
-	<message index="22" name="msg_m1107_info001_01_5">Head to the goal!</message>
-	<message index="23" name="msg_m1108_108_01_3">Monsters are attacking his car.\nDefeat them all before it's destroyed!</message>
-	<message index="24" name="msg_m1108_152_01_1">Thank you...\nYour name is Shadow...?\nAre you the one who solved the major crisis?\fWonderful! I'm so honored to meet you!\nThank you so much!</message>
-	<message index="25" name="msg_m1108_108_01_4">Oh no...\nThe professor will be killed...</message>
+	<message index="12" name="msg_m1106_106_01_3">Eu pensei que você conseguiria,\njá que é um agente...\nQue pena.</message>
+	<message index="13" name="msg_m1107_107_01_3">Beleza!\nPara o próximo teste!</message>
+	<message index="14" name="msg_m1107_107_01_4">Essa é sua última chance.\nVamos lá!</message>
+	<message index="15" name="msg_m1107_107_01_5">Você ainda precisa melhorar.\nVolte quando estiver preparado!</message>
+	<message index="16" name="msg_m1107_107_01_6">Incrível!\nSó algumas pessoas em Soleanna\nconseguiram essa nota!</message>
+	<message index="17" name="msg_m1107_107_01_7">Hmm... você está abaixo da média.\nTalvez você deveria reconsiderar\ntirar uma licença... </message>
+	<message index="18" name="msg_m1107_info001_01_1">Chegue ao objetivo!</message>
+	<message index="19" name="msg_m1107_info001_01_2">Destrua 5 caixas!</message>
+	<message index="20" name="msg_m1107_info001_01_3">Passe por todos os cones!</message>
+	<message index="21" name="msg_m1107_info001_01_4">Consiga 5 medalhas de bronze!</message>
+	<message index="22" name="msg_m1107_info001_01_5">Chegue ao objetivo!</message>
+	<message index="23" name="msg_m1108_108_01_3">Os monstros estão atacando o carro dele.\nDerrote-os antes que ele seja destruído!</message>
+	<message index="24" name="msg_m1108_152_01_1">Obrigado...\nSeu nome é Shadow...?\nFoi você que resolveu aquela crise?\fMaravilhoso! É uma honra conhecer você!\nMuito obrigado!</message>
+	<message index="25" name="msg_m1108_108_01_4">Oh não...\nO professor vai ser morto...</message>
 	<message index="26" name="msg_m1109_109_01_3">All you have to do is go around the city once!\nDon't worry, our car is in top shape.\nLet's win this!</message>
 	<message index="27" name="msg_m1109_109_01_4">I can't believe it! We won!\nWe defeated Schultz...!\fI'm so glad I stuck with it for\nfive long years... I'm so lucky \nto have met you. Thank you!</message>
 	<message index="28" name="msg_m1109_109_01_5">It's okay. There's always next year.\nI'll just keep looking for a driver.</message>
