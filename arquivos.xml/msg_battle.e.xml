@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_battle" mst_version="1" endianness="B">
-	<message index="0" name="msg_win_2">$ WIN</message>
-	<message index="1" name="msg_wins">$ WINS</message>
+	<message index="0" name="msg_win_2">$ VENCEU</message>
+	<message index="1" name="msg_wins">$ VENCEU</message>
 	<message index="2" name="msg_1p">1P</message>
 	<message index="3" name="msg_2p">2P</message>
 	<message index="4" name="msg_3p">not in use</message>
 	<message index="5" name="msg_4p">not in use</message>
-	<message index="6" name="msg_ruleselect">RULE SELECT</message>
-	<message index="7" name="msg_battlestyleselect">BATTLE STYLE SELECT</message>
-	<message index="8" name="msg_areaselect">AREA SELECT</message>
-	<message index="9" name="msg_rule">Rules</message>
-	<message index="10" name="msg_getpoint">Points</message>
+	<message index="6" name="msg_ruleselect">SELECIONAR REGRA</message>
+	<message index="7" name="msg_battlestyleselect">SELECIONAR ESTILO DE BATALHA</message>
+	<message index="8" name="msg_areaselect">SELECIONAR ÁREA</message>
+	<message index="9" name="msg_rule">Regras</message>
+	<message index="10" name="msg_getpoint">Pontos</message>
 	<message index="11" name="msg_rounds">Rounds</message>
-	<message index="12" name="msg_winpoint">Wins</message>
-	<message index="13" name="msg_stageselect">Stage</message>
+	<message index="12" name="msg_winpoint">Vitórias</message>
+	<message index="13" name="msg_stageselect">Fase</message>
 	<message index="14" name="msg_battle_twn_a">Castle Town</message>
 	<message index="15" name="msg_battle_twn_b">New City</message>
 	<message index="16" name="msg_battle_twn_c">Forest</message>
 	<message index="17" name="msg_battle_roundam">Forest</message>
-	<message index="18" name="msg_b0050">Collect $ Rings first!\nThe one who collects them first wins.</message>
-	<message index="19" name="msg_b0051">Collect the most Rings!\nThe one who collects the most Rings wins.</message>
-	<message index="20" name="msg_b0052">Collect $ Rings before the other team!\nThe team that collects them first wins.</message>
-	<message index="21" name="msg_b0053">Collect more Rings than the other team!\nThe team with the highest Ring total wins.</message>
-	<message index="22" name="msg_b0054">Survive till the end!\nThe one who survives to the end wins.</message>
-	<message index="23" name="msg_b0055">Team battle!\nThe team with the last remaining player wins.</message>
-	<message index="24" name="msg_b0056">Race to the goal!\nThe one who arrives first wins.</message>
-	<message index="25" name="msg_b0057">Race to the goal with your whole team!\nThe team that gets all members to the goal first\nwins.</message>
-	<message index="26" name="msg_b0058">One player: Catch a demon!\nOthers: Don't get caught by the demons!</message>
-	<message index="27" name="msg_b0059">Pass through as many Rings as possible!\nThe one who passes through the most Rings wins.</message>
-	<message index="28" name="msg_b0060">Pass through as many Rings as possible!\nThe team that gets through the most Rings wins.</message>
-	<message index="29" name="msg_b0061">Collect Bronze Medals!\nThe one who collects the most wins.</message>
-	<message index="30" name="msg_b0062">Collect as many Bronze Medals as possible!\nThe team that collects the most wins.</message>
-	<message index="31" name="msg_b0063">Destroy as many things as possible!\nThe one who destroys the most wins.</message>
-	<message index="32" name="msg_b0064">Destroy as many things as possible!\nThe team that destroys the most wins.</message>
-	<message index="33" name="msg_b0065">Break as many targets as possible!\nThe one who breaks the most targets wins.</message>
-	<message index="34" name="msg_b0066">Break as many targets as possible!\nThe team that breaks the most targets wins.</message>
-	<message index="35" name="msg_b0067">Defeat as many enemies as possible!\nThe one who defeats the most enemies wins.\n1 point for normal enemies, 3 points for bosses.</message>
-	<message index="36" name="msg_b0068">Defeat as many enemies as possible!\nThe team that defeats the most enemies wins.\n1 point for normal enemies, 3 points for bosses.</message>
-	<message index="37" name="msg_b0069">Collect as many presents as possible!\nThe one who collects the most wins.</message>
-	<message index="38" name="msg_b0070">Collect as many presents as possible!\nThe team that collects the most wins.</message>
-	<message index="39" name="msg_b0071">Figure out the pattern in the boxes.\nBreak the box with the number that fits!\nThe first one to break the box wins.</message>
-	<message index="40" name="msg_b0072">Figure out the pattern in the boxes.\nBreak the box with the number that fits!\nThe first team to break the box wins.</message>
-	<message index="41" name="msg_b0073">Find the hidden key! There's only one!\nThe one who finds it first wins.</message>
-	<message index="42" name="msg_b0074">Find the hidden key! There's only one!\nThe team that finds it first wins.</message>
+	<message index="18" name="msg_b0050">Colete $ Anéis primeiro!\nAquele que coletá-los primeiro vence.</message>
+	<message index="19" name="msg_b0051">Colete o máximo de Anéis!\nAquele que coletar a maioria deles vence.</message>
+	<message index="20" name="msg_b0052">Colete $ Anéis antes do outro time!\nO time que coletá-los primeiro vence.</message>
+	<message index="21" name="msg_b0053">Colete mais Anéis!\nO time com o maior total de Anéis vence.</message>
+	<message index="22" name="msg_b0054">Sobreviva até o fim!\nAquele que sobreviver até o final vence.</message>
+	<message index="23" name="msg_b0055">Batalha de time!\nO time com o último jogador sobrando vence.</message>
+	<message index="24" name="msg_b0056">Corra até o objetivo!\nQuem chegar primeiro vence.</message>
+	<message index="25" name="msg_b0057">Corra até o objetivo com o seu time!\nO time que tiver todos os membros no objetivo\nvence.</message>
+	<message index="26" name="msg_b0058">Um jogador: Pegue um demônio!\nOs demais: Não sejam pegos pelos demônios!</message>
+	<message index="27" name="msg_b0059">Passe pelo máximo de Anéis possível!\nAquele que passar por mais Anéis vence.</message>
+	<message index="28" name="msg_b0060">Passe pelo máximo de Anéis possível!\nO time que passar por mais Anéis vence.</message>
+	<message index="29" name="msg_b0061">Colete Medalhas de Bronze!\nAquele que coletar mais vence.</message>
+	<message index="30" name="msg_b0062">Colete o máximo de Medalhas de Bronze possível!\nO time que mais coletá-las vence.</message>
+	<message index="31" name="msg_b0063">Destrua o máximo de coisas!\nAquele que causar mais destruição vence.</message>
+	<message index="32" name="msg_b0064">Destrua o máximo de coisas!\nO time que causar mais destruição vence.</message>
+	<message index="33" name="msg_b0065">Quebre o máximo de alvos!\nAquele que quebrar a maioria deles vence.</message>
+	<message index="34" name="msg_b0066">Quebre o máximo de alvos!\nO time que quebrar a maioria deles vence.</message>
+	<message index="35" name="msg_b0067">Derrote o máximo de inimigos possível!\nAquele que derrotar mais inimigos vence.\n1 ponto para inimigos normais, 3 pontos para chefes.</message>
+	<message index="36" name="msg_b0068">Derrote o máximo de inimigos possível!\nO time que derrotar mais inimigos vence.\n1 ponto para inimigos normais, 3 pontos para chefes.</message>
+	<message index="37" name="msg_b0069">Colete o máximo de presentes possível!\nAquele que mais coletá-los vence.</message>
+	<message index="38" name="msg_b0070">Colete o máximo de presentes possível!\nO time que mais coletá-los vence.</message>
+	<message index="39" name="msg_b0071">Descubra o padrão nas caixas.\nDestrua a caixa com o número que combina!\nO primeiro que destruir a caixa vence.</message>
+	<message index="40" name="msg_b0072">Descubra o padrão nas caixas.\nDestrua a caixa com o número que combina!\nO primeiro time que destruir a caixa vence.</message>
+	<message index="41" name="msg_b0073">Encontre a chave escondida! Há apenas uma!\nAquele que encontrá-la primeiro vence.</message>
+	<message index="42" name="msg_b0074">Encontre a chave escondida! Há apenas uma!\nO time que encontrá-la primeiro vence.</message>
 	<message index="43" name="msg_b0075">Round 1</message>
 	<message index="44" name="msg_b0076">Round 2</message>
 	<message index="45" name="msg_b0077">Round 3</message>
@@ -93,17 +93,17 @@
 	<message index="90" name="msg_b0122">Round 48</message>
 	<message index="91" name="msg_b0123">Round 49</message>
 	<message index="92" name="msg_b0124">Round 50</message>
-	<message index="93" name="msg_b0125">VS ALL</message>
-	<message index="94" name="msg_b0126">Get the Chaos Emerald first!\nThe first one to get the Chaos Emerald wins!</message>
-	<message index="95" name="msg_b0127">Get the Chaos Emerald first!\nThe first team to get the Chaos Emerald wins!</message>
-	<message index="96" name="msg_b0128">Mission</message>
-	<message index="97" name="msg_b0129">Find the Chaos Emerald!</message>
-	<message index="98" name="msg_b0130">Defeat all enemies!</message>
-	<message index="99" name="msg_b0131">Collect $ Rings!</message>
-	<message index="100" name="msg_b0132">Find $ Keys!</message>
-	<message index="101" name="msg_b0133">Find $ Medals!</message>
-	<message index="102" name="msg_b0134">Get to the Goal Ring!</message>
-	<message index="103" name="msg_battle01">CHARACTER SELECT</message>
+	<message index="93" name="msg_b0125">VS TODOS</message>
+	<message index="94" name="msg_b0126">Pegue a Esmeralda do Caos primeiro!\nO primeiro que pegá-la vence!</message>
+	<message index="95" name="msg_b0127">Pegue a Esmeralda do Caos primeiro!\nO primeiro time que pegá-la vence!</message>
+	<message index="96" name="msg_b0128">Missão</message>
+	<message index="97" name="msg_b0129">Encontre a Esmeralda do Caos!</message>
+	<message index="98" name="msg_b0130">Derrote todos os inimigos!</message>
+	<message index="99" name="msg_b0131">Colete $ Anéis!</message>
+	<message index="100" name="msg_b0132">Encontre $ Chaves!</message>
+	<message index="101" name="msg_b0133">Encontre $ Medalhas!</message>
+	<message index="102" name="msg_b0134">Chegue ao objetivo!</message>
+	<message index="103" name="msg_battle01">SELECIONAR PERSONAGEM</message>
 	<message index="104" name="msg_battle02">ROUND 1</message>
 	<message index="105" name="msg_battle03">ROUND 2</message>
 	<message index="106" name="msg_battle04">ROUND 3</message>
@@ -114,12 +114,12 @@
 	<message index="111" name="msg_battle09">ROUND 8</message>
 	<message index="112" name="msg_battle10">ROUND 9</message>
 	<message index="113" name="msg_battle11">ROUND 10</message>
-	<message index="114" name="msg_battle32">CONGRATULATIONS!</message>
-	<message index="115" name="msg_battle33">READY?</message>
-	<message index="116" name="msg_battle34">GO!</message>
-	<message index="117" name="msg_battle35">FINISH!</message>
-	<message index="118" name="msg_win">WIN</message>
-	<message index="119" name="msg_lose">LOSE</message>
-	<message index="120" name="msg_draw">DRAW</message>
-	<message index="121" name="msg_ring">Rings</message>
+	<message index="114" name="msg_battle32">PARABÉNS!</message>
+	<message index="115" name="msg_battle33">PREPARADO?</message>
+	<message index="116" name="msg_battle34">VAI!</message>
+	<message index="117" name="msg_battle35">FIM!</message>
+	<message index="118" name="msg_win">VITÓRIA</message>
+	<message index="119" name="msg_lose">DERROTA</message>
+	<message index="120" name="msg_draw">EMPATE</message>
+	<message index="121" name="msg_ring">Anéis</message>
 </mst06>

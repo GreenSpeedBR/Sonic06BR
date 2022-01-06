@@ -10,19 +10,19 @@
 	<message index="7" name="msg_no8">No. 8</message>
 	<message index="8" name="msg_no9">No. 9</message>
 	<message index="9" name="msg_no10">No. 10</message>
-	<message index="10" name="msg_totalplaytime">TOTAL PLAY TIME</message>
-	<message index="11" name="msg_lastsavedate">LAST SAVE DATE</message>
-	<message index="12" name="msg_fileselect">File Select: Select a saved file to load.</message>
-	<message index="13" name="msg_device_1">Change storage device.</message>
-	<message index="14" name="msg_device">Change storage device.</message>
-	<message index="15" name="msg_alart_deleat">If you delete this file,\nyou will be unable to use\nthis file to play the game.\nIs this okay?</message>
-	<message index="16" name="msg_file_deleating">Deleting file.</message>
-	<message index="17" name="msg_gile_deleated">File deleted.</message>
-	<message index="18" name="msg_newfile_create">Create a new file.</message>
-	<message index="19" name="msg_newfile_creating">Creating a new file.</message>
-	<message index="20" name="msg_newfile_created">New file created.</message>
-	<message index="21" name="msg_newfile_create_error">Unable to create new file.</message>
-	<message index="22" name="msg_fileselect_c">Select a saved file to load.</message>
-	<message index="23" name="msg_selectfile">Select a save file</message>
-	<message index="24" name="msg_selectfile2">Select a file</message>
+	<message index="10" name="msg_totalplaytime">TEMPO TOTAL DE JOGO</message>
+	<message index="11" name="msg_lastsavedate">ÚLTIMO SALVAMENTO</message>
+	<message index="12" name="msg_fileselect">Selecionar progresso: Selecione um progresso salvo para carregar.</message>
+	<message index="13" name="msg_device_1">Alterar dispositivo de armazenamento.</message>
+	<message index="14" name="msg_device">Alterar dispositivo de armazenamento.</message>
+	<message index="15" name="msg_alart_deleat">Caso delete esse progresso,\nvocê não poderá mais\ncarregá-lo novamente.\nTem certeza?</message>
+	<message index="16" name="msg_file_deleating">Deletando progresso.</message>
+	<message index="17" name="msg_gile_deleated">Progresso deletado.</message>
+	<message index="18" name="msg_newfile_create">Criar um novo progresso.</message>
+	<message index="19" name="msg_newfile_creating">Criando um novo progresso.</message>
+	<message index="20" name="msg_newfile_created">Novo progresso criado.</message>
+	<message index="21" name="msg_newfile_create_error">Indisponível para criar um novo progresso.</message>
+	<message index="22" name="msg_fileselect_c">Selecione um progresso salvo.</message>
+	<message index="23" name="msg_selectfile">Selecione um progresso salvo</message>
+	<message index="24" name="msg_selectfile2">Selecione um progresso</message>
 </mst06>

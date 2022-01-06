@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_gold_results" mst_version="1" endianness="B">
-	<message index="0" name="msg_episodeclear">Episode Cleared.</message>
-	<message index="1" name="msg_collect_allmedal">Collected all of Soleanna's Silver Medals.</message>
-	<message index="2" name="msg_act_all_rank_s">Achieved S Rank on all ACT Missions.</message>
-	<message index="3" name="msg_twn_all_rank_s">Achieved S Rank on all TOWN Missions.</message>
-	<message index="4" name="msg_lastgoaldmedal">Obtained Last Gold Medal</message>
-	<message index="5" name="msg_allepisodeclear">All Episodes Cleared.</message>
-	<message index="6" name="msg_sonic_c">Sonic The Hedgehog's Gold Medal list</message>
-	<message index="7" name="msg_shadow_c">Shadow The Hedgehog's Gold Medal list</message>
-	<message index="8" name="msg_silver_c">Silver The Hedgehog's Gold Medal list</message>
-	<message index="9" name="msg_tails_c">Miles "Tails" Prower's Gold Medal list</message>
-	<message index="10" name="msg_knuckles_c">Knuckles The Echidna's Gold Medal list</message>
-	<message index="11" name="msg_rouge_c">Rouge The Bat's Gold Medal list</message>
-	<message index="12" name="msg_omega_c">E-123 Omega's Gold Medal list</message>
-	<message index="13" name="msg_amy_c">Amy Rose's Gold Medal list</message>
-	<message index="14" name="msg_blaze_c">Blaze The Cat's Gold Medal list</message>
-	<message index="15" name="msg_last_c">Gold Medal list for the Last Episode</message>
-	<message index="16" name="msg_s_sonic_c">Super Sonic's Gold Medal list</message>
-	<message index="17" name="msg_s_shadow_c">Super Shadow's Gold Medal list</message>
-	<message index="18" name="msg_s_silver_c">Super Silver's Gold Medal list</message>
-	<message index="19" name="msg_other_c">List of other Gold Medals</message>
+	<message index="0" name="msg_episodeclear">Episódio Concluído.</message>
+	<message index="1" name="msg_collect_allmedal">Coletou todas as Medalhas de Prata de Soleanna.</message>
+	<message index="2" name="msg_act_all_rank_s">Conquistou Rank S em todas as missões de Ato.</message>
+	<message index="3" name="msg_twn_all_rank_s">Conquistou Rank S em todas as missões da Cidade.</message>
+	<message index="4" name="msg_lastgoaldmedal">Obteve a última Medalha de Ouro</message>
+	<message index="5" name="msg_allepisodeclear">Todos os Episódios foram concluídos.</message>
+	<message index="6" name="msg_sonic_c">Lista das Medalhas de Ouro do Sonic</message>
+	<message index="7" name="msg_shadow_c">Lista das Medalhas de Ouro do Shadow</message>
+	<message index="8" name="msg_silver_c">Lista das Medalhas de Ouro do Silver</message>
+	<message index="9" name="msg_tails_c">Lista das Medalhas de Ouro do Tails</message>
+	<message index="10" name="msg_knuckles_c">Lista das Medalhas de Ouro do Knuckles</message>
+	<message index="11" name="msg_rouge_c">Lista das Medalhas de Ouro da Rouge</message>
+	<message index="12" name="msg_omega_c">Lista das Medalhas de Ouro do E-123 Omega</message>
+	<message index="13" name="msg_amy_c">Lista das Medalhas de Ouro da Amy</message>
+	<message index="14" name="msg_blaze_c">Lista das Medalhas de Ouro da Blaze</message>
+	<message index="15" name="msg_last_c">Lista das Medalhas de Ouro do Episódio Final</message>
+	<message index="16" name="msg_s_sonic_c">Lista das Medalhas de Ouro do Super Sonic</message>
+	<message index="17" name="msg_s_shadow_c">Lista das Medalhas de Ouro do Super Shadow</message>
+	<message index="18" name="msg_s_silver_c">Lista das Medalhas de Ouro do Super Silver</message>
+	<message index="19" name="msg_other_c">Lista de outras Medalhas de Ouro</message>
 </mst06>
