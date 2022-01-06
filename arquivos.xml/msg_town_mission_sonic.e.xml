@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_town_mission_sonic" mst_version="1" endianness="B">
-	<message index="0" name="msg_m1001_001_01_3">Put on the shoes, and go through the Rings!\nIf I've made the shoes correctly, you'll make\nit on time!</message>
-	<message index="1" name="msg_m1001_001_01_4">Amazing!\nThey performed exactly as I thought!\nMy Custom Shoes are complete!\fI will give you these shoes. \nYou'll be able to use them.\fMoney? I don't want any money.\nI'm happy just knowing that they're being used.\fThe stones that you can fit into the shoes\nare called gems, and you can buy them at the\nshop over there.\fThey're very rare, but if you put one in these\nCustom Shoes, they will give you an entirely\nnew ability.\fThe best shoes in the world, worn by the best\nrunner in the world. I'm so happy!\nThank you!</message>
-	<message index="2" name="msg_m1001_001_01_5">Don't worry about it.\nThese shoes are special, and their true power\ncan only be used by the chosen one.</message>
-	<message index="3" name="msg_m1003_003_01_2">Thank you!\nCan you also save Princess Elise, please?\fThis is a sign of our appreciation.</message>
-	<message index="4" name="msg_m1004_004_01_3">Pele is over there.\nSave him, please!</message>
-	<message index="5" name="msg_m1004_004_01_4">Pele, I missed you!\nThank you!</message>
-	<message index="6" name="msg_m1005_005_01_3">Let's go!\nIf you can't catch us on time, we win. \nIf you can, you win!</message>
-	<message index="7" name="msg_m1005_005_01_4">Ow... \nDang it, you're so fast!\fOkay you win.\nYou’re on our team starting from today.\nSo hurry, and save Elise!</message>
-	<message index="8" name="msg_m1005_005_01_5">See?\nYou're not capable of saving the Princess!</message>
-	<message index="9" name="msg_m1005_051_01_1">Ow... </message>
-	<message index="10" name="msg_m1005_052_01_1">Ow, ow... </message>
-	<message index="11" name="msg_m1005_053_01_1">Dang it!</message>
-	<message index="12" name="msg_m1005_054_01_1">You got me!</message>
-	<message index="13" name="msg_m1005_055_01_1">Oh, man... </message>
-	<message index="14" name="msg_m1006_006_01_3">There's no time!\nHurry and take this ball to my brother!\nHe's at the foot of those high bells!</message>
-	<message index="15" name="msg_m1006_056_01_1">Yeah! The ball is here!\nNow I can play the game!\nThank you!</message>
-	<message index="16" name="msg_m1006_006_01_4">Come on, you said you were good at soccer... \nI wonder what my brother's doing now... </message>
-	<message index="17" name="msg_m1007_007_01_3">Let's start!\fAttack the ball just once,\nthen sit back and watch.\nAim right!</message>
-	<message index="18" name="msg_m1007_007_01_4">Wow... \n$ barrels!\nGreat score!\fAll right, here's your prize!\nTake it!</message>
-	<message index="19" name="msg_m1007_007_01_5">Your barrel total was $?\nTough luck.\nCome back again!</message>
-	<message index="20" name="msg_m1009_009_01_3">The robots are over there.\nGood luck!</message>
-	<message index="21" name="msg_m1009_009_01_4">Thank you for saving the\nfountain!\fPrincess Elise likes this statue, too. \nThis fountain will make any wish come true.\nWhy don't you try it?</message>
-	<message index="22" name="msg_m1009_009_01_5">No... The precious fountain statue... </message>
-	<message index="23" name="msg_m1010_010_01_3">Haha! You're on!\nLet's start the 100-Ring collecting game!</message>
-	<message index="24" name="msg_m1010_010_01_4">Haha! You didn't find them!\nWhat? You did?\nBut... That's impossible... \fP... Pocket? I dropped the last one from\nmy pocket? Urg... Well done.\fFine, take all of the Rings... \n(Dang it, at this rate, I'll only be the second\nrichest man in the city...)</message>
-	<message index="25" name="msg_m1010_010_01_5">Haha! You couldn't find them, eh? Tough luck.\nThe game's over.</message>
-	<message index="26" name="msg_m1012_012_01_3">It's that blue car!\nAttack it and break it so it can't run away!\fYou have to catch it before\ntime runs out. \nOr else, it will get away!</message>
-	<message index="27" name="msg_m1012_012_01_4">Thank you!\nNow my store is back to normal.\nTake this as a gift of appreciation.</message>
-	<message index="28" name="msg_m1012_012_01_5">Oh no... the shop...</message>
-	<message index="29" name="msg_m1013_013_01_3">The one who reaches the station first wins.\nOkay?</message>
-	<message index="30" name="msg_m1013_013_02_3">From here to the station, just like before!\nLet's do it!</message>
-	<message index="31" name="msg_m1013_013_01_4">No way... Wait, those are real spikes... \nAre you the real Sonic!?\nCan I have your autograph?\fI can't believe I've met the real\nSonic. It's such an honor!\nI want to be just like you!\fCan I be your apprentice?</message>
-	<message index="32" name="msg_m1013_013_02_4">I can never beat you.\nYou're my hero!</message>
-	<message index="33" name="msg_m1013_013_01_5">You're just wearing a costume.\nI'm the real Sonic!</message>
-	<message index="34" name="msg_m1013_013_02_5">What's going on?\nDon't go easy on me!</message>
-	<message index="35" name="msg_m1014_014_01_02">It's not that hard.\nYou guess the number of boxes, that's all.\nIt'll get more difficult as it goes on, though.</message>
-	<message index="36" name="msg_m1014_014_01_03">Question 1</message>
-	<message index="37" name="msg_m1014_014_01_04">Question 2</message>
-	<message index="38" name="msg_m1014_014_01_05">Question 3</message>
-	<message index="39" name="msg_m1014_014_01_06">Question 4</message>
-	<message index="40" name="msg_m1014_014_01_07">Question 5</message>
-	<message index="41" name="msg_m1014_014_01_08">Correct!</message>
-	<message index="42" name="msg_m1014_014_01_09">You're good!</message>
-	<message index="43" name="msg_m1014_014_01_10">Darn!\nHow about this?</message>
-	<message index="44" name="msg_m1014_014_01_11">All correct...\nI lose.\nLet's battle again sometime!</message>
-	<message index="45" name="msg_m1014_014_01_12">Haha, wrong!\nYou can't beat me.\nTry again some other time!</message>
-	<message index="46" name="msg_m1015_info001_01_1">Password 1: 0</message>
-	<message index="47" name="msg_m1015_info002_01_1">Password 2: 6</message>
-	<message index="48" name="msg_m1015_info003_01_1">Password 3: 2</message>
-	<message index="49" name="msg_m1015_info004_01_1">Password 4: 3</message>
-	<message index="50" name="msg_m1015_015_01_3">The password is on the discs that the enemies\nhave. When you collect them all, break the\nnumbered boxes in the order of the password!\fIf you push the wrong password,\nthe medal will be lost!</message>
-	<message index="51" name="msg_m1015_015_01_4">Thank you!\nYou can have the Silver medal!\nI'm sure you'll find a good use for it!</message>
-	<message index="52" name="msg_m1015_info005_01_1">Password incorrect</message>
-	<message index="53" name="msg_m1016_018_01_3">Okay, let's start!\nDeliver them to the people with signs.\nThere's not a lot of time, so be fast!</message>
-	<message index="54" name="msg_m1016_018_01_4">The number of gelatos you delivered\nwas $? Great! Do you want to work\nhere full-time?\fOkay, I understand...\nThis is your pay.</message>
-	<message index="55" name="msg_m1016_018_01_5">Thank you! The number of\ngelatos you delivered was $.\nHere's your pay.</message>
-	<message index="56" name="msg_m1016_018_01_6">The gelatos melted?\nI can't pay you for that.</message>
-	<message index="57" name="msg_m1018_019_01_3">Let the Festival of Rings begin!\nReady, go!</message>
-	<message index="58" name="msg_m1018_019_01_4">Wow... I didn't think anybody could collect \nthat many Rings. But a promise is a promise,\nso the rings are yours.</message>
-	<message index="59" name="msg_m1018_019_01_5">You are not bad! Congratulations!</message>
-	<message index="60" name="msg_m1018_019_01_6">That's not really very many. \nWell, it happens, I suppose.</message>
-	<message index="61" name="msg_m1018_019_01_7">Please come visit our hotel again.</message>
-	<message index="62" name="msg_m1017_017_01_3">5 questions! Smash the right box. If correct, \nyou can move on. If not, boom!</message>
-	<message index="63" name="msg_m1017_017_01_4">Question 1! In what year was the\nfirst Sonic the Hedgehog released?</message>
+	<message index="0" name="msg_m1001_001_01_3">Coloque os sapatos, e passe pelos Anéis!\nSe eu realmente fiz um bom trabalho, você fará\nisso num piscar de olhos!</message>
+	<message index="1" name="msg_m1001_001_01_4">Perfeito!\nEles funcionaram do jeito que eu esperava!\nMeus Sapatos Customizados estão prontos!\fDarei eles a você. \nVocê poderá usá-los a qualquer hora.\fDinheiro? Eu não quero dinheiro.\nJá estou feliz por saber que eles são úteis a alguém.\fAs pedras que você pode encaixar no tênis\nse chamam "Gemas", e você pode comprá-las numa\nloja aqui perto.\fElas são bem raras, mas se você colocar uma delas nos\nSapatos Customizados, elas lhe darão uma\nnova habilidade.\fOs melhores sapatos do mundo, usados pelo mais\nveloz que há! Estou tão feliz!\nMuito obrigado!</message>
+	<message index="2" name="msg_m1001_001_01_5">Não se preocupe.\nEsses sapatos são especiais, e os seus verdadeiros poderes\npodem ser apenas usados pelo o escolhido.</message>
+	<message index="3" name="msg_m1003_003_01_2">Muito obrigado!\nVocê poderia salvar a Princesa Elise, por favor?\fEsse é um símbolo do nosso agradecimento.</message>
+	<message index="4" name="msg_m1004_004_01_3">Pele está logo ali.\nSalve-o, por favor!</message>
+	<message index="5" name="msg_m1004_004_01_4">Pele, eu senti tanto a sua falta!\nValeu pela ajuda!</message>
+	<message index="6" name="msg_m1005_005_01_3">Simbora!\nSe você não nos pegar a tempo, nós vencemos. \nCaso contrário, você vence!</message>
+	<message index="7" name="msg_m1005_005_01_4">Ah... \nQue droga, você é muito rápido!\fTá, você venceu.\nA partir de hoje você está no nosso time.\nEntão se apresse, e salve a Elise!</message>
+	<message index="8" name="msg_m1005_005_01_5">Viu só?\nVocê não é capaz de salvar a Princesa!</message>
+	<message index="9" name="msg_m1005_051_01_1">Ah... </message>
+	<message index="10" name="msg_m1005_052_01_1">Puxa vida... </message>
+	<message index="11" name="msg_m1005_053_01_1">Droga!</message>
+	<message index="12" name="msg_m1005_054_01_1">Você me pegou!</message>
+	<message index="13" name="msg_m1005_055_01_1">Ah, cara... </message>
+	<message index="14" name="msg_m1006_006_01_3">Não há mais tempo!\nCorra e leve essa bola para o meu irmão!\nEle está próximo a um daqueles sinos!</message>
+	<message index="15" name="msg_m1006_056_01_1">Boa! Você trouxe a bola!\nAgora eu posso me divertir bastante!\nMuitíssimo obrigado!</message>
+	<message index="16" name="msg_m1006_006_01_4">Qualé, você disse que era o craque do futebol... \nMe pergunto o que o meu irmão deve estar fazendo agora... </message>
+	<message index="17" name="msg_m1007_007_01_3">Vamos começar!\fAtaque a bola apenas uma vez,\ne aguarde o tempo acabar.\nEspero que a sua mira esteja em dia!</message>
+	<message index="18" name="msg_m1007_007_01_4">Uau... \n$ barris!\nUma ótima pontuação!\fBeleza, aqui está o seu prêmio!\nVocê merece!</message>
+	<message index="19" name="msg_m1007_007_01_5">O total de barris destruídos foi $?\nQue azar.\nVolte aqui caso queira tentar de novo!</message>
+	<message index="20" name="msg_m1009_009_01_3">Os robôs estão logo ali.\nBoa sorte!</message>
+	<message index="21" name="msg_m1009_009_01_4">Obrigado por salvar a\nfonte!\fA Princesa Elise também adora essa estátua. \nEssa fonte faz qualquer desejo se tornar realidade.\nPor que você não faz um pedido?</message>
+	<message index="22" name="msg_m1009_009_01_5">Não... A preciosa estátua da fonte... </message>
+	<message index="23" name="msg_m1010_010_01_3">Haha! Aí está você!\nVamos começar o desafio de coletar 100 Anéis!</message>
+	<message index="24" name="msg_m1010_010_01_4">Haha! Você não encontrou todos eles!\nQue? Você encontrou?\nMas... Isso é impossível... \fB... Bolso? Eu deixei o último anel cair do\nmeu bolso? Err... Bom trabalho.\fCerto, fique com todos esses anéis... \n(Droga, se as coisas continuarem assim, Serei o segundo homem\nmais rico da cidade...)</message>
+	<message index="25" name="msg_m1010_010_01_5">Haha! Você não encontrou todos eles, né? Que peninha.\nO tempo acabou.</message>
+	<message index="26" name="msg_m1012_012_01_3">É aquele carro azul!\nAtaque-o e quebre-o para que ele não possa fugir!\fVocê precisa pará-lo antes do\ntempo acabar. \nSe não, ele irá escapar!</message>
+	<message index="27" name="msg_m1012_012_01_4">Obrigado!\nAgora a minha loja voltou ao normal.\nPegue isso como uma forma de agradecimento.</message>
+	<message index="28" name="msg_m1012_012_01_5">Essa não... a loja...</message>
+	<message index="29" name="msg_m1013_013_01_3">Quem chegar na estação primeiro vence.\nOk?</message>
+	<message index="30" name="msg_m1013_013_02_3">Daqui até a estação, assim como antes!\nVamos!</message>
+	<message index="31" name="msg_m1013_013_01_4">Poxa vida... Pera, isso são espinhos de verdade... \nVocê é o verdadeiro Sonic!?\nQuer me dar um autógrafo?\fNão acredito que conheci o verdadeiro\nSonic. Me sinto honrado!\nMeu sonho é ser igual a você!\fPosso ser o seu aprendiz?</message>
+	<message index="32" name="msg_m1013_013_02_4">Jamais irei te derrotar.\nVocê é o meu herói!</message>
+	<message index="33" name="msg_m1013_013_01_5">Você só está usando uma fantasia.\nEu sou o verdadeiro Sonic!</message>
+	<message index="34" name="msg_m1013_013_02_5">O que tá rolando?\nNão pegue leve comigo!</message>
+	<message index="35" name="msg_m1014_014_01_02">Não é tão difícil assim.\nVocê só precisa adivinhar o número de caixas.\nNo entanto, a dificuldade irá aumentar à medida que você avança.</message>
+	<message index="36" name="msg_m1014_014_01_03">Questão 1</message>
+	<message index="37" name="msg_m1014_014_01_04">Questão 2</message>
+	<message index="38" name="msg_m1014_014_01_05">Questão 3</message>
+	<message index="39" name="msg_m1014_014_01_06">Questão 4</message>
+	<message index="40" name="msg_m1014_014_01_07">Questão 5</message>
+	<message index="41" name="msg_m1014_014_01_08">Correto!</message>
+	<message index="42" name="msg_m1014_014_01_09">Você é bom mesmo, ein!</message>
+	<message index="43" name="msg_m1014_014_01_10">Impossível!\nAcha que vai conseguir?</message>
+	<message index="44" name="msg_m1014_014_01_11">Todas estão corretas...\nEu perdi.\nVamos duelar novamente em algum outro dia!</message>
+	<message index="45" name="msg_m1014_014_01_12">Haha, errou!\nVocê nunca irá me derrotar.\nTente novamente!</message>
+	<message index="46" name="msg_m1015_info001_01_1">Senha 1: 0</message>
+	<message index="47" name="msg_m1015_info002_01_1">Senha 2: 6</message>
+	<message index="48" name="msg_m1015_info003_01_1">Senha 3: 2</message>
+	<message index="49" name="msg_m1015_info004_01_1">Senha 4: 3</message>
+	<message index="50" name="msg_m1015_015_01_3">A senha está nos discos que os inimigos\npossuem. Ao coletar todos, quebre as\ncaixas na ordem da senha!\fCaso você erre,\na medalha será perdida!</message>
+	<message index="51" name="msg_m1015_015_01_4">Obrigado!\nVocê merece a Medalha de Prata!\nTenho certeza que você fará um bom uso dela!</message>
+	<message index="52" name="msg_m1015_info005_01_1">Senha incorreta</message>
+	<message index="53" name="msg_m1016_018_01_3">Ok, vamos começar!\nEntregue-os para as pessoas com um sinal.\nNão temos muito tempo, então seja rápido!</message>
+	<message index="54" name="msg_m1016_018_01_4">O número de sorvetes que você entregou\nfoi $? Excelente! Você não quer trabalhar\naqui mais vezes?\fOk, Eu entendo...\nAqui está o seu pagamento.</message>
+	<message index="55" name="msg_m1016_018_01_5">Muito obrigado! O número de\nsorvetes entregues foi $.\nAqui está o seu pagamento.</message>
+	<message index="56" name="msg_m1016_018_01_6">Os sorvetes derreteram?\nEu não posso te pagar por isso.</message>
+	<message index="57" name="msg_m1018_019_01_3">Que comece o Festival de Anéis!\nPronto? Já!</message>
+	<message index="58" name="msg_m1018_019_01_4">Uau... Eu não espera que alguém pudesse coletar \ntantos Anéis. Mas promessa é promessa,\nagora eles são todos seus.</message>
+	<message index="59" name="msg_m1018_019_01_5">Você não é nada ruim! Meus parabéns!</message>
+	<message index="60" name="msg_m1018_019_01_6">Você não coletou muitos Anéis. \nBem, acontece, eu acho.</message>
+	<message index="61" name="msg_m1018_019_01_7">Fique a vontade para visitar o nosso hotel novamente.</message>
+	<message index="62" name="msg_m1017_017_01_3">5 questões! Destrua a caixa certa. Caso você acerte, \npoderá prossseguir. Se não, kabum!</message>
+	<message index="63" name="msg_m1017_017_01_4">Questão 1! Em que o ano o\nprimeiro jogo do Sonic foi lançado?</message>
 	<message index="64" name="msg_m1017_017_01_5">1. 1995\n2. 1991\n3. 2006</message>
-	<message index="65" name="msg_m1017_017_01_6">Correct!</message>
-	<message index="66" name="msg_m1017_017_01_7">Question 2! \nWhat does Sonic like?\n</message>
-	<message index="67" name="msg_m1017_017_01_8">1. Swimming\n2. Upbeat sounds\n3. Mushrooms</message>
-	<message index="68" name="msg_m1017_017_01_9">Question 3!\nWhen is Sonic's birthday?</message>
-	<message index="69" name="msg_m1017_017_01_10">1. June 23\n2. August 8\n3. March 10</message>
-	<message index="70" name="msg_m1017_017_01_11">Question 4!\nHow tall is Sonic?</message>
+	<message index="65" name="msg_m1017_017_01_6">Correto!</message>
+	<message index="66" name="msg_m1017_017_01_7">Questão 2! \nDo que o Sonic gosta?\n</message>
+	<message index="67" name="msg_m1017_017_01_8">1. Nadar\n2. Músicas Alegres\n3. Cogumelos</message>
+	<message index="68" name="msg_m1017_017_01_9">Questão 3!\nQuando é o aniversário do Sonic?</message>
+	<message index="69" name="msg_m1017_017_01_10">1. 23 de Junho\n2. 8 de Agosto\n3. 10 de Março</message>
+	<message index="70" name="msg_m1017_017_01_11">Questão 4!\nQual é a altura do Sonic?</message>
 	<message index="71" name="msg_m1017_017_01_12">1. 120 cm\n2. 100 cm\n3. 150 cm\n</message>
-	<message index="72" name="msg_m1017_017_01_13">Question 5! Last one, it's \ndifficult! How heavy is Sonic?</message>
+	<message index="72" name="msg_m1017_017_01_13">Questão 5! Essa é a última, e é bem \ndifícil! O quão pesado é o Sonic?</message>
 	<message index="73" name="msg_m1017_017_01_14">1. 35 kg\n2. 50 kg\n3. 45 kg</message>
-	<message index="74" name="msg_m1017_017_01_15">All correct! \nYou're amazing!\nHere's the secret letter!\fThank you for always being supportive!\n...From the Sonic Team\n\fWhat was in the letter?\nTell me!</message>
-	<message index="75" name="msg_m1017_017_01_16">Tough luck!\nTry again some other time!</message>
-	<message index="76" name="msg_m1019_019_01_3">You think you can do the acrobatic Rings?\nFirst, I need to test you before\nwe put you in the show.</message>
-	<message index="77" name="msg_m1019_019_01_4">Wow.\nYou made it look so easy!\nYou've got talent!\fPlease join our show!\nHere's a starting bonus!</message>
-	<message index="78" name="msg_m1019_019_01_5">Don't worry.\nNo one can do this on their first try.</message>
-	<message index="79" name="msg_m1020_020_01_3">The three thieves are \nhiding somewhere near here.\nPlease catch them!</message>
-	<message index="80" name="msg_m1020_061_01_1">Ouch...\nI give up, I give up!</message>
-	<message index="81" name="msg_m1020_061_01_2">Ouch, all right... </message>
-	<message index="82" name="msg_m1020_061_01_3">Darn! I got caught!</message>
-	<message index="83" name="msg_m1020_020_01_4">Thank you for helping me out.\nThere are a lot of people who are looking\nforward to these Soleannan apples. Thanks!</message>
-	<message index="84" name="msg_m1020_020_01_5">Oh no...\nThe next apple shipment will be delayed.</message>
-	<message index="85" name="msg_m1021_021_01_3">There are 10 medals.\nThey've got to be here!\nFind them before they're taken!</message>
-	<message index="86" name="msg_m1021_021_01_4">Thanks for helping me out.\nI'll be careful with these \nfrom now on.</message>
-	<message index="87" name="msg_m1021_021_01_5">Oh no... maybe somebody took them already... </message>
-	<message index="88" name="msg_m1022_022_01_3">Let's start the training!\nDestroy as many as possible!\nHere we go!</message>
-	<message index="89" name="msg_m1022_022_01_4">What...?\n$ of them?\nWho are you?\fPlease join the Soleannan guards!\nPlease!</message>
-	<message index="90" name="msg_m1022_022_01_5">Haha! It was too hard for you!\fIt's hard to become a Soleannan soldier.\nNow you know.</message>
-	<message index="91" name="msg_m1023_023_01_3">Really? You will move swiftly for me?\nI'll be watching you!</message>
-	<message index="92" name="msg_m1023_023_01_4">Oh yeah, that's it.\nThat's the move I want.\nNow, I'll be able to write a good song.\fWind Canzone is the name.\nThis will be a hit!</message>
-	<message index="93" name="msg_m1023_023_01_5">No, that's not good enough... \nI was this close to inspiration... </message>
-	<message index="94" name="msg_m1026_026_01_2">There's one minute to destruction...\nRush to the station!</message>
-	<message index="95" name="msg_m1026_062_01_1">The bomb was found and defused.\nThank you, thank you so much!</message>
+	<message index="74" name="msg_m1017_017_01_15">Todas estão corretas! \nVocê é incrível!\nAqui está a carta secreta!\fObrigado pelo seu apoio!\n...Assinado por: Sonic Team\n\fO que tinha na carta?\nPor favor, me conte!</message>
+	<message index="75" name="msg_m1017_017_01_16">Que azar!\nTente novamente em alguma outra!</message>
+	<message index="76" name="msg_m1019_019_01_3">Você acha que consegue passar pelos Anéis de acrocabia?\nPrimeiro, preciso te testar antes de\ncolocarmos você em um show.</message>
+	<message index="77" name="msg_m1019_019_01_4">Uau.\nVocê fez aquilo parecer fácil!\nVocê tem talento!\fPor favor, faça parte do nosso show!\nAqui está um bônus de principiante!</message>
+	<message index="78" name="msg_m1019_019_01_5">Não se preocupe.\nNem todo mundo consegue fazer isso de primeira.</message>
+	<message index="79" name="msg_m1020_020_01_3">Os três ladrões estão \nescondendo algo próximo daqui.\nCapture-os, por favor!</message>
+	<message index="80" name="msg_m1020_061_01_1">Ai!\nEu desisto, eu desisto!</message>
+	<message index="81" name="msg_m1020_061_01_2">Ai! Eu me rendo! </message>
+	<message index="82" name="msg_m1020_061_01_3">Droga! Fui pego!</message>
+	<message index="83" name="msg_m1020_020_01_4">Obrigado por me ajudar.\nHá muitas pessoas querendo\nessas Maçãs Soleannas. Te agradeço por tudo!</message>
+	<message index="84" name="msg_m1020_020_01_5">Essa não...\nA próxima entrega de maçãs sofrerá um atraso.</message>
+	<message index="85" name="msg_m1021_021_01_3">Existem 10 medalhas.\nElas precisam estar aqui!\nEncontre-as antes que sejam roubadas!</message>
+	<message index="86" name="msg_m1021_021_01_4">Obrigado por me ajudar.\nTerei mais cuidado com elas \ndaqui em diante.</message>
+	<message index="87" name="msg_m1021_021_01_5">Putz... Talvez alguém pegou elas antes de nós... </message>
+	<message index="88" name="msg_m1022_022_01_3">Iniciando o treinamento!\nCausa o máximo de destruição!\nAqui vamos nós!</message>
+	<message index="89" name="msg_m1022_022_01_4">O que...?\nVocê destruiu $ deles?\nQuem é você?\fPor favor, faça parte da Guarda Soleanna!\nEu imploro!</message>
+	<message index="90" name="msg_m1022_022_01_5">Haha! Sentiu a dificuldade, né?\fNão é fácil se tornar um soldado de Soleanna.\nAgora você sabe.</message>
+	<message index="91" name="msg_m1023_023_01_3">Sério? Você se moverá rapidamente para mim?\nEstarei de olho!</message>
+	<message index="92" name="msg_m1023_023_01_4">Ah sim, é isso.\nEssa é a movimentação que eu queria.\nAgora conseguirei escrever uma boa música.\fO nome dela será "Canção do Vento".\nVai ser um sucesso!</message>
+	<message index="93" name="msg_m1023_023_01_5">Não, não é bem o que eu queria... \nEu estava quase me sentindo inspirado... </message>
+	<message index="94" name="msg_m1026_026_01_2">Resta um minuto para a destruição...\nCorra para a estação!</message>
+	<message index="95" name="msg_m1026_062_01_1">A bomba foi encontrada e desarmada.\nMuito obrigado, você é um herói!</message>
 	<message index="96" name="msg_m1026_062_01_2">Aagh!</message>
-	<message index="97" name="msg_m1028_info028_01_1">Soleanna's Key Festival:\nThe one who finds the key with \nthe help of the hints will receive the prize.\fHint:\nSomewhere low, in the New City</message>
-	<message index="98" name="msg_m1028_info028_01_2">Hint:\nWhere the seagull sings</message>
-	<message index="99" name="msg_m1028_info028_01_3">Hint:\nWhere the colorful gather</message>
-	<message index="100" name="msg_m1028_info028_01_4">Hint:\nSecond from the left</message>
-	<message index="101" name="msg_m1028_info028_01_5">Hint:\nThe cool breeze blows</message>
-	<message index="102" name="msg_m1028_info028_01_6">Hint:\nWhere lightly clothed people gather</message>
-	<message index="103" name="msg_m1028_info028_01_7">Hint:\nArea starting with a Y</message>
-	<message index="104" name="msg_m1028_info028_01_8">Hint:\nNear the place with the mysterious machinery</message>
-	<message index="105" name="msg_m1028_063_01_1">Congratulations!\nSonic is the winner of this year's key hunt.\nHe will be given a prize.\fCongratulations, Sonic!</message>
-	<message index="106" name="msg_m1029_029_01_1">Help!\nThe robots are after me!\nPlease take me to the Castle Town!</message>
-	<message index="107" name="msg_m1029_029_01_2">Thank you!\nSonic, I think the robots were \nafter the lady-in-waiting, Anna.\fAnna knows a lot about Soleanna.\nI'm sure they wanted to get the information\nfrom her.</message>
-	<message index="108" name="msg_m1033_064_01_3">Next, the strength challenge.</message>
-	<message index="109" name="msg_m1033_064_01_4">Last, the running speed challenge.</message>
-	<message index="110" name="msg_m1033_064_01_5">Well done...\nYou deserve the treasure of\nSoleanna.</message>
-	<message index="111" name="msg_m1033_064_01_6">Unfortunately, you will not be\ngetting the treasure.</message>
-	<message index="112" name="msg_m1034_034_01_3">Listen to the introduction of\nthe song and tell me the name!</message>
-	<message index="113" name="msg_m1034_034_01_4">Question 1 start!</message>
-	<message index="114" name="msg_m1034_034_01_5">What's this song?</message>
+	<message index="97" name="msg_m1028_info028_01_1">Festival da Chave de Soleanna:\nAquele que encontrar a chave com \na ajuda das dicas, receberá um prêmio.\fDica:\nEm algum lugar baixo, na Nova Cidade</message>
+	<message index="98" name="msg_m1028_info028_01_2">Dica:\nOnde as gaivotes cantam</message>
+	<message index="99" name="msg_m1028_info028_01_3">Dica:\nOnde o colorido se reúne</message>
+	<message index="100" name="msg_m1028_info028_01_4">Dica:\nSegundo da esquerda</message>
+	<message index="101" name="msg_m1028_info028_01_5">Dica:\nA brisa fresca sopra</message>
+	<message index="102" name="msg_m1028_info028_01_6">Dica:\nOnde as pessoas com roupas leves se reúnem</message>
+	<message index="103" name="msg_m1028_info028_01_7">Dica:\nÁrea começando com um Y</message>
+	<message index="104" name="msg_m1028_info028_01_8">Dica:\nPróximo ao local com o maquinário misterioso</message>
+	<message index="105" name="msg_m1028_063_01_1">Parabéns!\nSonic é o vencedor da caçada à chave desse ano.\nEle receberá um prêmio.\fParabéns, Sonic!</message>
+	<message index="106" name="msg_m1029_029_01_1">Socorro!\nos robôs estão atrás de mim!\nPor favor, me leve ao Castelo da Cidade!</message>
+	<message index="107" name="msg_m1029_029_01_2">Muito obrigado!\nSonic, eu acho que os robôs estavam \natrás da dama de companhia, a Anna.\fEla sabe muito sobre Soleanna.\nTenho certeza que eles querem algo\ndela.</message>
+	<message index="108" name="msg_m1033_064_01_3">A seguir, o desafio da força.</message>
+	<message index="109" name="msg_m1033_064_01_4">Para finalizar, o desafio de velocidade.</message>
+	<message index="110" name="msg_m1033_064_01_5">Bom trabalho...\nVocê merece o tesouro de\nSoleanna.</message>
+	<message index="111" name="msg_m1033_064_01_6">Infelizmente, você não é digno\ndo tesouro.</message>
+	<message index="112" name="msg_m1034_034_01_3">Ouça a introdução da\nmúsica e me diga o nome dela!</message>
+	<message index="113" name="msg_m1034_034_01_4">Questão 1 iniciada!</message>
+	<message index="114" name="msg_m1034_034_01_5">De onde é essa música?</message>
 	<message index="115" name="msg_m1034_034_01_6">1. Sonic ADV 1\n2. Sonic ADV 2\n3. Sonic Heroes</message>
-	<message index="116" name="msg_m1034_034_01_7">Question 2!</message>
+	<message index="116" name="msg_m1034_034_01_7">Questão 2!</message>
 	<message index="117" name="msg_m1034_034_01_8">1. Sonic 1\n2. Sonic 2\n3. Sonic &amp; Knuckles</message>
-	<message index="118" name="msg_m1034_034_01_9">Question 3!</message>
-	<message index="119" name="msg_m1034_034_01_10">1. Sonic's theme\n2. Shadow's theme\n3. Silver's theme</message>
-	<message index="120" name="msg_m1034_034_01_11">Question 4!</message>
-	<message index="121" name="msg_m1034_034_01_12">1. Elise's theme\n2. Eggman's theme\n3. Sonic's theme</message>
-	<message index="122" name="msg_m1034_034_01_13">Question 5 is a bit different!</message>
-	<message index="123" name="msg_m1034_034_01_14">What's this sound?</message>
-	<message index="124" name="msg_m1034_034_01_15">1. Sound of a ring\n2. Sound of a save point\n3. Sound when smashing an item box</message>
-	<message index="125" name="msg_m1034_034_01_16">All correct!\nGreat score!</message>
-	<message index="126" name="msg_m1034_034_01_17">$ answers correct!\nPretty good score.</message>
-	<message index="127" name="msg_m1034_034_01_18">Number of answers correct, $.\nBetter luck next time!</message>
-	<message index="128" name="msg_m1034_030_01_19">Name That Song,\nsee you next week!</message>
-	<message index="129" name="msg_m1008_008_01_2">Mels got through all the Rings in 5 minutes.\nGo through the Rings as fast as you can!</message>
-	<message index="130" name="msg_m1008_008_01_3">Wow... you really did it. Oh no.\nWho are you?\fOh, you are the blue hedgehog who\nrescued Princess Elise? \nNo wonder you are so fast!</message>
-	<message index="131" name="msg_m1008_008_01_4">See? You couldn't do it.</message>
-	<message index="132" name="msg_m1011_057_01_1">Me? The captain?\nDid you hear that from Alessio?\fHaha, that's Alessio for you.\nYou've been fooled.\nI'm just a lieutenant.\fI don't know where the captain is.\fWhy don't you ask all of the \nsoldiers in town?</message>
-	<message index="133" name="msg_m1011_057_01_2">There are five soldiers including\nme in this town. \nTalk to all of them.\fBut, some soldiers will feel threatened\nby you for taking their work.\fSome might try to trick you,\nso be careful.\fI think there might be two that \nwill try to do that...\fIf you can figure out who the captain is,\ncome back and talk to me.</message>
-	<message index="134" name="msg_m1011_057_01_3">...\fYou guessed it, I'm the captain.\fI'm the one of the two who tricked you.\fI didn't want anyone else\ninvolved in Soleanna's business...\nBut, you seem to have the strength...\fI will ask you on behalf of all the guards.\nPlease help us save the Princess.</message>
-	<message index="135" name="msg_m1011_057_01_4">You couldn't find out who was\nthe real captain. Then, unfortunately...\fI will not be able to open the gate.</message>
-	<message index="136" name="msg_m1011_011_01_1">Not me.</message>
-	<message index="137" name="msg_m1011_058_01_1">Me? No way.</message>
-	<message index="138" name="msg_m1011_059_01_1">I'm not the captain.</message>
-	<message index="139" name="msg_m1011_060_01_1">That's what I said.\nI'm not the captain...</message>
-	<message index="140" name="msg_m1011_011_01_2">The captain is one of the men\nyou've already spoken to.</message>
-	<message index="141" name="msg_m1011_058_01_2">What Alessio said is true.</message>
-	<message index="142" name="msg_m1011_059_01_2">The captain? That's Guido.</message>
-	<message index="143" name="msg_m1011_060_01_2">I told you, the captain is in front of\nthe fountain.</message>
-	<message index="144" name="msg_m1011_057_01_5">Did you figure out who the Captain is?</message>
-	<message index="145" name="msg_m1011_057_01_6">All right, go ahead and talk to the one \nwho you think is the captain.</message>
-	<message index="146" name="msg_m1011_057_01_7">Okay, then let's wait a while.</message>
-	<message index="147" name="msg_m1030_030_01_1">Your intelligence will be tested.\nGet to the goal by following the warp gates.</message>
-	<message index="148" name="msg_m1030_030_01_2">You've proven your intelligence.\nMove on to the next challenge.</message>
-	<message index="149" name="msg_m1030_030_01_3">Hmm... That's not good enough to open\nthe way to the old castle.</message>
-	<message index="150" name="msg_m1032_032_01_1">Your courage will be tested here.\nFight the enemies in this \nlife-or-death battle.</message>
-	<message index="151" name="msg_m1032_032_01_2">You've proven your courage.\nMove on to the last challenge.</message>
-	<message index="152" name="msg_m1032_032_01_3">Hmm... not enough.</message>
-	<message index="153" name="msg_m1031_030_01_1">The last challenge is about love.\fYour last battle may be the \nhardest one you've ever experienced.\fYou must lose something in order to \ngain something.\fThere may be moments like this.\fFor when that moment comes, you must\nmake your decision here and now.</message>
-	<message index="154" name="msg_m1031_031_01_1">I acknowledge your decision.\nGo to the old castle for \nthe last challenge.</message>
-	<message index="155" name="msg_m1031_031_01_3">I acknowledge your decision.\nGo to the old castle for \nthe last challenge.</message>
-	<message index="156" name="msg_m1031_031_01_4">Is Amy really the one?</message>
-	<message index="157" name="msg_m1031_030_01_2">I see. You've chosen your long-time love.\fThat's your choice. \nI'll respect that.\fYour choice will support you\nthroughout the upcoming battle.\fThe way to the old castle is \nopened. Go your way.</message>
-	<message index="158" name="msg_m1031_032_01_6">Is Elise really the one?</message>
-	<message index="159" name="msg_m1031_030_01_3">That's your answer.\fI won't comment on the Princess.\nIt takes courage to choose one who carries\nthe weight of a nation on her shoulders.\fWith that conviction, you will\novercome the obstacles that\nlie ahead.\fThe way to the old castle is \nopened. Go your way.</message>
-	<message index="160" name="msg_m1035_035_01_3">There's a key in one of the \nbarrels. Can you help me find it?\nYou can smash all the barrels if you need to.</message>
-	<message index="161" name="msg_m1035_035_01_4">Thanks!\nGood, now I can go home.</message>
+	<message index="118" name="msg_m1034_034_01_9">Questão 3!</message>
+	<message index="119" name="msg_m1034_034_01_10">1. Tema do Sonic\n2. Tema do Shadow\n3. Tema do Silver</message>
+	<message index="120" name="msg_m1034_034_01_11">Questão 4!</message>
+	<message index="121" name="msg_m1034_034_01_12">1. Tema da Elise\n2. Tema do Eggman\n3. Tema do Sonic</message>
+	<message index="122" name="msg_m1034_034_01_13">A Questão 5 é um pouco diferente!</message>
+	<message index="123" name="msg_m1034_034_01_14">Qual é esse som?</message>
+	<message index="124" name="msg_m1034_034_01_15">1. Som de um anel\n2. Som de um checkpoint\n3. Som ao destruir uma caixa de item</message>
+	<message index="125" name="msg_m1034_034_01_16">Todas estão corretas!\nÓtima pontuação!</message>
+	<message index="126" name="msg_m1034_034_01_17">$ respostas corretas!\nBelíssima pontuação.</message>
+	<message index="127" name="msg_m1034_034_01_18">Número de respostas corrretas, $.\nMais sorte da próxima vez!</message>
+	<message index="128" name="msg_m1034_030_01_19">Nomeie essa música,\nte vejo na semana que vem!</message>
+	<message index="129" name="msg_m1008_008_01_2">Mels passou por todos os Anéis em 5 minutos.\nPasse pelos Anéis o mais rápido que puder!</message>
+	<message index="130" name="msg_m1008_008_01_3">Uau... você conseguiu! Essa não.\nQuem é você?\fAh, você é o ouriço azul que\nsalvou a Princesa Elise? \nNão tenho dúvidas de que você é rápido!</message>
+	<message index="131" name="msg_m1008_008_01_4">Viu só? Você falhou.</message>
+	<message index="132" name="msg_m1011_057_01_1">Eu? O capitão?\nFoi o Alessio que te contou isso?\fHaha, se deu mal.\nVocê foi enganado.\nEu sou apenas um tenente.\fEu não sei onde o capitão está.\fPor que você não pergunta aos outros \nsoldados na cidade?</message>
+	<message index="133" name="msg_m1011_057_01_2">Há cinco soldados incluindo\neu nessa cidade. \nConverse com todos eles.\fMas, alguns soldados se sentirão ameaçados\npor você tentar fazer o trabalho deles.\fAlguns podem tentar te enganar,\nentão tenha cuidado.\fAcredito que dois deles \ntentarão fazer isso...\fSe você descobrir quem é o capitão,\nvolte aqui e fale comigo.</message>
+	<message index="134" name="msg_m1011_057_01_3">...\fVocê adivinhou! Eu sou o capitão.\fEu sou um dos que tentou te enganar.\fEu não queria mais ninguém\nenvolvido nos problemas de Soleanna...\nMas, você parece ser forte...\fEm nome de todos os guardas.\nPor favor, nos ajude a salvar a Princesa.</message>
+	<message index="135" name="msg_m1011_057_01_4">Você não conseguiu descobrir quem era\no verdadeiro capitão. Então, infelizmente...\fNão poderei abrir a passagem.</message>
+	<message index="136" name="msg_m1011_011_01_1">Não sou eu.</message>
+	<message index="137" name="msg_m1011_058_01_1">Eu? Sem chance.</message>
+	<message index="138" name="msg_m1011_059_01_1">Eu não sou o capitão.</message>
+	<message index="139" name="msg_m1011_060_01_1">Foi o que eu disse.\nEu não sou o capitão...</message>
+	<message index="140" name="msg_m1011_011_01_2">O capitão é um dos homens que\nvocê já conversou.</message>
+	<message index="141" name="msg_m1011_058_01_2">O que o Alessio disse é verdade.</message>
+	<message index="142" name="msg_m1011_059_01_2">o capitão? Esse é o Guido.</message>
+	<message index="143" name="msg_m1011_060_01_2">Eu te disse, o capitão está na frente\nda fonte.</message>
+	<message index="144" name="msg_m1011_057_01_5">Conseguiu descobrir quem é o capitão?</message>
+	<message index="145" name="msg_m1011_057_01_6">Certo, siga em frente e fale com aquele \nque você acha que é o capitão.</message>
+	<message index="146" name="msg_m1011_057_01_7">Ok, então vamos aguardar um pouco.</message>
+	<message index="147" name="msg_m1030_030_01_1">Sua inteligência será testada.\nVá para o objetivo seguindo os portais.</message>
+	<message index="148" name="msg_m1030_030_01_2">Você provou a sua inteligência.\nVá para o próximo desafio.</message>
+	<message index="149" name="msg_m1030_030_01_3">Hmm... Isso não foi bom o suficiente para abrir\no caminho para o antigo castelo.</message>
+	<message index="150" name="msg_m1032_032_01_1">Aqui a sua coragem será testada.\nLute contra os inimigos numa \nbatalha de vida ou morte.</message>
+	<message index="151" name="msg_m1032_032_01_2">Você provou a sua coragem.\nVá para o último desafio.</message>
+	<message index="152" name="msg_m1032_032_01_3">Hmm... não é o suficiente.</message>
+	<message index="153" name="msg_m1031_030_01_1">O último desafio é sobre o amor.\fSua última batalha pode ter sido \na mais difícil que você já experienciou.\fVocê precisa perder algo para \nganhar algo.\fPodem haver momentos como esse.\fQuando isso acontecer, você precisa\nfazer a sua escolha aqui e agora.</message>
+	<message index="154" name="msg_m1031_031_01_1">Eu reconheço a sua escolha.\nVá para o antigo antigo \npara receber o último desafio.</message>
+	<message index="155" name="msg_m1031_031_01_3">Eu reconheço a sua escolha.\nVá para o antigo antigo \npara receber o último desafio.</message>
+	<message index="156" name="msg_m1031_031_01_4">A Amy é realmente a sua amada?</message>
+	<message index="157" name="msg_m1031_030_01_2">Eu entendo. Você escolheu o amor da sua vida.\fEssa foi a sua decisão. \nEu respeito isso.\fSua escolha lhe ajudará\nna sua próxima batalha.\fO caminho para o antigo castelo foi \naberto. Siga o seu destino.</message>
+	<message index="158" name="msg_m1031_032_01_6">A Elise é realmente a sua amada?</message>
+	<message index="159" name="msg_m1031_030_01_3">Entendido.\fNão vou comentar isso com a Princesa.\nÉ preciso ter muita coragem para escolher alguém\nque carrega o peso de uma nação nos seus ombros.\fCom isso em mente, você irá\nsuperar os obstáculos que\nestão pela frente.\fO caminho para o antigo castelo foi \naberto. Siga o seu destino.</message>
+	<message index="160" name="msg_m1035_035_01_3">Há uma chave em um dos \nbarris. Você pode me ajudar a encontrá-la?\nVocê pode destruir todos os barris se quiser.</message>
+	<message index="161" name="msg_m1035_035_01_4">Valeu!\nBem, agora eu posso ir pra casa.</message>
 	<message index="162" name="msg_m1000_rule000_01_1">Mission</message>
 	<message index="163" name="msg_m1001_rule001_01_1">Go through all the Rings in time!</message>
 	<message index="164" name="msg_m1003_rule003_01_1">Destroy all of Dr. Eggman's mechs!</message>
