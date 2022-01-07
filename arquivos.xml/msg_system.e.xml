@@ -357,7 +357,7 @@
 	<message index="354" name="msg_3ppause">3P PAUSE</message>
 	<message index="355" name="msg_4ppause">4P PAUSE</message>
 	<message index="356" name="msg_pause">PAUSE</message>
-	<message index="357" name="msg_nowloading">NOW LOADING... </message>
+	<message index="357" name="msg_nowloading">CARREGANDO... </message>
 	<message index="358" name="msg_loadgame">LOAD GAME</message>
 	<message index="359" name="msg_dataload">LOAD DATA</message>
 	<message index="360" name="msg_mission_quit">END MISSION</message>
