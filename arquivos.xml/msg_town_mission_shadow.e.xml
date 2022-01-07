@@ -27,76 +27,76 @@
 	<message index="24" name="msg_m1108_152_01_1">Obrigado...\nSeu nome é Shadow...?\nFoi você que resolveu aquela crise?\fMaravilhoso! É uma honra conhecer você!\nMuito obrigado!</message>
 	<message index="25" name="msg_m1108_108_01_4">Oh não...\nO professor vai ser morto...</message>
 	<message index="26" name="msg_m1109_109_01_3">Tudo que você precisa fazer é dar a volta na cidade!\nNão se preocupe, nosso carro é top de linha.\nA vitória é nossa!</message>
-	<message index="27" name="msg_m1109_109_01_4">I can't believe it! We won!\nWe defeated Schultz...!\fI'm so glad I stuck with it for\nfive long years... I'm so lucky \nto have met you. Thank you!</message>
-	<message index="28" name="msg_m1109_109_01_5">It's okay. There's always next year.\nI'll just keep looking for a driver.</message>
-	<message index="29" name="msg_m1110_110_01_3">Just crush the rocks on the road!\nYou'll get a nice big reward if you crush a lot!\nLet's start!</message>
-	<message index="30" name="msg_m1110_110_01_4">Wow! $ rocks?\nNow I'm out of trouble! Thank you!\nHere's your reward!</message>
-	<message index="31" name="msg_m1110_110_01_5">Your rock total was $... Well, thanks anyway!\nHere's your reward!</message>
-	<message index="32" name="msg_m1111_111_01_3">My goal is to break the $ record\nfor the Hover Vehicle course!\nI'll get the vehicle ready, so let's do this!</message>
-	<message index="33" name="msg_m1111_111_01_4">My dream... thank you!\nI couldn't do it on my own, but now, \nI can move on!</message>
-	<message index="34" name="msg_m1111_111_01_5">Thank you anyway... I shouldn't \nhave asked others to \nfulfill my dream...</message>
-	<message index="35" name="msg_m1112_112_01_03">Let's start the test. Figure out the number\nthat belongs on the blank box.\nLook at the other numbers for clues.\fWhen you know the answer, break one of the\nnumbered boxes on the side! The questions\nwill get harder as you keep going.</message>
-	<message index="36" name="msg_m1112_112_01_04">Correct. \nGood job.\nOn to the next question!</message>
-	<message index="37" name="msg_m1112_112_01_05">This is the last question.</message>
-	<message index="38" name="msg_m1112_112_01_06">Too bad. \nThe answer is incorrect.</message>
-	<message index="39" name="msg_m1112_112_01_07">Wow, you got 3 correct!\nYour  IQ is about 200.\nPlease, join my team!</message>
-	<message index="40" name="msg_m1112_112_01_08">2 correct...\nYou could join the decryption unit with this score.\nYou're good at everything you do, Shadow.</message>
-	<message index="41" name="msg_m1112_112_01_09">1 correct. Not bad...\nBut, I can't let you join my team with that score.</message>
-	<message index="42" name="msg_m1112_112_01_10">The number you got correct was 0? \nI guess there are just some things\nyou're not really cut out for.</message>
-	<message index="43" name="msg_m1113_113_01_3">It takes a lot to become rich. \nYour destiny will be on the line in this game!\fPick the right box and you'll get Rings.\nPick the wrong one, and it'll blow up!\fYou'll get more Rings as you go.\nIf you pick the wrong box, you'll lose it all.\nBe careful!\fIf you talk to me when you have some Rings,\nI'll end the game at that point.\nYou can keep the Rings!\fLet's start!</message>
-	<message index="44" name="msg_m1113_113_01_4">What, done already?</message>
-	<message index="45" name="msg_m1113_113_01_5">Congratulations! You can \nkeep all of those Rings! It's \ngreat that you didn't get all greedy!</message>
-	<message index="46" name="msg_m1113_113_01_6">Hee-hee. Too bad. \nBut then, that's life!</message>
-	<message index="47" name="msg_m1114_153_01_1">Oh? You're an agent from GUN?\nYou don't look very cool, do you?\fOh, well. As a bodyguard,\nyou will have to do everything I say.\fOh, I forgot. I'm Sabrina, the daughter of Lord\nRegis. He runs Soleanna, you see, so I'm in\na different class than you.\fYour name? Nah, that's ok.\nI don't need to know the name of an agent.\fI'm so bored! \nOh, I left the key dad gave me under the bells.\fThere's not a lot of time,\nso go get it in 5 minutes!\fWhat? You want to know why do you have\nto go get it? What do you mean?\nAre you not going to do what I say?</message>
-	<message index="48" name="msg_m1114_153_01_2">Oh, the key. Just leave it there.\nAlso, I just got a call from the shop.\fThey just got a new shipment of dresses\nand shoes. I've already ordered five, so go\npick them up.\fWhat? \nYou can't? \nWho do you think I am?\fHurry up and go!</message>
-	<message index="49" name="msg_m1114_153_01_3">That took you long enough.\nCan't you move any faster?\nMy, you're useless.\fLet's see, what shall I have you do next...</message>
-	<message index="50" name="msg_m1114_153_01_4">Eeeek!\nRobots!\nYou! Do something!\fWhat? You want me to deal with them myself!?\nI can't do that!</message>
-	<message index="51" name="msg_m1114_153_01_5">No, not here...\nPlease help me.\nPlease.\fI apologize for everything I said.\nSo please help me!\nPlease!</message>
-	<message index="52" name="msg_m1114_153_01_6">Heh...\nWell, thanks.\fBut, you just did what you\nwere supposed to do as an agent.\nThat's all.\fBy the way, what's your name?\nShadow...\nNo big deal, I was just curious.</message>
-	<message index="53" name="msg_m1114_153_01_7">Oh? \nYou're awfully slow for an agent,\naren't you?</message>
-	<message index="54" name="msg_m1114_114_01_3">Shadow, the new agent has arrived.\nYou can go back to your regular duty.</message>
-	<message index="55" name="msg_m1115_115_01_3">There should be about 100\nRings in the water. You have\nto use a gondola to get them.</message>
-	<message index="56" name="msg_m1115_115_01_4">Thank you! I will donate this\nto the temple. I'm sure the bridge's\nname will change over time.</message>
-	<message index="57" name="msg_m1115_115_01_5">It's okay... \nMaybe we should just leave the money\nwhere it is.</message>
-	<message index="58" name="msg_m1116_116_01_3">The robots are still roaming above the city.\nShoot them down with a Glider!</message>
-	<message index="59" name="msg_m1116_116_01_4">You did it! I'm sure the information hasn't\nreach Dr. Eggman yet.\nYou're a great agent.</message>
-	<message index="60" name="msg_m1116_116_01_5">Oh, no. This is troubling...\nSomething bad is going to happen...</message>
-	<message index="61" name="msg_m1117_117_01_3">Let's start the test! Go through the Rings!\fHere we go!</message>
-	<message index="62" name="msg_m1117_117_01_4">Wow! You are not bad!\nYou've topped your own agent record!\fShadow, you're great!</message>
-	<message index="63" name="msg_m1117_117_01_5">Well, it's been a while. It's still good, though.</message>
-	<message index="64" name="msg_m1117_117_01_6">Shadow, what happened?\nYou have to do better if you\nstill want to be an agent!</message>
-	<message index="65" name="msg_m1118_118_01_03">I'll ask you several questions.\nThink, and answer quickly.\nHere we go!</message>
-	<message index="66" name="msg_m1118_118_01_04">Question 1\nMemorize these numbers.\f3842683\fGot it? Now, smash the group of boxes\nwith the same sequence.</message>
-	<message index="67" name="msg_m1118_118_01_05">Correct!\nDo you feel blood rushing into your brain?\nLet's go to the next question.\f6894923\fGot it? \nWas it 624563?\nNo?\fNow please answer the question.</message>
-	<message index="68" name="msg_m1118_118_01_06">Correct.\nExcellent.\nNext question.\fMemorize these numbers.\n5896455\fGot it? Now smash the \nboxes with the numbers \nthat weren't in the sequence.</message>
-	<message index="69" name="msg_m1118_118_01_07">Correct. You have a good brain!\nAgain, pick the numbers that \nweren't in the sequence.\f58994652564\fGot it? \nIt was long this time. \nNow, please answer the question. </message>
-	<message index="70" name="msg_m1118_118_01_08">Correct. You can feel your\nbrain working, right?\nNext question.\fMemorize these numbers.\f5\f3\f6\f2\f6\fGot it? Now add the second\nnumber and the fourth \nnumber together.</message>
-	<message index="71" name="msg_m1118_118_01_09">Wonderful, that's correct. \nOkay, this is the last exercise for your brain.\fMemorize these numbers.\f8\f2\f4\f6\f1\f3\f9\fGot it? Now, subtract the\nfifth number from the fourth number.</message>
-	<message index="72" name="msg_m1118_118_01_10">Excellent!\nYou have a very impressive brain. \nTake good care of it.\fHow was it? \nDoes your brain feel good?</message>
-	<message index="73" name="msg_m1118_118_01_11">Hmm...\nYou need to concentrate more,\nand keep your brain in shape.</message>
-	<message index="74" name="msg_m1119_119_01_3">Like I said before, Eggman's robots have\nthree disks. Get them back, Agent Shadow! </message>
-	<message index="75" name="msg_m1119_119_01_4">Great job! I'll take these back\nto headquarters right away!\nThey'll send your reward later.</message>
-	<message index="76" name="msg_m1119_info019_01_1">The power of the Light Cores is amazing,\non par with that of the plan.</message>
-	<message index="77" name="msg_m1119_info019_01_2">If we can achieve this goal,\nour profits will go up a thousand times\nor more.</message>
-	<message index="78" name="msg_m1119_info019_01_3">Eradicate the opposition,\nand collect the Light Cores\nthoroughly.</message>
-	<message index="79" name="msg_m1120_120_01_03">Now, let me take a look \ninside your mind.</message>
-	<message index="80" name="msg_m1120_120_01_04">Question 1\fYou're lost in the forest.\nLater, you find a big lake.\nWhat do you do?</message>
-	<message index="81" name="msg_m1120_120_01_05">1. Rest by the lake\n2. Move on\n3. Go back</message>
-	<message index="82" name="msg_m1120_120_01_06">I see. You are a calm and collected\nindividual. Very intelligent, as well.</message>
-	<message index="83" name="msg_m1120_120_01_07">I see. You depend on others.\nAppreciate the people around you.</message>
-	<message index="84" name="msg_m1120_120_01_08">I see. You are very strong,\nindependent and driven.</message>
-	<message index="85" name="msg_m1120_120_01_09">Question 2\fThere are beautiful flowers on\nthe other side of the river. \nWhat do you do?</message>
-	<message index="86" name="msg_m1120_120_01_10">1. Ignore them\n2. Go straight across the river and pick them\n3. Go around the river and pick them</message>
-	<message index="87" name="msg_m1120_120_01_11">I see, you are shy and passive.\nYou should open up more to people.</message>
-	<message index="88" name="msg_m1120_120_01_12">I see. You are aggressive. \nBut, you need to be more\nunderstanding of others.</message>
-	<message index="89" name="msg_m1120_120_01_13">I see, you are good with people.\nYou have good relationships with others.</message>
-	<message index="90" name="msg_m1120_120_01_14">The last question:\fWhen you drive a car, what do \nyou focus on the most?</message>
-	<message index="91" name="msg_m1120_120_01_15">1. Speed\n2. Destination\n3. Condition of the car</message>
-	<message index="92" name="msg_m1120_120_01_16">I see, you live in the moment.\nJust remember, the future is important as well.</message>
-	<message index="93" name="msg_m1120_120_01_17">I see, you worry about the future too much.\nYou need to enjoy the now and relax.</message>
-	<message index="94" name="msg_m1120_120_01_18">I see, you are very analytical.\nTry to go with the flow a little more.</message>
-	<message index="95" name="msg_m1120_120_01_19">I know what your darkness is now.\nBut, there's light ahead.\nBelieve in yourself and your future.</message>
-	<message index="96" name="msg_m1121_121_01_3">Here we go!\nJust break everything that appears.\fThe more you break, the more things will\nappear. This is a test to see how many you\ncan break within the time limit. Let's go!</message>
+	<message index="27" name="msg_m1109_109_01_4">Não acredito! Nós vencemos!\nDerrotamos Schultz...!\fEstou tão feliz! Eu estava preso naquilo a\ncinco anos... Tenho muita sorte de \nter te conhecido. Muito obrigado!</message>
+	<message index="28" name="msg_m1109_109_01_5">Não tem problema. Sempre há outras oportunidades.\nContinuarei à procura de um motorista.</message>
+	<message index="29" name="msg_m1110_110_01_3">Destrua as pedras que estão no caminho!\nVocê ganhará uma recompensa caso destrua muitas delas!\nVamos!</message>
+	<message index="30" name="msg_m1110_110_01_4">Uau! $ pedras?\nVocê me livrou de uma baita encrenca! Obrigado!\nAqui está a sua recompensa!</message>
+	<message index="31" name="msg_m1110_110_01_5">O total de pedras destruídas foi $... Bem, obrigado mesmo assim!\nAqui está a sua recompensa!</message>
+	<message index="32" name="msg_m1111_111_01_3">A minha meta é quebrar o $ recorde\nno trajeto do Hover Vehicle!\nVou preparar o veículo, aqui vamos nós!</message>
+	<message index="33" name="msg_m1111_111_01_4">O meu sonho... obrigado!\nEu jamais conseguiria fazer isso sozinho, mas agora, \nme sinto vivo!</message>
+	<message index="34" name="msg_m1111_111_01_5">Obrigado mesmo assim... Eu não devia \npedir pros outros \nrealizarem o meu sonho...</message>
+	<message index="35" name="msg_m1112_112_01_03">Vamos iniciar o teste. Descubra o número\nque pertence a caixa em branco.\nObserve os demais números para chegar a uma conclusão.\fQuando você souber a resposta, quebre a\ncaixa com o número desejado! As questões\nficarão mais difíceis a medida que avança.</message>
+	<message index="36" name="msg_m1112_112_01_04">Correto. \nBom trabalho.\nPróxima questão!</message>
+	<message index="37" name="msg_m1112_112_01_05">Essa é a última questão.</message>
+	<message index="38" name="msg_m1112_112_01_06">Que pena. \nA resposta está incorreta.</message>
+	<message index="39" name="msg_m1112_112_01_07">Uau, você acertou 3 questões!\nVocê possui 200 de QI.\nPor favor, entre no meu time!</message>
+	<message index="40" name="msg_m1112_112_01_08">2 acertos...\nVocê poderia entrar em uma unidade de descriptografia com essa nota.\nVocê é bom em tudo, Shadow.</message>
+	<message index="41" name="msg_m1112_112_01_09">1 acerto. Nada mal...\nMas eu não posso permitir que você entre no meu time com essa nota.</message>
+	<message index="42" name="msg_m1112_112_01_10">Você não acertou nada? \nAcho que existem coisas que\nnão são feitas pra você.</message>
+	<message index="43" name="msg_m1113_113_01_3">É necessário muito esforço para se tornar rico. \nSeu destino está em jogo nesse desafio!\fEscolha a caixa certa e você ganhará Anéis.\nCaso escolha a errada, ela irá explodir!\fVocê ganhará Anéis ao prosseguir.\nCaso escolha a caixa errada, você perderá tudo.\nTome cuidado!\fSe você falar comigo quando tiver Anéis,\nEu irei encerrar o desafio.\nVocê pode manter os Anéis!\fVamos começar!</message>
+	<message index="44" name="msg_m1113_113_01_4">O que? Você já acabou?</message>
+	<message index="45" name="msg_m1113_113_01_5">Parabéns! Você pode \nficar com todos esses Anéis! Que \nbom que você não se tornou um pão-duro!</message>
+	<message index="46" name="msg_m1113_113_01_6">Hee-hee. Sinto muito. \nMas fazer o que, é a vida!</message>
+	<message index="47" name="msg_m1114_153_01_1">Como é? Você é um agente da GUN?\nVocê não parece ser muito amigável, né?\fEnfim, como um guarda-costas,\nvocê terá que fazer tudo o que eu mandar.\fAh, quase me esqueci. Me chamo Sabrina, filha do Lorde\nRegis. Ele comanda Soleanna, então eu pertenço\na uma classe diferente da sua.\fSeu nome? Nah, tanto faz.\nNão preciso saber o nome de um Agente.\fEstou tão entediada! \nEita, eu esqueci a chave que o meu pai me deu lá no sino.\fNão faz muito tempo que eu estive lá,\nentão vá pegá-la em 5 minutos!\fQue foi? Você quer saber o por que você precisa\nfazer isso? Como assim?\nVocê não vai fazer o que eu mandei?</message>
+	<message index="48" name="msg_m1114_153_01_2">Ah, aí está a chave. Deixa ela aqui comigo.\nAcabei de receber uma ligação da lojinha.\fEles receberam uma nova remessa de vestidos\ne sapatos. Eu reservei 5 produtos, então vá\npegá-los!\fQue foi? \nVocê não tá afim? \nQuem você pensa que eu sou?\fVai logo!</message>
+	<message index="49" name="msg_m1114_153_01_3">Você demorou ein!\nNão dava para ir mais rápido?\nCéus, você é tão inútil.\fVejamos, o que mais eu tenho para te pedir...</message>
+	<message index="50" name="msg_m1114_153_01_4">Eeeek!\nRobôs!\nVocê! Faça alguma coisa!\fQue? Você quer que eu derrote eles sozinha!?\nEu não consigo fazer isso!</message>
+	<message index="51" name="msg_m1114_153_01_5">Sou muito jovem para morrer!\nPor favor me ajude!\nPor favor!\fPeço desculpas por tudo o que eu disse!\nEntão por favor, me ajude!\nEu imploro!</message>
+	<message index="52" name="msg_m1114_153_01_6">Heh...\nBem, obrigado.\fMas, você não fez mais do que\na sua obrigação como um agente.\nIsso é tudo por hoje.\fA propósito, qual o seu nome?\nShadow...\nNão é nada pessoal, eu só fiquei curiosa.</message>
+	<message index="53" name="msg_m1114_153_01_7">Você é bem lento para um agente,\nnão acha?</message>
+	<message index="54" name="msg_m1114_114_01_3">Shadow, o novo agente chegou.\nVocê já pode voltar aos seus afazeres.</message>
+	<message index="55" name="msg_m1115_115_01_3">Devem haver 100\nAnéis na água. Use uma\ngôndola para pegá-los.</message>
+	<message index="56" name="msg_m1115_115_01_4">Obrigado! Irei doá-los\nao templo. Tenho certeza que\nem breve o nome da ponte irá mudar.</message>
+	<message index="57" name="msg_m1115_115_01_5">Tudo bem... \nTalvez seja melhor deixarmos esse dinheiro\npra lá.</message>
+	<message index="58" name="msg_m1116_116_01_3">Os robõs ainda estão sobrevoando a cidade.\nDerrube-os com o Glider!</message>
+	<message index="59" name="msg_m1116_116_01_4">Você conseguiu! Tenho certeza que a informação ainda não\nchegou ao Eggman.\nBom trabalho, agente.</message>
+	<message index="60" name="msg_m1116_116_01_5">Essa não! Isso não é nada bom...\nAlgo ruim está prestes a acontecer...</message>
+	<message index="61" name="msg_m1117_117_01_3">Iniciando o teste! Passe pelos Anéis!\fAqui vamos nós!</message>
+	<message index="62" name="msg_m1117_117_01_4">Uou! Nada mal!\nVocê quebrou o seu próprio recorde!\fMeus parabéns, Shadow!</message>
+	<message index="63" name="msg_m1117_117_01_5">Bem, já faz um bom tempo. Ainda tá bom, por sinal.</message>
+	<message index="64" name="msg_m1117_117_01_6">Shadow, o que houve?\nVocê precisa melhorar se\nainda quiser ser um agente!</message>
+	<message index="65" name="msg_m1118_118_01_03">Vou te fazer algumas perguntas.\nPense, e responda rapidamente.\nSimbora!</message>
+	<message index="66" name="msg_m1118_118_01_04">Questão 1\nMemorize esses números.\f3842683\fMemorizou? Agora destrua as caixas\nna ordem dos números.</message>
+	<message index="67" name="msg_m1118_118_01_05">Correto!\nSua cabeça já está doendo?\nVamos para a próxima questão.\f6894923\fMemorizou? \nA sequência era 624563?\nNão era?\fDê a sua resposta.</message>
+	<message index="68" name="msg_m1118_118_01_06">Correto!\nExcelente.\nPróxima questão.\fMemorize esses números.\n5896455\fMemorizou? Agora destrua as \ncaixas com os números \nque não estavam na sequência.</message>
+	<message index="69" name="msg_m1118_118_01_07">Correto! Você tem uma memória de elefante!\nRepita o que você acabou de fazer: Escolha os números que\nnão estão na sequência.\f58994652564\fMemorizou? \nÉ número pra chuchu! \nDê a sua resposta. </message>
+	<message index="70" name="msg_m1118_118_01_08">Correto! Você ainda tá\nraciocinando, né?\nPróxima questão.\fMemorize esses números.\f5\f3\f6\f2\f6\fMemorizou? Agora faça uma adição do\nsegundo número mais \no quarto número.</message>
+	<message index="71" name="msg_m1118_118_01_09">Perfeito, você acertou! \nOk, esse é o último exercício para o seu cérebro.\fMemorize esses números.\f8\f2\f4\f6\f1\f3\f9\fMemorizou? Agora subtraia o\nquinto número com o quarto número.</message>
+	<message index="72" name="msg_m1118_118_01_10">Excelente!\nO seu cérebro é realmente impressionante. \nCuide muito bem dele.\fO que você achou desse treinamento? \nDeu para quebrar a cabeça?</message>
+	<message index="73" name="msg_m1118_118_01_11">Hmm...\nVocê precisa se concentrar mais \ne manter o seu cérebro em forma.</message>
+	<message index="74" name="msg_m1119_119_01_3">Como eu havia dito antes, Os robôs do Eggman roubaram\ntrês discos. Pegue-os de volta, Agente Shadow! </message>
+	<message index="75" name="msg_m1119_119_01_4">Bom trabalho! Vou devolver esses discos\npara o quartel general agora mesmo!\nVocê receberá a sua recompensa em breve.</message>
+	<message index="76" name="msg_m1119_info019_01_1">O poder dos Light Cores é incrível,\nassim como o plano.</message>
+	<message index="77" name="msg_m1119_info019_01_2">Se pudermos alcançar o objetivo,\nossos lucros aumentarão mil vezes\nmais.</message>
+	<message index="78" name="msg_m1119_info019_01_3">Acabe com a oposição,\ne colete os Light Cores.</message>
+	<message index="79" name="msg_m1120_120_01_03">Agora, deixe-me dar uma olhada \nno seu subconsciente.</message>
+	<message index="80" name="msg_m1120_120_01_04">Questão 1\fVocê está perdido em uma floresta.\nMais tarde, você encontra um grande lago.\nO que você faz?</message>
+	<message index="81" name="msg_m1120_120_01_05">1. Descansa no lago\n2. Segue adiante\n3. Vai embora</message>
+	<message index="82" name="msg_m1120_120_01_06">Posso sentir... Você é um indivíduo calmo e \ncontrolado. E também é bastante inteligente.</message>
+	<message index="83" name="msg_m1120_120_01_07">Posso sentir... Você depende dos outros,\n e ama muito as pessoas ao seu redor.</message>
+	<message index="84" name="msg_m1120_120_01_08">Posso sentir... Você é forte,\n independente e determinado.</message>
+	<message index="85" name="msg_m1120_120_01_09">Questão 2\fHá lindas flores no\noutro lado de um rio. \nO que você faz?</message>
+	<message index="86" name="msg_m1120_120_01_10">1. Ignoro elas\n2. Atravesso o rio e pego uma delas\n3. Passo em volta do rio e pego uma delas</message>
+	<message index="87" name="msg_m1120_120_01_11">Posso sentir... Você é tímido e inerte.\nVocê devia se abrir mais com as pessoas.</message>
+	<message index="88" name="msg_m1120_120_01_12">Posso sentir... Você é agressivo. \nVocê precisa \ncompreender mais as pessoas.</message>
+	<message index="89" name="msg_m1120_120_01_13">Posso sentir... Você sabe lidar com as pessoas.\nVocê possui um ótimo relacionamento com elas.</message>
+	<message index="90" name="msg_m1120_120_01_14">A última pergunta:\fWhen you drive a car, what do \nyou focus on the most?</message>
+	<message index="91" name="msg_m1120_120_01_15">1. Velocidade\n2. Seu Destino\n3. Condição do seu carro</message>
+	<message index="92" name="msg_m1120_120_01_16">Posso sentir... Você vive o agora.\nLembre-se, o futuro também é importante.</message>
+	<message index="93" name="msg_m1120_120_01_17">Posso sentir... Você se preocupa demais com o futuro.\nVocê precisa aproveitar o agora e relaxar.</message>
+	<message index="94" name="msg_m1120_120_01_18">Posso sentir... Você é muito pensativo.\nDeixe a vida te levar.</message>
+	<message index="95" name="msg_m1120_120_01_19">Agora eu sei o que é a sua escuridão.\nMas há uma luz no fim do túnel.\nAcredite em si mesmo e no seu futuro.</message>
+	<message index="96" name="msg_m1121_121_01_3">Aqui vamos nós!\nDestrua tudo o que aparecer.\fQuanto mais destruição você causar, mais coisas\naparecerão. Esse é um teste para ver quantas coisas você\nconsegue quebrar antes do tempo acabar. Simbora!</message>
 	<message index="97" name="msg_m1121_121_01_4">$... Wow...\nDo you want to train with me to become \nthe ultimate champion? \fOkay... I understand.\nYou could have done it...\nIf you change your mind, let me know!</message>
 	<message index="98" name="msg_m1121_121_01_5">Don't worry about it.\nI'm looking for someone who can wield\nultimate power. I know it's not going to be easy.</message>
 	<message index="99" name="msg_m1122_122_01_1">Oh no...\nDr. Eggman's robots are trying to\ndestroy Soleanna's clock tower!\fThat clock tower has been\nhere since the nation was founded.\nPlease help! It's important!</message>
