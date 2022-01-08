@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_town_mission_silver" mst_version="1" endianness="B">
-	<message index="0" name="msg_m1232_001_01_1">Let me look into your memory.\nBlue hedgehog... Future world...\nWhat do you see from these words?</message>
-	<message index="1" name="msg_m1232_001_01_2">It looks like your mind is set.</message>
-	<message index="2" name="msg_m1232_select_01">Cooperation</message>
-	<message index="3" name="msg_m1232_select_02">Hatred</message>
-	<message index="4" name="msg_m1201_201_01_3">Put the apples in the barrels over there!\nGood luck!</message>
-	<message index="5" name="msg_m1201_201_01_4">Wow! Good job!\nI knew you would be a huge help.\nThe festival is going to be great this year.\fOh yeah, this is your reward!\nIt's not much, but it's yours.</message>
+	<message index="0" name="msg_m1232_001_01_1">Deixe-me dar uma olhada nas suas memórias.\nOuriço azul... Futuro...\nO que essas palavras te lembram?</message>
+	<message index="1" name="msg_m1232_001_01_2">Pelo visto, você possui muita determinação.</message>
+	<message index="2" name="msg_m1232_select_01">Cooperação</message>
+	<message index="3" name="msg_m1232_select_02">Ódio</message>
+	<message index="4" name="msg_m1201_201_01_3">Coloque as maçãs dentro dos barris!\nBoa sorte!</message>
+	<message index="5" name="msg_m1201_201_01_4">Uau! Bom trabalho!\nVocê não faz ideia do quanto isso me ajudou!\nO festival será incrível esse ano!\fOh yeah, this is your reward!\nIt's not much, but it's yours.</message>
 	<message index="6" name="msg_m1201_201_01_5">Man...\nI would have done a much better job.\nI can't reward you for this.</message>
 	<message index="7" name="msg_m1202_202_01_1">If I see a robot, I'll probably freeze with fear...\nIf I do, help me, okay!?\fI'll get to see my mom soon, right?</message>
 	<message index="8" name="msg_m1202_202_01_2">Thank you!\nThis is from mom!</message>
