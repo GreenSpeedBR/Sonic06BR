@@ -2,7 +2,7 @@
 <mst06 name="msg_town_mission_shadow" mst_version="1" endianness="B">
 	<message index="0" name="msg_m1101_101_01_2">Huh...? Por que isso não tá explodindo...?\fDroga, hora do plano B...</message>
 	<message index="1" name="msg_m1103_103_01_3">Monstros aparecerão depois de um tempo,\nvocê tem que se apressar e\nderrotar quantos puder e colete as Light Cores.</message>
-	<message index="2" name="msg_m1104_104_01_3">Por favor, por favor derrote todos os monstros\nlogo ali!</message>
+	<message index="2" name="msg_m1104_104_01_3">Por favor, derrote todos aqueles\nmonstros!</message>
 	<message index="3" name="msg_m1104_104_01_4">Muito obrigada! Você foi de grande ajuda!\nPor favor salve a Princesa Elise também!</message>
 	<message index="4" name="msg_m1104_104_01_5">Oh não...\nNossa loja...</message>
 	<message index="5" name="msg_m1105_105_02_2">Eu pensei que você poderia me ajudar...</message>
@@ -142,7 +142,7 @@
 	<message index="139" name="msg_m1101_rule001_01_1">Destrua as bombas antes que\no tempo acabe!</message>
 	<message index="140" name="msg_m1102_rule002_01_1">Passe por mais Anéis do que a Rouge!</message>
 	<message index="141" name="msg_m1103_rule003_01_1">Derrote o máximo de inimigos que puder\nantes que o tempo acabe!</message>
-	<message index="142" name="msg_m1104_rule004_01_1">Destrua todos os inimigos no\nshopping!</message>
+	<message index="142" name="msg_m1104_rule004_01_1">Destrua todos os inimigos que estão na\n rua do shopping!</message>
 	<message index="143" name="msg_m1105_rule005_01_1">Dê um salto de $ metros com o carro!</message>
 	<message index="144" name="msg_m1106_rule006_01_1">Capture os $ ladrões!</message>
 	<message index="145" name="msg_m1107_rule007_01_1">Ande de moto enquanto segue\nas instruções!</message>
@@ -251,6 +251,6 @@
 	<message index="248" name="msg_m1136_n136">Buffon</message>
 	<message index="249" name="msg_m1107_107_01_1">Vamos começar o teste de motorista!</message>
 	<message index="250" name="msg_m1131_131_01_1">Essa não! O Castelo da Cidade será\ndestruído!\fPor favor... Salve o nosso castelo! </message>
-	<message index="251" name="msg_m1103_103_01_4">Eu estava certa sobre você.\nAgora vamos fazer um progresso significativo nas nossas pesquisas!</message>
+	<message index="251" name="msg_m1103_103_01_4">Eu estava certo sobre você.\nAgora vamos fazer um progresso significativo\n nas nossas pesquisas!</message>
 	<message index="252" name="msg_m1103_103_01_5">Bem... de qualquer forma, obrigado. Terei que encontrar uma\n maneira de coletar mais Light Cores por sinal.</message>
 </mst06>
