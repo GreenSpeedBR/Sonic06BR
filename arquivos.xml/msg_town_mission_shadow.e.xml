@@ -126,93 +126,93 @@
 	<message index="123" name="msg_m1131_131_01_3">Arrgh...</message>
 	<message index="124" name="msg_m1132_132_01_1">Essa não! Me ajude...!</message>
 	<message index="125" name="msg_m1132_132_01_2">Muito obrigado! Me chamo Adrianna.\nSou uma arqueóloga pesquisando sobre as \nruínas de Soleanna.\fQuando eu estava realizando as minhas pesquisas,\neles apareceram para me atacar...\nEu agradeço que você tenha vindo.\fEu estou em busca do Cetro da Escuridão,\num tesouro real que está registrado nos textos\nantigos de Soleanna.\fTenho a impressão de que ele está em algum lugar próximo aos arredores\ndo Castelo da Cidade... mas isso é tudo \no que eu sei.\fOs textos antigos dizem que:\f"Quando a chama obscura acender a Vela da Escuridão\ne as orações do sacerdote forem respondidas, o selo das trevas\nnão existirá mai, e assim surgirá o poder."\fVelas estão por toda a parte, mas não faço ideia\n onde posso encontrar a "Vela da Escuridão".\nE as "orações do sacerdote"… o que isso significa?\fAlém disso, o que é a "chama obscura"? \nIsso não é normal... Talvez seja uma luz especial?\fFalando em "chama obscura"... \nvocê não consegue gerar luz?</message>
-	<message index="126" name="msg_m1134_134_01_3">Let's begin.  \nEnemies will emerge one after the other,\nso defeat them all.\fThe number of enemies you defeat\nwithin the time limit determines\nyour battle power. Ready?</message>
-	<message index="127" name="msg_m1134_134_01_4">You have defeated $ enemies.\nYou're very powerful!\nYour battle power level is Rank S.</message>
-	<message index="128" name="msg_m1134_134_01_5">Good job, you have defeated $ enemies.\nYour battle power level is Rank A.</message>
-	<message index="129" name="msg_m1134_134_01_6">Let's see, you have defeated $ enemies.\nYour battle power level is Rank B.</message>
-	<message index="130" name="msg_m1134_134_01_7">Let's see, you have defeated $ enemies.\nYour battle power level is Rank C.</message>
-	<message index="131" name="msg_m1134_134_01_8">Let's see, the number of enemies you\ndefeated was $. Unfortunately, your\nbattle power level is Rank D.</message>
-	<message index="132" name="msg_m1135_135_01_3">Let's start the slalom!\nGo through the Rings at full speed.\nHere we go!</message>
-	<message index="133" name="msg_m1135_135_01_4">Wow, you're a genius.\nI've never seen anyone run like that.</message>
-	<message index="134" name="msg_m1135_135_01_5">Hmm... You're not quite there yet.\nDon't sweat it, that guy was awesome.</message>
-	<message index="135" name="msg_m1136_136_01_3">There are 10 lights on the water.\nLook thoroughly!</message>
-	<message index="136" name="msg_m1136_136_01_4">Bronze medals...!\nSee, I told you.\nThey're all mine, of course.</message>
-	<message index="137" name="msg_m1136_136_01_5">They were Bronze medals?\nWhy didn't you get them!?</message>
-	<message index="138" name="msg_m1100_rule000_01_1">Mission</message>
-	<message index="139" name="msg_m1101_rule001_01_1">Destroy the bombs within\nthe time limit!</message>
-	<message index="140" name="msg_m1102_rule002_01_1">Go through more Rings than Rouge!</message>
-	<message index="141" name="msg_m1103_rule003_01_1">Defeat as many enemies as you can\nwithin the time limit!</message>
-	<message index="142" name="msg_m1104_rule004_01_1">Destroy all enemies in the\nshopping mall!</message>
-	<message index="143" name="msg_m1105_rule005_01_1">Jump over $ meters with the car!</message>
-	<message index="144" name="msg_m1106_rule006_01_1">Capture all $ thieves!</message>
-	<message index="145" name="msg_m1107_rule007_01_1">Ride the motorcycle while following\nthe instructions!</message>
-	<message index="146" name="msg_m1108_rule008_01_1">Defeat the enemies to protect\nthe professor's car!</message>
-	<message index="147" name="msg_m1109_rule009_01_1">Be the first to reach the goal!</message>
-	<message index="148" name="msg_m1110_rule010_01_1">Break as many rocks on the road\nas possible within the time limit!</message>
-	<message index="149" name="msg_m1111_rule011_01_1">Go around the Vehicle Course $ times\nwithin $ seconds!</message>
-	<message index="150" name="msg_m1112_rule012_01_1">Figure out which number belongs on the blank\nbox, and smash the corresponding box!</message>
-	<message index="151" name="msg_m1113_rule013_01_1">Pick a box, and break it! Guess right, and you'll\nget Rings. Guess wrong, and a bomb will get you.\nTalk to D'Alema to keep the Rings you have!</message>
-	<message index="152" name="msg_m1114_rule014_01_1">Bring the key that's under\nthe bells within the time limit!</message>
-	<message index="153" name="msg_m1114_rule014_01_2">Bring 5 products!</message>
-	<message index="154" name="msg_m1114_rule014_01_3">Destroy all enemies!</message>
-	<message index="155" name="msg_m1115_rule015_01_1">Collect 100 Rings from the water!</message>
-	<message index="156" name="msg_m1116_rule016_01_1">Destroy all of Eggman's robots with the Glider!</message>
-	<message index="157" name="msg_m1117_rule017_01_1">Go through as many Rings as \npossible within the time limit!</message>
-	<message index="158" name="msg_m1118_rule018_01_1">Answer the mathematician's questions!</message>
-	<message index="159" name="msg_m1119_rule019_01_1">Destroy Dr. Eggman's robots \nand get the 3 disks back!</message>
-	<message index="160" name="msg_m1120_rule020_01_1">Pick one of the 3 choices given to you!</message>
-	<message index="161" name="msg_m1121_rule021_01_1">Destroy everything that appears\nwithin the time limit!</message>
-	<message index="162" name="msg_m1122_rule022_01_1">Defeat all of the enemies\nbefore the clock tower is destroyed!</message>
-	<message index="163" name="msg_m1123_rule023_01_1">Collect 5 keys within the time limit!</message>
-	<message index="164" name="msg_m1124_rule024_01_1">Go around once on the Buggy \nand be the first to the goal!</message>
-	<message index="165" name="msg_m1125_rule025_01_1">Find 10 bronze medals!</message>
-	<message index="166" name="msg_m1126_rule026_01_1">Go through all the Rings within the\ntime limit!</message>
-	<message index="167" name="msg_m1127_rule027_01_1">Go through more than 15 Rings\nwith the Glider Missile!</message>
-	<message index="168" name="msg_m1128_rule028_01_1">Defeat the ghost and solve the mystery!</message>
-	<message index="169" name="msg_m1129_rule029_01_1">Destroy all of the enemies\nand protect Company employees!</message>
-	<message index="170" name="msg_m1130_rule030_01_1">Destroy thieves' cars with missiles\nbefore they get away!</message>
-	<message index="171" name="msg_m1131_rule031_01_1">Protect the citizens and \ndestroy all of the enemies!</message>
-	<message index="172" name="msg_m1132_rule032_01_1">Protect the archaeologist\nand destroy all of the enemies!</message>
-	<message index="173" name="msg_m1133_rule033_01_1">Work with Omega to defeat the enemy!</message>
-	<message index="174" name="msg_m1134_rule034_01_1">Defeat as many enemies as possible\nwithin the time limit!</message>
-	<message index="175" name="msg_m1135_rule035_01_1">Go through as many Rings as possible\nwithin the time limit!</message>
-	<message index="176" name="msg_m1136_rule036_01_1">Collect the 10 treasures \nlighting up the water!</message>
-	<message index="177" name="msg_m1101_title001_01_1">Principality Under Fire</message>
-	<message index="178" name="msg_m1102_title002_01_1">Ring Battle Vs. Rouge</message>
-	<message index="179" name="msg_m1103_title003_01_1">Request from the \nRimlight Employee</message>
-	<message index="180" name="msg_m1104_title004_01_1">Defeat the Enemies \non the Shopping Street</message>
-	<message index="181" name="msg_m1105_title005_01_1">Racing Movie: \nStuntman Wanted!</message>
-	<message index="182" name="msg_m1106_title006_01_1">Capture the Thieves!</message>
-	<message index="183" name="msg_m1107_title007_01_1">Motorcycle License Test</message>
-	<message index="184" name="msg_m1108_title008_01_1">Protect the Professor's Car</message>
-	<message index="185" name="msg_m1109_title009_01_1">Car Festival</message>
-	<message index="186" name="msg_m1110_title010_01_1">Crush the Rocks</message>
-	<message index="187" name="msg_m1111_title011_01_1">Dream of a Sea-Loving Man</message>
-	<message index="188" name="msg_m1112_title012_01_1">Agent Test: Intelligence</message>
-	<message index="189" name="msg_m1113_title013_01_1">Russian Roulette</message>
-	<message index="190" name="msg_m1114_title014_01_1">Lord Regis' Daughter, \nSabrina</message>
+	<message index="126" name="msg_m1134_134_01_3">Vamos começar!  \nInimigos irão surgir um atrás do outro,\nentão derrote todos eles.\fO número de inimigos que você derrotar\nantes do tempo acabar determina\no seu poder de batalha. Pronto?</message>
+	<message index="127" name="msg_m1134_134_01_4">Você derrotou $ inimigos.\nVocê é bem forte!\nO nível do seu poder de batalha é Rank S.</message>
+	<message index="128" name="msg_m1134_134_01_5">Bom trabalho! Você derrotou $ inimigos.\nO nível do seu poder de batalha é Rank A.</message>
+	<message index="129" name="msg_m1134_134_01_6">Vejamos, você derrotou $ inimigos.\nO nível do seu poder de batalha é Rank B.</message>
+	<message index="130" name="msg_m1134_134_01_7">Vejamos, você derrotou $ inimigos.\nO nível do seu poder de batalha é Rank C.</message>
+	<message index="131" name="msg_m1134_134_01_8">Vejamos, o número de inimigos que você\nderrotou foi $. Infelizmente, o \nnível do seu poder de batalha é Rank D.</message>
+	<message index="132" name="msg_m1135_135_01_3">Que comece o Ziguezague!\nPasse rapidamente pelos Anéis.\nAqui vamos nós!</message>
+	<message index="133" name="msg_m1135_135_01_4">Uau! Você é um gênio!\nEu nunca vi alguém correr tanto assim.</message>
+	<message index="134" name="msg_m1135_135_01_5">Hmm... Você ainda não chegou lá.\nNão se sinta mal, aquele cara era incrível.</message>
+	<message index="135" name="msg_m1136_136_01_3">Existem 10 luzes na água.\nOlhe com atenção!</message>
+	<message index="136" name="msg_m1136_136_01_4">Medalhas de Bronze...!\nViu só, eu te disse.\nElas são todas minhas, é claro.</message>
+	<message index="137" name="msg_m1136_136_01_5">Aquilo eram Medalhas de Bronze?\nPor que você não pegou elas!?</message>
+	<message index="138" name="msg_m1100_rule000_01_1">Missão</message>
+	<message index="139" name="msg_m1101_rule001_01_1">Destrua as bombas antes que\no tempo acabe!</message>
+	<message index="140" name="msg_m1102_rule002_01_1">Passe por mais Anéis do que a Rouge!</message>
+	<message index="141" name="msg_m1103_rule003_01_1">Derrote o máximo de inimigos que puder\nantes que o tempo acabe!</message>
+	<message index="142" name="msg_m1104_rule004_01_1">Destrua todos os inimigos no\nshopping!</message>
+	<message index="143" name="msg_m1105_rule005_01_1">Dê um salto de $ metros com o carro!</message>
+	<message index="144" name="msg_m1106_rule006_01_1">Capture os $ ladrões!</message>
+	<message index="145" name="msg_m1107_rule007_01_1">Ande de moto enquanto segue\nas instruções!</message>
+	<message index="146" name="msg_m1108_rule008_01_1">Derrote os inimigos para proteger\no carro do professor!</message>
+	<message index="147" name="msg_m1109_rule009_01_1">Seja o primeiro a alcançar o objetivo!</message>
+	<message index="148" name="msg_m1110_rule010_01_1">Destrua o máximo de pedras na estrada\n antes que o tempo acabe!</message>
+	<message index="149" name="msg_m1111_rule011_01_1">Percorra o Percurso de Veículos $ vezes\nantes de $ segundos!</message>
+	<message index="150" name="msg_m1112_rule012_01_1">Descubra qual número pertence a caixa em\nbranco, e destrua a caixa correspondente!</message>
+	<message index="151" name="msg_m1113_rule013_01_1">Pegue uma caixa, e quebre-a! Caso você acerte, você\nganhará Anéis. Caso erre, uma bomba irá explodir.\nFale com o D'Alema se quiser guardar os seus Anéis!</message>
+	<message index="152" name="msg_m1114_rule014_01_1">Traga a chave que está proxima\nao sino antes que o tempo acabe!</message>
+	<message index="153" name="msg_m1114_rule014_01_2">Traga os 5 produtos!</message>
+	<message index="154" name="msg_m1114_rule014_01_3">Destrua todos os inimigos!</message>
+	<message index="155" name="msg_m1115_rule015_01_1">Colete os 100 Anéis que estão na água!</message>
+	<message index="156" name="msg_m1116_rule016_01_1">Destrua todos os robôs do Eggman com o Glider!</message>
+	<message index="157" name="msg_m1117_rule017_01_1">Passe pelo máximo de Anéis \npossível antes que o tempo acabe!</message>
+	<message index="158" name="msg_m1118_rule018_01_1">Responda todas as questões do matemático!</message>
+	<message index="159" name="msg_m1119_rule019_01_1">Destrua todos os robôs do Eggman \ne pegue os 3 discos de volta!</message>
+	<message index="160" name="msg_m1120_rule020_01_1">Escolha uma das 3 alternativas!</message>
+	<message index="161" name="msg_m1121_rule021_01_1">Destrua tudo o que aparecer\nantes que o tempo acabe!</message>
+	<message index="162" name="msg_m1122_rule022_01_1">Derrote todos os inimigos\nantes que destruam a torre do relógio!</message>
+	<message index="163" name="msg_m1123_rule023_01_1">Colete 5 chaves antes que o tempo acabe!</message>
+	<message index="164" name="msg_m1124_rule024_01_1">Dê uma volta no Buggy \ne seja o primeiro a chegar no objetivo!</message>
+	<message index="165" name="msg_m1125_rule025_01_1">Encontre 10 Medalhas de Bronze!</message>
+	<message index="166" name="msg_m1126_rule026_01_1">Passe pelos Anéis antes que o\ntempo acabe!</message>
+	<message index="167" name="msg_m1127_rule027_01_1">Passe por mais de 15 Anéis\ncom o Glider Missile!</message>
+	<message index="168" name="msg_m1128_rule028_01_1">Derrote o fantasma e solucione o mistério!</message>
+	<message index="169" name="msg_m1129_rule029_01_1">Destrua todos os inimigos\ne proteja os funcionários da Companhia!</message>
+	<message index="170" name="msg_m1130_rule030_01_1">Destrua os carros dos ladrões com mísseis\nantes que eles escapem!</message>
+	<message index="171" name="msg_m1131_rule031_01_1">Proteja os cidadãos e \ndestrua todos os inimigos!</message>
+	<message index="172" name="msg_m1132_rule032_01_1">Proteja a arqueóloga\ne destrua todos os inimigos!</message>
+	<message index="173" name="msg_m1133_rule033_01_1">Coopere com o Omega para destruir o inimigo!</message>
+	<message index="174" name="msg_m1134_rule034_01_1">Derrote o máximo de inimigos que puder\nantes que o tempo acabe!</message>
+	<message index="175" name="msg_m1135_rule035_01_1">Passe pelo máximo de Anéis que puder\nantes que o tempo acabe!</message>
+	<message index="176" name="msg_m1136_rule036_01_1">Colete os 10 tesouros \nque estão brilhando na água!</message>
+	<message index="177" name="msg_m1101_title001_01_1">Principado em Chamas</message>
+	<message index="178" name="msg_m1102_title002_01_1">Batalha de Anéis Vs. Rouge</message>
+	<message index="179" name="msg_m1103_title003_01_1">O Pedido do Funcionário \nda Rimlight</message>
+	<message index="180" name="msg_m1104_title004_01_1">Derrote os Inimigos \nna Rua do Shopping</message>
+	<message index="181" name="msg_m1105_title005_01_1">Filme de Corrida: \nProcura-se um Dublê!</message>
+	<message index="182" name="msg_m1106_title006_01_1">Capture os Ladrões!</message>
+	<message index="183" name="msg_m1107_title007_01_1">Exame Prático de Moto</message>
+	<message index="184" name="msg_m1108_title008_01_1">Proteja o Carro do Professor</message>
+	<message index="185" name="msg_m1109_title009_01_1">Festival de Carros</message>
+	<message index="186" name="msg_m1110_title010_01_1">Destrua as Pedras</message>
+	<message index="187" name="msg_m1111_title011_01_1">O Sonho de um Amante do Mar</message>
+	<message index="188" name="msg_m1112_title012_01_1">Teste de Agente: Inteligência</message>
+	<message index="189" name="msg_m1113_title013_01_1">Roleta Russa</message>
+	<message index="190" name="msg_m1114_title014_01_1">A Filha do Lorde Regis, \nSabrina</message>
 	<message index="191" name="msg_m1115_title015_01_1">100 Rings and \nthe Bridge of Tears</message>
-	<message index="192" name="msg_m1116_title016_01_1">Aerial Battle</message>
-	<message index="193" name="msg_m1117_title017_01_1">Agent Test: Strength</message>
-	<message index="194" name="msg_m1118_title018_01_1">The Mathematician's Training</message>
-	<message index="195" name="msg_m1119_title019_01_1">Stolen Rimlight Information</message>
-	<message index="196" name="msg_m1120_title020_01_1">The Psychologist's Test</message>
-	<message index="197" name="msg_m1121_title021_01_1">The Quest for \nUltimate Power</message>
-	<message index="198" name="msg_m1122_title022_01_1">Protect Soleanna's \nClock Tower</message>
-	<message index="199" name="msg_m1123_title023_01_1">Request from GUN: \nCollect 5 Keys</message>
-	<message index="200" name="msg_m1124_title024_01_1">The Rival Agent</message>
-	<message index="201" name="msg_m1125_title025_01_1">The Lost Bronze Medals</message>
-	<message index="202" name="msg_m1126_title026_01_1">Buggy Ring Race</message>
-	<message index="203" name="msg_m1127_title027_01_1">New Glider Flight Test</message>
-	<message index="204" name="msg_m1128_title028_01_1">The Mystery of the Ghost</message>
-	<message index="205" name="msg_m1129_title029_01_1">Protect the Rimlight \nEmployees!</message>
-	<message index="206" name="msg_m1130_title030_01_1">Emergency Order: \nCapture the Thieves' Cars!</message>
-	<message index="207" name="msg_m1131_title031_01_1">Destroy the Enemies \nInvading from the Desert!</message>
-	<message index="208" name="msg_m1132_title032_01_1">Save the Archaeologist!</message>
-	<message index="209" name="msg_m1133_title033_01_1">Strongest and Ultimate!</message>
-	<message index="210" name="msg_m1134_title034_01_1">The Battle Master</message>
-	<message index="211" name="msg_m1135_title035_01_1">Motorcycle Slalom</message>
-	<message index="212" name="msg_m1136_title036_01_1">Bronze Medals \non the Water</message>
+	<message index="192" name="msg_m1116_title016_01_1">Batalha Aérea</message>
+	<message index="193" name="msg_m1117_title017_01_1">Teste de Agente: Força</message>
+	<message index="194" name="msg_m1118_title018_01_1">O Treinamento do Matemático</message>
+	<message index="195" name="msg_m1119_title019_01_1">As Informações Roubadas da Rimlight</message>
+	<message index="196" name="msg_m1120_title020_01_1">O Teste do Psicólogo</message>
+	<message index="197" name="msg_m1121_title021_01_1">A Busca pelo \nPoder Supremo</message>
+	<message index="198" name="msg_m1122_title022_01_1">Proteja a Torre do Relógio \nde Soleanna</message>
+	<message index="199" name="msg_m1123_title023_01_1">Pedido da GUN: \nColete 5 Chaves</message>
+	<message index="200" name="msg_m1124_title024_01_1">O Agente Rival</message>
+	<message index="201" name="msg_m1125_title025_01_1">As Medalhas de Bronze Perdidas</message>
+	<message index="202" name="msg_m1126_title026_01_1">A Corrida de Anéis com o Buggy</message>
+	<message index="203" name="msg_m1127_title027_01_1">O Teste com o Novo Glider</message>
+	<message index="204" name="msg_m1128_title028_01_1">O Mistério do Fantasma</message>
+	<message index="205" name="msg_m1129_title029_01_1">Proteja os Empregos da \nRimlight!</message>
+	<message index="206" name="msg_m1130_title030_01_1">Pedido de Emergência: \nCapture os Carros dos Ladrões!</message>
+	<message index="207" name="msg_m1131_title031_01_1">Destrua os Inimigos \nVindos do Deserto!</message>
+	<message index="208" name="msg_m1132_title032_01_1">Salve a Arqueóloga!</message>
+	<message index="209" name="msg_m1133_title033_01_1">Mais Forte e Supremo!</message>
+	<message index="210" name="msg_m1134_title034_01_1">O Mestre das Batalhas</message>
+	<message index="211" name="msg_m1135_title035_01_1">O Ziguezague com a Moto</message>
+	<message index="212" name="msg_m1136_title036_01_1">Medalhas de Bronze \nna Água</message>
 	<message index="213" name="msg_m1101_n101">Guiberutti</message>
 	<message index="214" name="msg_m1103_n103">Elkan</message>
 	<message index="215" name="msg_m1104_n104">Claudia</message>
@@ -249,8 +249,8 @@
 	<message index="246" name="msg_m1134_n134">Zeus</message>
 	<message index="247" name="msg_m1135_n135">Lorenzo</message>
 	<message index="248" name="msg_m1136_n136">Buffon</message>
-	<message index="249" name="msg_m1107_107_01_1">Let's begin the driving test!</message>
-	<message index="250" name="msg_m1131_131_01_1">Oh no! The Castle Town will be\ndestroyed!\fPlease...please save our Castle Town! </message>
-	<message index="251" name="msg_m1103_103_01_4">I was right about you.\nNow, we can make real progress on our research!</message>
-	<message index="252" name="msg_m1103_103_01_5">Well... thanks anyway. I'll have to find a\nway to collect more Light Core, though.</message>
+	<message index="249" name="msg_m1107_107_01_1">Vamos começar o teste de motorista!</message>
+	<message index="250" name="msg_m1131_131_01_1">Essa não! O Castelo da Cidade será\ndestruído!\fPor favor... Salve o nosso castelo! </message>
+	<message index="251" name="msg_m1103_103_01_4">Eu estava certa sobre você.\nAgora vamos fazer um progresso significativo nas nossas pesquisas!</message>
+	<message index="252" name="msg_m1103_103_01_5">Bem... de qualquer forma, obrigado. Terei que encontrar uma\n maneira de coletar mais Light Cores por sinal.</message>
 </mst06>
