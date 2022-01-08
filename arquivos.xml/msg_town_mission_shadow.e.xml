@@ -227,7 +227,7 @@
 	<message index="224" name="msg_m1111_n111">Stollaro</message>
 	<message index="225" name="msg_m1112_n112">Frances</message>
 	<message index="226" name="msg_m1113_n113">D'Alema</message>
-	<message index="227" name="msg_m1114_n114">GUN soldier</message>
+	<message index="227" name="msg_m1114_n114">Soldado da GUN</message>
 	<message index="228" name="msg_m1114_n153">Sabrina</message>
 	<message index="229" name="msg_m1115_n115">Nino</message>
 	<message index="230" name="msg_m1116_n116">Valentino</message>
@@ -244,8 +244,8 @@
 	<message index="241" name="msg_m1128_n128">Mancini</message>
 	<message index="242" name="msg_m1129_n129">Mazzola</message>
 	<message index="243" name="msg_m1130_n130">Zof</message>
-	<message index="244" name="msg_m1131_n131">Lord Regis</message>
-	<message index="245" name="msg_m1132_n132">Archaeologist</message>
+	<message index="244" name="msg_m1131_n131">Lorde Regis</message>
+	<message index="245" name="msg_m1132_n132">Arqueóloga</message>
 	<message index="246" name="msg_m1134_n134">Zeus</message>
 	<message index="247" name="msg_m1135_n135">Lorenzo</message>
 	<message index="248" name="msg_m1136_n136">Buffon</message>
