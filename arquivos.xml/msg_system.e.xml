@@ -310,32 +310,32 @@
 	<message index="307" name="msg_next">Next</message>
 	<message index="308" name="msg_ok">OK</message>
 	<message index="309" name="msg_quit">Cancel</message>
-	<message index="310" name="msg_deside_360_withbutton" placeholder="picture(button_a),picture(button_b)">$Select  $Back</message>
-	<message index="311" name="msg_back_360_withbutton" placeholder="picture(button_b)">$Back</message>
-	<message index="312" name="msg_deside_ps3_withbutton" placeholder="picture(button_a)">$Select</message>
-	<message index="313" name="msg_back_ps3_withbutton" placeholder="picture(button_b)">$Back</message>
-	<message index="314" name="msg_yes_b_360" placeholder="picture(button_a)">$Yes</message>
-	<message index="315" name="msg_no_b_360" placeholder="picture(button_b)">$No</message>
-	<message index="316" name="msg_diside_b_360" placeholder="picture(button_a)">$Select</message>
-	<message index="317" name="msg_deleate_b_360" placeholder="picture(button_b)">$Delete</message>
-	<message index="318" name="msg_back_b_360" placeholder="picture(button_b)">$Back</message>
-	<message index="319" name="msg_next_b_360" placeholder="picture(button_a)">$Next</message>
+	<message index="310" name="msg_deside_360_withbutton" placeholder="picture(button_a),picture(button_b)">$Selecionar  $Voltar</message>
+	<message index="311" name="msg_back_360_withbutton" placeholder="picture(button_b)">$Voltar</message>
+	<message index="312" name="msg_deside_ps3_withbutton" placeholder="picture(button_a)">$Selecionar</message>
+	<message index="313" name="msg_back_ps3_withbutton" placeholder="picture(button_b)">$Voltar</message>
+	<message index="314" name="msg_yes_b_360" placeholder="picture(button_a)">$Sim</message>
+	<message index="315" name="msg_no_b_360" placeholder="picture(button_b)">$Não</message>
+	<message index="316" name="msg_diside_b_360" placeholder="picture(button_a)">$Selecionar</message>
+	<message index="317" name="msg_deleate_b_360" placeholder="picture(button_b)">$Deletar</message>
+	<message index="318" name="msg_back_b_360" placeholder="picture(button_b)">$Voltar</message>
+	<message index="319" name="msg_next_b_360" placeholder="picture(button_a)">$Próximo</message>
 	<message index="320" name="msg_ok_b_b_360" placeholder="picture(button_a)">$OK</message>
-	<message index="321" name="msg_quit_b_360" placeholder="picture(button_a)">$Quit</message>
-	<message index="322" name="msg_yes_b_ps3" placeholder="picture(button_a)">$Yes</message>
-	<message index="323" name="msg_no_b_ps3" placeholder="picture(button_b)">$No</message>
-	<message index="324" name="msg_diside_b_ps3" placeholder="picture(button_a)">$Select</message>
-	<message index="325" name="msg_deleate_b_ps3" placeholder="picture(button_b)">$Delete</message>
-	<message index="326" name="msg_back_b_ps3" placeholder="picture(button_b)">$Back</message>
-	<message index="327" name="msg_next_b_ps3" placeholder="picture(button_a)">$Next</message>
+	<message index="321" name="msg_quit_b_360" placeholder="picture(button_a)">$Sair</message>
+	<message index="322" name="msg_yes_b_ps3" placeholder="picture(button_a)">$Sim</message>
+	<message index="323" name="msg_no_b_ps3" placeholder="picture(button_b)">$Não</message>
+	<message index="324" name="msg_diside_b_ps3" placeholder="picture(button_a)">$Selecionar</message>
+	<message index="325" name="msg_deleate_b_ps3" placeholder="picture(button_b)">$Deletar</message>
+	<message index="326" name="msg_back_b_ps3" placeholder="picture(button_b)">$Voltar</message>
+	<message index="327" name="msg_next_b_ps3" placeholder="picture(button_a)">$Próximo</message>
 	<message index="328" name="msg_ok_b_b_ps3" placeholder="picture(button_a)">$OK</message>
-	<message index="329" name="msg_quit_b_ps3" placeholder="picture(button_a)">$Quit</message>
-	<message index="330" name="msg_save">Save</message>
-	<message index="331" name="msg_no_save">Continue without saving</message>
-	<message index="332" name="msg_save_360" placeholder="picture(button_a)">$Save</message>
-	<message index="333" name="msg_no_save_360" placeholder="picture(button_b)">$Continue without saving</message>
-	<message index="334" name="msg_save_ps3" placeholder="picture(button_a)">$Save</message>
-	<message index="335" name="msg_no_save_ps3" placeholder="picture(button_b)">$Continue without saving</message>
+	<message index="329" name="msg_quit_b_ps3" placeholder="picture(button_a)">$Sair</message>
+	<message index="330" name="msg_save">Salvar</message>
+	<message index="331" name="msg_no_save">Continuar sem salvar</message>
+	<message index="332" name="msg_save_360" placeholder="picture(button_a)">$Salvar</message>
+	<message index="333" name="msg_no_save_360" placeholder="picture(button_b)">$Continuar sem salvar</message>
+	<message index="334" name="msg_save_ps3" placeholder="picture(button_a)">$Salvar</message>
+	<message index="335" name="msg_no_save_ps3" placeholder="picture(button_b)">$Continuar sem salvar</message>
 	<message index="336" name="msg_ok2">OK?</message>
 	<message index="337" name="msg_great">GREAT!</message>
 	<message index="338" name="msg_good">GOOD!</message>

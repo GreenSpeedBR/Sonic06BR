@@ -8,39 +8,39 @@
 	<message index="5" name="msg_lastplayarea">LAST PLAY AREA</message>
 	<message index="6" name="msg_lastplayarea_2">Last Played Area</message>
 	<message index="7" name="msg_fileselect">FILE SELECT</message>
-	<message index="8" name="msg_mainmenu">MAIN MENU</message>
+	<message index="8" name="msg_mainmenu">MENU PRINCIPAL</message>
 	<message index="9" name="msg_singleplayer">UM JOGADOR</message>
 	<message index="10" name="msg_multiplayer">MULTIPLAYER</message>
-	<message index="11" name="msg_network">NETWORK</message>
+	<message index="11" name="msg_network">REDE</message>
 	<message index="12" name="msg_extras">EXTRAS</message>
-	<message index="13" name="msg_options">OPTIONS</message>
+	<message index="13" name="msg_options">OPÇÕES</message>
 	<message index="14" name="msg_episodeselect">SELECIONAR EPISÓDIO</message>
-	<message index="15" name="msg_trialselect">TRIAL SELECT</message>
-	<message index="16" name="msg_goldmedalresults">GOLD MEDAL RESULTS</message>
-	<message index="17" name="msg_actselect">ACT TRIAL</message>
-	<message index="18" name="msg_towntrial">TOWN TRIAL</message>
-	<message index="19" name="msg_tag">TAG</message>
+	<message index="15" name="msg_trialselect">SELECIONAR FASE</message>
+	<message index="16" name="msg_goldmedalresults">LISTA DE MEDALHAS DE OURO</message>
+	<message index="17" name="msg_actselect">MISSÕES PRINCIPAIS</message>
+	<message index="18" name="msg_towntrial">MISSÕES SECUNDÁRIAS</message>
+	<message index="19" name="msg_tag">TIME</message>
 	<message index="20" name="msg_tagselect">TAG SELECT</message>
 	<message index="21" name="msg_tagstory">TAG STORY</message>
 	<message index="22" name="msg_tagtrial">TAG TRIAL</message>
 	<message index="23" name="msg_tagtrialselect">TAG TRIAL SELECT</message>
-	<message index="24" name="msg_battle">BATTLE</message>
+	<message index="24" name="msg_battle">RIVAIS</message>
 	<message index="25" name="msg_ruleselect">RULE SELECT</message>
 	<message index="26" name="msg_select">AREA SELECT</message>
 	<message index="27" name="msg_ranking">RANKING</message>
 	<message index="28" name="msg_download">DOWNLOAD</message>
-	<message index="29" name="msg_audioroom">AUDIO ROOM</message>
-	<message index="30" name="msg_theaterroom">THEATER ROOM</message>
+	<message index="29" name="msg_audioroom">ÁUDIOS</message>
+	<message index="30" name="msg_theaterroom">TEATRO</message>
 	<message index="31" name="msg_xboxlive">Xbox Live</message>
 	<message index="32" name="msg_xboxlive2">Xbox Live</message>
 	<message index="33" name="msg_new">NEW!</message>
 	<message index="34" name="msg_characterselect">CHARACTER SELECT</message>
-	<message index="35" name="msg_singleplayer_c">Single Player: For one player</message>
-	<message index="36" name="msg_multiplayer_c">Multiplayer: 2 player mode</message>
+	<message index="35" name="msg_singleplayer_c">Um Jogador: Selecione algum episódio ou rejogue alguma fase</message>
+	<message index="36" name="msg_multiplayer_c">Multiplayer: Modo de 2 jogadores</message>
 	<message index="37" name="msg_network_360_c">Xbox Live: View score and time rankings</message>
 	<message index="38" name="msg_network_ps3_c">Network: Download content and view rankings</message>
-	<message index="39" name="msg_extra_c">Extras:  Listen to music and view event movies</message>
-	<message index="40" name="msg_options_c">Options: Adjust various game settings</message>
+	<message index="39" name="msg_extra_c">Extras:  Ouça algumas músicas e veja algumas cenas</message>
+	<message index="40" name="msg_options_c">Opções: Ajuste as configurações do jogo</message>
 	<message index="41" name="msg_episodeselect_c">Episode Select: Play through the storyline</message>
 	<message index="42" name="msg_trial_c">Trial Select: Play stages you have cleared</message>
 	<message index="43" name="msg_goldmedalresults_c">Gold Medal Results: Displays list of Gold Medals collected</message>
