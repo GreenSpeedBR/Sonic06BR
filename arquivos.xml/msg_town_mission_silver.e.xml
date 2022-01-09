@@ -6,41 +6,41 @@
 	<message index="3" name="msg_m1232_select_02">Ódio</message>
 	<message index="4" name="msg_m1201_201_01_3">Coloque as maçãs dentro dos barris!\nBoa sorte!</message>
 	<message index="5" name="msg_m1201_201_01_4">Uau! Bom trabalho!\nVocê não faz ideia do quanto isso me ajudou!\nO festival será incrível esse ano!\fOh yeah, this is your reward!\nIt's not much, but it's yours.</message>
-	<message index="6" name="msg_m1201_201_01_5">Man...\nI would have done a much better job.\nI can't reward you for this.</message>
-	<message index="7" name="msg_m1202_202_01_1">If I see a robot, I'll probably freeze with fear...\nIf I do, help me, okay!?\fI'll get to see my mom soon, right?</message>
-	<message index="8" name="msg_m1202_202_01_2">Thank you!\nThis is from mom!</message>
-	<message index="9" name="msg_m1202_202_01_3">Sonic?\nI know him!\fHe helped me when I got stuck on the roof!\nHe's cool and really nice!\fYou want to know where he went?\nI'm sorry, I don't know...</message>
-	<message index="10" name="msg_m1202_202_01_4">Waaah!\nMommy!</message>
-	<message index="11" name="msg_m1203_203_01_3">Training will begin!\nGo through every single Ring!\nHere we go!</message>
-	<message index="12" name="msg_m1203_203_01_4">What...!?\nUnbelievable...\nWho are you...?\fPlease, join the Soleannan guards!\nPlease!</message>
-	<message index="13" name="msg_m1203_203_01_5">Haha! \nI knew you couldn't do it!\fOnly chosen ones can become\nSoleanna's soldiers!\nNow you know.</message>
-	<message index="14" name="msg_m1204_204_01_3">Let's start the game!\nGrab the E Gunner model and throw\nit anywhere you like!</message>
-	<message index="15" name="msg_m1204_204_01_4">Your point total is $.\nYou're good!\nTake this prize!</message>
-	<message index="16" name="msg_m1204_204_01_5">Your point total is only $?\nI can't give you a prize for that.\nCome back sometime!</message>
-	<message index="17" name="msg_m1205_205_01_3">John has black and white stripes.\nPucci is a dark brown dog.\nThey're probably wandering in the forest.</message>
-	<message index="18" name="msg_m1205_205_01_4">Thank you!\nYou can find the other one too, right?</message>
-	<message index="19" name="msg_m1206_206_01_2">I don't know you, but thank you\nfor helping me.\fWhen Eggman was telling his mechs\nto destroy the town gate, I tried to \nstop him. So, he locked me up!\fYou want a pass for the desert?\nI'd like to help you, but I need to do something\nto protect the gate, first...\fPlease help us out by fighting them off.\nIf you protect the gate,\nI will get your pass right away.</message>
-	<message index="20" name="msg_m1207_207_01_3">There are five keys.\nThey're probably in the forest somewhere.\nPlease find them!</message>
-	<message index="21" name="msg_m1207_207_01_4">Thank you, you saved them!\nHere's your reward.</message>
-	<message index="22" name="msg_m1207_207_01_5">My precious dogs...\nI shouldn't have asked for your help.</message>
-	<message index="23" name="msg_m1208_208_01_1">There are only a few enemies \nnear the entrance to the forest.\nCarefully escort Anna there please.</message>
-	<message index="24" name="msg_m1208_208_01_2">Thank you very much for protecting Anna.</message>
-	<message index="25" name="msg_m1208_208_01_3">I thought you would take good care\nof her...</message>
-	<message index="26" name="msg_m1210_210_01_3">Let's start the test.\nWatch the first scene closely, and \ntouch what has changed in the next scene!</message>
-	<message index="27" name="msg_m1210_210_01_4">Question 1 start!</message>
-	<message index="28" name="msg_m1210_210_01_5">Pretty good. Next question!</message>
-	<message index="29" name="msg_m1210_210_01_6">This might be the best one yet!\nThis is the last question!</message>
-	<message index="30" name="msg_m1210_210_01_7">What...?\nIQ of... 158... No, 200.\nFabulous...\n\fThank you for the wonderful sample.\nHere is a small reward for you!</message>
-	<message index="31" name="msg_m1210_210_01_8">Heh...\nYour IQ turned out to be just as bad as I'd\nthought. No reward for you.</message>
-	<message index="32" name="msg_m1211_211_01_3">I looked for the 10 medals, but I \ncouldn't find them in places I can get to...\nPlease find all of them!</message>
-	<message index="33" name="msg_m1211_211_01_4">Thank you! \nMom won't yell at me now. \nWhew!</message>
-	<message index="34" name="msg_m1212_212_01_3">At the tournament, a team that \nwent through 20 Rings won.\fWith my airplane, I could have done\n21 Rings. If you can break that record, \nI'll be able to finally let go. Help me!</message>
-	<message index="35" name="msg_m1212_212_01_4">Thank you! \nBecause of you, I feel better now.\nThanks so much!\n</message>
-	<message index="36" name="msg_m1212_212_01_5">It's okay.\nWith time, I'll be able to let go eventually...</message>
-	<message index="37" name="msg_m1213_213_01_3">The first place I went to today is...\nthe shop! I think.</message>
-	<message index="38" name="msg_m1213_213_01_4">Thank you!\nWhat's the present?\nI can't tell you... it's embarrassing.\fYou really want to know?\nUmm... no, I can't!\nIt's a secret between the two of us!</message>
-	<message index="39" name="msg_m1214_214_01_3">Thanks for your help!\nI wanted to stop them because the town\nis just starting to flourish again.</message>
-	<message index="40" name="msg_m1215_215_01_3">The first one to reach the goal wins!\nLet's go!</message>
+	<message index="6" name="msg_m1201_201_01_5">Bem...\nEu sozinho teria feito um trabalho muito melhor.\nNão posso te recompensar por isso.</message>
+	<message index="7" name="msg_m1202_202_01_1">Se eu ver um robô, Provavelmente vou congelar de medo...\nSe isso acontecer, me ajude, ok!?\fEu vou ver a minha mãe em breve, né?</message>
+	<message index="8" name="msg_m1202_202_01_2">Muito obrigado!\nIsso pertence a minha mãe!</message>
+	<message index="9" name="msg_m1202_202_01_3">Sonic?\nEu conheço ele!\fEle me ajudou quando eu fiquei presa no telhado!\nEle é muito daora!\fVocê quer saber para onde ele foi?\nLamento, mas eu não sei...</message>
+	<message index="10" name="msg_m1202_202_01_4">Waaah!\nMamãe!</message>
+	<message index="11" name="msg_m1203_203_01_3">O treinamento vai começar!\nPasse por cada um dos Anéis!\nAqui vamos nós!</message>
+	<message index="12" name="msg_m1203_203_01_4">O que...!?\nInacreditável...\nQuem é você...?\fPor favor, entre para a Guarda Soleanna!</message>
+	<message index="13" name="msg_m1203_203_01_5">Haha! \nEu sabia que você não iria conseguir!\fSomente os escolhidos podem se tornar\nsoldados de Soleanna!\nAgora você sabe.</message>
+	<message index="14" name="msg_m1204_204_01_3">Vamos começar!\nPegue o modelo E Gunner e arremesse-o\nem qualquer direção!</message>
+	<message index="15" name="msg_m1204_204_01_4">A sua pontuação foi $.\nVocê é bom!\nPegue esse prêmio!</message>
+	<message index="16" name="msg_m1204_204_01_5">A sua pontuação foi só $?\nNão posso te premiar com isso.\nVolte aqui a qualquer hora!</message>
+	<message index="17" name="msg_m1205_205_01_3">John possui listras preto e branco.\nPucci é um cachorro marrom escuro.\nProvavelmente eles estão vagando pela floresta.</message>
+	<message index="18" name="msg_m1205_205_01_4">Valeu!\nVocê também consegue encontrar o outro, né?</message>
+	<message index="19" name="msg_m1206_206_01_2">Eu não sei quem você é, mas obrigado\npor me ajudar!\fQuando o Eggman ordenou que os robôs\ndestruíssem o portão da cidade, Eu tentei \nimpedi-lo. E então ele me prendeu!\fVocê quer um passe para o deserto?\nEu gostaria de te ajudar, mas eu preciso fazer algo\npara proteger o portão, primeiro...\fNos ajude a derrotá-los.\nSe você proteger o portão,\neu juro que te dou um passe.</message>
+	<message index="20" name="msg_m1207_207_01_3">Existem cinco chaves.\nProvavelmente elas estão em algum lugar na floresta.\nPor favor, encontre-as!</message>
+	<message index="21" name="msg_m1207_207_01_4">Obrigado! Você as encontrou!\nAqui está a sua recompensa!</message>
+	<message index="22" name="msg_m1207_207_01_5">Meu precioso cachorro...\nEu não devia ter pedido a sua ajuda.</message>
+	<message index="23" name="msg_m1208_208_01_1">Há alguns inimigos \npróximos a entrada da floresta.\nProteja a Anna até chegar lá, por favor.</message>
+	<message index="24" name="msg_m1208_208_01_2">Muito obrigado por proteger a Anna.</message>
+	<message index="25" name="msg_m1208_208_01_3">Pensei que você pudesse proteger\nela...</message>
+	<message index="26" name="msg_m1210_210_01_3">Vamos começar o teste.\nObserve a primeira cena de perto, e \ntoque no que mudou na cena seguinte!</message>
+	<message index="27" name="msg_m1210_210_01_4">Questão 1 iniciada!</message>
+	<message index="28" name="msg_m1210_210_01_5">Muito bem! Próxima questão!</message>
+	<message index="29" name="msg_m1210_210_01_6">Essa pode ser a mais legal de todas!\nEssa é a última questão!</message>
+	<message index="30" name="msg_m1210_210_01_7">O que...?\nQI de... 158... Minto, 200.\nExcelente...\n\fObrigado por essa incrível amostra.\nAqui está uma pequena recompensa para você!</message>
+	<message index="31" name="msg_m1210_210_01_8">Heh...\nO seu QI era pior do que eu\nesperava. Não vou te dar nenhuma recompensa.</message>
+	<message index="32" name="msg_m1211_211_01_3">Eu procurei pelas 10 Medalhas, mas eu não \nconsegui encontrá-las nos lugares que posso ir...\nPor favor, encontre todas elas!</message>
+	<message index="33" name="msg_m1211_211_01_4">Obrigado! \nA mamãe não vai mais gritar comigo. \nUfa!</message>
+	<message index="34" name="msg_m1212_212_01_3">No torneio, um time que \npassou por 20 Anéis venceu.\fCom o meu avião, eu poderia ter passado por\n21 Anéis. Se você quebrar aquele recorde, \nFinalmente poderei descansar em paz. Me ajude!</message>
+	<message index="35" name="msg_m1212_212_01_4">Obrigado! \nPor sua causa, agora eu me sinto bem melhor!\nTe agradeço do fundo do meu coração!\n</message>
+	<message index="36" name="msg_m1212_212_01_5">Tá tudo bem.\nCom o tempo, eu vou superar isso...</message>
+	<message index="37" name="msg_m1213_213_01_3">O primeiro lugar que eu fui hoje foi...\na lojinha! Eu acho.</message>
+	<message index="38" name="msg_m1213_213_01_4">Obrigado!\nQual é o presente?\nEu não posso te dizer... Isso é vergonhoso.\fVocê realmente quer saber?\nUmm... Eu não posso contar!\nEsse é um segredo nosso!</message>
+	<message index="39" name="msg_m1214_214_01_3">Obrigado pela ajuda!\nEu queria pará-los pois a cidade\nestá começando a florescer novamente.</message>
+	<message index="40" name="msg_m1215_215_01_3">Quem cruzar a linha de chegada primeiro, vence!\nSimbora!</message>
 	<message index="41" name="msg_m1215_215_01_4">Heh, I'm just warming up.\nI haven't shown you anything yet!\fWhat? Oh, sorry. \nSomeone needs my help!\nGot to go, bye!</message>
 	<message index="42" name="msg_m1215_215_01_5">You did your best, but you didn't \nknow who you were up against.\nI'm the hero, Sonic Man!</message>
 	<message index="43" name="msg_m1216_216_01_3">Show us what you've got!\nLet's hit it!</message>
