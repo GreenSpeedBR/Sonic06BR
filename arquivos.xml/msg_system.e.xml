@@ -230,9 +230,9 @@
 	<message index="227" name="msg_rank">RANK</message>
 	<message index="228" name="msg_totalrings">TOTAL Rings</message>
 	<message index="229" name="msg_record">RECORD</message>
-	<message index="230" name="msg_besttime">BEST TIME</message>
+	<message index="230" name="msg_besttime">MELHOR TEMPO</message>
 	<message index="231" name="msg_mostrings">MOST Rings</message>
-	<message index="232" name="msg_bestscore">BEST SCORE</message>
+	<message index="232" name="msg_bestscore">MELHOR PONTUAÇÃO</message>
 	<message index="233" name="msg_bestrecord">BEST RECORD</message>
 	<message index="234" name="msg_points">POINTS</message>
 	<message index="235" name="msg_missioncompleted">MISSION COMPLETED!</message>
@@ -245,7 +245,7 @@
 	<message index="242" name="msg_lap2">LAP 2</message>
 	<message index="243" name="msg_lap3">LAP 3</message>
 	<message index="244" name="msg_failed">FAILED</message>
-	<message index="245" name="msg_bestring">BEST Rings</message>
+	<message index="245" name="msg_bestring">MELHOR Anéis</message>
 	<message index="246" name="msg_totalring">TOTAL Rings</message>
 	<message index="247" name="msg_newrecord">NEW RECORD!</message>
 	<message index="248" name="msg_mission1">MISSION 1</message>

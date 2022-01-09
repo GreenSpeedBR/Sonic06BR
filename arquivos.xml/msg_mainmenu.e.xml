@@ -9,12 +9,12 @@
 	<message index="6" name="msg_lastplayarea_2">Last Played Area</message>
 	<message index="7" name="msg_fileselect">FILE SELECT</message>
 	<message index="8" name="msg_mainmenu">MAIN MENU</message>
-	<message index="9" name="msg_singleplayer">SINGLE PLAYER</message>
+	<message index="9" name="msg_singleplayer">UM JOGADOR</message>
 	<message index="10" name="msg_multiplayer">MULTIPLAYER</message>
 	<message index="11" name="msg_network">NETWORK</message>
 	<message index="12" name="msg_extras">EXTRAS</message>
 	<message index="13" name="msg_options">OPTIONS</message>
-	<message index="14" name="msg_episodeselect">EPISODE SELECT</message>
+	<message index="14" name="msg_episodeselect">SELECIONAR EPISÓDIO</message>
 	<message index="15" name="msg_trialselect">TRIAL SELECT</message>
 	<message index="16" name="msg_goldmedalresults">GOLD MEDAL RESULTS</message>
 	<message index="17" name="msg_actselect">ACT TRIAL</message>
@@ -58,10 +58,10 @@
 	<message index="55" name="msg_twntrial_c">Town Trial: Choose a Town Mission and play!</message>
 	<message index="56" name="msg_playerselect_c">Please select a Player</message>
 	<message index="57" name="msg_stageselect_c">Please select a Stage</message>
-	<message index="58" name="msg_trial_sonic">Play Sonic The Hedgehog Missions</message>
-	<message index="59" name="msg_trial_shadow">Play Shadow The Hedgehog Missions</message>
-	<message index="60" name="msg_trial_silver">Play Silver The Hedgehog Missions</message>
-	<message index="61" name="msg_trial_last">Play the Last Episode</message>
+	<message index="58" name="msg_trial_sonic">Jogue as Missões do Sonic</message>
+	<message index="59" name="msg_trial_shadow">Jogue as Missões do Shadow</message>
+	<message index="60" name="msg_trial_silver">Jogue as Missões do Silver</message>
+	<message index="61" name="msg_trial_last">Jogue o Episódio Final</message>
 	<message index="62" name="msg_trial_tails">Play Miles "Tails" Prower Missions</message>
 	<message index="63" name="msg_trial_knukles">Play Knuckles The Echidna Missions</message>
 	<message index="64" name="msg_trial_rouge">Play Rouge The Bat Missions</message>
