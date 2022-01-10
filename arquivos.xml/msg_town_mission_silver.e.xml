@@ -23,7 +23,7 @@
 	<message index="20" name="msg_m1207_207_01_3">Existem cinco chaves.\nProvavelmente elas estão em algum lugar na floresta.\nPor favor, encontre-as!</message>
 	<message index="21" name="msg_m1207_207_01_4">Obrigado! Você as encontrou!\nAqui está a sua recompensa!</message>
 	<message index="22" name="msg_m1207_207_01_5">Meu precioso cachorro...\nEu não devia ter pedido a sua ajuda.</message>
-	<message index="23" name="msg_m1208_208_01_1">Há alguns inimigos \npróximos a entrada da floresta.\nProteja a Anna até chegar lá, por favor.</message>
+	<message index="23" name="msg_m1208_208_01_1">Há alguns inimigos \nno caminho até a floresta.\nProteja a Anna até chegar lá, por favor.</message>
 	<message index="24" name="msg_m1208_208_01_2">Muito obrigado por proteger a Anna.</message>
 	<message index="25" name="msg_m1208_208_01_3">Pensei que você pudesse proteger\nela...</message>
 	<message index="26" name="msg_m1210_210_01_3">Vamos começar o teste.\nObserve a primeira cena de perto, e \ntoque no que mudou na cena seguinte!</message>
@@ -32,20 +32,20 @@
 	<message index="29" name="msg_m1210_210_01_6">Essa pode ser a mais legal de todas!\nEssa é a última questão!</message>
 	<message index="30" name="msg_m1210_210_01_7">O que...?\nQI de... 158... Minto, 200.\nExcelente...\n\fObrigado por essa incrível amostra.\nAqui está uma pequena recompensa para você!</message>
 	<message index="31" name="msg_m1210_210_01_8">Heh...\nO seu QI era pior do que eu\nesperava. Não vou te dar nenhuma recompensa.</message>
-	<message index="32" name="msg_m1211_211_01_3">Eu procurei pelas 10 Medalhas, mas eu não \nconsegui encontrá-las nos lugares que posso ir...\nPor favor, encontre todas elas!</message>
+	<message index="32" name="msg_m1211_211_01_3">Eu procurei pelas 10 Medalhas, mas eu não \nas encontrei nos lugares que consigo ir...\nPor favor, encontre todas!</message>
 	<message index="33" name="msg_m1211_211_01_4">Obrigado! \nA mamãe não vai mais gritar comigo. \nUfa!</message>
 	<message index="34" name="msg_m1212_212_01_3">No torneio, um time que \npassou por 20 Anéis venceu.\fCom o meu avião, eu poderia ter passado por\n21 Anéis. Se você quebrar aquele recorde, \nFinalmente poderei descansar em paz. Me ajude!</message>
 	<message index="35" name="msg_m1212_212_01_4">Obrigado! \nPor sua causa, agora eu me sinto bem melhor!\nTe agradeço do fundo do meu coração!\n</message>
 	<message index="36" name="msg_m1212_212_01_5">Tá tudo bem.\nCom o tempo, eu vou superar isso...</message>
 	<message index="37" name="msg_m1213_213_01_3">O primeiro lugar que eu fui hoje foi...\na lojinha! Eu acho.</message>
 	<message index="38" name="msg_m1213_213_01_4">Obrigado!\nQual é o presente?\nEu não posso te dizer... Isso é vergonhoso.\fVocê realmente quer saber?\nUmm... Eu não posso contar!\nEsse é um segredo nosso!</message>
-	<message index="39" name="msg_m1214_214_01_3">Obrigado pela ajuda!\nEu queria pará-los pois a cidade\nestá começando a florescer novamente.</message>
+	<message index="39" name="msg_m1214_214_01_3">Obrigado pela ajuda!\nEu queria pará-los pois a cidade\nestá começando a se erguer novamente.</message>
 	<message index="40" name="msg_m1215_215_01_3">Quem cruzar a linha de chegada primeiro, vence!\nSimbora!</message>
 	<message index="41" name="msg_m1215_215_01_4">Heh, Eu só estava me aquecendo.\nVocê ainda não viu nada!\fO que? Ah, me perdoe. \nAlguém precisa da minha ajuda!\nPreciso ir, tchauzinho!</message>
 	<message index="42" name="msg_m1215_215_01_5">Você deu o seu melhor, mas você não \nsabia com quem estava lidando.\nEu sou o lendário Sonic Man!</message>
-	<message index="43" name="msg_m1216_216_01_3">Mostre-nos o que você conseguiu!\nVamos acertá-lo!</message>
+	<message index="43" name="msg_m1216_216_01_3">Mostre do que você é capaz!\nVamos começar!</message>
 	<message index="44" name="msg_m1216_216_01_4">Mano!\nComo você fez isso tão rápido?!  Uau!\fEssa foi uma das melhores pontuações \ndesde a fundação de Soleanna!\nVocê é uma lenda!</message>
-	<message index="45" name="msg_m1216_216_01_5">Não posso te contar nada com uma pontuação dessas.\nNão confio em caras fracos.\nVolte aqui quando você puder provar o seu valor!</message>
+	<message index="45" name="msg_m1216_216_01_5">Não vou te contar nada com uma pontuação dessas.\nNão confio em caras fracos.\nVolte aqui quando você puder provar o seu valor!</message>
 	<message index="46" name="msg_m1217_217_01_3">Coloque os ingredientes aqui em volta!\nEles precisam ficar frescos, então se apresse!</message>
 	<message index="47" name="msg_m1217_217_01_4">Excelente! Muito obrigado!\nAgora, eu posso cozinhar belos pratos.\nObrigado pela ajuda!\n\fSei que não é muito, mas aqui \nestá a sua recompensa!</message>
 	<message index="48" name="msg_m1217_217_01_5">Essa não, os ingredientes...\nEu fui um otário por pedir a sua ajuda!</message>
@@ -70,7 +70,7 @@
 	<message index="67" name="msg_m1224_224_01_5">É, há muitas pessoas \naqui em volta... Que situação...</message>
 	<message index="68" name="msg_m1225_225_01_2">O que...? Por que isso não vai explodir?\nSe eu não fizer isso, Serei um conde \npara sempre...\fIsso era para funcionar.\nO que é que tem de errado!?\nDroga!</message>
 	<message index="69" name="msg_m1226_226_01_3">Creio que há uma chave secreta nesse \narmazém. Boa sorte!</message>
-	<message index="70" name="msg_m1226_226_01_4">Obrigado! De fato havia um monstro...\nObrigado pela ajuda.\fA gerência está encantada.\nEssa é uma recompensa vinda da nossa firma.\nEla é toda sua!</message>
+	<message index="70" name="msg_m1226_226_01_4">Obrigado! De fato haviam monstros...\nObrigado pela ajuda.\fA gerência está encantada.\nEssa é uma recompensa vinda da nossa firma.\nEla é toda sua!</message>
 	<message index="71" name="msg_m1227_227_01_1">Esse é o nosso primeiro teste!\nO Teste da Amizade!\fDemonstre com as suas ações o quanto\nvocê valoriza os seus amigos!\nAqui vamos nós!</message>
 	<message index="72" name="msg_m1227_227_01_2">Parece que você valoriza as suas amizades.\nContinue assim!\nIndo para o próximo teste!</message>
 	<message index="73" name="msg_m1227_227_01_3">Você não valoriza os seus amigos o suficiente.\nRepense o quão importante eles são!</message>
@@ -129,7 +129,7 @@
 	<message index="126" name="msg_m1211_rule011_01_1">Encontre dez Medalhas de Bronze!</message>
 	<message index="127" name="msg_m1212_rule012_01_1">Passe por todos os Anéis\nantes que o tempo acabe!</message>
 	<message index="128" name="msg_m1213_rule013_01_1">Siga a memória de Valeria e encontre\no presente perdido!</message>
-	<message index="129" name="msg_m1214_rule014_01_1">Derrote os inimigos antes que eles alcancem\na cidade!</message>
+	<message index="129" name="msg_m1214_rule014_01_1">Derrote os inimigos antes que eles cheguem\nna cidade!</message>
 	<message index="130" name="msg_m1215_rule015_01_1">Passe em volta do Castelo da Cidade e\ncruze a linha de chegada antes do Sonic Man!</message>
 	<message index="131" name="msg_m1216_rule016_01_1">Destrua todos os alvos antes\n que o tempo acabe!</message>
 	<message index="132" name="msg_m1217_rule017_01_1">Leve todos os ingredientes para o Collard\nantes que o tempo acabe!</message>
@@ -161,10 +161,10 @@
 	<message index="158" name="msg_m1205_title005_01_1">Encontre John e Pucci!</message>
 	<message index="159" name="msg_m1206_title006_01_1">Salve o Lorde Regis!</message>
 	<message index="160" name="msg_m1207_title007_01_1">A Veterinária</message>
-	<message index="161" name="msg_m1208_title008_01_1">Proteja Anna--\nEla sabe do Segredo!</message>
+	<message index="161" name="msg_m1208_title008_01_1">Proteja Anna!\nEla sabe do Segredo!</message>
 	<message index="162" name="msg_m1209_title009_01_1">O Segredo da Amy</message>
 	<message index="163" name="msg_m1210_title010_01_1">Quiz de Memória!</message>
-	<message index="164" name="msg_m1211_title011_01_1">As Medalhas de Bronze Roubadas</message>
+	<message index="164" name="msg_m1211_title011_01_1">As Medalhas de Bronze Perdidas</message>
 	<message index="165" name="msg_m1212_title012_01_1">O Torneio de Aviões</message>
 	<message index="166" name="msg_m1213_title013_01_1">O Presente Perdido</message>
 	<message index="167" name="msg_m1214_title014_01_1">Proteja o Litoral!</message>
@@ -172,14 +172,14 @@
 	<message index="169" name="msg_m1216_title016_01_1">O Torneio de Alvo na Água de Soleanna!</message>
 	<message index="170" name="msg_m1217_title017_01_1">Os Ingredientes do Chefe</message>
 	<message index="171" name="msg_m1218_title018_01_1">Pegue os Garotos de Soleanna!</message>
-	<message index="172" name="msg_m1219_title019_01_1">Raid: Evil Monster</message>
+	<message index="172" name="msg_m1219_title019_01_1">Invasão: Monstros Malignos</message>
 	<message index="173" name="msg_m1220_title020_01_1">Derrote os Perseguidores \ne Escolte a Elise!</message>
 	<message index="174" name="msg_m1221_title021_01_1">Proteja o Portão para \no Castelo da Cidade</message>
 	<message index="175" name="msg_m1222_title022_01_1">Pare o Carro dos Ladrões!</message>
 	<message index="176" name="msg_m1223_title023_01_1">Batalha Mental: Encontre \nas Medalhas de Bronze Escondidas!</message>
 	<message index="177" name="msg_m1224_title024_01_1">Encontre a Pessoa Que o Aguarda!</message>
 	<message index="178" name="msg_m1225_title025_01_1">Principado Em Chamas 2</message>
-	<message index="179" name="msg_m1226_title026_01_1">Propriedade da Companhia Perdida</message>
+	<message index="179" name="msg_m1226_title026_01_1">Os Pertences da Companhia</message>
 	<message index="180" name="msg_m1227_title027_01_1">Teste de Soleanna \n(O Teste da Amizade)</message>
 	<message index="181" name="msg_m1228_title028_01_1">Teste de Soleanna \n(O Teste do Amor)</message>
 	<message index="182" name="msg_m1229_title029_01_1">A Antiga Pesquisa de Alquimia</message>
@@ -238,7 +238,7 @@
 	<message index="235" name="msg_m1232_232_01_11">Já vi o bastante.\fVocê pode ter tirado toda as dúvidas\nda sua mãe.\fEntretanto, rever o seu passado\npode ter sido o que acalmou\no seu coração.\fMantenha o seu coração e mente fortes\nenquanto você avança para a próxima batalha.</message>
 	<message index="236" name="msg_m1232_232_01_12">O seu coração ainda está equivocado.\nIr mais longe lhe trará nada além\nde desespero.</message>
 	<message index="237" name="msg_m1240_240_01_1">Pare! Essa área está sob alerta máximo!\nEntrar nela é extremamente proibido!\nSuma daqui!</message>
-	<message index="238" name="msg_m1219_rule019_01_1">Derrote todos os inimigos que estão atacando a cidade!</message>
+	<message index="238" name="msg_m1219_rule019_01_1">Derrote todos os inimigos que estão\natacando a cidade!</message>
 	<message index="239" name="msg_m1220_rule020_01_1">Derrote todos os inimigos que estão atrás da Elise!</message>
 	<message index="240" name="msg_m1219_219_01_1">Socorro! Há monstros estranhos por toda a parte!</message>
 	<message index="241" name="msg_m1221_021_01_2">Obrigado! A cidade está a salvo, graças a\nvocê. Como prometido, aqui está o passe para o\ndeserto.</message>
