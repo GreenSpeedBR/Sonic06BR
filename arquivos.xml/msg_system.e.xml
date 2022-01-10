@@ -18,10 +18,10 @@
 	<message index="15" name="msg_save01">Save data up to this point?</message>
 	<message index="16" name="msg_save02">Now saving.</message>
 	<message index="17" name="msg_save03">Save complete.</message>
-	<message index="18" name="msg_continue">Continue</message>
+	<message index="18" name="msg_continue">Continuar</message>
 	<message index="19" name="msg_status">Status</message>
-	<message index="20" name="msg_restart">Start Over</message>
-	<message index="21" name="msg_quitback">Quit</message>
+	<message index="20" name="msg_restart">Recomeçar</message>
+	<message index="21" name="msg_quitback">Sair</message>
 	<message index="22" name="msg_options">Options</message>
 	<message index="23" name="msg_system_twnpause01">Save</message>
 	<message index="24" name="msg_system_twnpause02">Map</message>
@@ -446,12 +446,12 @@
 	<message index="443" name="msg_loadingnow">Loading…</message>
 	<message index="444" name="msg_interruptionsave">NOT IN USE</message>
 	<message index="445" name="msg_interruptionload">NOT IN USE</message>
-	<message index="446" name="msg_easy">EASY</message>
+	<message index="446" name="msg_easy">FÁCIL</message>
 	<message index="447" name="msg_normal">NORMAL</message>
-	<message index="448" name="msg_hard">HARD</message>
-	<message index="449" name="msg_veryhard">VERY HARD</message>
-	<message index="450" name="msg_superhard">SUPER HARD</message>
-	<message index="451" name="msg_ultimate">ULTIMATE</message>
+	<message index="448" name="msg_hard">DIFÍCIL</message>
+	<message index="449" name="msg_veryhard">MUITO DIFÍCIL</message>
+	<message index="450" name="msg_superhard">SUPER DIFÍCIL</message>
+	<message index="451" name="msg_ultimate">SUPREMO</message>
 	<message index="452" name="sonic_stg_wvo">Pursue the Egg Carrier!</message>
 	<message index="453" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
 	<message index="454" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>

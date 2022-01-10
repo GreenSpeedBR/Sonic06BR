@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_gold_results" mst_version="1" endianness="B">
 	<message index="0" name="msg_episodeclear">Episódio Concluído.</message>
-	<message index="1" name="msg_collect_allmedal">Coletou todas as Medalhas de Prata de Soleanna.</message>
-	<message index="2" name="msg_act_all_rank_s">Conquistou Rank S em todas as missões de Ato.</message>
-	<message index="3" name="msg_twn_all_rank_s">Conquistou Rank S em todas as missões da Cidade.</message>
+	<message index="1" name="msg_collect_allmedal">Coletou todas as Medalhas de Prata.</message>
+	<message index="2" name="msg_act_all_rank_s">Fez Rank S em todos os Atos.</message>
+	<message index="3" name="msg_twn_all_rank_s">Fez Rank S em todas as Missões da Cidade.</message>
 	<message index="4" name="msg_lastgoaldmedal">Obteve a última Medalha de Ouro</message>
 	<message index="5" name="msg_allepisodeclear">Todos os Episódios foram concluídos.</message>
 	<message index="6" name="msg_sonic_c">Lista das Medalhas de Ouro do Sonic</message>

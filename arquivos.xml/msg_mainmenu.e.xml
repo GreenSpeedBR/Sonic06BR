@@ -74,7 +74,7 @@
 	<message index="71" name="msg_trial_dlcharacter">Play downloaded Character Missions</message>
 	<message index="72" name="msg_trial_metalsonic">Play Metal Sonic Missions</message>
 	<message index="73" name="msg_trial_secret">Play ??? Mission.</message>
-	<message index="74" name="msg_selectmission_c">Please select a Mission</message>
+	<message index="74" name="msg_selectmission_c">Selecione uma Missão</message>
 	<message index="75" name="msg_tag_c">Time: Trabalhe em equipe e chegue ao objetivo!</message>
 	<message index="76" name="msg_battle_c">Rivais: Chegue ao objetivo primeiro!</message>
 	<message index="77" name="msg_continue">CONTINUE</message>
@@ -101,20 +101,20 @@
 	<message index="98" name="msg_select_360controller">Please select Xbox 360 Controller to use.</message>
 	<message index="99" name="msg_select_controller_360_2">Please select Xbox 360 Controller.</message>
 	<message index="100" name="msg_entry">Join the game!</message>
-	<message index="101" name="msg_entry_360_1" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="102" name="msg_entry_360_2" placeholder="picture(button_b)">Press $ button to enter.</message>
-	<message index="103" name="msg_entry_360_3" placeholder="picture(button_start)">Press $ button to enter.</message>
-	<message index="104" name="msg_entry_360_4" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="105" name="msg_entry_360_5" placeholder="picture(button_start)">Press $ button to enter.</message>
-	<message index="106" name="msg_entry_360_6" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="107" name="msg_entry_360_7" placeholder="picture(button_start)">Press $ button to enter.</message>
-	<message index="108" name="msg_entry_ps3_1" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="109" name="msg_entry_ps3_2" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="110" name="msg_entry_ps3_3" placeholder="picture(button_start)">Press $ button to enter.</message>
-	<message index="111" name="msg_entry_ps3_4" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="112" name="msg_entry_ps3_5" placeholder="picture(button_start)">Press $ button to enter.</message>
-	<message index="113" name="msg_entry_ps3_6" placeholder="picture(button_a)">Press $ button to enter.</message>
-	<message index="114" name="msg_entry_ps3_7" placeholder="picture(button_start)">Press $ button to enter.</message>
+	<message index="101" name="msg_entry_360_1" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="102" name="msg_entry_360_2" placeholder="picture(button_b)">Pressione $ para entrar.</message>
+	<message index="103" name="msg_entry_360_3" placeholder="picture(button_start)">Pressione $ para entrar.</message>
+	<message index="104" name="msg_entry_360_4" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="105" name="msg_entry_360_5" placeholder="picture(button_start)">Pressione $ para entrar.</message>
+	<message index="106" name="msg_entry_360_6" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="107" name="msg_entry_360_7" placeholder="picture(button_start)">Pressione $ para entrar.</message>
+	<message index="108" name="msg_entry_ps3_1" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="109" name="msg_entry_ps3_2" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="110" name="msg_entry_ps3_3" placeholder="picture(button_start)">Pressione $ para entrar.</message>
+	<message index="111" name="msg_entry_ps3_4" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="112" name="msg_entry_ps3_5" placeholder="picture(button_start)">Pressione $ para entrar.</message>
+	<message index="113" name="msg_entry_ps3_6" placeholder="picture(button_a)">Pressione $ para entrar.</message>
+	<message index="114" name="msg_entry_ps3_7" placeholder="picture(button_start)">Pressione $ para entrar.</message>
 	<message index="115" name="msg_makenewgame">Start new game.</message>
 	<message index="116" name="msg_makenewgame2">Start new game.</message>
 	<message index="117" name="msg_continuegame">Continue </message>
@@ -265,7 +265,7 @@
 	<message index="262" name="sonic">SONIC</message>
 	<message index="263" name="shadow">SHADOW</message>
 	<message index="264" name="silver">SILVER</message>
-	<message index="265" name="msg_lastepisode">LAST EPISODE</message>
+	<message index="265" name="msg_lastepisode">EPISÓDIO FINAL</message>
 	<message index="266" name="act1">ATO1</message>
 	<message index="267" name="act2">ATO2</message>
 	<message index="268" name="act3">ATO3</message>
