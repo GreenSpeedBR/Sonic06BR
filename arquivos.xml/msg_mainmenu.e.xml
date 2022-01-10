@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_mainmenu" mst_version="1" endianness="B">
-	<message index="0" name="msg_saveerror_1">You reached the maximum number of Save Data.</message>
+	<message index="0" name="msg_saveerror_1">.</message>
 	<message index="1" name="msg_saveerror_2">In order to create new Save Data \nplease delete old Save Data.</message>
 	<message index="2" name="msg_saveerror_3">If you continue the game without creating\nSave Data the progress of the game will not\nbe saved. OK?</message>
 	<message index="3" name="msg_saveerror_4">If you continue the game the progress of\nthe game will not be saved. OK?</message>
-	<message index="4" name="msg_progress">PROGRESS</message>
-	<message index="5" name="msg_lastplayarea">LAST PLAY AREA</message>
-	<message index="6" name="msg_lastplayarea_2">Last Played Area</message>
+	<message index="4" name="msg_progress">PROGRESSO</message>
+	<message index="5" name="msg_lastplayarea">JOGAR ÚLTIMA ÁREA</message>
+	<message index="6" name="msg_lastplayarea_2">Última área jogada</message>
 	<message index="7" name="msg_fileselect">FILE SELECT</message>
 	<message index="8" name="msg_mainmenu">MENU PRINCIPAL</message>
 	<message index="9" name="msg_singleplayer">UM JOGADOR</message>
@@ -35,29 +35,29 @@
 	<message index="32" name="msg_xboxlive2">Xbox Live</message>
 	<message index="33" name="msg_new">NEW!</message>
 	<message index="34" name="msg_characterselect">CHARACTER SELECT</message>
-	<message index="35" name="msg_singleplayer_c">Um Jogador: Selecione algum episódio ou rejogue alguma fase</message>
+	<message index="35" name="msg_singleplayer_c">Um Jogador: Experiencie a campanha ou rejogue alguma fase</message>
 	<message index="36" name="msg_multiplayer_c">Multiplayer: Modo de 2 jogadores</message>
 	<message index="37" name="msg_network_360_c">Xbox Live: View score and time rankings</message>
 	<message index="38" name="msg_network_ps3_c">Network: Download content and view rankings</message>
-	<message index="39" name="msg_extra_c">Extras:  Ouça algumas músicas e veja algumas cenas</message>
+	<message index="39" name="msg_extra_c">Extras: Ouça a trilha sonora e assista cenas em vídeo</message>
 	<message index="40" name="msg_options_c">Opções: Ajuste as configurações do jogo</message>
-	<message index="41" name="msg_episodeselect_c">Episode Select: Play through the storyline</message>
-	<message index="42" name="msg_trial_c">Trial Select: Play stages you have cleared</message>
-	<message index="43" name="msg_goldmedalresults_c">Gold Medal Results: Displays list of Gold Medals collected</message>
+	<message index="41" name="msg_episodeselect_c">Selecionar Episódio: Jogue a campanha</message>
+	<message index="42" name="msg_trial_c">Selecionar Fase: Jogue alguma fase que você já concluiu</message>
+	<message index="43" name="msg_goldmedalresults_c">Lista de Medalhas de Ouro: Mostra as Medalhas de Ouro coletadas</message>
 	<message index="44" name="msg_tagstory_c">Tag Story: A special two-player story</message>
 	<message index="45" name="msg_tagtrial_c">Tag Trial: Challenge previously-cleared missions with two players!</message>
 	<message index="46" name="msg_ranking_c">Rankings: Check your rank</message>
 	<message index="47" name="msg_download_c">Download; You can download additional game content</message>
 	<message index="48" name="msg_network_c">Network: You can check rankings and download content</message>
 	<message index="49" name="msg_xboxlive_c">Xbox Live: Connect to Xbox Live and check rankings</message>
-	<message index="50" name="msg_episodesonic_c">Play the Sonic The Hedgehog Episode</message>
-	<message index="51" name="msg_episodeshadow_c">Play the Shadow The Hedgehog Episode</message>
-	<message index="52" name="msg_episodesilver_c">Play the Silver The Hedgehog Episode</message>
-	<message index="53" name="msg_lastepisode_c">Play the Last Episode</message>
-	<message index="54" name="msg_acttrial_c">ACT Trial: Choose a Stage and play!</message>
-	<message index="55" name="msg_twntrial_c">Town Trial: Choose a Town Mission and play!</message>
+	<message index="50" name="msg_episodesonic_c">Jogue o Episódio Sonic</message>
+	<message index="51" name="msg_episodeshadow_c">Jogue o Episódio Shadow</message>
+	<message index="52" name="msg_episodesilver_c">Jogue o Episódio Silver</message>
+	<message index="53" name="msg_lastepisode_c">Jogue o Episódio Final</message>
+	<message index="54" name="msg_acttrial_c">Missões Principais: Escolha um Estágio para jogar!</message>
+	<message index="55" name="msg_twntrial_c">Missões Secundárias: Escolha uma Missão da Cidade para jogar!</message>
 	<message index="56" name="msg_playerselect_c">Please select a Player</message>
-	<message index="57" name="msg_stageselect_c">Please select a Stage</message>
+	<message index="57" name="msg_stageselect_c">Selecione um Estágio</message>
 	<message index="58" name="msg_trial_sonic">Jogue as Missões do Sonic</message>
 	<message index="59" name="msg_trial_shadow">Jogue as Missões do Shadow</message>
 	<message index="60" name="msg_trial_silver">Jogue as Missões do Silver</message>
@@ -75,23 +75,23 @@
 	<message index="72" name="msg_trial_metalsonic">Play Metal Sonic Missions</message>
 	<message index="73" name="msg_trial_secret">Play ??? Mission.</message>
 	<message index="74" name="msg_selectmission_c">Please select a Mission</message>
-	<message index="75" name="msg_tag_c">Tag: Work together and head to the goal!</message>
-	<message index="76" name="msg_battle_c">Battle: Reach the goal first!</message>
+	<message index="75" name="msg_tag_c">Time: Trabalhe em equipe e chegue ao objetivo!</message>
+	<message index="76" name="msg_battle_c">Rivais: Chegue ao objetivo primeiro!</message>
 	<message index="77" name="msg_continue">CONTINUE</message>
 	<message index="78" name="msg_newgame">NEW GAME</message>
 	<message index="79" name="msg_newgame_c">Continue previous game</message>
 	<message index="80" name="msg_continue_c">Start new game</message>
-	<message index="81" name="msg_characterselect_c">Select a character</message>
+	<message index="81" name="msg_characterselect_c">Selecione um personagem</message>
 	<message index="82" name="msg_credits">End Credits</message>
 	<message index="83" name="msg_ending">Ending</message>
-	<message index="84" name="msg_theaterroom_c">Theater Room: View story events</message>
+	<message index="84" name="msg_theaterroom_c">Teatro: Veja os eventos da história</message>
 	<message index="85" name="msg_theaterroom_c_yobi">Theater Room: Watch CG movies</message>
 	<message index="86" name="msg_solleanna_a">Soleanna Castle Town</message>
 	<message index="87" name="msg_solleanna_b">Soleanna New City</message>
 	<message index="88" name="msg_solleanna_c">Soleanna forest</message>
 	<message index="89" name="msg_audioroom_c_2">Audio Room: Check out the game's music</message>
 	<message index="90" name="msg_audioroom_c_3">Select the track you want to hear</message>
-	<message index="91" name="msg_audioroom_c">Audio Room: You can listen to different sounds</message>
+	<message index="91" name="msg_audioroom_c">Áudios: Ouça a trilha sonora</message>
 	<message index="92" name="msg_bgm">MUSIC</message>
 	<message index="93" name="msg_se">SE</message>
 	<message index="94" name="msg_select_wirelesscontroller_ps3">Please select a wireless controller to use.</message>
@@ -137,9 +137,9 @@
 	<message index="134" name="msg_stopgame">Interrupt</message>
 	<message index="135" name="msg_devicechange">Change storage device</message>
 	<message index="136" name="msg_devicechange_2">Select storage device</message>
-	<message index="137" name="msg_lastsavetime">Last Save Time</message>
-	<message index="138" name="msg_lastsavetime_2">LAST SAVE TIME</message>
-	<message index="139" name="msg_totalplaytime">Total Play Time</message>
+	<message index="137" name="msg_lastsavetime">Último Salvamento</message>
+	<message index="138" name="msg_lastsavetime_2">ÚLTIMO SALVAMENTO</message>
+	<message index="139" name="msg_totalplaytime">Tempo Total de Jogo</message>
 	<message index="140" name="msg_unknown7">???????</message>
 	<message index="141" name="msg_unknown_5">?????</message>
 	<message index="142" name="msg_episodetails_c">Play Miles "Tails" Prower Episode</message>
@@ -255,33 +255,33 @@
 	<message index="252" name="msg_other">OTHER</message>
 	<message index="253" name="msg_shaffle">SHUFFLE</message>
 	<message index="254" name="msg_mission">MISSION</message>
-	<message index="255" name="msg_mission1">MISSION 1</message>
-	<message index="256" name="msg_mission2">MISSION 2</message>
-	<message index="257" name="msg_mission3">MISSION 3</message>
-	<message index="258" name="msg_mission4">MISSION 4</message>
-	<message index="259" name="msg_mission5">MISSION 5</message>
+	<message index="255" name="msg_mission1">MISSÃO 1</message>
+	<message index="256" name="msg_mission2">MISSÃO 2</message>
+	<message index="257" name="msg_mission3">MISSÃO 3</message>
+	<message index="258" name="msg_mission4">MISSÃO 4</message>
+	<message index="259" name="msg_mission5">MISSÃO 5</message>
 	<message index="260" name="msg_download_contents">Download: Play downloaded content.</message>
 	<message index="261" name="msg_download_mission">Download: Play downloaded mission.</message>
 	<message index="262" name="sonic">SONIC</message>
 	<message index="263" name="shadow">SHADOW</message>
 	<message index="264" name="silver">SILVER</message>
 	<message index="265" name="msg_lastepisode">LAST EPISODE</message>
-	<message index="266" name="act1">ACT1</message>
-	<message index="267" name="act2">ACT2</message>
-	<message index="268" name="act3">ACT3</message>
-	<message index="269" name="act4">ACT4</message>
-	<message index="270" name="act5">ACT5</message>
-	<message index="271" name="act6">ACT6</message>
-	<message index="272" name="act7">ACT7</message>
-	<message index="273" name="act8">ACT8</message>
-	<message index="274" name="act9">ACT9</message>
-	<message index="275" name="boss">BOSS</message>
-	<message index="276" name="boss1">BOSS1</message>
-	<message index="277" name="boss2">BOSS2</message>
-	<message index="278" name="boss3">BOSS3</message>
-	<message index="279" name="boss4">BOSS4</message>
-	<message index="280" name="boss5">BOSS5</message>
-	<message index="281" name="lastact">LAST ACT</message>
+	<message index="266" name="act1">ATO 1</message>
+	<message index="267" name="act2">ATO 2</message>
+	<message index="268" name="act3">ATO 3</message>
+	<message index="269" name="act4">ATO 4</message>
+	<message index="270" name="act5">ATO 5</message>
+	<message index="271" name="act6">ATO 6</message>
+	<message index="272" name="act7">ATO 7</message>
+	<message index="273" name="act8">ATO 8</message>
+	<message index="274" name="act9">ATO 9</message>
+	<message index="275" name="boss">CHEFE</message>
+	<message index="276" name="boss1">CHEFE 1</message>
+	<message index="277" name="boss2">CHEFE 2</message>
+	<message index="278" name="boss3">CHEFE 3</message>
+	<message index="279" name="boss4">CHEFE 4</message>
+	<message index="280" name="boss5">CHEFE 5</message>
+	<message index="281" name="lastact">ÚLTIMO ATO</message>
 	<message index="282" name="extra">EXTRA</message>
 	<message index="283" name="eggcerberus">EGG-CERBERUS</message>
 	<message index="284" name="egggenesis">EGG-GENESIS</message>
