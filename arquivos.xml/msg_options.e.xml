@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_options" mst_version="1" endianness="B">
-	<message index="0" name="msg_audio_c">Adjust audio settings.</message>
-	<message index="1" name="msg_subtitile_c">Adjust subtitle settings.</message>
-	<message index="2" name="msg_vibe_c">Turn vibration on/off.</message>
-	<message index="3" name="msg_incline_c">Turn tilt settings on/off.</message>
-	<message index="4" name="msg_audio">Audio settings</message>
-	<message index="5" name="msg_subtitle">Subtitle settings</message>
-	<message index="6" name="msg_on">ON</message>
-	<message index="7" name="msg_off">OFF</message>
-	<message index="8" name="msg_vibe">Vibration settings</message>
-	<message index="9" name="msg_moniter">Display settings</message>
-	<message index="10" name="msg_britness">Brightness correction</message>
-	<message index="11" name="msg_ganma">Gamma correction</message>
-	<message index="12" name="msg_load">Load</message>
-	<message index="13" name="msg_fileselect">File Select</message>
-	<message index="14" name="msg_moniter_c">Adjust display settings to your monitor.</message>
-	<message index="15" name="msg_fileselect_c">Load a saved file from File Select.</message>
-	<message index="16" name="msg_language_c">Adjust language settings.</message>
-	<message index="17" name="msg_voice_c">Adjust voice settings.</message>
-	<message index="18" name="msg_steleo">Stereo</message>
+	<message index="0" name="msg_audio_c">Ajuste as configurações de áudio.</message>
+	<message index="1" name="msg_subtitile_c">Ajuste as configurações de legenda.</message>
+	<message index="2" name="msg_vibe_c">Altere a vibração.</message>
+	<message index="3" name="msg_incline_c">Altere as configurações de inclinação.</message>
+	<message index="4" name="msg_audio">Configurações de áudio</message>
+	<message index="5" name="msg_subtitle">Configurações de legenda</message>
+	<message index="6" name="msg_on">Ligado</message>
+	<message index="7" name="msg_off">Desligado</message>
+	<message index="8" name="msg_vibe">Configurações de vibração</message>
+	<message index="9" name="msg_moniter">Alterar a resolução da exibição</message>
+	<message index="10" name="msg_britness">Configurar brilho</message>
+	<message index="11" name="msg_ganma">Configurar gama</message>
+	<message index="12" name="msg_load">Carregar</message>
+	<message index="13" name="msg_fileselect">Selecionar Arquivo</message>
+	<message index="14" name="msg_moniter_c">Altere a resolução da exibição.</message>
+	<message index="15" name="msg_fileselect_c">Carregue um Arquivo Salvo da Seleção de Arquivos.</message>
+	<message index="16" name="msg_language_c">Altere o idioma.</message>
+	<message index="17" name="msg_voice_c">Altere as configurações de voz.</message>
+	<message index="18" name="msg_steleo">Estéreo</message>
 	<message index="19" name="msg_mono">Mono</message>
-	<message index="20" name="msg_5.1ch">5.1 ch</message>
-	<message index="21" name="msg_language">Language settings</message>
-	<message index="22" name="msg_japanese">Japanese</message>
-	<message index="23" name="msg_english">English</message>
-	<message index="24" name="msg_french">French</message>
-	<message index="25" name="msg_germany">German</message>
-	<message index="26" name="msg_spanish">Spanish</message>
-	<message index="27" name="msg_italy">Italian</message>
-	<message index="28" name="msg_voice">Voice settings</message>
-	<message index="29" name="msg_bgm">MUSIC</message>
-	<message index="30" name="msg_se">SE</message>
+	<message index="20" name="msg_5.1ch">5.1</message>
+	<message index="21" name="msg_language">Configurações de idioma</message>
+	<message index="22" name="msg_japanese">Japonês</message>
+	<message index="23" name="msg_english">Português do Brasil</message>
+	<message index="24" name="msg_french">Francês</message>
+	<message index="25" name="msg_germany">Alemão</message>
+	<message index="26" name="msg_spanish">Espanhol</message>
+	<message index="27" name="msg_italy">Italiano</message>
+	<message index="28" name="msg_voice">Configurações de voz</message>
+	<message index="29" name="msg_bgm">MÚSICA</message>
+	<message index="30" name="msg_se">EFEITOS SONOROS</message>
 </mst06>
