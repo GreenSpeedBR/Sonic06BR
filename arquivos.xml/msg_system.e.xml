@@ -20,7 +20,7 @@
 	<message index="17" name="msg_save03">Save complete.</message>
 	<message index="18" name="msg_continue">Continuar</message>
 	<message index="19" name="msg_status">Status</message>
-	<message index="20" name="msg_restart">Recomeçar</message>
+	<message index="20" name="msg_restart">Reiniciar</message>
 	<message index="21" name="msg_quitback">Sair</message>
 	<message index="22" name="msg_options">Options</message>
 	<message index="23" name="msg_system_twnpause01">Save</message>
@@ -452,7 +452,7 @@
 	<message index="449" name="msg_veryhard">MUITO DIFÍCIL</message>
 	<message index="450" name="msg_superhard">SUPER DIFÍCIL</message>
 	<message index="451" name="msg_ultimate">SUPREMO</message>
-	<message index="452" name="sonic_stg_wvo">Pursue the Egg Carrier!</message>
+	<message index="452" name="sonic_stg_wvo">Persiga o Egg Cargueiro!</message>
 	<message index="453" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
 	<message index="454" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>
 	<message index="455" name="sonic_stg_csc">Find the Database!</message>

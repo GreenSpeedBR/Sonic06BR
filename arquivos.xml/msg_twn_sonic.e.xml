@@ -772,71 +772,71 @@
 	<message index="769" name="hint_mis01_e14_om" placeholder="sound(mis01_e14_om)">$Detecting multiple readings on radar!</message>
 	<message index="770" name="hint_mis01_e15_sd" placeholder="sound(mis01_e15_sd)">$The Doctor's not holding back, is he?\nLet him witness my ultimate power!</message>
 	<message index="771" name="msg_t00009b173_01_1">This is the station. Look, there's a lot of\npeople walking around the station.</message>
-	<message index="772" name="sonic_stg_wvo">Pursue the Egg Carrier!</message>
-	<message index="773" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
-	<message index="774" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>
-	<message index="775" name="sonic_stg_csc">Find the Database!</message>
-	<message index="776" name="sonic_stg_flc">Find the Chaos Emerald!</message>
-	<message index="777" name="sonic_stg_rdt">Follow Dr. Eggman's Train!</message>
-	<message index="778" name="sonic_stg_tpj">Avoid Dr. Eggman's Pursuit!</message>
-	<message index="779" name="sonic_stg_wvo_tails">Follow Elise!</message>
-	<message index="780" name="sonic_sonic_stg_kdv">Follow the Egg Carrier!</message>
-	<message index="781" name="sonic_stg_aqa">Stop the Egg Carrier's Launch!</message>
-	<message index="782" name="last_stg_end">Collect the 7 Chaos Emeralds!</message>
-	<message index="783" name="all_stg_2nd">Gather 100 Rings!</message>
-	<message index="784" name="sonic_stg_wvo_3rd">Defeat $ Enemies!</message>
-	<message index="785" name="sonic_stg_dtd_sonic_3rd">Defeat $ Enemies!</message>
-	<message index="786" name="sonic_stg_wap_3rd">Defeat $ Enemies!</message>
-	<message index="787" name="sonic_stg_csc_3rd">Defeat $ Enemies!</message>
-	<message index="788" name="sonic_stg_flc_3rd">Defeat $ Enemies!</message>
-	<message index="789" name="sonic_stg_rdt_3rd">Defeat $ Enemies!</message>
-	<message index="790" name="sonic_stg_tpj_3rd">Defeat $ Enemies!</message>
-	<message index="791" name="sonic_stg_wvo_tails_3rd">Defeat $ Enemies!</message>
-	<message index="792" name="sonic_sonic_stg_kdv_3rd">Defeat $ Enemies!</message>
-	<message index="793" name="sonic_stg_aqa_3rd">Defeat $ Enemies!</message>
-	<message index="794" name="last_stg_end_3rd">Defeat $ Enemies!</message>
-	<message index="795" name="sonic_stg_wvo_4th">Reach the Goal Within $</message>
-	<message index="796" name="sonic_stg_dtd_sonic_4th">Reach the Goal Within $</message>
-	<message index="797" name="sonic_stg_wap_4th">Reach the Goal Within $</message>
-	<message index="798" name="sonic_stg_csc_4th">Reach the Goal Within $</message>
-	<message index="799" name="sonic_stg_flc_4th">Reach the Goal Within $</message>
-	<message index="800" name="sonic_stg_rdt_4th">Reach the Goal Within $</message>
-	<message index="801" name="sonic_stg_tpj_4th">Reach the Goal Within $</message>
-	<message index="802" name="sonic_stg_wvo_tails_4th">Reach the Goal Within $</message>
-	<message index="803" name="sonic_sonic_stg_kdv_4th">Reach the Goal Within $</message>
-	<message index="804" name="sonic_stg_aqa_4th">Reach the Goal Within $</message>
-	<message index="805" name="last_stg_end_4th">Reach the Goal Within $</message>
-	<message index="806" name="all_stg_5th">Clear Hard Mode!</message>
-	<message index="807" name="msg_act01">Get to the Goal Ring!</message>
-	<message index="808" name="msg_act02">Get to the goal within $ minutes!</message>
-	<message index="809" name="msg_act03">Collect $ Rings!</message>
-	<message index="810" name="msg_act04">Defeat all enemies!</message>
-	<message index="811" name="msg_act05">Wipe out all enemies!</message>
-	<message index="812" name="msg_act06">Get to the goal within $ minutes!</message>
-	<message index="813" name="msg_act07">Collect $ Rings!</message>
-	<message index="814" name="msg_act08">Get to the goal before your rival!</message>
-	<message index="815" name="msg_act09">Get to the goal before the ghost!</message>
-	<message index="816" name="msg_act10">Find $ Chao!</message>
-	<message index="817" name="msg_act11">Find the Goal Ring!</message>
-	<message index="818" name="msg_act12">Get to the new Goal Ring!</message>
-	<message index="819" name="msg_act13">Clear the minigame!</message>
-	<message index="820" name="msg_act14">Clear hard mode!</message>
-	<message index="821" name="msg_act15">Collect the Chaos Emeralds and save Sonic!</message>
-	<message index="822" name="msg_act16">Defeat Iblis!</message>
-	<message index="823" name="msg_act17">Defeat Dr. Eggman!</message>
-	<message index="824" name="msg_act18">Defeat Mephiles!</message>
-	<message index="825" name="msg_act19">Defeat Dr. Eggman and save Elise!</message>
-	<message index="826" name="msg_act20">Defeat Mephiles!</message>
-	<message index="827" name="msg_act21">Seal away Iblis!</message>
-	<message index="828" name="msg_act22">Defeat Sonic!</message>
-	<message index="829" name="msg_act23">Defeat Shadow!</message>
-	<message index="830" name="msg_act24">Defeat Silver!</message>
-	<message index="831" name="msg_act25">Defeat Solaris!</message>
-	<message index="832" name="msg_act26">Stop the out-of-control Solaris!</message>
-	<message index="833" name="msg_act27">Defeat Egg Genesis!</message>
-	<message index="834" name="msg_act28">Defeat Egg Cerberus!</message>
-	<message index="835" name="msg_act29">Defeat Egg Wyvern!</message>
-	<message index="836" name="msg_twn_sonic01">Collect information!</message>
+	<message index="772" name="sonic_stg_wvo">Persiga o Egg Cargueiro!</message>
+	<message index="773" name="sonic_stg_dtd_sonic">Fuja dos Robôs do Eggman!</message>
+	<message index="774" name="sonic_stg_wap">Infiltre-se na Base do Eggman!</message>
+	<message index="775" name="sonic_stg_csc">Encontre o Banco de Dados!</message>
+	<message index="776" name="sonic_stg_flc">Encontre a Esmeralda do Caos!</message>
+	<message index="777" name="sonic_stg_rdt">Siga o Trem do Eggman!</message>
+	<message index="778" name="sonic_stg_tpj">Fuja dos Robôs do Eggman!</message>
+	<message index="779" name="sonic_stg_wvo_tails">Siga a Elise!</message>
+	<message index="780" name="sonic_sonic_stg_kdv">Siga o Egg Cargueiro!</message>
+	<message index="781" name="sonic_stg_aqa">Impeça que o Egg Cargueiro Decole!</message>
+	<message index="782" name="last_stg_end">Colete as 7 Esmeraldas do Caos!</message>
+	<message index="783" name="all_stg_2nd">Colete 100 Anéis!</message>
+	<message index="784" name="sonic_stg_wvo_3rd">Derrote $ Inimigos!</message>
+	<message index="785" name="sonic_stg_dtd_sonic_3rd">Derrote $ Inimigos!</message>
+	<message index="786" name="sonic_stg_wap_3rd">Derrote $ Inimigos!</message>
+	<message index="787" name="sonic_stg_csc_3rd">Derrote $ Inimigos!</message>
+	<message index="788" name="sonic_stg_flc_3rd">Derrote $ Inimigos!</message>
+	<message index="789" name="sonic_stg_rdt_3rd">Derrote $ Inimigos!</message>
+	<message index="790" name="sonic_stg_tpj_3rd">Derrote $ Inimigos!</message>
+	<message index="791" name="sonic_stg_wvo_tails_3rd">Derrote $ Inimigos!</message>
+	<message index="792" name="sonic_sonic_stg_kdv_3rd">Derrote $ Inimigos!</message>
+	<message index="793" name="sonic_stg_aqa_3rd">Derrote $ Inimigos!</message>
+	<message index="794" name="last_stg_end_3rd">Derrote $ Inimigos!</message>
+	<message index="795" name="sonic_stg_wvo_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="796" name="sonic_stg_dtd_sonic_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="797" name="sonic_stg_wap_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="798" name="sonic_stg_csc_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="799" name="sonic_stg_flc_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="800" name="sonic_stg_rdt_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="801" name="sonic_stg_tpj_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="802" name="sonic_stg_wvo_tails_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="803" name="sonic_sonic_stg_kdv_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="804" name="sonic_stg_aqa_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="805" name="last_stg_end_4th">Chegue ao Objetivo dentro de $</message>
+	<message index="806" name="all_stg_5th">Conclua o Modo Difícil!</message>
+	<message index="807" name="msg_act01">Chegue ao Objetivo!</message>
+	<message index="808" name="msg_act02">Chegue ao Objetivo antes de $ minutos!</message>
+	<message index="809" name="msg_act03">Colete $ Anéis!</message>
+	<message index="810" name="msg_act04">Derrote todos os inimigos!</message>
+	<message index="811" name="msg_act05">Derrote todos os inimigos!</message>
+	<message index="812" name="msg_act06">Chegue ao objetivo antes de $ minutos!</message>
+	<message index="813" name="msg_act07">Colete $ Anéis!</message>
+	<message index="814" name="msg_act08">Chegue ao objetivo antes do seu rival!</message>
+	<message index="815" name="msg_act09">Chegue ao objetivo antes do fantasma!</message>
+	<message index="816" name="msg_act10">Encontre $ Chao!</message>
+	<message index="817" name="msg_act11">Encontre o Objetivo!</message>
+	<message index="818" name="msg_act12">Vá para o novo Objetivo!</message>
+	<message index="819" name="msg_act13">Conclua o minigame!</message>
+	<message index="820" name="msg_act14">Conclua o Modo Difícil!</message>
+	<message index="821" name="msg_act15">Colete as Esmeraldas do Caos e salve o Sonic!</message>
+	<message index="822" name="msg_act16">Derrote Iblis!</message>
+	<message index="823" name="msg_act17">Derrote o Eggman!</message>
+	<message index="824" name="msg_act18">Derrote Mephiles!</message>
+	<message index="825" name="msg_act19">Derrote o Eggman e salve a Elise!</message>
+	<message index="826" name="msg_act20">Derrote Mephiles!</message>
+	<message index="827" name="msg_act21">Sele Iblis!</message>
+	<message index="828" name="msg_act22">Derrote Sonic!</message>
+	<message index="829" name="msg_act23">Derrote Shadow!</message>
+	<message index="830" name="msg_act24">Derrote Silver!</message>
+	<message index="831" name="msg_act25">Derrote Solaris!</message>
+	<message index="832" name="msg_act26">Detenha a fúria de Solaris!</message>
+	<message index="833" name="msg_act27">Derrote o Egg Genesis!</message>
+	<message index="834" name="msg_act28">Derrote o Egg Cerberus!</message>
+	<message index="835" name="msg_act29">Derrote o Egg Wyvern!</message>
+	<message index="836" name="msg_twn_sonic01">Colete informações!</message>
 	<message index="837" name="msg_twn_sonic02">Find out where Dr. Eggman's battleship went!</message>
 	<message index="838" name="msg_twn_sonic03">Collect information about Dr. Eggman!</message>
 	<message index="839" name="msg_twn_sonic04">Meet up with Tails!</message>
