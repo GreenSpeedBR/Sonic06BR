@@ -43,7 +43,7 @@
 	<message index="40" name="msg_options_c">Opções: Ajuste as configurações do jogo</message>
 	<message index="41" name="msg_episodeselect_c">Selecionar Episódio: Jogue a campanha</message>
 	<message index="42" name="msg_trial_c">Selecionar Fase: Jogue alguma fase que você já concluiu</message>
-	<message index="43" name="msg_goldmedalresults_c">Lista de Medalhas de Ouro: Mostra as Medalhas de Ouro coletadas</message>
+	<message index="43" name="msg_goldmedalresults_c">Lista de Medalhas de Ouro: Mostra as Medalhas coletadas</message>
 	<message index="44" name="msg_tagstory_c">Tag Story: A special two-player story</message>
 	<message index="45" name="msg_tagtrial_c">Tag Trial: Challenge previously-cleared missions with two players!</message>
 	<message index="46" name="msg_ranking_c">Rankings: Check your rank</message>
@@ -266,21 +266,21 @@
 	<message index="263" name="shadow">SHADOW</message>
 	<message index="264" name="silver">SILVER</message>
 	<message index="265" name="msg_lastepisode">LAST EPISODE</message>
-	<message index="266" name="act1">ATO 1</message>
-	<message index="267" name="act2">ATO 2</message>
-	<message index="268" name="act3">ATO 3</message>
-	<message index="269" name="act4">ATO 4</message>
-	<message index="270" name="act5">ATO 5</message>
-	<message index="271" name="act6">ATO 6</message>
-	<message index="272" name="act7">ATO 7</message>
-	<message index="273" name="act8">ATO 8</message>
-	<message index="274" name="act9">ATO 9</message>
+	<message index="266" name="act1">ATO1</message>
+	<message index="267" name="act2">ATO2</message>
+	<message index="268" name="act3">ATO3</message>
+	<message index="269" name="act4">ATO4</message>
+	<message index="270" name="act5">ATO5</message>
+	<message index="271" name="act6">ATO6</message>
+	<message index="272" name="act7">ATO7</message>
+	<message index="273" name="act8">ATO8</message>
+	<message index="274" name="act9">ATO9</message>
 	<message index="275" name="boss">CHEFE</message>
-	<message index="276" name="boss1">CHEFE 1</message>
-	<message index="277" name="boss2">CHEFE 2</message>
-	<message index="278" name="boss3">CHEFE 3</message>
-	<message index="279" name="boss4">CHEFE 4</message>
-	<message index="280" name="boss5">CHEFE 5</message>
+	<message index="276" name="boss1">CHEFE1</message>
+	<message index="277" name="boss2">CHEFE2</message>
+	<message index="278" name="boss3">CHEFE3</message>
+	<message index="279" name="boss4">CHEFE4</message>
+	<message index="280" name="boss5">CHEFE5</message>
 	<message index="281" name="lastact">ÚLTIMO ATO</message>
 	<message index="282" name="extra">EXTRA</message>
 	<message index="283" name="eggcerberus">EGG-CERBERUS</message>

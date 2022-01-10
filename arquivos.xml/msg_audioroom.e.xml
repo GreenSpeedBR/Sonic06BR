@@ -73,7 +73,7 @@
 	<message index="70" name="msg_autoplay">Auto Play</message>
 	<message index="71" name="msg_audioroom_c">Selecione uma música para ouvir.</message>
 	<message index="72" name="msg_nowplaying_c">TOCANDO</message>
-	<message index="73" name="msg_bgm">MÚSICA</message>
+	<message index="73" name="msg_bgm">Música</message>
 	<message index="74" name="msg_se">Efeitos Sonoros</message>
 	<message index="75" name="msg_character">PERSONAGEM</message>
 	<message index="76" name="msg_theme">TEMA</message>
