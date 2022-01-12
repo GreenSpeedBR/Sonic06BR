@@ -15,11 +15,11 @@
 	<message index="12" name="msg_extras">EXTRAS</message>
 	<message index="13" name="msg_options">OPÇÕES</message>
 	<message index="14" name="msg_episodeselect">SELECIONAR EPISÓDIO</message>
-	<message index="15" name="msg_trialselect">SELECIONAR FASE</message>
+	<message index="15" name="msg_trialselect">SELECIONAR MISSÃO</message>
 	<message index="16" name="msg_goldmedalresults">LISTA DE MEDALHAS DE OURO</message>
 	<message index="17" name="msg_actselect">MISSÕES PRINCIPAIS</message>
 	<message index="18" name="msg_towntrial">MISSÕES SECUNDÁRIAS</message>
-	<message index="19" name="msg_tag">TEMPO</message>
+	<message index="19" name="msg_tag">TIME</message>
 	<message index="20" name="msg_tagselect">SELECIONAR TIME</message>
 	<message index="21" name="msg_tagstory">CAMPANHA EM TIME</message>
 	<message index="22" name="msg_tagtrial">MISSÕES EM TIME</message>
@@ -42,7 +42,7 @@
 	<message index="39" name="msg_extra_c">Extras: Ouça a trilha sonora e assista cenas em vídeo</message>
 	<message index="40" name="msg_options_c">Opções: Ajuste as configurações do jogo</message>
 	<message index="41" name="msg_episodeselect_c">Selecionar Episódio: Jogue a campanha</message>
-	<message index="42" name="msg_trial_c">Selecionar Fase: Jogue alguma fase que você já concluiu</message>
+	<message index="42" name="msg_trial_c">Selecionar Missão: Jogue uma missão que você já concluiu</message>
 	<message index="43" name="msg_goldmedalresults_c">Lista de Medalhas de Ouro: Mostra as Medalhas coletadas</message>
 	<message index="44" name="msg_tagstory_c">Campanha em Time: Uma campanha de 2 jogadores</message>
 	<message index="45" name="msg_tagtrial_c">Missão em Time: Jogue as missões já concluídas com 2 jogadores!</message>
@@ -233,10 +233,10 @@
 	<message index="230" name="msg_mp_shadow_extra_c">Você pode jogar um novo conjunto de\nmissões extras para o Shadow.</message>
 	<message index="231" name="msg_mp_silver_veryhard_c">Você pode jogar um novo conjunto de\nmissões muito difíceis para o Silver.</message>
 	<message index="232" name="msg_mp_silver_superhard_c">Você pode jogar um novo conjunto de\nmissões super difíceis para o Silver.</message>
-	<message index="233" name="msg_mp_silver_extra_c">Você pode jogar um novo conjunto de\nmissões extra para o Silver.</message>
+	<message index="233" name="msg_mp_silver_extra_c">Você pode jogar um novo conjunto de\nmissões extras para o Silver.</message>
 	<message index="234" name="msg_mp_all_veryhard_c">Você pode jogar um novo conjunto de\nmissões muito difíceis para o Sonic,\nShadow, e Silver.</message>
-	<message index="235" name="msg_mp_all_superhard_c">You can play a new set of\nsuper hard missions for Sonic,\nShadow, and Silver.</message>
-	<message index="236" name="msg_mp_all_extra_c">Você pode jogar um novo conjunto de\nmissões extra para o Sonic, Shadow,\ne Silver.</message>
+	<message index="235" name="msg_mp_all_superhard_c">Você pode jogar um novo conjunto de\nmissões super difíceis para o Sonic,\nShadow, e Silver.</message>
+	<message index="236" name="msg_mp_all_extra_c">Você pode jogar um novo conjunto de\nmissões extras para o Sonic, Shadow,\ne Silver.</message>
 	<message index="237" name="msg_mp_episode_tails_c">Você pode jogar um episódio\nadicional para o Tails.</message>
 	<message index="238" name="msg_mp_episode_knuckles_c">Você pode jogar um episódio\nadicional para o Knuckles.</message>
 	<message index="239" name="msg_mp_episode_amy_c">Você pode jogar um episódio\nadicional para a Amy.</message>
@@ -313,9 +313,9 @@
 	<message index="310" name="endofthewolrd">END OF THE WORLD</message>
 	<message index="311" name="tropicaljungle_rouge">TROPICAL JUNGLE : ROUGE</message>
 	<message index="312" name="waveocean_blaze">WAVE OCEAN : BLAZE</message>
-	<message index="313" name="solleanna_a">Soleanna Castle Town</message>
-	<message index="314" name="solleanna_b">Soleanna New City</message>
-	<message index="315" name="solleanna_c">Soleanna forest</message> 
+	<message index="313" name="solleanna_a">Castelo da Cidade</message>
+	<message index="314" name="solleanna_b">Nova Cidade</message>
+	<message index="315" name="solleanna_c">Floresta de Soleanna</message> 
 	<message index="316" name="msg_xboxlive_saving1">Salvando o jogo.\nPor favor, não desligue o seu aparelho.</message>
 	<message index="317" name="msg_xboxlive_saving2">Salvando..</message>
 	<message index="318" name="msg_xboxlive_servererror">O servidor está indisponível no momento.\nTente novamente mais tarde.</message>
