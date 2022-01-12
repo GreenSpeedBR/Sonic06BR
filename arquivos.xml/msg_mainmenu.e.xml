@@ -20,60 +20,60 @@
 	<message index="17" name="msg_actselect">MISSÕES PRINCIPAIS</message>
 	<message index="18" name="msg_towntrial">MISSÕES SECUNDÁRIAS</message>
 	<message index="19" name="msg_tag">TIME</message>
-	<message index="20" name="msg_tagselect">TAG SELECT</message>
-	<message index="21" name="msg_tagstory">TAG STORY</message>
-	<message index="22" name="msg_tagtrial">TAG TRIAL</message>
-	<message index="23" name="msg_tagtrialselect">TAG TRIAL SELECT</message>
+	<message index="20" name="msg_tagselect">SELECIONAR TIME</message>
+	<message index="21" name="msg_tagstory">CAMPANHA EM TIME</message>
+	<message index="22" name="msg_tagtrial">MISSÕES EM TIME</message>
+	<message index="23" name="msg_tagtrialselect">SELECIONAR MISSÃO EM TIME</message>
 	<message index="24" name="msg_battle">RIVAIS</message>
-	<message index="25" name="msg_ruleselect">RULE SELECT</message>
-	<message index="26" name="msg_select">AREA SELECT</message>
+	<message index="25" name="msg_ruleselect">SELECIONAR REGRA</message>
+	<message index="26" name="msg_select">SELECIONAR ÁREA</message>
 	<message index="27" name="msg_ranking">RANKING</message>
 	<message index="28" name="msg_download">DOWNLOAD</message>
 	<message index="29" name="msg_audioroom">ÁUDIOS</message>
 	<message index="30" name="msg_theaterroom">TEATRO</message>
 	<message index="31" name="msg_xboxlive">Xbox Live</message>
 	<message index="32" name="msg_xboxlive2">Xbox Live</message>
-	<message index="33" name="msg_new">NEW!</message>
-	<message index="34" name="msg_characterselect">CHARACTER SELECT</message>
+	<message index="33" name="msg_new">NOVO!</message>
+	<message index="34" name="msg_characterselect">SELECIONAR PERSONAGEM</message>
 	<message index="35" name="msg_singleplayer_c">Um Jogador: Experiencie a campanha ou rejogue alguma fase</message>
 	<message index="36" name="msg_multiplayer_c">Multiplayer: Modo de 2 jogadores</message>
-	<message index="37" name="msg_network_360_c">Xbox Live: View score and time rankings</message>
-	<message index="38" name="msg_network_ps3_c">Network: Download content and view rankings</message>
+	<message index="37" name="msg_network_360_c">Xbox Live: Veja os rankings de pontuação e tempo</message>
+	<message index="38" name="msg_network_ps3_c">Rede: Baixe conteúdos e veja rankings</message>
 	<message index="39" name="msg_extra_c">Extras: Ouça a trilha sonora e assista cenas em vídeo</message>
 	<message index="40" name="msg_options_c">Opções: Ajuste as configurações do jogo</message>
 	<message index="41" name="msg_episodeselect_c">Selecionar Episódio: Jogue a campanha</message>
 	<message index="42" name="msg_trial_c">Selecionar Fase: Jogue alguma fase que você já concluiu</message>
 	<message index="43" name="msg_goldmedalresults_c">Lista de Medalhas de Ouro: Mostra as Medalhas coletadas</message>
-	<message index="44" name="msg_tagstory_c">Tag Story: A special two-player story</message>
-	<message index="45" name="msg_tagtrial_c">Tag Trial: Challenge previously-cleared missions with two players!</message>
-	<message index="46" name="msg_ranking_c">Rankings: Check your rank</message>
-	<message index="47" name="msg_download_c">Download; You can download additional game content</message>
-	<message index="48" name="msg_network_c">Network: You can check rankings and download content</message>
-	<message index="49" name="msg_xboxlive_c">Xbox Live: Connect to Xbox Live and check rankings</message>
+	<message index="44" name="msg_tagstory_c">Campanha em Time: Uma campanha de 2 jogadores</message>
+	<message index="45" name="msg_tagtrial_c">Missão em Time: Jogue as missões já concluídas com 2 jogadores!</message>
+	<message index="46" name="msg_ranking_c">Rankings: Veja o seu rank</message>
+	<message index="47" name="msg_download_c">Download: Você pode baixar conteúdo adicional para o jogo</message>
+	<message index="48" name="msg_network_c">Rede: Você pode ver rankings e baixar conteúdo</message>
+	<message index="49" name="msg_xboxlive_c">Xbox Live: Conecte na Xbox Live e veja Rankings</message>
 	<message index="50" name="msg_episodesonic_c">Jogue o Episódio Sonic</message>
 	<message index="51" name="msg_episodeshadow_c">Jogue o Episódio Shadow</message>
 	<message index="52" name="msg_episodesilver_c">Jogue o Episódio Silver</message>
 	<message index="53" name="msg_lastepisode_c">Jogue o Episódio Final</message>
 	<message index="54" name="msg_acttrial_c">Missões Principais: Escolha um Estágio para jogar!</message>
 	<message index="55" name="msg_twntrial_c">Missões Secundárias: Escolha uma Missão da Cidade para jogar!</message>
-	<message index="56" name="msg_playerselect_c">Please select a Player</message>
+	<message index="56" name="msg_playerselect_c">Selecione um Jogador</message>
 	<message index="57" name="msg_stageselect_c">Selecione um Estágio</message>
 	<message index="58" name="msg_trial_sonic">Jogue as Missões do Sonic</message>
 	<message index="59" name="msg_trial_shadow">Jogue as Missões do Shadow</message>
 	<message index="60" name="msg_trial_silver">Jogue as Missões do Silver</message>
 	<message index="61" name="msg_trial_last">Jogue o Episódio Final</message>
-	<message index="62" name="msg_trial_tails">Play Miles "Tails" Prower Missions</message>
-	<message index="63" name="msg_trial_knukles">Play Knuckles The Echidna Missions</message>
-	<message index="64" name="msg_trial_rouge">Play Rouge The Bat Missions</message>
-	<message index="65" name="msg_trial_omega">Play E-123 Omega Missions</message>
-	<message index="66" name="msg_trial_amy">Play Amy Rose Missions</message>
-	<message index="67" name="msg_trial_blase">Play Blaze The Cat Missions</message>
-	<message index="68" name="msg_trial_supersonic">Play Super Sonic Missions</message>
-	<message index="69" name="msg_trial_supershadow">Play Super Shadow Missions</message>
-	<message index="70" name="msg_trial_supersilver">Play Super Silver Missions</message>
-	<message index="71" name="msg_trial_dlcharacter">Play downloaded Character Missions</message>
-	<message index="72" name="msg_trial_metalsonic">Play Metal Sonic Missions</message>
-	<message index="73" name="msg_trial_secret">Play ??? Mission.</message>
+	<message index="62" name="msg_trial_tails">Jogue as Missões do Tails</message>
+	<message index="63" name="msg_trial_knukles">Jogue as Missões do Knuckles</message>
+	<message index="64" name="msg_trial_rouge">Jogue as Missões da Rouge</message>
+	<message index="65" name="msg_trial_omega">Jogue as Missões do E-123 Omega</message>
+	<message index="66" name="msg_trial_amy">Jogue as Missões da Amy</message>
+	<message index="67" name="msg_trial_blase">Jogue as Missões da Blaze</message>
+	<message index="68" name="msg_trial_supersonic">Jogue as Missões do Super Sonic</message>
+	<message index="69" name="msg_trial_supershadow">Jogue as Missões do Super Shadow</message>
+	<message index="70" name="msg_trial_supersilver">Jogue as Missões do Super Silver</message>
+	<message index="71" name="msg_trial_dlcharacter">Jogue as Missões de Personagens Baixados</message>
+	<message index="72" name="msg_trial_metalsonic">Jogue as Missões do Metal Sonic</message>
+	<message index="73" name="msg_trial_secret">Jogue a Missão ???.</message>
 	<message index="74" name="msg_selectmission_c">Selecione uma Missão</message>
 	<message index="75" name="msg_tag_c">Time: Trabalhe em equipe e chegue ao objetivo!</message>
 	<message index="76" name="msg_battle_c">Rivais: Chegue ao objetivo primeiro!</message>
@@ -85,22 +85,22 @@
 	<message index="82" name="msg_credits">End Credits</message>
 	<message index="83" name="msg_ending">Ending</message>
 	<message index="84" name="msg_theaterroom_c">Teatro: Veja os eventos da história</message>
-	<message index="85" name="msg_theaterroom_c_yobi">Theater Room: Watch CG movies</message>
-	<message index="86" name="msg_solleanna_a">Soleanna Castle Town</message>
-	<message index="87" name="msg_solleanna_b">Soleanna New City</message>
-	<message index="88" name="msg_solleanna_c">Soleanna forest</message>
-	<message index="89" name="msg_audioroom_c_2">Audio Room: Check out the game's music</message>
-	<message index="90" name="msg_audioroom_c_3">Select the track you want to hear</message>
+	<message index="85" name="msg_theaterroom_c_yobi">Teatro: Assista cenas em CG</message>
+	<message index="86" name="msg_solleanna_a">Castelo da Cidade</message>
+	<message index="87" name="msg_solleanna_b">Nova Cidade</message>
+	<message index="88" name="msg_solleanna_c">Floresta de Soleanna</message>
+	<message index="89" name="msg_audioroom_c_2">Áudios: Ouça as músicas do jogo</message>
+	<message index="90" name="msg_audioroom_c_3">Selecione a faixa que deseja ouvir</message>
 	<message index="91" name="msg_audioroom_c">Áudios: Ouça a trilha sonora</message>
 	<message index="92" name="msg_bgm">MUSIC</message>
 	<message index="93" name="msg_se">SE</message>
-	<message index="94" name="msg_select_wirelesscontroller_ps3">Please select a wireless controller to use.</message>
-	<message index="95" name="msg_select_controller_ps3">Please select a wireless controller to use.</message>
-	<message index="96" name="msg_select_controller_ps3_2">Please select a wireless controller.</message>
-	<message index="97" name="msg_select_controller_360">Please select Xbox 360 Controller to use.</message>
-	<message index="98" name="msg_select_360controller">Please select Xbox 360 Controller to use.</message>
-	<message index="99" name="msg_select_controller_360_2">Please select Xbox 360 Controller.</message>
-	<message index="100" name="msg_entry">Join the game!</message>
+	<message index="94" name="msg_select_wirelesscontroller_ps3">Selecione um controle sem fio para usar.</message>
+	<message index="95" name="msg_select_controller_ps3">Selecione um controle sem fio para usar.</message>
+	<message index="96" name="msg_select_controller_ps3_2">Selecione um controle sem fio para usar.</message>
+	<message index="97" name="msg_select_controller_360">Selecione um controle de Xbox 360 para usar.</message>
+	<message index="98" name="msg_select_360controller">Selecione um controle de Xbox 360 para usar.</message>
+	<message index="99" name="msg_select_controller_360_2">Selecione um controle de Xbox 360 para usar.</message>
+	<message index="100" name="msg_entry">Entre no jogo!</message>
 	<message index="101" name="msg_entry_360_1" placeholder="picture(button_a)">Pressione $ para entrar.</message>
 	<message index="102" name="msg_entry_360_2" placeholder="picture(button_b)">Pressione $ para entrar.</message>
 	<message index="103" name="msg_entry_360_3" placeholder="picture(button_start)">Pressione $ para entrar.</message>
@@ -115,45 +115,45 @@
 	<message index="112" name="msg_entry_ps3_5" placeholder="picture(button_start)">Pressione $ para entrar.</message>
 	<message index="113" name="msg_entry_ps3_6" placeholder="picture(button_a)">Pressione $ para entrar.</message>
 	<message index="114" name="msg_entry_ps3_7" placeholder="picture(button_start)">Pressione $ para entrar.</message>
-	<message index="115" name="msg_makenewgame">Start new game.</message>
-	<message index="116" name="msg_makenewgame2">Start new game.</message>
-	<message index="117" name="msg_continuegame">Continue </message>
-	<message index="118" name="msg_selectcharachter">Please select character to play.</message>
-	<message index="119" name="msg_selectstage">Please select a stage to play.</message>
-	<message index="120" name="msg_multiplayer_2">Multiplayer: 2 players mode.</message>
-	<message index="121" name="msg_tag_2">Tag: Work together and head to the goal!</message>
-	<message index="122" name="msg_battle_2">Battle: Compete each other's speed.</message>
-	<message index="123" name="msg_battle_3">Battle: Reach the gold first!</message>
-	<message index="124" name="msg_battle_commonrule">Reach the goal first!</message>
-	<message index="125" name="msg_xboxlive_connecting">Connecting to Xbox Live.</message>
-	<message index="126" name="msg_xboxlive_connected">Connected to Xbox Live.</message>
-	<message index="127" name="msg_xboxlive_cannot_connect">Failed to connect to Xbox Live.</message>
-	<message index="128" name="msg_xboxlive_cannot_connect2">Failed to connect to Xbox Live.\nPlease check your connection.</message>
-	<message index="129" name="msg_tagsave">If you save a new tag game, your old\ntag game data will be overwritten.\nIs this okay?</message>
-	<message index="130" name="msg_twn">Soleanna Town</message>
-	<message index="131" name="msg_gamerprofile">Display Gamer Profile</message>
-	<message index="132" name="msg_gamerprofile_2">GamerProfile</message>
-	<message index="133" name="msg_quitmission">Quit Mission</message>
-	<message index="134" name="msg_stopgame">Interrupt</message>
-	<message index="135" name="msg_devicechange">Change storage device</message>
-	<message index="136" name="msg_devicechange_2">Select storage device</message>
+	<message index="115" name="msg_makenewgame">Iniciar um novo jogo.</message>
+	<message index="116" name="msg_makenewgame2">Iniciar um novo jogo.</message>
+	<message index="117" name="msg_continuegame">Continuar </message>
+	<message index="118" name="msg_selectcharachter">Selecione um personagem para jogar.</message>
+	<message index="119" name="msg_selectstage">Selecione um estágio para jogar.</message>
+	<message index="120" name="msg_multiplayer_2">Multiplayer: Modo de 2 jogadores.</message>
+	<message index="121" name="msg_tag_2">Time: Trabalhe em equipe e chegue ao objetivo!</message>
+	<message index="122" name="msg_battle_2">Rivais: Dispute a velocidade de cada um.</message>
+	<message index="123" name="msg_battle_3">Rivais: Chegue ao objetivo primeiro!</message>
+	<message index="124" name="msg_battle_commonrule">Chegue ao objetivo primeiro!</message>
+	<message index="125" name="msg_xboxlive_connecting">Connectando ao Xbox Live.</message>
+	<message index="126" name="msg_xboxlive_connected">Conectado ao Xbox Live.</message>
+	<message index="127" name="msg_xboxlive_cannot_connect">Falha ao conectar no Xbox Live.</message>
+	<message index="128" name="msg_xboxlive_cannot_connect2">Falha ao conectar no Xbox Live.\nPor favor, verifique a sua conexão.</message>
+	<message index="129" name="msg_tagsave">Se você salvar um novo jogo em time, o progresso do seu\nantigo jogo em time será sobrescrito.\nvocê tem certeza?</message>
+	<message index="130" name="msg_twn">Soleanna</message>
+	<message index="131" name="msg_gamerprofile">Exibir Perfil de Jogador</message>
+	<message index="132" name="msg_gamerprofile_2">Perfil de Jogador</message>
+	<message index="133" name="msg_quitmission">Sair da Missão</message>
+	<message index="134" name="msg_stopgame">Interromper</message>
+	<message index="135" name="msg_devicechange">Alterar dispositivo de armazenamento</message>
+	<message index="136" name="msg_devicechange_2">Selecionar dispositivo de armazenamento</message>
 	<message index="137" name="msg_lastsavetime">Último Salvamento</message>
 	<message index="138" name="msg_lastsavetime_2">ÚLTIMO SALVAMENTO</message>
 	<message index="139" name="msg_totalplaytime">Tempo Total de Jogo</message>
 	<message index="140" name="msg_unknown7">???????</message>
 	<message index="141" name="msg_unknown_5">?????</message>
-	<message index="142" name="msg_episodetails_c">Play Miles "Tails" Prower Episode</message>
-	<message index="143" name="msg_episodeknuckles_c">Play Knuckles The Echidna Episode</message>
-	<message index="144" name="msg_episoderouge_c">Play Rouge The Bat Episode</message>
-	<message index="145" name="msg_episodeomega_c">Play E-123 Omega Episode</message>
-	<message index="146" name="msg_episodeamy_c">Play Amy Rose Episode</message>
-	<message index="147" name="msg_episodeblaze_c">Play Blaze The Cat Episode</message>
-	<message index="148" name="msg_episodesupersonic_c">Play Super Sonic Spisode</message>
-	<message index="149" name="msg_episodesupershadow_c">Play Super Shadow Episode</message>
-	<message index="150" name="msg_episodesupersilver_c">Play Super Silver Episode</message>
-	<message index="151" name="msg_episodedlcharacter_c">Play Download Character Episode</message>
-	<message index="152" name="msg_episodemetalsonic_c">Play Metal Sonic Episode</message>
-	<message index="153" name="msg_episodeunknown_c">Play ??? Episode</message>
+	<message index="142" name="msg_episodetails_c">Jogue o Episódio Tails</message>
+	<message index="143" name="msg_episodeknuckles_c">Jogue o Episódio Knuckles</message>
+	<message index="144" name="msg_episoderouge_c">Jogue o Episódio Rouge</message>
+	<message index="145" name="msg_episodeomega_c">Jogue o Episódio E-123 Omega</message>
+	<message index="146" name="msg_episodeamy_c">Jogue o Episódio Amy</message>
+	<message index="147" name="msg_episodeblaze_c">Jogue o Episódio Blaze</message>
+	<message index="148" name="msg_episodesupersonic_c">Jogue o Episódio Super Sonic</message>
+	<message index="149" name="msg_episodesupershadow_c">Jogue o Episódio Super Shadow</message>
+	<message index="150" name="msg_episodesupersilver_c">Jogue o Episódio Super Silver</message>
+	<message index="151" name="msg_episodedlcharacter_c">Jogue o Episódio Personagem Baixado</message>
+	<message index="152" name="msg_episodemetalsonic_c">Jogue o Episódio Metal Sonic</message>
+	<message index="153" name="msg_episodeunknown_c">Jogue o Episódio ???</message>
 	<message index="154" name="msg_mp_sonicdemo">SONIC THE HEDGEHOG\nDemo</message>
 	<message index="155" name="msg_mp_movie720">SONIC THE HEDGEHOG\nPreview Version (720p)</message>
 	<message index="156" name="msg_mp_movie480">SONIC THE HEDGEHOG\nPreview Version (480p)</message>
