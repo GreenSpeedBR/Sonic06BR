@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_system" mst_version="1" endianness="B">
-	<message index="0" name="msg_pressstart_ps3">PRESS START BUTTON</message>
-	<message index="1" name="msg_select_save_device">Please choose a device to\nsave and load data.</message>
-	<message index="2" name="msg_completed">Completed.</message>
-	<message index="3" name="msg_road_failed">Load failed.</message>
-	<message index="4" name="msg_save_failed">Save failed.\nData was not saved.</message>
-	<message index="5" name="msg_change_savedevice">Change storage device.</message>
-	<message index="6" name="msg_access">Accessing contents.\nDo not switch off the console.</message>
-	<message index="7" name="msg_saving">Saving game data. \nPlease don't turn off your console.</message>
-	<message index="8" name="msg_save_success">Save complete.</message>
-	<message index="9" name="msg_make_new_file">Could not find "Sonic The Hedgehog" file.\nDo you want to create a new "Sonic The\nHedgehog" file?</message>
-	<message index="10" name="msg_quit_game">If you end the game, you will lose your game\nprogress from your last save up to this point.\nAre you sure you want to end the game?</message>
-	<message index="11" name="msg_controller" placeholder="picture(button_a)">Please connect a controller,\nand press the $ button.</message>
-	<message index="12" name="msg_controller_ps3">Please connect a wireless controller,\nand press the $ button.</message>
-	<message index="13" name="msg_saving_ps3">Now saving. Do not switch off the power \nwhile the HDD access indicator is flashing.</message>
-	<message index="14" name="msg_save_success_ps3">Save complete.</message>
-	<message index="15" name="msg_save01">Save data up to this point?</message>
-	<message index="16" name="msg_save02">Now saving.</message>
-	<message index="17" name="msg_save03">Save complete.</message>
+	<message index="0" name="msg_pressstart_ps3">PRESSIONE START</message>
+	<message index="1" name="msg_select_save_device">Escolha um dispositivo para salvar\ne carregar o progresso.</message>
+	<message index="2" name="msg_completed">Completo.</message>
+	<message index="3" name="msg_road_failed">O carregamento falhou.</message>
+	<message index="4" name="msg_save_failed">O salvamento falhou.\nProgresso não salvo.</message>
+	<message index="5" name="msg_change_savedevice">Alterar dispositivo de armazenamento.</message>
+	<message index="6" name="msg_access">Acessando conteúdos.\nNão desligue o seu console.</message>
+	<message index="7" name="msg_saving">Salvando o progresso. \nPor favor, não desligue o seu console.</message>
+	<message index="8" name="msg_save_success">Salvamento completo.</message>
+	<message index="9" name="msg_make_new_file">Não foi possível encontrar um arquivo de "Sonic The Hedgehog".\nVocê deseja criar um novo arquivo?</message>
+	<message index="10" name="msg_quit_game">Se você fechar o jogo, você perderá o seu progresso\ndesde o último ponto de salvamento.\nDeseja mesmo sair?</message>
+	<message index="11" name="msg_controller" placeholder="picture(button_a)">Conecte um controle\ne pressione $ .</message>
+	<message index="12" name="msg_controller_ps3">Conecte um controle sem fio\ne pressione $ .</message>
+	<message index="13" name="msg_saving_ps3">Salvando. Não desligue o console \nenquanto o indicador do HDD estiver piscando.</message>
+	<message index="14" name="msg_save_success_ps3">Salvamento completo.</message>
+	<message index="15" name="msg_save01">Salvar o progresso nesse ponto?</message>
+	<message index="16" name="msg_save02">Salvando.</message>
+	<message index="17" name="msg_save03">Salvamento completo.</message>
 	<message index="18" name="msg_continue">Continuar</message>
 	<message index="19" name="msg_status">Status</message>
 	<message index="20" name="msg_restart">Reiniciar</message>
 	<message index="21" name="msg_quitback">Sair</message>
-	<message index="22" name="msg_options">Options</message>
-	<message index="23" name="msg_system_twnpause01">Save</message>
-	<message index="24" name="msg_system_twnpause02">Map</message>
-	<message index="25" name="msg_system_missionpause01">Retry</message>
-	<message index="26" name="msg_system_backtomenu">Return to Menu</message>
-	<message index="27" name="msg_system_backtotitle">Return to Title</message>
-	<message index="28" name="msg_system_backtotown">Quit Mission</message>
-	<message index="29" name="msg_system_backtoselect">Return to Select</message>
-	<message index="30" name="msg_system_gameend">End Game</message>
-	<message index="31" name="msg_mission">MISSION</message>
-	<message index="32" name="msg_quitgame">Quit Game</message>
-	<message index="33" name="msg_goldmedal01">Got one Soleanna Gold Medal</message>
-	<message index="34" name="msg_goldmedal02">Cleared the Sonic The Hedgehog Episode!</message>
-	<message index="35" name="msg_goldmedal03">Cleared the Shadow The Hedgehog Episode!</message>
-	<message index="36" name="msg_goldmedal04">Cleared the Silver The Hedgehog Episode!</message>
-	<message index="37" name="msg_goldmedal05">Cleared all ACT Missions in the\nSonic Episode with Rank S!</message>
-	<message index="38" name="msg_goldmedal06">Cleared all ACT Missions in the\nShadow Episode with Rank S!</message>
-	<message index="39" name="msg_goldmedal07">Cleared all ACT Missions in the\nSilver Episode with Rank S!</message>
+	<message index="22" name="msg_options">Opções</message>
+	<message index="23" name="msg_system_twnpause01">Salvar</message>
+	<message index="24" name="msg_system_twnpause02">Mapa</message>
+	<message index="25" name="msg_system_missionpause01">Reiniciar</message>
+	<message index="26" name="msg_system_backtomenu">Voltar ao Menu</message>
+	<message index="27" name="msg_system_backtotitle">Voltar à Tela de Título</message>
+	<message index="28" name="msg_system_backtotown">Sair da Missão</message>
+	<message index="29" name="msg_system_backtoselect">Voltar para Selecionar</message>
+	<message index="30" name="msg_system_gameend">Fechar Jogo</message>
+	<message index="31" name="msg_mission">MISSIÃO</message>
+	<message index="32" name="msg_quitgame">Sair do Jogo</message>
+	<message index="33" name="msg_goldmedal01">Pegou uma Medalha de Ouro!</message>
+	<message index="34" name="msg_goldmedal02">Concluiu o Episódio Sonic!</message>
+	<message index="35" name="msg_goldmedal03">Concluiu o Episódio Shadow!</message>
+	<message index="36" name="msg_goldmedal04">Concluiu o Episódio Silver!</message>
+	<message index="37" name="msg_goldmedal05">Fez Rank S em todos os Atos\ndo Episódio Sonic!</message>
+	<message index="38" name="msg_goldmedal06">Fez Rank S em todos os Atos\ndo Episódio Shadow!</message>
+	<message index="39" name="msg_goldmedal07">Fez Rank S em todos os Atos\ndo Episódio Shadow!</message>
 	<message index="40" name="msg_goldmedal08">Cleared all Town Missions in the\nSonic Episode with Rank S!</message>
 	<message index="41" name="msg_goldmedal09">Cleared all Town Missions in the\nShadow Episode with Rank S!</message>
 	<message index="42" name="msg_goldmedal10">Cleared all Town Missions in the\nSilver Episode with Rank S!</message>
