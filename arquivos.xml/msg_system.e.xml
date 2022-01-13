@@ -13,7 +13,7 @@
 	<message index="10" name="msg_quit_game">Se você fechar o jogo, você perderá o seu progresso\ndesde o último ponto de salvamento.\nDeseja mesmo sair?</message>
 	<message index="11" name="msg_controller" placeholder="picture(button_a)">Conecte um controle\ne pressione $ .</message>
 	<message index="12" name="msg_controller_ps3">Conecte um controle sem fio\ne pressione $ .</message>
-	<message index="13" name="msg_saving_ps3">Salvando. Não desligue o console \nenquanto o indicador do HDD estiver piscando.</message>
+	<message index="13" name="msg_saving_ps3">Salvando. Não desligue o console\nenquanto o indicador do HDD estiver piscando.</message>
 	<message index="14" name="msg_save_success_ps3">Salvamento completo.</message>
 	<message index="15" name="msg_save01">Salvar o progresso nesse ponto?</message>
 	<message index="16" name="msg_save02">Salvando.</message>
@@ -31,7 +31,7 @@
 	<message index="28" name="msg_system_backtotown">Sair da Missão</message>
 	<message index="29" name="msg_system_backtoselect">Voltar para Selecionar</message>
 	<message index="30" name="msg_system_gameend">Fechar Jogo</message>
-	<message index="31" name="msg_mission">MISSIÃO</message>
+	<message index="31" name="msg_mission">MISSÃO</message>
 	<message index="32" name="msg_quitgame">Sair do Jogo</message>
 	<message index="33" name="msg_goldmedal01">Pegou uma Medalha de Ouro!</message>
 	<message index="34" name="msg_goldmedal02">Concluiu o Episódio Sonic!</message>
@@ -40,79 +40,79 @@
 	<message index="37" name="msg_goldmedal05">Fez Rank S em todos os Atos\ndo Episódio Sonic!</message>
 	<message index="38" name="msg_goldmedal06">Fez Rank S em todos os Atos\ndo Episódio Shadow!</message>
 	<message index="39" name="msg_goldmedal07">Fez Rank S em todos os Atos\ndo Episódio Shadow!</message>
-	<message index="40" name="msg_goldmedal08">Cleared all Town Missions in the\nSonic Episode with Rank S!</message>
-	<message index="41" name="msg_goldmedal09">Cleared all Town Missions in the\nShadow Episode with Rank S!</message>
-	<message index="42" name="msg_goldmedal10">Cleared all Town Missions in the\nSilver Episode with Rank S!</message>
-	<message index="43" name="msg_goldmedal11">Collected all Silver Medals in the Sonic Episode!</message>
-	<message index="44" name="msg_goldmedal12">Collected all Silver Medals in the Shadow Episode!</message>
-	<message index="45" name="msg_goldmedal13">Collected all Silver Medals in the Silver Episode!</message>
-	<message index="46" name="msg_goldmedal14">Congratulations!</message>
-	<message index="47" name="msg_goldmedal_get">Get one Soleanna Gold Medal</message>
-	<message index="48" name="msg_goldmedal_get2">Get one Soleanna Gold Medal!</message>
-	<message index="49" name="msg_allgoldmedal_get">Collect All Gold Medals!</message>
-	<message index="50" name="msg_unlock_shadowepisode">Shadow Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
-	<message index="51" name="msg_unlock_silverepisode">Silver Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
-	<message index="52" name="msg_unlock_battle">Last Episode is now unlocked.\nPlease select the Episode from Single Player.</message>
-	<message index="53" name="msg_unlock_audioroom">Cleared all ACT Missions in the\nLast Episode with Rank S!</message>
-	<message index="54" name="abc">Movie Theater is now unlocked.\nPlease select Movie Theater from Extras.</message>
-	<message index="55" name="msg_allgoldmedal_get2">Congratulations!\nYou have collected all Gold Medals!</message>
-	<message index="56" name="msg_allgoldmedal_get3">You have collected all Gold Medals!</message>
-	<message index="57" name="msg_allsilvermedal_get">You have collected all Silver Medals!</message>
-	<message index="58" name="msg_allsilvermedal_get2">Congratulations!\nYou have collected all Silver Medals!</message>
-	<message index="59" name="msg_stageclear">Stage Cleared!</message>
-	<message index="60" name="msg_twnallranksclear">Cleared all Town Missions with Rank S!</message>
-	<message index="61" name="msg_actstageclear">Cleared ACT Mission!</message>
-	<message index="62" name="msg_bossstageclear">Cleared Boss Stage!</message>
-	<message index="63" name="msg_hardactstageclear">Cleared Hard ACT Mission!</message>
-	<message index="64" name="msg_collecttownsilvermedals">Collected all Silver Medals in TOWN Stage!</message>
-	<message index="65" name="msg_allepisodeclear">All Episodes Cleared.</message>
-	<message index="66" name="msg_lastepisodeclear">Cleared Last Episode!</message>
-	<message index="67" name="msg_collect10silvermedals">Collected 10 Silver Medals in ACT Stage!</message>
-	<message index="68" name="msg_lastgoldmedal">Obtained the last Gold Medal!</message>
-	<message index="69" name="msg_unlock_theaterroom">Cleared ACT Mission with Rank S!</message>
-	<message index="70" name="msg_unlock_audioroom2">You have unlocked Audio Room.</message>
-	<message index="71" name="msg_unlock_audioroom_sonic">Music from Sonic Episode is now\navailable in Audio Room.</message>
-	<message index="72" name="msg_unlock_audioroom_shadow">Music from Shadow Episode is now\navailable in Audio Room.</message>
-	<message index="73" name="msg_unlock_audioroom_silver">Music from Silver Episode is now\navailable in Audio Room.</message>
-	<message index="74" name="msg_unlock_audioroom_last">Music from Last Episode is now\navailable in Audio Room.</message>
-	<message index="75" name="msg_unlock_theaterroom_2">Theater Room is now unlocked.</message>
-	<message index="76" name="msg_unlock_theaterroom_sonic">Sonic Episode is now \navailable in Theater Room.</message>
-	<message index="77" name="msg_unlocktheaterroom_shadow">Shadow Episode is now\navailable in Theater Room.</message>
-	<message index="78" name="msg_unlocktheaterroom_silver">Silver Episode is now \navailable in Theater Room.</message>
-	<message index="79" name="msg_unlocktheaterroom_last">Last Episode is now \navailable in Theater Room.</message>
-	<message index="80" name="msg_unlock_theaterroom_sonic2">You can now watch Sonic Episode\nin Theater Room.</message>
-	<message index="81" name="msg_unlock_theaterroom_shadow2">You can now watch Shadow Episode\nin Theater Room.</message>
-	<message index="82" name="msg_unlocktheaterroom_silver2">You can now watch Silver Episode\nin Theater Room.</message>
-	<message index="83" name="msg_alert_savebreak">Save Data is corrupted.</message>
-	<message index="84" name="msg_alert_savenotfound">Save Data cannot be found.</message>
-	<message index="85" name="msg_alert_savecannotload">Load failed.</message>
-	<message index="86" name="msg_alert_cannotuseprofile">You cannot use this gamer profile.</message>
-	<message index="87" name="msg_alert_hddaccess_360">Accessing the Xbox 360 Hard Drive.</message>
-	<message index="88" name="msg_alert_saveblock_360">There are not enough free blocks to create\nSave Data. You need to free at least $MB.</message>
-	<message index="89" name="msg_alert_makedata_360">There is no Save Data for Sonic The Hedgehog.\nDo you want to create a new Save Data?</message>
-	<message index="90" name="msg_alert_remakedata_360">Load failed. The Save Data cannot be loaded.\nWould you like to create a new Save Data?</message>
-	<message index="91" name="msg_alert_savesuccess_360">Save Data has been created.\nPlease press $ to continue.</message>
-	<message index="92" name="msg_alert_deletedata_360">Deleting...\nPlease do not switch off Xbox 360 console.</message>
-	<message index="93" name="msg_alert_savedata_360">Saving...\nPlease do not switch off Xbox 360 console.</message>
-	<message index="94" name="msg_alert_loadfaild">Save failed.</message>
-	<message index="95" name="msg_alert_loading">Loading...</message>
-	<message index="96" name="msg_alert_cannotload">Save Data cannot be loaded.</message>
-	<message index="97" name="msg_alert_makedata_360_2">Creating Save Data.\nPlease do not switch off Xbox 360 console.</message>
-	<message index="98" name="msg_alert_remakedata_360_2">Creating Save Data.\nPlease do not switch off Xbox 360 console.</message>
-	<message index="99" name="msg_alert_hddaccess_ps3">Accessing hard disc.\nPlease do not switch off Xbox 360 console.</message>
-	<message index="100" name="msg_alert_memorystick">Checking contents of Memory Stick™\nPlease do not remove the Memory Stick™,\nreset the console, or turn off the power.</message>
-	<message index="101" name="msg_alert_memorystick_unformat">The Memory Stick™ in slot 1 is not formatted.</message>
-	<message index="102" name="msg_alert_memorystick_unformat_2">The Memory Stick™ in slot 1 is not formatted.\nFormat the Memory Stick™ in Memory Stick™\nslot?</message>
-	<message index="103" name="msg_alert_memorystick_unformatting">Now formatting the Memory Stick™ in\nMemory Stick™ slot.  Please do not\nremove the Memory Stick™,\nreset the console, or turn off the power.</message>
-	<message index="104" name="msg_alert_memorystick_unformated">Format complete.</message>
-	<message index="105" name="msg_alert_memorystick_error">Memory Stick™ error.\nPlease check the Memory\nStick™ in Memory Stick™ slot.</message>
-	<message index="106" name="msg_alert_memorystick_error_2">There is no Memory Stick™ in Memory Stick™\nslot. Please insert a Memory Stick™ in\nMemory Stick™ slot.</message>
-	<message index="107" name="msg_alert_memorystick_error_3">There is insufficient space on the\nMemory Stick™ in Memory Stick™ slot.\nThis game requires $KB of free space\nto save data.</message>
-	<message index="108" name="msg_alert_saved">Save complete.</message>
-	<message index="109" name="msg_alert_save_failed">Save failed.</message>
-	<message index="110" name="msg_alert_cannot_save">Continue without saving.</message>
-	<message index="111" name="msg_alert_cannot_save_2">If you begin the game, you will not be able\nto save later. Is this okay?</message>
-	<message index="112" name="msg_alert_memorystick_error_4">The Memory Stick™ in Memory Stick™ slot\nis damaged and cannot be used.\nPlease insert a useable Memory Stick™.</message>
+	<message index="40" name="msg_goldmedal08">Fez Rank S em todas as Missões da Cidade\ndo Episódio Sonic!</message>
+	<message index="41" name="msg_goldmedal09">Fez Rank S em todas as Missões da Cidade\ndo Episódio Shadow!</message>
+	<message index="42" name="msg_goldmedal10">Fez Rank S em todas as Missões da Cidade\ndo Episódio Silver!</message>
+	<message index="43" name="msg_goldmedal11">Coletou todas as Medalhas de Prata no Episódio Sonic!</message>
+	<message index="44" name="msg_goldmedal12">Coletou todas as Medalhas de Prata no Episódio Shadow!</message>
+	<message index="45" name="msg_goldmedal13">Coletou todas as Medalhas de Prata no Episódio Silver!</message>
+	<message index="46" name="msg_goldmedal14">Parabéns!</message>
+	<message index="47" name="msg_goldmedal_get">Pegue uma Medalha de Ouro</message>
+	<message index="48" name="msg_goldmedal_get2">Pegue uma Medalha de Ouro!</message>
+	<message index="49" name="msg_allgoldmedal_get">Colete todas as Medalhas de Ouro!</message>
+	<message index="50" name="msg_unlock_shadowepisode">O Episódio Shadow foi desbloqueado.\nSelecione o episódio na aba de "Um Jogador".</message>
+	<message index="51" name="msg_unlock_silverepisode">O Episódio Silver foi desbloqueado.\nSelecione o episódio na aba de "Um Jogador".</message>
+	<message index="52" name="msg_unlock_battle">O Episódio Final foi desbloqueado.\nSelecione o episódio na aba de "Um Jogador".</message>
+	<message index="53" name="msg_unlock_audioroom">Fez Rank S em todas as Missões do\nEpisódio Final!</message>
+	<message index="54" name="abc">O Teatro foi desbloqueado.\nSelecione o Teatro na aba de "Extras".</message>
+	<message index="55" name="msg_allgoldmedal_get2">Parabéns!\nVocê coletou todas as Medalhas de Ouro!</message>
+	<message index="56" name="msg_allgoldmedal_get3">Você coletou todas as Medalhas de Ouro!</message>
+	<message index="57" name="msg_allsilvermedal_get">Você coletou todas as Medalhas de Prata!</message>
+	<message index="58" name="msg_allsilvermedal_get2">Parabéns!\nVocê coletou todas as Medalhas de Prata!</message>
+	<message index="59" name="msg_stageclear">Estágio Concluído!</message>
+	<message index="60" name="msg_twnallranksclear">Fez Rank S em todas as Missões da Cidade!</message>
+	<message index="61" name="msg_actstageclear">Concluiu um Ato!</message>
+	<message index="62" name="msg_bossstageclear">Derrotou um Chefe!</message>
+	<message index="63" name="msg_hardactstageclear">Concluiu um Ato no Modo Difícil!</message>
+	<message index="64" name="msg_collecttownsilvermedals">Coletou todas as Medalhas de Prata em uma área de Soleanna!</message>
+	<message index="65" name="msg_allepisodeclear">Todos os Episódios foram concluídos.</message>
+	<message index="66" name="msg_lastepisodeclear">Concluiu o Episódio Final!</message>
+	<message index="67" name="msg_collect10silvermedals">Coletou 10 Medalhas de Prata em um Ato!</message>
+	<message index="68" name="msg_lastgoldmedal">Obteve a última Medalha de Ouro!</message>
+	<message index="69" name="msg_unlock_theaterroom">Fez Rank S em um Ato!</message>
+	<message index="70" name="msg_unlock_audioroom2">Você desbloqueou a aba de Áudios.</message>
+	<message index="71" name="msg_unlock_audioroom_sonic">Música do Episódio Sonic agora está\ndisponível em "Áudios".</message>
+	<message index="72" name="msg_unlock_audioroom_shadow">Música do Episódio Shadow agora\nestá disponível em "Áudios".</message>
+	<message index="73" name="msg_unlock_audioroom_silver">Música do Episódio Silver agora\nestá disponível em "Áudios".</message>
+	<message index="74" name="msg_unlock_audioroom_last">Música do Episódio Final agora\nestá disponível em "Áudios".</message>
+	<message index="75" name="msg_unlock_theaterroom_2">O Teatro foi desbloqueado.</message>
+	<message index="76" name="msg_unlock_theaterroom_sonic">O Episódio Sonic agora está \ndisponível no Teatro.</message>
+	<message index="77" name="msg_unlocktheaterroom_shadow">O Episódio Shadow agora está \ndisponível no Teatro.</message>
+	<message index="78" name="msg_unlocktheaterroom_silver">O Episódio Silver agora está \ndisponível no Teatro.</message>
+	<message index="79" name="msg_unlocktheaterroom_last">O Episódio Final agora está \ndisponível no Teatro.</message>
+	<message index="80" name="msg_unlock_theaterroom_sonic2">Agora você pode assistir o Episódio Sonic\nno Teatro.</message>
+	<message index="81" name="msg_unlock_theaterroom_shadow2">Agora você pode assistir o Episódio Shadow\nno Teatro.</message>
+	<message index="82" name="msg_unlocktheaterroom_silver2">Agora você pode assistir o Episódio Shadow\nno Teatro.</message>
+	<message index="83" name="msg_alert_savebreak">O Progresso está corrompido.</message>
+	<message index="84" name="msg_alert_savenotfound">O Progresso não foi encontrado.</message>
+	<message index="85" name="msg_alert_savecannotload">O carregamento falhou.</message>
+	<message index="86" name="msg_alert_cannotuseprofile">Você não pode usar esse perfil de jogador.</message>
+	<message index="87" name="msg_alert_hddaccess_360">Acessando o disco rígido do Xbox 360.</message>
+	<message index="88" name="msg_alert_saveblock_360">Não há espaço suficiente para criar um novo\nProgresso. você precisa liberar pelo menos $MB.</message>
+	<message index="89" name="msg_alert_makedata_360">Não há nenhum Progresso Salvo para Sonic The Hedgehog.\nVocê deseja criar um novo Progresso?</message>
+	<message index="90" name="msg_alert_remakedata_360">O carregamento falhou. O Progresso não pôde ser carregado.\nVocê deseja criar um novo Progresso?</message>
+	<message index="91" name="msg_alert_savesuccess_360">O Progresso foi criado.\nPressione $ para continuar.</message>
+	<message index="92" name="msg_alert_deletedata_360">Deletando...\nPor favor, não desligue o seu Xbox 360.</message>
+	<message index="93" name="msg_alert_savedata_360">Salvando...\nPor favor, não desligue o seu Xbox 360.</message>
+	<message index="94" name="msg_alert_loadfaild">O salvamento falhou.</message>
+	<message index="95" name="msg_alert_loading">Carregando...</message>
+	<message index="96" name="msg_alert_cannotload">O Progresso não pôde ser carregado.</message>
+	<message index="97" name="msg_alert_makedata_360_2">Criando um Progresso.\nPor favor, não desligue o seu Xbox 360.</message>
+	<message index="98" name="msg_alert_remakedata_360_2">Criando um Progresso.\nPor favor, não desligue o seu Xbox 360.</message>
+	<message index="99" name="msg_alert_hddaccess_ps3">Acessando o disco rígido.\nPor favor, não desligue o seu Xbox 360.</message>
+	<message index="100" name="msg_alert_memorystick">Checando os conteúdos do Memory Stick™\nPor favor, não remova o Memory Stick™,\nresete o console, ou desligue-o.</message>
+	<message index="101" name="msg_alert_memorystick_unformat">O Memory Stick™ no slot 1 não está formatado.</message>
+	<message index="102" name="msg_alert_memorystick_unformat_2">O Memory Stick™ no slot 1 não está formatado.\nFormatar o Memory Stick™ no Memory Stick™\nslot?</message>
+	<message index="103" name="msg_alert_memorystick_unformatting">Formatando o Memory Stick™ no\nMemory Stick™ slot.  Por favor, não\nremova o Memory Stick™,\nresete o console, ou desligue-o.</message>
+	<message index="104" name="msg_alert_memorystick_unformated">Formatação completa.</message>
+	<message index="105" name="msg_alert_memorystick_error">Erro no Memory Stick™.\nPor favor, cheque o Memory\nStick™ no Memory Stick™ slot.</message>
+	<message index="106" name="msg_alert_memorystick_error_2">Não há um Memory Stick™ no Memory Stick™\nslot. Por favor, insira um Memory Stick™ no\nMemory Stick™ slot.</message>
+	<message index="107" name="msg_alert_memorystick_error_3">Não há espaço o suficiente no Memory Stick™.\nEsse jogo requer $KB de espaço livre\npara salvar o progresso.</message>
+	<message index="108" name="msg_alert_saved">Salvamento completo.</message>
+	<message index="109" name="msg_alert_save_failed">O salvamento falhou.</message>
+	<message index="110" name="msg_alert_cannot_save">Continuar sem salvar.</message>
+	<message index="111" name="msg_alert_cannot_save_2">Se você iniciar o jogo, você não poderá\nsalvá-lo mais tarde. Tem certeza?</message>
+	<message index="112" name="msg_alert_memorystick_error_4">O Memory Stick™ no Memory Stick™ slot\nestá danificado e não pode ser usado.\nPor favor, insira um Memory Stick™ usável.</message>
 	<message index="113" name="msg_alert_memorystick_format_error">Format failed.\nPlease check the Memory Stick™ \nin Memory Stick™ slot and try again.</message>
 	<message index="114" name="msg_alert_cannot_loadgamedata">Cannot read game data.</message>
 	<message index="115" name="msg_alert_break_gamedata">All game data is corrupted.</message>
@@ -337,16 +337,16 @@
 	<message index="334" name="msg_save_ps3" placeholder="picture(button_a)">$Salvar</message>
 	<message index="335" name="msg_no_save_ps3" placeholder="picture(button_b)">$Continuar sem salvar</message>
 	<message index="336" name="msg_ok2">OK?</message>
-	<message index="337" name="msg_great">GREAT!</message>
-	<message index="338" name="msg_good">GOOD!</message>
-	<message index="339" name="msg_artistic">ARTISTIC!</message>
+	<message index="337" name="msg_great">ÓTIMO!</message>
+	<message index="338" name="msg_good">BOA!</message>
+	<message index="339" name="msg_artistic">ARTÍSTICO!</message>
 	<message index="340" name="msg_radical">RADICAL!</message>
-	<message index="341" name="msg_hunter">HUNTER!</message>
-	<message index="342" name="msg_double">DOUBLE!</message>
-	<message index="343" name="msg_triple">TRIPLE!</message>
-	<message index="344" name="msg_awesome">AWESOME!</message>
-	<message index="345" name="msg_extream">EXTREME!</message>
-	<message index="346" name="msg_perfect">PERFECT!</message>
+	<message index="341" name="msg_hunter">DESTRUIDOR!</message>
+	<message index="342" name="msg_double">DUPLO!</message>
+	<message index="343" name="msg_triple">TRIPLO!</message>
+	<message index="344" name="msg_awesome">INCRÍVEL!</message>
+	<message index="345" name="msg_extream">EXTREMO!</message>
+	<message index="346" name="msg_perfect">PERFEITO!</message>
 	<message index="347" name="msg_combo">COMBO</message>
 	<message index="348" name="msg_1p">1P</message>
 	<message index="349" name="msg_2p">2P</message>
