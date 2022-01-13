@@ -837,40 +837,40 @@
 	<message index="834" name="msg_act28">Derrote o Egg Cerberus!</message>
 	<message index="835" name="msg_act29">Derrote o Egg Wyvern!</message>
 	<message index="836" name="msg_twn_sonic01">Colete informações!</message>
-	<message index="837" name="msg_twn_sonic02">Find out where Dr. Eggman's battleship went!</message>
-	<message index="838" name="msg_twn_sonic03">Collect information about Dr. Eggman!</message>
-	<message index="839" name="msg_twn_sonic04">Meet up with Tails!</message>
-	<message index="840" name="msg_twn_sonic05">Meet up with Tails!</message>
-	<message index="841" name="msg_twn_sonic06">Head for the sea!</message>
-	<message index="842" name="msg_twn_sonic07">Head for the desert!</message>
-	<message index="843" name="msg_twn_sonic08">Get Lord Regis' approval, and go to the desert!</message>
-	<message index="844" name="msg_twn_sonic09">Head for the tunnel to the desert!</message>
-	<message index="845" name="msg_twn_sonic10">Get a pass for the tunnel!</message>
-	<message index="846" name="msg_twn_sonic11">Take Elise, and head for the castle!</message>
-	<message index="847" name="msg_twn_sonic12">Head for the docks!</message>
-	<message index="848" name="msg_twn_sonic13">Go after Elise!</message>
-	<message index="849" name="msg_twn_sonic14">Meet up with Knuckles!</message>
-	<message index="850" name="msg_twn_sonic15">Meet Knuckles in the warehouse district!</message>
-	<message index="851" name="msg_twn_sonic16">Head for Dr. Eggman's base!</message>
-	<message index="852" name="msg_twn_sonic17">Head for the White Acropolis!</message>
-	<message index="853" name="msg_twn_sonic18">Collect information about Elise!</message>
-	<message index="854" name="msg_twn_sonic19">Head for the station!</message>
-	<message index="855" name="msg_twn_sonic20">Get into the station!</message>
-	<message index="856" name="msg_twn_sonic21">Go after Dr. Eggman!</message>
-	<message index="857" name="msg_twn_sonic22">Escape into the jungle!</message>
-	<message index="858" name="msg_twn_sonic23">Escape into the forest!</message>
-	<message index="859" name="msg_twn_sonic24">Go after Elise!</message>
-	<message index="860" name="msg_twn_sonic25">Head for Wave Ocean!</message>
-	<message index="861" name="msg_twn_sonic26">Head for the New City!</message>
-	<message index="862" name="msg_twn_sonic27">Head for the altar in the Castle Town!</message>
-	<message index="863" name="msg_twn_sonic28">Head for the old Soleanna castle!</message>
-	<message index="864" name="msg_twn_sonic29">Meet the bishop!</message>
-	<message index="865" name="msg_twn_sonic30">Complete the trials of Soleanna!</message>
-	<message index="866" name="msg_twn_sonic31">From the royal seal, go to the old castle's entry!</message>
-	<message index="867" name="msg_twn_sonic32">Head for the old castle!</message>
-	<message index="868" name="msg_twn_sonic33">Head for Dr. Eggman's secret base!</message>
-	<message index="869" name="msg_twn_sonic34">Head for the shop!</message>
-	<message index="870" name="msg_twn_sonic35">Buy a "Light Chip"!</message>
-	<message index="871" name="msg_twn_sonic36">Buy an "Anti-Gravity"!</message>
-	<message index="872" name="msg_twn_sonic37">Buy a "Bound Bracelet"!</message>
+	<message index="837" name="msg_twn_sonic02">Descubra para onde foi na nave do Eggman!</message>
+	<message index="838" name="msg_twn_sonic03">Colete informações sobre o Eggman!</message>
+	<message index="839" name="msg_twn_sonic04">Encontre-se com o Tails!</message>
+	<message index="840" name="msg_twn_sonic05">Encontre-se com o Tails!</message>
+	<message index="841" name="msg_twn_sonic06">Vá para o Oceano!</message>
+	<message index="842" name="msg_twn_sonic07">Vá para o Deserto!</message>
+	<message index="843" name="msg_twn_sonic08">Tenha a aprovação do Lorde Regis e vá para o deserto!</message>
+	<message index="844" name="msg_twn_sonic09">Vá para o túnel que leva ao Deserto!</message>
+	<message index="845" name="msg_twn_sonic10">Consiga um passe para o Deserto!</message>
+	<message index="846" name="msg_twn_sonic11">Salve a Elise e vá para o castelo!</message>
+	<message index="847" name="msg_twn_sonic12">Vá paras as Docas!</message>
+	<message index="848" name="msg_twn_sonic13">Vá atrás da Elise!</message>
+	<message index="849" name="msg_twn_sonic14">Encontre-se com o Knuckles!</message>
+	<message index="850" name="msg_twn_sonic15">Encontre o Knuckles no Armazém!</message>
+	<message index="851" name="msg_twn_sonic16">Vá para a base do Eggman!</message>
+	<message index="852" name="msg_twn_sonic17">Vá para a White Acropolis!</message>
+	<message index="853" name="msg_twn_sonic18">Colete informações sobre a Elise!</message>
+	<message index="854" name="msg_twn_sonic19">Vá para a estação!</message>
+	<message index="855" name="msg_twn_sonic20">Vá para a estação!</message>
+	<message index="856" name="msg_twn_sonic21">Vá atrás do Eggman!</message>
+	<message index="857" name="msg_twn_sonic22">Escape pela floresta!</message>
+	<message index="858" name="msg_twn_sonic23">Escape pela floresta!</message>
+	<message index="859" name="msg_twn_sonic24">Vá atrás da Elise!</message>
+	<message index="860" name="msg_twn_sonic25">Vá para a Wave Ocean!</message>
+	<message index="861" name="msg_twn_sonic26">Vá para Nova Cidade!</message>
+	<message index="862" name="msg_twn_sonic27">Vá para o altar no Castelo da Cidade!</message>
+	<message index="863" name="msg_twn_sonic28">Vá para o antigo castelo de Soleanna!</message>
+	<message index="864" name="msg_twn_sonic29">Encontre-se com o bispo!</message>
+	<message index="865" name="msg_twn_sonic30">Complete os desafios de Soleanna!</message>
+	<message index="866" name="msg_twn_sonic31">Do selo real, vá para a entrada do antigo castelo!</message>
+	<message index="867" name="msg_twn_sonic32">Vá para o antigo castelo!</message>
+	<message index="868" name="msg_twn_sonic33">Vá para a base secreta do Eggman!</message>
+	<message index="869" name="msg_twn_sonic34">Vá para a lojinha!</message>
+	<message index="870" name="msg_twn_sonic35">Compre um "Light Chip"!</message>
+	<message index="871" name="msg_twn_sonic36">Compre um "Anti-Gravity"!</message>
+	<message index="872" name="msg_twn_sonic37">Compre um "Bound Bracelet"!</message>
 </mst06>
