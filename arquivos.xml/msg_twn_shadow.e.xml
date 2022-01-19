@@ -50,11 +50,11 @@
 	<message index="47" name="msg_m1125_125_01_1">Buááá! Minha mãe me disse para não \nvir para a floresta, mas eu vim.\nDaí do nada um terrível monstro apareceu!\fEu corri o mais rápido que pude, mas\neu deixei 10 Medalhas de Bronze para trás. \nPor favor, pegue-as para mim!\n</message>
 	<message index="48" name="msg_m1125_125_01_2">O que? Eu sei que fui desobediente por ter\nvindo para a floresta mas... Mesmo assim...</message>
 	<message index="49" name="msg_m1126_126_01_1">Bem-vindo!\nMe chamo Dante, sou dono de uma oficina de\nCorrida de Anéis na floresta.\fO que?\nVocê não sabe o que é uma Corrida de Anéis?\fBem, existem diferentes modalidades, mas a minha especialidade\nsão as Corridas de Anéis com um Buggy! Você precisará \nser bom no volante.\fVocê ganhará um prêmio se passar por todos os Anéis!\fQuer tentar?</message>
-	<message index="50" name="msg_m1126_126_02_1">Bem-vindo! Me chamo Dante, sou dono de \numa oficina de Jogo de Alvos na floresta...\nOh, it's you again.\fDid you come back to try it again?</message>
-	<message index="51" name="msg_m1126_126_01_2">You're too busy?\nWell, come back when you're free!</message>
-	<message index="52" name="msg_m1127_127_01_1">Agent Shadow, we're conducting flight tests\non the newest Glider model.\fWill you be able to help us out?\nWe need your expertise.</message>
-	<message index="53" name="msg_m1127_127_01_2">Okay...\nSorry to bother you.</message>
-	<message index="54" name="msg_m1128_128_01_1">Hey, I saw it! What did I see?\nA ghost in the forest, of course!\fSuddenly, there were red\nflashing lights and a lot of noise.\nIt's got to be a ghost!\fI'm so scared. I won't be able\nto sleep unless someone gets rid of it...\fYou're a GUN agent, right?\nThen get rid of the ghost!</message>
+	<message index="50" name="msg_m1126_126_02_1">Bem-vindo! Me chamo Dante, sou dono de \numa oficina de Jogo de Alvos na floresta...\nAh, é você de novo.\fVocê voltou para tentar novamente?</message>
+	<message index="51" name="msg_m1126_126_01_2">Você está muito ocupado?\nBem, então volte aqui quando estiver livre!</message>
+	<message index="52" name="msg_m1127_127_01_1">Agente Shadow, estamos realizando teste de voo\ncom o mais novo modelo de Glider.\fPor acaso você poderia nos ajudar?\nNós precisamos da sua esperteza.</message>
+	<message index="53" name="msg_m1127_127_01_2">Ok...\nDesculpe incomodá-lo.</message>
+	<message index="54" name="msg_m1128_128_01_1">Ei, eu vi aquilo! O que eu acabei de ver?\nCom certeza eu vi um fantasma na floresta!\fUmas luzes vermelhas\ne uns barulhos estranhos surgiram do nada.\nIsso só pode ser um fantasma!\fI'm so scared. I won't be able\nto sleep unless someone gets rid of it...\fYou're a GUN agent, right?\nThen get rid of the ghost!</message>
 	<message index="55" name="msg_m1128_128_01_2">Isn't it your job to help\npeople in need? Geez.</message>
 	<message index="56" name="msg_m1131_131_01_5">Oh no! The monsters are\ncoming into the Castle Town\nfrom the entrance to the desert!\fThe Castle Town will be \ndestroyed by the monsters! \nPlease, help us!</message>
 	<message index="57" name="msg_t10708a735_01_1">Hey, you, in black!\nYou were awesome!\nThose lights were really cool!\fWhat's that move called? \nIt's so cool!</message>
