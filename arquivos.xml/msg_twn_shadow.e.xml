@@ -54,12 +54,12 @@
 	<message index="51" name="msg_m1126_126_01_2">Você está muito ocupado?\nBem, então volte aqui quando estiver livre!</message>
 	<message index="52" name="msg_m1127_127_01_1">Agente Shadow, estamos realizando teste de voo\ncom o mais novo modelo de Glider.\fPor acaso você poderia nos ajudar?\nNós precisamos da sua esperteza.</message>
 	<message index="53" name="msg_m1127_127_01_2">Ok...\nDesculpe incomodá-lo.</message>
-	<message index="54" name="msg_m1128_128_01_1">Ei, eu vi aquilo! O que eu acabei de ver?\nCom certeza eu vi um fantasma na floresta!\fUmas luzes vermelhas\ne uns barulhos estranhos surgiram do nada.\nIsso só pode ser um fantasma!\fI'm so scared. I won't be able\nto sleep unless someone gets rid of it...\fYou're a GUN agent, right?\nThen get rid of the ghost!</message>
-	<message index="55" name="msg_m1128_128_01_2">Isn't it your job to help\npeople in need? Geez.</message>
-	<message index="56" name="msg_m1131_131_01_5">Oh no! The monsters are\ncoming into the Castle Town\nfrom the entrance to the desert!\fThe Castle Town will be \ndestroyed by the monsters! \nPlease, help us!</message>
-	<message index="57" name="msg_t10708a735_01_1">Hey, you, in black!\nYou were awesome!\nThose lights were really cool!\fWhat's that move called? \nIt's so cool!</message>
-	<message index="58" name="msg_t10708a736_01_1">This is the Fountain of the Priest.\nThrow a coin in it and your wish comes true!</message>
-	<message index="59" name="msg_t10708a737_01_1">The statue in the middle of the fountain\nis a goddess, who is said to have lulled the\nanimals of the forest to sleep with her lyre.</message>
+	<message index="54" name="msg_m1128_128_01_1">Por favor, me ajude!\nAcho que acabei de ver fantasmas na floresta!\fVárias luzes e sons bizarros começaram a\n surgir na mata!\nTenho certeza de que são fantasmas!\fEstou com muito medo! Acho que eu não vou conseguir\n dormir essa noite até que alguém se livre deles...\fVocê é um agente da GUN, certo?\nEntão por favor, dê um jeito nessas aberrações!</message>
+	<message index="55" name="msg_m1128_128_01_2">Mas o seu trabalho é ajudar as pessoas, não é?\n Ou eu estou equivocado?</message>
+	<message index="56" name="msg_m1131_131_01_5">Essa não! Os monstros estão\nvindo para o Castelo da Cidade\npela entrada do deserto!\fO Castelo da Cidade vai ser \ndestruído pelos monstros! \nPor favor, nos ajude!</message>
+	<message index="57" name="msg_t10708a735_01_1">Ei, você, sim você mesmo!\nVocê mandou bem!\nGostei bastante daquelas luzes!\fQual é o nome dessa habilidade? \nEla é bem daora!</message>
+	<message index="58" name="msg_t10708a736_01_1">Essa é a Fonte do Sacerdote.\nBasta jogar uma moeda e o seu desejo se tornará realidade!</message>
+	<message index="59" name="msg_t10708a737_01_1">A estátua no meio da fonte\né uma deusa, na qual dizem que\nela já pôs os animais para dormir com a sua lira.</message>
 	<message index="60" name="msg_t10708a738_01_1">These were candleholders used for lighting\na long time ago, but they're not used any more.\nIt would be nice to light them, wouldn't it?</message>
 	<message index="61" name="msg_m1134_134_01_1">I am the Battle Master\nI am the god of battles, and I judge all battles.\fI don't look like a god, you say?\nWell, you're not really seeing my true image.\fIf you are confident in your strength,\ndo you want to find out how much\nbattle power you have?</message>
 	<message index="62" name="msg_m1134_134_01_2">Very well. You must have a lot of \ncourage, to decline a god's offer.</message>
