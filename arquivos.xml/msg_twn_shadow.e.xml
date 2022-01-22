@@ -68,8 +68,8 @@
 	<message index="65" name="msg_m1136_136_01_1">Eu vi!\nHaviam 10 luzes fora d'água.\nSó pode ser um tesouro!\fVocê não acredita em mim?\nMas é verdade! Uma pequena investigação\n já iria provar que estou certo!\fEntão... Você vai investigar isso para mim?</message>
 	<message index="66" name="msg_m1136_136_01_2">Cê tá dando mole...</message>
 	<message index="67" name="msg_t10708a734_01_1">Você sabia?\nExistem três fontes aqui\ndesde que Soleanna foi fundada.\fUma delas é a Fonte da Deusa.\nUma estátua de uma mulher tocando música\ncom a sua beleza.\fA outra é a Fonte do Sacerdote.\nEla foi feita com a esperança de haver paz em Soleanna.\fA última é a Fonte do Sábio. Que por sinal você\n está olhando para ela nesse exato momento.\fEla foi feita com a esperança\nde que os cidadãos de Soleanna possam\nse tornar mais inteligentes.</message>
-	<message index="68" name="msg_m1130_130_01_1">Agent Shadow, orders from GUN. Thieves\nhave stolen fuel from the Rimlight Corporation\nand are escaping along the highway.\fThis fuel source is vital. A buggy has been\nprepared for you.  You are to track down the\nthieves immediately.</message>
-	<message index="69" name="msg_m1130_130_01_2">What?\nYou're not taking orders now?\fAll right.\nI'll just find another agent, then.</message>
+	<message index="68" name="msg_m1130_130_01_1">Agente Shadow, ordens vindas da GUN. Alguns ladrões\nroubaram combustível da Rimlight Corporation\ne estão escapando pela rodovia.\fAquela fonte de combustível é vital! Há um buggy\nesperando por você. Você precisa pará-los imediatamente.</message>
+	<message index="69" name="msg_m1130_130_01_2">Ahm?\nVocê não está recebendo ordens por agora?\fTá bom.\nEntão vou procurar um outro agente.</message>
 	<message index="70" name="msg_m1101_n101">Guiberutti</message>
 	<message index="71" name="msg_m1103_n103">Elkan</message>
 	<message index="72" name="msg_m1104_n104">Claudia</message>
@@ -84,7 +84,7 @@
 	<message index="81" name="msg_m1111_n111">Stollaro</message>
 	<message index="82" name="msg_m1112_n112">Frances</message>
 	<message index="83" name="msg_m1113_n113">D'Alema</message>
-	<message index="84" name="msg_m1114_n114">GUN soldier</message>
+	<message index="84" name="msg_m1114_n114">Soldado da GUN</message>
 	<message index="85" name="msg_m1114_n153">Sabrina</message>
 	<message index="86" name="msg_m1115_n115">Nino</message>
 	<message index="87" name="msg_m1116_n116">Valentino</message>
@@ -101,42 +101,42 @@
 	<message index="98" name="msg_m1128_n128">Mancini</message>
 	<message index="99" name="msg_m1129_n129">Mazzola</message>
 	<message index="100" name="msg_m1130_n130">Zof</message>
-	<message index="101" name="msg_m1131_n131">Lord Regis</message>
+	<message index="101" name="msg_m1131_n131">Lorde Regis</message>
 	<message index="102" name="msg_m1132_n132">Adrianna</message>
 	<message index="103" name="msg_m1134_n134">Zeus</message>
 	<message index="104" name="msg_m1135_n135">Lorenzo</message>
 	<message index="105" name="msg_m1136_n136">Buffon</message>
-	<message index="106" name="msg_t10101b701_01_1">Are you a member of the Cave Exploration Club,\ntoo? Today's meeting is in the cave in the forest\noutside town, not this one.</message>
-	<message index="107" name="msg_t10101b702_01_1">I really like walking in the woods, but there was\nthat big earthquake recently, and now I'm\nworried about bridges falling down... </message>
-	<message index="108" name="msg_t10101b703_01_1">The way to the forest?\nGo across this bridge, and it'll be right there.</message>
-	<message index="109" name="msg_t10101b704_01_1">You don't look like you're that rich.\nIf you want to earn Rings easily, find people\nin need of help, and help them out!</message>
-	<message index="110" name="msg_t10101b705_01_1">That Network shop in front of the clock\ntower is nice, isn't it? I like being able\nto buy things without having to talk to anyone.</message>
-	<message index="111" name="msg_t10101c706_01_1">Oh, man! I wanted to go play, but now I can't!\fMy dad always says that the store has\neverything, but I wonder if they have anything\nthat takes care of rocks from landslides... </message>
-	<message index="112" name="msg_t10101c706_08_1">Wow, you're awesome!\nThat's the coolest thing I've ever seen!</message>
-	<message index="113" name="msg_t10101c707_01_1">The area up ahead near the cave just had\na landslide. It's dangerous, so you'd better\nstay away.</message>
-	<message index="114" name="msg_t10101c707_08_1">What was that loud noise?\nIs another earthquake coming?</message>
-	<message index="115" name="msg_t10101c407_01_1">Hm? You want to know what I'm doing?\nCome on, there's only one thing an\narchaeologist like myself would do.\fI'm researching this building.\nThe more I look at it, the more interesting\nit is... </message>
-	<message index="116" name="msg_t10101b708_01_1">If you're not sure what to do, try going to the\nstore! They might have something useful to\nsolve any problem you might have.</message>
-	<message index="117" name="msg_t10101c408_01_1">You probably saw the fallen down bridge. I was \njust been told that the bridge was fixed.\fHow did you get here?</message>
-	<message index="118" name="msg_t10507b721_01_1">A warehouse?\nThere's some if you go straight along this\nstreet.</message>
-	<message index="119" name="msg_t10507b722_01_1">Oh, it's you. Did you get dumped by that cute\ngirl you were with? I just saw her by herself,\nover by the warehouses.</message>
-	<message index="120" name="msg_t10507b723_01_1">It seems there's something going on by the\nwarehouses. I hope nothing happens--I've\ngot an important meeting today!</message>
-	<message index="121" name="msg_t10507b723_06_1">What about Eggman?\nHe's the one that kidnapped the Princess, right?\nI read about it in the newspaper.</message>
-	<message index="122" name="msg_t10507b726_01_1">This station is currently closed.\nNo one may enter, but there may be exceptions\nin extraordinary cases.</message>
-	<message index="123" name="msg_t10507b726_06_1">I'm sorry, I didn't know you were an agent.\nYou may enter, of course.</message>
-	<message index="124" name="msg_t10507b727_01_1">This station is currently closed.\nNo one may enter, but there may be exceptions\nin extraordinary cases.</message>
-	<message index="125" name="msg_t10507b727_06_1">I'm very sorry! I had no idea you were an agent!\nPlease, go in!</message>
-	<message index="126" name="msg_t10507b728_01_1">What should I do?\nThe station is closed off, and I'm going to be\nlate to an important meeting... </message>
-	<message index="127" name="msg_t10507b728_06_1">You're looking for the station?\nYou'll want to go straight on this street, then.</message>
-	<message index="128" name="msg_t10507b729_01_1">There was someone looking for you over by\nthe warehouses. She sure was something... </message>
-	<message index="129" name="msg_t10507b729_06_1">There was someone looking for you in \nthe warehouses. Did you get to meet \nher at the end?</message>
-	<message index="130" name="msg_t10507b730_01_1">I heard that someone was looking for\nyou in the warehouse.</message>
-	<message index="131" name="msg_t10507b730_06_1">I heard that Eggman went into the station.</message>
-	<message index="132" name="msg_t10708b731_01_1">Oh, that archaeologist person?\nYeah, I see him a lot investigating something\nor the other in the Castle Town.</message>
-	<message index="133" name="msg_t10708b731_05_1">You were looking for the archaeologist,\nweren't you? Did you find him?</message>
-	<message index="134" name="msg_t10708a732_05_1">Wow, that was something. I wonder why they'd\nattack an archaeologist?</message>
-	<message index="135" name="msg_t10708a733_01_1">Help, help!\nAn archaeologist is being attacked by\nsome strange guys! Someone help him!</message>
-	<message index="136" name="msg_t10708a733_05_1">I'm glad the archaeologist is okay.\nThanks!</message>
+	<message index="106" name="msg_t10101b701_01_1">Você também é um membro do Clube de Exploração \nde Cavernas? O encontro de hoje será em uma caverna na floresta,\n não nessa aqui.</message>
+	<message index="107" name="msg_t10101b702_01_1">Eu gosto muito de caminhar na floresta, mas recentemente\nhouve um terrível terremoto na região, e agora estou\ncom medo de alguma ponte cair... </message>
+	<message index="108" name="msg_t10101b703_01_1">O caminho para a floresta?\nÉ só você passar por essa ponte.</message>
+	<message index="109" name="msg_t10101b704_01_1">Você não parece ser rico.\nSe você quer ganhar Anéis de forma fácil, então tente ajudar\nas pessoas!</message>
+	<message index="110" name="msg_t10101b705_01_1">Aquele loja virtual em frente à torre do\nrelógio é incrível, não é? Eu gosto de poder\ncomprar algo sem ter que falar com alguém.</message>
+	<message index="111" name="msg_t10101c706_01_1">Mano! Eu queria poder brincar, mas agora eu não posso!\fMeu pai sempre diz que a loja tem\nde tudo, mas eu me pergunto se eles tem qualquer coisa\nque evita deslizamentos de terra... </message>
+	<message index="112" name="msg_t10101c706_08_1">Uau, você é incrível!\nEssa foi a coisa mais daora que eu já vi!</message>
+	<message index="113" name="msg_t10101c707_01_1">Acabou de acontecer um deslizamento\nlogo adiante. É melhor você ir\nembora daqui.</message>
+	<message index="114" name="msg_t10101c707_08_1">O que foi esse barulho?\nÉ outro terremoto vindo?</message>
+	<message index="115" name="msg_t10101c407_01_1">Hm? Você quer saber o que eu tô fazendo?\nQualé, só há uma coisa que uma\narqueóloga como eu iria fazer.\fEstou investigando essa construção.\nQuanto mais eu olho pra isso, mais interessante\nfica... </message>
+	<message index="116" name="msg_t10101b708_01_1">Se você não souber o que fazer, tente ir para a\nlojinha! Lá pode haver algo útil que\nresolva algum problema que esteja tendo.</message>
+	<message index="117" name="msg_t10101c408_01_1">Você provavelmente viu a ponte caída. Acabaram de \nme dizer que a ponte foi consertada.\fComo você chegou aqui?</message>
+	<message index="118" name="msg_t10507b721_01_1">Um armazém?\nVocê vai encontrar um se seguir adiante\nnessa rua.</message>
+	<message index="119" name="msg_t10507b722_01_1">Ah, é você. Você foi dispensado por aquela linda\ngarota com quem estava? Acabei de vê-la sozinha,\nperto do armazém.</message>
+	<message index="120" name="msg_t10507b723_01_1">Parece que tem algo acontecendo nos\narmazéns. Espero que nada aconteça. Eu tenho\num encontro importante hoje!</message>
+	<message index="121" name="msg_t10507b723_06_1">E quanto ao Eggman?\nFoi ele que sequestrou a princesa, né?\nEra o que o jornal estava dizendo.</message>
+	<message index="122" name="msg_t10507b726_01_1">Essa estação está fechada no momento.\nNinguém está podendo entrar, mas podem haver exceções\nem casos extraordinários.</message>
+	<message index="123" name="msg_t10507b726_06_1">Me perdoe, eu não sabia que você era um agente.\nÉ claro que você pode entrar.</message>
+	<message index="124" name="msg_t10507b727_01_1">Essa estação está fechada no momento.\nNinguém está podendo entrar, mas podem haver exceções\nem casos extraordinários.</message>
+	<message index="125" name="msg_t10507b727_06_1">Me desculpa! Eu não fazia ideia de que você era um agente!\nPor favor, entre!</message>
+	<message index="126" name="msg_t10507b728_01_1">O que eu faço?\nA estação está fechada, e eu vou me\natrasar para uma reunião importante... </message>
+	<message index="127" name="msg_t10507b728_06_1">Você está procurando a estação?\nEntão é só você seguir reto por essa rua.</message>
+	<message index="128" name="msg_t10507b729_01_1">Tinha alguém te procurando lá nos\narmazéns. Isso pode ser importante... </message>
+	<message index="129" name="msg_t10507b729_06_1">Tinha alguém te procurando lá \nnos armazéns. Afinal, você \nconhece ela?</message>
+	<message index="130" name="msg_t10507b730_01_1">Ouvi dizer que tinha alguém te procurando\nlá no armazém.</message>
+	<message index="131" name="msg_t10507b730_06_1">Ouvi dizer que o Eggman entrou na estação.</message>
+	<message index="132" name="msg_t10708b731_01_1">Ah, aquele arqueólogo?\nSim, eu sempre vejo ele investigando \nalgo no Castelo da Cidade.</message>
+	<message index="133" name="msg_t10708b731_05_1">Você está procurando o arqueólogo,\nnão está? Você o encontrou?</message>
+	<message index="134" name="msg_t10708a732_05_1">Uau, isso sim foi daora! Afinal, por que eles queriam\natacar um arqueólogo?</message>
+	<message index="135" name="msg_t10708a733_01_1">Socorro, socorro!\nUm arqueólogo está sendo atacado\npor uns caras estranhos! Alguém ajuda ele!</message>
+	<message index="136" name="msg_t10708a733_05_1">Graças a deus o arqueólogo está bem.\nMuito obrigado!</message>
 	<message index="137" name="msg_t10708a407_05_1">"When black flame lights the candle of dark and \npriest's prayers answered are, the dark seal will \nbe no more, and so shall emerge the power."</message>
 	<message index="138" name="msg_t10708a407_06_1">Yes, that must be the Scepter of Darkness!\nOnly it can protect Soleanna from disaster.</message>
 	<message index="139" name="msg_t10909a021_08_1">I've sent word to the guards to let you pass\nthrough the entrance to the desert. Please use it\nat your convenience!</message>
