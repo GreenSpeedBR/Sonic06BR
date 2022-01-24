@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_twn_sonic" mst_version="1" endianness="B">
-	<message index="0" name="msg_m1000_000_01_1">Will you accept the request?</message>
-	<message index="1" name="msg_m1000_001_01_1">Yes</message>
-	<message index="2" name="msg_m1000_002_01_1">No</message>
+	<message index="0" name="msg_m1000_000_01_1">Você vai aceitar essa missão?</message>
+	<message index="1" name="msg_m1000_001_01_1">Sim</message>
+	<message index="2" name="msg_m1000_002_01_1">Não</message>
 	<message index="3" name="msg_m1001_001_01_1">My name is Alberto Robert, and I've been making\nshoes in this town for a very long time.\nI'm making the ultimate shoes now.\fThese shoes use the power of Soleanna's\nmysterious stones to change... \nI'm calling them Custom Shoes!\fBut, there is no one that \ncan test the full potential of these shoes!\fIs there anyone who can test the design of \nthese shoes?\fYou will be able to do that?\nReally?</message>
 	<message index="4" name="msg_m1001_001_01_2">Oh, no... \nIf no one can use them to their full potential,\nthere's not much use.</message>
 	<message index="5" name="msg_m1003_003_01_1">Oh, no! Dr. Eggman's mechs, the ones that\nstole away Princess Elise, are invading\nthe town to look for something!\fSonic!\nCan you help us?</message>
