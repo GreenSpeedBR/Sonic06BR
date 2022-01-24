@@ -137,24 +137,24 @@
 	<message index="134" name="msg_t10708a732_05_1">Uau, isso sim foi daora! Afinal, por que eles queriam\natacar um arqueólogo?</message>
 	<message index="135" name="msg_t10708a733_01_1">Socorro, socorro!\nUm arqueólogo está sendo atacado\npor uns caras estranhos! Alguém ajuda ele!</message>
 	<message index="136" name="msg_t10708a733_05_1">Graças a deus o arqueólogo está bem.\nMuito obrigado!</message>
-	<message index="137" name="msg_t10708a407_05_1">"When black flame lights the candle of dark and \npriest's prayers answered are, the dark seal will \nbe no more, and so shall emerge the power."</message>
-	<message index="138" name="msg_t10708a407_06_1">Yes, that must be the Scepter of Darkness!\nOnly it can protect Soleanna from disaster.</message>
-	<message index="139" name="msg_t10909a021_08_1">I've sent word to the guards to let you pass\nthrough the entrance to the desert. Please use it\nat your convenience!</message>
-	<message index="140" name="msg_t10909a748_08_1">We have word from Lord Regis about you.\nPlease, enter.</message>
-	<message index="141" name="msg_t00707b952_06_1">I just got a call from a friend, and he says that\nhe just saw Eggman inside the station!\fThe station?\nJust go straight along this street,\nand you'll see it.</message>
+	<message index="137" name="msg_t10708a407_05_1">"Quando a chama obscura acender a Vela da Escuridão\ne as orações do sacerdote forem respondidas, o selo das trevas\nnão existirá mais, e assim surgirá o poder."</message>
+	<message index="138" name="msg_t10708a407_06_1">Sim, esse deve ser o Cetro da Escuridão!\nSomente esse artefato pode evitar que uma catástrofe\naconteça em Soleanna.</message>
+	<message index="139" name="msg_t10909a021_08_1">Eu pedi para que liberassem \na entrada do deserto para você. Agora você pode\nir pra lá quantas vezes quiser!</message>
+	<message index="140" name="msg_t10909a748_08_1">Recebemos ordens do Lorde Regis.\nPor favor, entre.</message>
+	<message index="141" name="msg_t00707b952_06_1">Recebi uma chamada de um amigo, e ele disse que\nviu o Eggman dentro da estação!\fA estação?\nÉ só você seguir adiante por essa rua.</message>
 	<message index="142" name="msg_t00707b953_06_1">Listen, I just got the biggest lead on a story!\nI'm so happy!\fHuh? You want to know what it is?\nOh, okay.\fI was inside the station, and I saw a strange\ntrain go by.\fI've never seen a train like that before.\nI'll bet it has something to do with Eggman!\fDon't tell anyone else about this!</message>
-	<message index="143" name="msg_t00707b954_06_1">Hey, did you hear?\nA friend of mine is a reporter, and sometimes I\nhear things on the down-low... \fI heard that Eggman got on a train, and\nwent somewhere.\fDon't tell anyone that I told you that!</message>
-	<message index="144" name="msg_t10708a747_01_1">The Fountain of the Priest is that way.</message>
-	<message index="145" name="msg_t10708a747_06_1">You can get to ocean near the gate that\nleads into the new city.</message>
-	<message index="146" name="msg_t10708a748_01_1">The Fountain of the Goddess is that way.</message>
-	<message index="147" name="msg_t10708a748_06_1">You can get to ocean near the gate that\nleads into the new city.</message>
-	<message index="148" name="msg_t10708a749_01_1">The Fountain of the Priest is the other way.</message>
-	<message index="149" name="msg_t10708a749_06_1">You can get to ocean near the gate that\nleads into the new city.</message>
-	<message index="150" name="msg_t10708a750_01_1">The Fountain of the Goddess is the other way.</message>
-	<message index="151" name="msg_t10708a750_06_1">You can get to ocean near the gate that\nleads into the new city.</message>
-	<message index="152" name="msg_t10909a749_08_1">We have word from Lord Regis about you.\nPlease, enter.</message>
-	<message index="153" name="msg_t00000b151_01_1">Welcome to the new city of Soleanna.\fThis city's big, isn't it?\nKeep an eye out for tall buildings and other\nlandmarks so you don't get lost.</message>
-	<message index="154" name="msg_t00000b152_01_1">Uh... Turn right at the second building, then\nleft at the intersection... No, wait, was it right?\fPlus a bunch of strange kids were running after\nme, yelling something about littering... Sigh... </message>
+	<message index="143" name="msg_t00707b954_06_1">Ei, você ouviu isso?\nUm amigo meu é repórter, e às vezes eu\nouço algumas coisas que são segredo... \fOuvi dizer que o Eggman pegou um trem e\nfoi pra algum lugar.\fVê se não conta isso pra ninguém!</message>
+	<message index="144" name="msg_t10708a747_01_1">A Fonte do Sacerdote fica pra cá.</message>
+	<message index="145" name="msg_t10708a747_06_1">Você pode chegar ao oceano perto do portão que\nleva para a Nova Cidade.</message>
+	<message index="146" name="msg_t10708a748_01_1">A Fonte da Deusa fica pra lá.</message>
+	<message index="147" name="msg_t10708a748_06_1">Você pode chegar ao oceano perto do portão que\nleva para a Nova Cidade.</message>
+	<message index="148" name="msg_t10708a749_01_1">A Fonte do Sacerdote fica na outra direção.</message>
+	<message index="149" name="msg_t10708a749_06_1">Você pode chegar ao oceano perto do portão que\nleva para a Nova Cidade.</message>
+	<message index="150" name="msg_t10708a750_01_1">A Fonte da Deusa fica na outra direção.</message>
+	<message index="151" name="msg_t10708a750_06_1">Você pode chegar ao oceano perto do portão que\nleva para a Nova Cidade.</message>
+	<message index="152" name="msg_t10909a749_08_1">Recebemos ordens do Lorde Regis.\nPor favor, entre.</message>
+	<message index="153" name="msg_t00000b151_01_1">Bem vindo à Nova Cidade de Soleanna.\fEssa cidade é bem grande, né?\nFique de olhos nos prédios altos e em outros\npontos de referência para não se perder.</message>
+	<message index="154" name="msg_t00000b152_01_1">Hmm... Vire à direita no segundo edifício, e então\nvire para a esquerda na interseção... Não, pera, será que errei?\fAlém disso, um bando de garotos estavam correndo atrás de\nmim, gritando algo sobre "lixo"... Ô céus... </message>
 	<message index="155" name="msg_t00000b153_01_1">Do you know about the caves near here?\nI wanted to explore them after school,\nbut my girlfriend doesn't want me to go.\fI just want some more "me" time, you know?\nI wonder if this is what marriage is like?</message>
 	<message index="156" name="msg_t00000b154_01_1">Even if the world was ending,\nall I want is to be with my boyfriend.\f...I wonder if I'm too clingy?</message>
 	<message index="157" name="msg_t00000b155_01_1">This city of Soleanna used to be a calm,\npeaceful city, filled with nature.\fLife's more convenient, sure, but it makes\nme long for the good old days... </message>
