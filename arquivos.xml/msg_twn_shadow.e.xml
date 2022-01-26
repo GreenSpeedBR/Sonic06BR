@@ -168,17 +168,17 @@
 	<message index="165" name="msg_t00000b163_01_1">Que?\nO que você quer de mim?</message>
 	<message index="166" name="msg_t00000b164_01_1">Somos a patrulha de Soleanna!\fEstamos patrulhando a cidade... \nMas não há nada acontecendo.\fEu queria que algo acontecesse.\nAlgo que não fosse tão assustador... </message>
 	<message index="167" name="msg_t00000b165_01_1">Somos a patrulha de Soleanna!\fPrendemos uma pessoa por jogar lixo na rua, e\noutra nós prendemos hoje por "jaywalking"!</message>
-	<message index="168" name="msg_t00000b166_01_1">Como é? Você quer saber o que eu tô fazendo?\nÉ uma longa história... \fEstou indo em uma viagem internacional de negócios pela\nprimeira vez. Preciso fazer uma longa viagem de trem, mas... \fEu pensei que a viagem era hoje, mas esse ticket\né pra amanhã.\fI can't get on the train, and my boss is probably\nwondering where I am... \nWhat am I supposed to do?</message>
-	<message index="169" name="msg_t00000b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
-	<message index="170" name="msg_t00000b168_01_1">The gates are closed temporarily!\nThank you for your cooperation!</message>
-	<message index="171" name="msg_t00000b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
-	<message index="172" name="msg_t00000b170_01_1">Hi.\nI'm a starving artist, as you can see.\fI've fallen in love with the Soleannan sea.\nI've been here for years, just painting\nthe sea.\fThe sea here is amazing. The colors are entirely\ndifferent depending on the day and the time.\nI can never get enough of painting it!\fOh, sorry. I got a little carried away.\nCome by and visit if you have some time.\nI'll be around here somewhere.</message>
-	<message index="173" name="msg_t00000b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
-	<message index="174" name="msg_t00000b172_01_1">... ... \fCoo... </message>
-	<message index="175" name="msg_t00000b173_01_1">This is the station. Look, there's a lot of\npeople walking around the station.</message>
-	<message index="176" name="msg_t00000b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
-	<message index="177" name="msg_t00000b175_01_1">That's a "Network Shop."\nYou can use it to shop without going all the way\nto the Castle Town.\fEverything's so convenient these days.</message>
-	<message index="178" name="msg_t00000b176_01_1">Hey, try getting on this spring.</message>
+	<message index="168" name="msg_t00000b166_01_1">Como é? Você quer saber o que eu tô fazendo?\nÉ uma longa história... \fEstou indo em uma viagem internacional de negócios pela\nprimeira vez. Preciso fazer uma longa viagem de trem, mas... \fEu pensei que eu iria viajar hoje, mas esse ticket\né só pra amanhã.\fEu não posso embarcar no trem, e provavelmente o meu chefe\nestá se perguntando onde eu estou... \nO que eu faço agora?</message>
+	<message index="169" name="msg_t00000b167_01_1">Essa é a estação de Soleanna.\nSe você ver algo suspeito na estação\nou nos trens, por favor nos avise.</message>
+	<message index="170" name="msg_t00000b168_01_1">Os portões estão fechados temporariamente!\nObrigado pela compreensão!</message>
+	<message index="171" name="msg_t00000b169_01_1">Isso é um armazém.\nSe você não tem nada pra fazer aqui, então vai embora.</message>
+	<message index="172" name="msg_t00000b170_01_1">Olá.\nComo você pode ver, eu sou um artista nato.\fEu me apaixonei pelo oceano de Soleanna.\nEu estive aqui por anos, só pintando\no mar.\fO oceano nesse lugar é incrível. As cores são totalmente\ndiferentes dependendo do dia e do clima.\nEu nunca me canso de pintá-lo\fAh, me perdoe. Eu me empolguei um pouco.\nVenha aqui mais vezes quando tiver tempo.\nTenho certeza que nós vamos se encontrar.</message>
+	<message index="173" name="msg_t00000b171_01_1">Bem-vindo.\nPor favor, permita-me saber quando você irá querer pedir algo.</message>
+	<message index="174" name="msg_t00000b172_01_1">... ... \fLega... </message>
+	<message index="175" name="msg_t00000b173_01_1">Essa é a estação. OLha só, várias pessoas estão\n andando em volta da estação.</message>
+	<message index="176" name="msg_t00000b174_01_1">Que clima incrível que está tendo.\nNada supera uma boa caminhada quando o clima está\nbom.</message>
+	<message index="177" name="msg_t00000b175_01_1">Essa é uma "Loja Virtual".\nVocê pode usá-la para comprar algo sem precisar ir\npara o Castelo da Cidade.\fTudo é tão prático na modernidade!</message>
+	<message index="178" name="msg_t00000b176_01_1">Ei, tente usar essa mola.</message>
 	<message index="179" name="msg_t00000b176_01_2">Hee hee, surprised?\fI put this here, but there's a lot more\nin other places, so look for them!\nYou might find some surprising places.</message>
 	<message index="180" name="msg_t00000b177_01_1">There's an exclamation point above the heads of\npeople you can talk to in town.\fPeople with important hints have different\ncolors, so keep an eye out for them.</message>
 	<message index="181" name="msg_t00000b178_01_1">This is the famous clocktower for the new city.\nThis city's large, so if you get lost\nyou can use this as a landmark.</message>
