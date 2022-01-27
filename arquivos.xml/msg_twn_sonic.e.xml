@@ -4,8 +4,8 @@
 	<message index="1" name="msg_m1000_001_01_1">Sim</message>
 	<message index="2" name="msg_m1000_002_01_1">Não</message>
 	<message index="3" name="msg_m1001_001_01_1">Meu nome é Alberto Robert e eu venho fazendo\nsapatos nessas cidade por um bom tempo.\nAgora estou fazendo minha obra-prima.\fEsse par de tênis usam o poder das\nmisteriosas pedras de Soleanna... \nO nome deles serão Sapatos Customizados!\fPorém, ninguém é capaz de\nutilizar todo o potencial desses sapatos!\fSerá que realmente existe alguém capaz\nde testá-los?\fVocê acha que consegue fazer isso pra mim?\nSério?</message>
-	<message index="4" name="msg_m1001_001_01_2">Oh, no... \nIf no one can use them to their full potential,\nthere's not much use.</message>
-	<message index="5" name="msg_m1003_003_01_1">Oh, no! Dr. Eggman's mechs, the ones that\nstole away Princess Elise, are invading\nthe town to look for something!\fSonic!\nCan you help us?</message>
+	<message index="4" name="msg_m1001_001_01_2">Ah, não... \nNão existe ninguém capaz de usar todo o potencial deles,\nnão tem muito o que fazer.</message>
+	<message index="5" name="msg_m1003_003_01_1">Ah, não! Os robôs do Dr. Eggman, aqueles que\nsequestraram a Princessa Elise, eles estão invadindo a cidade!\nParece que estão procurando algo...\fSonic!\nVocê pode nos ajudar?</message>
 	<message index="6" name="msg_m1004_004_01_1">Help!\nMy precious Pele is over there... \fHelp Pele!\nPlease!</message>
 	<message index="7" name="msg_m1004_004_01_2">Fine! I can save him by myself!</message>
 	<message index="8" name="msg_m1005_005_01_1">Hey Sonic!\nFight us!\fWe're the Soleanna Boys!\nWe're here to protect Soleanna.\fThere's six of us. When we're older, we're\ngoing to join the Soleannan royal guards,\nand defend this country!\fEveryone says you'll save Princess Elise, but\nwe don't believe that. Let's see if you can\ndefeat us, first!\fHow about it? Are you going to show us what\nyou've got?</message>
