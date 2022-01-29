@@ -283,7 +283,7 @@
 	<message index="280" name="msg_t00007b157_01_1">Luppyluppy!\fAh, me perdoe. Não se assuste.\nEssa é uma nova saudação que eu inventei.\fEu misturei "luppy" e "luppy" em uma palavra!\n"Luppyluppy"!\fIEm tempos assim, é importante ser otimista!</message>
 	<message index="281" name="msg_t00007b158_01_1">Ei, você é um turista?\nDeixe-me falar sobre a culinária de Soleanna.\fAs doces e suculentas frutas de Soleanna são\nmundialmente famosas, principalmente as maçãs!\fElas são crocantes e cheias de\nsabor! As maçãs de Soleanna\nsão apreciadas no mundo todo.\fAs maçãs também são usadas como um aromatizante oculto em todos os tipos\nde prato em Soleanna.\nExperimente uma se quiser!</message>
 	<message index="282" name="msg_t00007b159_01_1">O que tá acontecendo aqui?\nAinda não consigo encontrar a minha reunião de negócios.\nSerá que eu tô na rua errada...?</message>
-	<message index="283" name="msg_t00007b160_01_1">Hee hee, Hoje eu vou fazer compras com a \na minha filha de novo.\fAinda não chegamos em um acordo em quem vai\ncarregar as bolsas, então estamos trocando a cada\n50 jardas.</message>
+	<message index="283" name="msg_t00007b160_01_1">Hee hee, hoje eu vou fazer compras com a \na minha filha de novo.\fAinda não chegamos em um acordo em quem vai\ncarregar as bolsas, então estamos trocando a cada\n50 jardas.</message>
 	<message index="284" name="msg_t00007b161_01_1">Meu deus, minha mãe é tão teimosa!\nEu disse que eu iria carregar as bolsas, mas ela \nnão me ouve!\fMas eu acho que também sou teimosa... \nEu sou a filha dela afinal de contas! Ha!</message>
 	<message index="285" name="msg_t00007b162_01_1">Pare! Não se mova!\fNão está aqui... Não está aqui!\nE nem aqui também!\nVou ter que procurar tudo de novo!\fO que foi?\nAh, sim, você já pode voltar a se mexer agora.</message>
 	<message index="286" name="msg_t00007b163_01_1">Não olhe pra mim.\nEu odeio quando as pessoas olham pra mim... </message>
@@ -333,145 +333,145 @@
 	<message index="330" name="msg_t00009b153_01_1">Eu tentei ir salvar a Princesa!\nMas eu dei de cara com um dos robôs do Eggman,\ne ele veio correndo atrás de mim... \fAquilo foi assustador! Minha namorada estava comigo,\nmas daí eu perdi ela de vista. Eu preciso\nencontrá-la logo, senão ela vai me dar um tapa daqueles!</message>
 	<message index="331" name="msg_t00009b154_01_1">Eu estava com o meu namorado, mas nós nos separamos\nno meio da confusão. Pra onde será que ele foi?\fNós prometemos que ficaríamos juntos\npra sempre... *aff*</message>
 	<message index="332" name="msg_t00009b155_01_1">Os robôs do Eggman também estão aparecendo na cidade... \fEu entendo como todos estão se sentindo, mas\nprecisamos ter certeza de que não vamos entrar em pânico.\fMedo e preocupação sempre levam ao pânico.\nVocê deve sempre manter a calma também.</message>
-	<message index="333" name="msg_t00009b156_01_1">This girl says she got lost, and can't find\nher boyfriend. So I'm helping her look for him.\fMy job as a journalist is important too,\nbut I can't just ignore her... \fIt's times like this, when we all need to\nfight against evil, we really need\nto come together in the spirit of cooperation.\fWhoa. Where did that come from?\nNever mind, forget I said anything.</message>
-	<message index="334" name="msg_t00009b157_01_1">Luppyluppy!\fOh, sorry. Don't be scared.\nThis is a new greeting I came up with.\fI've combined "luppy" and "luppy" into one word!\n"Luppyluppy"!\fIn times like these, it's important to stay upbeat!</message>
-	<message index="335" name="msg_t00009b158_01_1">Hey, are you a tourist?\nLet me tell you about Soleannan cuisine.\fThe tastiest part of any Soleannan meal\nis the dessert!\fSorbets made with fresh fruit,\nflavorful gelatos... \nThere's nothing wrong with loving dessert!\fI can never get enough dessert!\nThat's why I keep gaining weight... \nIt's terrible... </message>
-	<message index="336" name="msg_t00009b159_01_1">What's going on here?\nI still can't find my business meeting.\nIs this the wrong street...?</message>
-	<message index="337" name="msg_t00009b160_01_1">Hee hee, I'm out shopping with my daughter\nagain today.\fWe can't agree on who's going to carry\nthe bags, so we're switching every\n50 yards.</message>
-	<message index="338" name="msg_t00009b161_01_1">Geez, my mom's so stubborn!\nI said I'd carry the bags, but she just\nwon't listen!\fBut I guess I'm just as stubborn... \nI'm her daughter, after all! Ha!</message>
-	<message index="339" name="msg_t00009b162_01_1">Freeze! Don't move!\fHere it is!\nI found my contact lens!\nI'm so glad!\fWhat's wrong with you?\nOh, you can move now.\fIt flew all the way over here... \nI'm so glad I kept looking for it.</message>
-	<message index="340" name="msg_t00009b163_01_1">What do you want?\nGo away.\fIt looks like Agent Rouge did well... \nI didn't have to do anything.\fHm?\nNo, nothing.\nGo away.</message>
-	<message index="341" name="msg_t00009b164_01_1">We're the Soleannan Patrol!\fWe need to arm ourselves for the upcoming\nbattle against Eggman!\fI'm a melee fighting kind of guy, so I'm going\nto use the bat my dad got me!</message>
-	<message index="342" name="msg_t00009b165_01_1">We're the Soleannan Patrol!\fWe must arm ourselves for the upcoming\nbattle against Eggman.\fI'm more of a ranged fighter, so I'm going to use\nthe super water rifle my mom bought me!</message>
-	<message index="343" name="msg_t00009b166_01_1">Hm? You want to know what I'm doing?\nIt's a long story, but... \fToday was supposed to be the day of my first\ninternational business trip. I've had the worst\nluck, but I thought I could finally go today.\fBut they say that something happened,\nand the station is closed.\fThe company I was going to meet with\nis mad at me, and my boss says I'm fired.\nWhat am I supposed to do now?\fWell, since I lost my job anyway,\nmaybe I'll write a book about my experiences.\f"How To Have the Worst Luck Ever"... \nNo one's going to buy that, are they?</message>
-	<message index="344" name="msg_t00009b167_01_1">This is the Soleanna City Station.\nIf you see anything suspicious in the station\nor on the trains, please let us know.</message>
-	<message index="345" name="msg_t00009b168_01_1">This is the gate between the Castle Town and\nthe New City. I'm guarding it to make sure no\nsuspicious people pass through.</message>
-	<message index="346" name="msg_t00009b169_01_1">This is a warehouse.\nIf you don't have any business here, stay away.</message>
-	<message index="347" name="msg_t00009b170_01_1">I'm a starving artist, as you can see.\nI was offered a lot of money to do a forgery\nof a famous artist's painting of the sea... \fBut I turned it down.\nI want to paint my own art, not get money for\nfaking someone else's.\fThen the guy took off his hat, and said,\n"I've been looking for someone like you."\nIt was a world-famous painter!\fHe agreed to take me on as his apprentice,\nand he never takes apprentices!\nI'm so happy, I don't know what to think!\fI can't believe something like this would\nhappen! I'm so glad I didn't give up... </message>
-	<message index="348" name="msg_t00009b171_01_1">Welcome.\nPlease let me know when you're ready to order.</message>
-	<message index="349" name="msg_t00009b172_01_1">Coo... </message>
-	<message index="350" name="msg_t00009b174_01_1">Such nice weather we're having.\nNothing beats a good walk when the weather's\nnice.</message>
-	<message index="351" name="msg_t00009b175_01_1">The owner of the shop is named Enrique.\nHe's a good guy.\nHe never gives discounts, though.</message>
-	<message index="352" name="msg_t00009b199_01_1">I'm the town's accordion player.\nOnce everything's over, I'll make a song\nabout your adventures.</message>
-	<message index="353" name="msg_t00009c251_01_1">If you go straight on here\nthere's a gate leading to the city.</message>
-	<message index="354" name="msg_t00009c252_01_1">I wonder what that tower is\nat the top of the hill?\nIt looks really old... </message>
-	<message index="355" name="msg_t00009c253_01_1">The other day, my dad says,\n"Good kids who listen to Mom deserve\na nice present."\fSo I told him!\f"That's a good idea, Dad. Why don't you\ngo get yourself a nice present?"</message>
-	<message index="356" name="msg_t00009c254_01_1">My daughter has started telling jokes, too.\nNot only that, she's even funnier than I am.\fWe're going to be the funniest\nfather-daughter comedy duo ever!\nHa, ha!</message>
-	<message index="357" name="msg_t00009c255_01_1">There's so much unpleasantness in the city\nand Castle Town these days. I've been coming\nout to the woods a lot more often.</message>
+	<message index="333" name="msg_t00009b156_01_1">Essa garota disse que se perdeu, e que não consegue achar\no seu namorado. Então eu estou ajudando ela a encontrá-lo.\fO meu trabalho como jornalista também é importante,\nmas eu não posso só ignorá-la... \fSão em tempos como esse, quando todos nós precisamos\nlutar contra o mal, nós realmente precisamos\nse unir com o espírito de cooperação.\fUou. De onde isso veio?\nNão importa, esquece o que eu acabei de dizer.</message>
+	<message index="334" name="msg_t00009b157_01_1">Luppyluppy!\fAh, me perdoe. Não se assuste.\nEssa é uma nova saudação que eu inventei.\fEu misturei "luppy" e "luppy" em uma palavra!\n"Luppyluppy"!\fIEm tempos assim, é importante ser otimista!</message>
+	<message index="335" name="msg_t00009b158_01_1">Ei, você é um turista?\nDeixe-me falar sobre a culinária de Soleanna.\fA parte mais saborosa de qualquer refeição\nem Soleanna é a sobremesa!\fSorvetes feitos com frutas frescas,\ngelatos saborosos... \nNão há nada de errado em amar sobremesas!\fEu sempre fico com mais vontade comer mais e mais!\nEsse é o motivo de eu continuar ganhando peso... \nQue saco... </message>
+	<message index="336" name="msg_t00009b159_01_1">O que está acontecendo aqui?\nAinda não consigo encontrar minha reunião de negócios.\nSerá que eu tô na rua errada...?</message>
+	<message index="337" name="msg_t00009b160_01_1">Hee hee, hoje eu vou fazer compras com a \na minha filha de novo.\fAinda não chegamos em um acordo em quem vai\ncarregar as bolsas, então estamos trocando a cada\n50 jardas.</message>
+	<message index="338" name="msg_t00009b161_01_1">Meu deus, minha mãe é tão teimosa!\nEu disse que eu iria carregar as bolsas, mas ela \nnão me ouve!\fMas eu acho que também sou teimosa... \nEu sou a filha dela afinal de contas! Ha!</message>
+	<message index="339" name="msg_t00009b162_01_1">Pare! Não se mova!\fAqui está!\nEncontrei minhas lentes de contato!\nEstou tão feliz!\fO que foi?\nAh, você já pode voltar a se mexer agora.\fElas devem ter voado até aqui... \nAinda bem que eu consegui encontrá-las.</message>
+	<message index="340" name="msg_t00009b163_01_1">O que você quer?\nSaia daqui.\fParece que a Agente Rouge se saiu bem... \nEu não tive que fazer nada.\fQue?\nNão, nadinha.\nAgora vai embora, por favor.</message>
+	<message index="341" name="msg_t00009b164_01_1">Somos a Patrulha de Soleanna!\fPrecisamos nos armar para a próxima\nbatalha contra o Eggman!\fEu sou um cara que prefere lutas corpo a corpo, então eu vou\nusar o bastão que o meu pai me deu!</message>
+	<message index="342" name="msg_t00009b165_01_1">Somos a Patrulha de Soleanna!\fPrecisamos nos armar para a próxima\nbatalha contra o Eggman!\fEu prefiro lutas a distância, então eu vou usar\no super rifle de água que a minha mãe me deu!</message>
+	<message index="343" name="msg_t00009b166_01_1">Hm? Você quer saber o que tá acontecendo?\nÉ uma longa história, mas... \fHoje era pra ser o dia da minha primeira\nviagem internacional de negócios. Eu tive um azar\ndanado, mas eu pensei que eu iria poder viajar hoje.\fPorém me disseram que algo havia acontecido,\ne que agora a estação está fechada.\fA companhia que iria conhecer\nestá zangada comigo, e o meu chefe disse que eu fui demitido.\nO que eu faço agora?\fBem, agora que eu perdi o meu emprego,\ntalvez eu vá escrever um livro sobre as minhas experiências.\f"Como ser a pessoa mais azarada do mundo"... \nAcho que ninguém vai querer ler isso...</message>
+	<message index="344" name="msg_t00009b167_01_1">Essa é a estação de Soleanna.\nSe você ver algo suspeito na estação\nou nos trens, por favor nos avise.</message>
+	<message index="345" name="msg_t00009b168_01_1">Esse é o portão entre a Cidade do Castelo e\na Nova Cidade. Estou tomando conta para garantir que\nninguém suspeito passe.</message>
+	<message index="346" name="msg_t00009b169_01_1">Isso é um armazém.\nSe você não foi chamado para vir aqui, então vá embora.</message>
+	<message index="347" name="msg_t00009b170_01_1">Como você pode ver, eu sou um artista nato.\nAlguém havia me oferecido muito dinheiro para falsificar\npinturas do oceano de artistas famosos... \fMas eu recusei.\nEu quero fazer as minhas próprias pinturas, e não perder minha honra\ncriando falsificações.\fE então essa pessoa tirou o chapéu e disse:\n"Eu estava procurando alguém como você"\nE adivinha? Ele era um artista famoso!\fEle concordou em me aceitar como seu aprendiz,\ne olha que ele não costuma fazer isso!\nEstou tão feliz! Eu tô de queixo caído até agora!\fJamais imaginei que algo assim iria\nacontecer! Ainda bem que não abri mão da minha honra... </message>
+	<message index="348" name="msg_t00009b171_01_1">Bem-vindo.\nPor favor, nos avise quando quiser pedir algo.</message>
+	<message index="349" name="msg_t00009b172_01_1">Lega... </message>
+	<message index="350" name="msg_t00009b174_01_1">Que clima incrível que está tendo.\nNada supera uma boa caminhada quando o clima está\nbom.</message>
+	<message index="351" name="msg_t00009b175_01_1">O dono da lojinha se chama Enrique.\nEle é uma boa pessoa.\nPorém, ele nunca dá um desconto pra alguém.</message>
+	<message index="352" name="msg_t00009b199_01_1">Eu sou o tocador de acordião da cidade.\nQuando tudo isso acabar, Eu irei fazer uma música\nsobre as suas aventuras.</message>
+	<message index="353" name="msg_t00009c251_01_1">Se você seguir reto por aqui,\nvocê verá um portão que te leva para a cidade.</message>
+	<message index="354" name="msg_t00009c252_01_1">O que é aquela torre\nno topo da colina?\nEla parece ser bem antiga... </message>
+	<message index="355" name="msg_t00009c253_01_1">Uma vez o meu pai me disse:\n"Boas crianças que escutam a mãe perecem\num belo presente."\fE então eu disse!\f"Boa ideia, pai. Por que você mesmo\nnão vai buscar um presente?"</message>
+	<message index="356" name="msg_t00009c254_01_1">Minha filha também começou a contar piadas.\nNão só isso, ela também é bem mais engraçada do que eu.\fNós seremos a dupla de pai e filha mais\nengraçada do planeta!\nHa, ha!</message>
+	<message index="357" name="msg_t00009c255_01_1">Há tanta coisa desagradável na Nova Cidade\ne na Cidade do Castelo hoje em dia. Eu tenho\nvindo para a floresta com bem mais frequência.</message>
 	<message index="358" name="msg_t_n051">Emma</message>
 	<message index="359" name="msg_t_n052">Moldi</message>
-	<message index="360" name="msg_t_n053">Old Man</message>
-	<message index="361" name="msg_t_n054">Middle-aged Man</message>
-	<message index="362" name="msg_t_n055">Girl</message>
-	<message index="363" name="msg_t_n056">Middle-aged Woman</message>
-	<message index="364" name="msg_t_n057">Soleannan Soldier</message>
-	<message index="365" name="msg_t_n058">Soleannan Soldier</message>
-	<message index="366" name="msg_t_n059">Boy</message>
-	<message index="367" name="msg_t_n060">Soleannan Soldier</message>
-	<message index="368" name="msg_t_n061">Middle-aged Man</message>
-	<message index="369" name="msg_t_n062">Old Man</message>
-	<message index="370" name="msg_t_n063">Woman</message>
-	<message index="371" name="msg_t_n064">Woman</message>
-	<message index="372" name="msg_t_n065">Soleannan Soldier</message>
-	<message index="373" name="msg_t_n066">Soleannan Soldier</message>
-	<message index="374" name="msg_t_n067">Young man</message>
-	<message index="375" name="msg_t_n068">Middle-aged Woman</message>
-	<message index="376" name="msg_t_n069">Woman</message>
-	<message index="377" name="msg_t_n070">Woman</message>
-	<message index="378" name="msg_t_n071">Young man</message>
-	<message index="379" name="msg_t_n072">Young man</message>
-	<message index="380" name="msg_t_n073">Old Man</message>
-	<message index="381" name="msg_t_n074">Old Man</message>
-	<message index="382" name="msg_t_n151">Woman</message>
-	<message index="383" name="msg_t_n152">Businessman</message>
-	<message index="384" name="msg_t_n153">Boy</message>
-	<message index="385" name="msg_t_n154">Girl</message>
-	<message index="386" name="msg_t_n155">Old Man</message>
-	<message index="387" name="msg_t_n156">Woman</message>
-	<message index="388" name="msg_t_n157">Middle-aged Man</message>
-	<message index="389" name="msg_t_n158">Middle-aged Man</message>
-	<message index="390" name="msg_t_n159">Businessman</message>
-	<message index="391" name="msg_t_n160">Middle-aged Woman</message>
-	<message index="392" name="msg_t_n161">Woman</message>
-	<message index="393" name="msg_t_n162">Businesswoman</message>
-	<message index="394" name="msg_t_n163">Middle-aged Man</message>
-	<message index="395" name="msg_t_n164">Boy</message>
-	<message index="396" name="msg_t_n165">Boy</message>
-	<message index="397" name="msg_t_n166">Businessman</message>
-	<message index="398" name="msg_t_n167">Soleannan Soldier</message>
-	<message index="399" name="msg_t_n168">Soleannan Soldier</message>
-	<message index="400" name="msg_t_n169">Soleannan Soldier</message>
-	<message index="401" name="msg_t_n170">Painter</message>
-	<message index="402" name="msg_t_n171">Waiter</message>
+	<message index="360" name="msg_t_n053">Homem Idoso</message>
+	<message index="361" name="msg_t_n054">Homem de Meia-idade</message>
+	<message index="362" name="msg_t_n055">Garota</message>
+	<message index="363" name="msg_t_n056">Mulher de Meia-idade</message>
+	<message index="364" name="msg_t_n057">Soldado de Soleanna</message>
+	<message index="365" name="msg_t_n058">Soldado de Soleanna</message>
+	<message index="366" name="msg_t_n059">Garato</message>
+	<message index="367" name="msg_t_n060">Soldado de Soleanna</message>
+	<message index="368" name="msg_t_n061">Homem de Meia-idade</message>
+	<message index="369" name="msg_t_n062">Homem Idoso</message>
+	<message index="370" name="msg_t_n063">Mulher</message>
+	<message index="371" name="msg_t_n064">Mulher</message>
+	<message index="372" name="msg_t_n065">Soldado de Soleanna</message>
+	<message index="373" name="msg_t_n066">Soldado de Soleanna</message>
+	<message index="374" name="msg_t_n067">Homem Jovem</message>
+	<message index="375" name="msg_t_n068">Mulher de Meia-idade</message>
+	<message index="376" name="msg_t_n069">Mulher</message>
+	<message index="377" name="msg_t_n070">Mulher</message>
+	<message index="378" name="msg_t_n071">Homem Jovem</message>
+	<message index="379" name="msg_t_n072">Homem Jovem</message>
+	<message index="380" name="msg_t_n073">Homem Idoso</message>
+	<message index="381" name="msg_t_n074">Homem Idoso</message>
+	<message index="382" name="msg_t_n151">Mulher</message>
+	<message index="383" name="msg_t_n152">Homem de Negócios</message>
+	<message index="384" name="msg_t_n153">Garoto</message>
+	<message index="385" name="msg_t_n154">Garota</message>
+	<message index="386" name="msg_t_n155">Homem Idoso</message>
+	<message index="387" name="msg_t_n156">Mulher</message>
+	<message index="388" name="msg_t_n157">Homem de Meia-idade</message>
+	<message index="389" name="msg_t_n158">Homem de Meia-idade</message>
+	<message index="390" name="msg_t_n159">Homem de Negócios</message>
+	<message index="391" name="msg_t_n160">Mulher de Meia-idade</message>
+	<message index="392" name="msg_t_n161">Mulher</message>
+	<message index="393" name="msg_t_n162">Mulher de Negócios</message>
+	<message index="394" name="msg_t_n163">Homem de Meia-idade</message>
+	<message index="395" name="msg_t_n164">Garoto</message>
+	<message index="396" name="msg_t_n165">Garoto</message>
+	<message index="397" name="msg_t_n166">Homem de Negócios</message>
+	<message index="398" name="msg_t_n167">Soldado de Soleanna</message>
+	<message index="399" name="msg_t_n168">Soldado de Soleanna</message>
+	<message index="400" name="msg_t_n169">Soldado de Soleanna</message>
+	<message index="401" name="msg_t_n170">Pintor</message>
+	<message index="402" name="msg_t_n171">Garçom</message>
 	<message index="403" name="msg_t_n172">Hatsun</message>
-	<message index="404" name="msg_t_n173">Station Worker</message>
-	<message index="405" name="msg_t_n174">Young man</message>
-	<message index="406" name="msg_t_n175">Young man</message>
-	<message index="407" name="msg_t_n176">Young man</message>
-	<message index="408" name="msg_t_n177">Young man</message>
-	<message index="409" name="msg_t_n178">Young man</message>
-	<message index="410" name="msg_t_n179">Young man</message>
-	<message index="411" name="msg_t_n180">Young man</message>
-	<message index="412" name="msg_t_n181">Woman</message>
-	<message index="413" name="msg_t_n199">Accordion Player</message>
-	<message index="414" name="msg_t_n251">Young man</message>
-	<message index="415" name="msg_t_n252">Boy</message>
-	<message index="416" name="msg_t_n253">Woman</message>
-	<message index="417" name="msg_t_n254">Middle-aged Man</message>
-	<message index="418" name="msg_t_n255">Old Man</message>
-	<message index="419" name="msg_t_npp001">Townsperson</message>
-	<message index="420" name="msg_t_npp002">Young man</message>
-	<message index="421" name="msg_t_npp003">Woman</message>
-	<message index="422" name="msg_t_npp004">Youth</message>
-	<message index="423" name="msg_t_npp005">Man</message>
-	<message index="424" name="msg_t_npp006">Woman</message>
-	<message index="425" name="msg_t_npp007">Middle-aged Man</message>
-	<message index="426" name="msg_t_npp008">Middle-aged Woman</message>
-	<message index="427" name="msg_t_npp009">Old Man</message>
-	<message index="428" name="msg_t_npp010">Old Woman</message>
-	<message index="429" name="msg_t_npp011">Child</message>
-	<message index="430" name="msg_t_npp012">Boy</message>
-	<message index="431" name="msg_t_npp013">Girl</message>
-	<message index="432" name="msg_t_npp014">Young Child</message>
-	<message index="433" name="msg_t_npp015">Little Boy</message>
-	<message index="434" name="msg_t_npp016">Little Girl</message>
-	<message index="435" name="msg_t_npp017">Businessman</message>
-	<message index="436" name="msg_t_npp018">Businesswoman</message>
-	<message index="437" name="msg_t_npp019">Soleannan Soldier</message>
-	<message index="438" name="msg_t_npp020">Guard</message>
-	<message index="439" name="msg_t_npp021">Station Worker</message>
-	<message index="440" name="msg_t_npp022">Gondolier</message>
-	<message index="441" name="msg_t_npp023">Thief</message>
-	<message index="442" name="msg_t_npp024">Accordion Player</message>
-	<message index="443" name="msg_t_npp025">Waiter</message>
-	<message index="444" name="msg_t_npp026">Camera Crew</message>
+	<message index="404" name="msg_t_n173">Funcionário da Estação</message>
+	<message index="405" name="msg_t_n174">Homem Jovem</message>
+	<message index="406" name="msg_t_n175">Hovem Jovem</message>
+	<message index="407" name="msg_t_n176">Homem Jovem</message>
+	<message index="408" name="msg_t_n177">Homem Jovem</message>
+	<message index="409" name="msg_t_n178">Homem Jovem</message>
+	<message index="410" name="msg_t_n179">Homem Jovem</message>
+	<message index="411" name="msg_t_n180">Homem Jovem</message>
+	<message index="412" name="msg_t_n181">Mulher</message>
+	<message index="413" name="msg_t_n199">Tocador de Acordião</message>
+	<message index="414" name="msg_t_n251">Homem Jovem</message>
+	<message index="415" name="msg_t_n252">Garoto</message>
+	<message index="416" name="msg_t_n253">Mulher</message>
+	<message index="417" name="msg_t_n254">Homem de Meia-idade</message>
+	<message index="418" name="msg_t_n255">Homem Idoso</message>
+	<message index="419" name="msg_t_npp001">Cidadão</message>
+	<message index="420" name="msg_t_npp002">Homem Jovem</message>
+	<message index="421" name="msg_t_npp003">Mulher</message>
+	<message index="422" name="msg_t_npp004">Jovem</message>
+	<message index="423" name="msg_t_npp005">Homem</message>
+	<message index="424" name="msg_t_npp006">Mulher</message>
+	<message index="425" name="msg_t_npp007">Homem de Meia-idade</message>
+	<message index="426" name="msg_t_npp008">Mulher de Meia-idade</message>
+	<message index="427" name="msg_t_npp009">Homem Idoso</message>
+	<message index="428" name="msg_t_npp010">Mulher Idosa</message>
+	<message index="429" name="msg_t_npp011">Criança</message>
+	<message index="430" name="msg_t_npp012">Garoto</message>
+	<message index="431" name="msg_t_npp013">Garota</message>
+	<message index="432" name="msg_t_npp014">Jovem Criança</message>
+	<message index="433" name="msg_t_npp015">Garotinho</message>
+	<message index="434" name="msg_t_npp016">Garotinha</message>
+	<message index="435" name="msg_t_npp017">Homem de Negócios</message>
+	<message index="436" name="msg_t_npp018">Mulher de Negócios</message>
+	<message index="437" name="msg_t_npp019">Soldado de Soleanna</message>
+	<message index="438" name="msg_t_npp020">Guarda</message>
+	<message index="439" name="msg_t_npp021">Funcionário da Estação</message>
+	<message index="440" name="msg_t_npp022">Gondoleiro</message>
+	<message index="441" name="msg_t_npp023">Ladrão</message>
+	<message index="442" name="msg_t_npp024">Tocador de Acordião</message>
+	<message index="443" name="msg_t_npp025">Garçom</message>
+	<message index="444" name="msg_t_npp026">Equipe de Filmagens</message>
 	<message index="445" name="msg_t_npp027">Sonicman</message>
-	<message index="446" name="msg_t_npp028">Shop Worker</message>
+	<message index="446" name="msg_t_npp028">Comerciante</message>
 	<message index="447" name="msg_t_npp029">Enrique</message>
-	<message index="448" name="msg_t_npp030">Worker</message>
-	<message index="449" name="msg_t_npp031">Painter</message>
-	<message index="450" name="msg_t_npp032">Director</message>
-	<message index="451" name="msg_t_npp033">Priest</message>
-	<message index="452" name="msg_t_npp034">Bishop</message>
-	<message index="453" name="msg_t_npp035">Archaeologist</message>
-	<message index="454" name="msg_t_npp036">Agent</message>
-	<message index="455" name="msg_t_npp037">Lady-in-waiting</message>
-	<message index="456" name="msg_t_npp038">GUN Soldier</message>
-	<message index="457" name="msg_t_npp039">Lord Regis</message>
+	<message index="448" name="msg_t_npp030">Trabalhador</message>
+	<message index="449" name="msg_t_npp031">Pintor</message>
+	<message index="450" name="msg_t_npp032">Diretor</message>
+	<message index="451" name="msg_t_npp033">Sacerdote</message>
+	<message index="452" name="msg_t_npp034">Bispo</message>
+	<message index="453" name="msg_t_npp035">Arqueólogo</message>
+	<message index="454" name="msg_t_npp036">Agente</message>
+	<message index="455" name="msg_t_npp037">Dama de Companhia</message>
+	<message index="456" name="msg_t_npp038">Soldado da GUN</message>
+	<message index="457" name="msg_t_npp039">Lorde Regis</message>
 	<message index="458" name="msg_t_npp040">Francesca</message>
-	<message index="459" name="msg_t_npp041">Mother</message>
-	<message index="460" name="msg_t_npp042">Royal Guard</message>
-	<message index="461" name="msg_t_npp043">Royal Guard Alessio</message>
-	<message index="462" name="msg_t_npp044">Lieutenant</message>
-	<message index="463" name="msg_t_npp045">Captain</message>
+	<message index="459" name="msg_t_npp041">Mãe</message>
+	<message index="460" name="msg_t_npp042">Guarda Real</message>
+	<message index="461" name="msg_t_npp043">Guarda Real Alessio</message>
+	<message index="462" name="msg_t_npp044">Tenente</message>
+	<message index="463" name="msg_t_npp045">Capitão</message>
 	<message index="464" name="msg_t_npp046">Pietro</message>
 	<message index="465" name="msg_t_npp047">Guido</message>
 	<message index="466" name="msg_t_npp048">Georgio</message>
 	<message index="467" name="msg_t_npp049">Alessio</message>
 	<message index="468" name="msg_t_npp050">Fabio</message>
-	<message index="469" name="msg_t_npp051">Researcher</message>
-	<message index="470" name="msg_t_npp052">Former Researcher</message>
-	<message index="471" name="msg_t_npp053">Rimlight Employee</message>
+	<message index="469" name="msg_t_npp051">Pesquisador</message>
+	<message index="470" name="msg_t_npp052">Ex-pesquisador</message>
+	<message index="471" name="msg_t_npp053">Funcionário da Rimlight</message>
 	<message index="472" name="msg_t_npp054">Emma</message>
 	<message index="473" name="msg_t_npp055">Moldi</message>
 	<message index="474" name="msg_t_npp056">Hatsun</message>
