@@ -453,160 +453,160 @@
 	<message index="450" name="msg_superhard">SUPER DIFÍCIL</message>
 	<message index="451" name="msg_ultimate">SUPREMO</message>
 	<message index="452" name="sonic_stg_wvo">Persiga o Egg Cargueiro!</message>
-	<message index="453" name="sonic_stg_dtd_sonic">Escape Dr. Eggman's Minions!</message>
-	<message index="454" name="sonic_stg_wap">Infiltrate Dr. Eggman's Base!</message>
-	<message index="455" name="sonic_stg_csc">Find the Database!</message>
-	<message index="456" name="sonic_stg_flc">Find the Chaos Emerald!</message>
-	<message index="457" name="sonic_stg_rdt">Follow Dr. Eggman's Train!</message>
-	<message index="458" name="sonic_stg_tpj">Avoid Dr. Eggman's Pursuit!</message>
-	<message index="459" name="sonic_stg_wvo_tails">Follow Elise!</message>
-	<message index="460" name="sonic_sonic_stg_kdv">Follow the Egg Carrier!</message>
-	<message index="461" name="sonic_stg_aqa">Stop the Egg Carrier's Launch!</message>
-	<message index="462" name="last_stg_end">Collect the 7 Chaos Emeralds!</message>
-	<message index="463" name="all_stg_2nd">Gather 100 Rings!</message>
-	<message index="464" name="sonic_stg_wvo_3rd">Defeat $ Enemies!</message>
-	<message index="465" name="sonic_stg_dtd_sonic_3rd">Defeat $ Enemies!</message>
-	<message index="466" name="sonic_stg_wap_3rd">Defeat $ Enemies!</message>
-	<message index="467" name="sonic_stg_csc_3rd">Defeat $ Enemies!</message>
-	<message index="468" name="sonic_stg_flc_3rd">Defeat $ Enemies!</message>
-	<message index="469" name="sonic_stg_rdt_3rd">Defeat $ Enemies!</message>
-	<message index="470" name="sonic_stg_tpj_3rd">Defeat $ Enemies!</message>
-	<message index="471" name="sonic_stg_wvo_tails_3rd">Defeat $ Enemies!</message>
-	<message index="472" name="sonic_sonic_stg_kdv_3rd">Defeat $ Enemies!</message>
-	<message index="473" name="sonic_stg_aqa_3rd">Defeat $ Enemies!</message>
-	<message index="474" name="last_stg_end_3rd">Defeat $ Enemies!</message>
-	<message index="475" name="sonic_stg_wvo_4th">Reach the Goal Within $</message>
-	<message index="476" name="sonic_stg_dtd_sonic_4th">Reach the Goal Within $</message>
-	<message index="477" name="sonic_stg_wap_4th">Reach the Goal Within $</message>
-	<message index="478" name="sonic_stg_csc_4th">Reach the Goal Within $</message>
-	<message index="479" name="sonic_stg_flc_4th">Reach the Goal Within $</message>
-	<message index="480" name="sonic_stg_rdt_4th">Reach the Goal Within $</message>
-	<message index="481" name="sonic_stg_tpj_4th">Reach the Goal Within $</message>
-	<message index="482" name="sonic_stg_wvo_tails_4th">Reach the Goal Within $</message>
-	<message index="483" name="sonic_sonic_stg_kdv_4th">Reach the Goal Within $</message>
-	<message index="484" name="sonic_stg_aqa_4th">Reach the Goal Within $</message>
-	<message index="485" name="last_stg_end_4th">Reach the Goal Within $</message>
-	<message index="486" name="all_stg_5th">Clear Hard Mode!</message>
-	<message index="487" name="msg_act01">Get to the Goal Ring!</message>
-	<message index="488" name="msg_act02">Get to the goal within $ minutes!</message>
-	<message index="489" name="msg_act03">Collect $ Rings!</message>
-	<message index="490" name="msg_act04">Defeat all enemies!</message>
-	<message index="491" name="msg_act05">Wipe out all enemies!</message>
-	<message index="492" name="msg_act06">Get to the goal within $ minutes!</message>
-	<message index="493" name="msg_act07">Collect $ Rings!</message>
-	<message index="494" name="msg_act08">Get to the goal before your rival!</message>
-	<message index="495" name="msg_act09">Get to the goal before the ghost!</message>
-	<message index="496" name="msg_act10">Find $ Chao!</message>
-	<message index="497" name="msg_act11">Find the Goal Ring!</message>
-	<message index="498" name="msg_act12">Get to the new Goal Ring!</message>
-	<message index="499" name="msg_act13">Clear the minigame!</message>
-	<message index="500" name="msg_act14">Clear hard mode!</message>
-	<message index="501" name="msg_act15">Collect the Chaos Emeralds and save Sonic!</message>
-	<message index="502" name="msg_b0129">Find the Chaos Emerald!</message>
-	<message index="503" name="msg_act16">Defeat Iblis!</message>
-	<message index="504" name="msg_act17">Defeat Dr. Eggman!</message>
-	<message index="505" name="msg_act18">Defeat Mephiles!</message>
-	<message index="506" name="msg_act19">Defeat Dr. Eggman and save Elise!</message>
-	<message index="507" name="msg_act20">Defeat Mephiles!</message>
-	<message index="508" name="msg_act21">Seal away Iblis!</message>
-	<message index="509" name="msg_act22">Defeat Sonic!</message>
-	<message index="510" name="msg_act23">Defeat Shadow!</message>
-	<message index="511" name="msg_act24">Defeat Silver!</message>
-	<message index="512" name="msg_act25">Defeat Solaris!</message>
-	<message index="513" name="msg_act26">Stop the out-of-control Solaris!</message>
-	<message index="514" name="msg_act27">Defeat Egg Genesis!</message>
-	<message index="515" name="msg_act28">Defeat Egg Cerberus!</message>
-	<message index="516" name="msg_act29">Defeat Egg Wyvern!</message>
-	<message index="517" name="msg_twn_sonic01">Collect information!</message>
-	<message index="518" name="msg_twn_sonic02">Find out where Dr. Eggman's battleship went!</message>
-	<message index="519" name="msg_twn_sonic03">Collect information about Dr. Eggman!</message>
-	<message index="520" name="msg_twn_sonic04">Meet up with Tails!</message>
-	<message index="521" name="msg_twn_sonic05">Meet up with Tails!</message>
-	<message index="522" name="msg_twn_sonic06">Head for the sea!</message>
-	<message index="523" name="msg_twn_sonic07">Head for the desert!</message>
-	<message index="524" name="msg_twn_sonic08">Get Lord Regis' approval, and go to the desert!</message>
-	<message index="525" name="msg_twn_sonic09">Head for the tunnel to the desert!</message>
-	<message index="526" name="msg_twn_sonic10">Get a pass for the tunnel!</message>
-	<message index="527" name="msg_twn_sonic11">Take Elise, and head for the castle!</message>
-	<message index="528" name="msg_twn_sonic12">Head for the docks!</message>
-	<message index="529" name="msg_twn_sonic13">Go after Elise!</message>
-	<message index="530" name="msg_twn_sonic14">Meet up with Knuckles!</message>
-	<message index="531" name="msg_twn_sonic15">Meet Knuckles in the warehouse district!</message>
-	<message index="532" name="msg_twn_sonic16">Head for Dr. Eggman's base!</message>
-	<message index="533" name="msg_twn_sonic17">Head for the White Acropolis!</message>
-	<message index="534" name="msg_twn_sonic18">Collect information about Elise!</message>
-	<message index="535" name="msg_twn_sonic19">Head for the station!</message>
-	<message index="536" name="msg_twn_sonic20">Get into the station!</message>
-	<message index="537" name="msg_twn_sonic21">Go after Dr. Eggman!</message>
-	<message index="538" name="msg_twn_sonic22">Escape into the jungle!</message>
-	<message index="539" name="msg_twn_sonic23">Escape into the forest!</message>
-	<message index="540" name="msg_twn_sonic24">Go after Elise!</message>
-	<message index="541" name="msg_twn_sonic25">Head for Wave Ocean!</message>
-	<message index="542" name="msg_twn_sonic26">Head for the New City!</message>
-	<message index="543" name="msg_twn_sonic27">Head for the altar in the Castle Town!</message>
-	<message index="544" name="msg_twn_sonic28">Head for the old Soleanna castle!</message>
-	<message index="545" name="msg_twn_sonic29">Meet the bishop!</message>
-	<message index="546" name="msg_twn_sonic30">Complete the trials of Soleanna!</message>
-	<message index="547" name="msg_twn_sonic31">From the royal seal, go to the old castle's entry!</message>
-	<message index="548" name="msg_twn_sonic32">Head for the old castle!</message>
-	<message index="549" name="msg_twn_sonic33">Head for Dr. Eggman's secret base!</message>
-	<message index="550" name="msg_twn_sonic34">Head for the shop!</message>
-	<message index="551" name="msg_twn_sonic35">Buy a "Light Chip"!</message>
-	<message index="552" name="msg_twn_sonic36">Buy an "Anti-Gravity"!</message>
-	<message index="553" name="msg_twn_sonic37">Buy a "Bound Bracelet"!</message>
-	<message index="554" name="shadow_stg_wap">Rescue the Captured Agent!</message>
-	<message index="555" name="shadow_stg_kdv">Head to the Recovery Point!</message>
-	<message index="556" name="shadow_stg_csc">Find the Chaos Emerald!</message>
-	<message index="557" name="shadow_stg_flc">Find the Chaos Emerald!</message>
-	<message index="558" name="shadow_stg_tpj_rouge">Find E-123 Omega!</message>
-	<message index="559" name="shadow_stg_rdt">Follow Dr. Eggman!</message>
-	<message index="560" name="shadow_stg_aqa">Follow Mephiles!</message>
-	<message index="561" name="shadow_stg_wvo">Provide Backup for E-123 Omega!</message>
-	<message index="562" name="shadow_stg_dtd">Find the Chaos Emerald!</message>
-	<message index="563" name="shadow_stg_wap_3rd">Defeat $ Enemies!</message>
-	<message index="564" name="shadow_stg_kdv_3rd">Defeat $ Enemies!</message>
-	<message index="565" name="shadow_stg_csc_3rd">Defeat $ Enemies!</message>
-	<message index="566" name="shadow_stg_flc_3rd">Defeat $ Enemies!</message>
-	<message index="567" name="shadow_stg_tpj_rouge_3rd">Defeat $ Enemies!</message>
-	<message index="568" name="shadow_stg_rdt_3rd">Defeat $ Enemies!</message>
-	<message index="569" name="shadow_stg_aqa_3rd">Defeat $ Enemies!</message>
-	<message index="570" name="shadow_stg_wvo_3rd">Defeat $ Enemies!</message>
-	<message index="571" name="shadow_stg_dtd_3rd">Defeat $ Enemies!</message>
-	<message index="572" name="shadow_stg_wap_4th">Reach the Goal Within $</message>
-	<message index="573" name="shadow_stg_kdv_4th">Reach the Goal Within $</message>
-	<message index="574" name="shadow_stg_csc_4th">Reach the Goal Within $</message>
-	<message index="575" name="shadow_stg_flc_4th">Reach the Goal Within $</message>
-	<message index="576" name="shadow_stg_tpj_rouge_4th">Reach the Goal Within $</message>
-	<message index="577" name="shadow_stg_rdt_4th">Reach the Goal Within $</message>
-	<message index="578" name="shadow_stg_aqa_4th">Reach the Goal Within $</message>
-	<message index="579" name="shadow_stg_wvo_4th">Reach the Goal Within $</message>
-	<message index="580" name="shadow_stg_dtd_4th">Reach the Goal Within $</message>
-	<message index="581" name="msg_twn_shadow01">Head for the extraction point at the old castle!</message>
-	<message index="582" name="msg_twn_shadow02">Head for the old castle!</message>
-	<message index="583" name="msg_twn_shadow03">From the forest, head for Soleanna's old castle!</message>
-	<message index="584" name="msg_twn_shadow04">Light dash across the broken bridge!</message>
-	<message index="585" name="msg_twn_shadow05">Find the glider hidden in the woods!</message>
-	<message index="586" name="msg_twn_shadow06">Destroy the rock blocking the cave!</message>
-	<message index="587" name="msg_twn_shadow07">Use the glider to head to the old castle's entry!</message>
-	<message index="588" name="msg_twn_shadow08">Collect information about E-123 Omega!</message>
-	<message index="589" name="msg_twn_shadow09">Find E-123 Omega!</message>
-	<message index="590" name="msg_twn_shadow10">Head for the jungle!</message>
-	<message index="591" name="msg_twn_shadow11">Meet up with Rouge!</message>
-	<message index="592" name="msg_twn_shadow12">Hurry to the warehouse!</message>
-	<message index="593" name="msg_twn_shadow13">Meet up with Rouge in the warehouse district!</message>
-	<message index="594" name="msg_twn_shadow14">Collect information about Dr. Eggman!</message>
-	<message index="595" name="msg_twn_shadow15">Head for the station!</message>
-	<message index="596" name="msg_twn_shadow16">Collect information on the Scepter of Darkness!</message>
-	<message index="597" name="msg_twn_shadow17">Find the archaeologists!</message>
-	<message index="598" name="msg_twn_shadow18">Find archaeologists in the castle town!</message>
-	<message index="599" name="msg_twn_shadow19">Solve the puzzle of the dark candlestick!</message>
-	<message index="600" name="msg_twn_shadow20">Get the Scepter of Darkness!</message>
-	<message index="601" name="msg_twn_shadow21">Head for Wave Ocean!</message>
-	<message index="602" name="msg_twn_shadow22">Go after E-123 Omega!</message>
-	<message index="603" name="msg_twn_shadow23">Collect information about Mephiles!</message>
-	<message index="604" name="msg_twn_shadow24">Go to the headquarters building in the new city!</message>
-	<message index="605" name="msg_twn_shadow25">Go after Mephiles!</message>
-	<message index="606" name="msg_twn_shadow26">Head for the desert!</message>
+	<message index="453" name="sonic_stg_dtd_sonic">Fuja dos Robôs do Eggman!</message>
+	<message index="454" name="sonic_stg_wap">Infiltre-se na Base do Eggman!</message>
+	<message index="455" name="sonic_stg_csc">Encontre o Banco de Dados!</message>
+	<message index="456" name="sonic_stg_flc">Encontre a Esmeralda do Caos!</message>
+	<message index="457" name="sonic_stg_rdt">Siga o Trem do Eggman!</message>
+	<message index="458" name="sonic_stg_tpj">Fuja do Eggman!</message>
+	<message index="459" name="sonic_stg_wvo_tails">Siga a Elise!</message>
+	<message index="460" name="sonic_sonic_stg_kdv">Siga o Egg Cargueiro!</message>
+	<message index="461" name="sonic_stg_aqa">Impeça que o Egg Cargueiro Decole!</message>
+	<message index="462" name="last_stg_end">Colete as 7 Esmeraldas do Caos!</message>
+	<message index="463" name="all_stg_2nd">Colete 100 Anéis!</message>
+	<message index="464" name="sonic_stg_wvo_3rd">Derrote $ Inimigos!</message>
+	<message index="465" name="sonic_stg_dtd_sonic_3rd">Derrote $ Inimigos!</message>
+	<message index="466" name="sonic_stg_wap_3rd">Derrote $ Inimigos!</message>
+	<message index="467" name="sonic_stg_csc_3rd">Derrote $ Inimigos!</message>
+	<message index="468" name="sonic_stg_flc_3rd">Derrote $ Inimigos!</message>
+	<message index="469" name="sonic_stg_rdt_3rd">Derrote $ Inimigos!</message>
+	<message index="470" name="sonic_stg_tpj_3rd">Derrote $ Inimigos!</message>
+	<message index="471" name="sonic_stg_wvo_tails_3rd">Derrote $ Inimigos!</message>
+	<message index="472" name="sonic_sonic_stg_kdv_3rd">Derrote $ Inimigos!</message>
+	<message index="473" name="sonic_stg_aqa_3rd">Derrote $ Inimigos!</message>
+	<message index="474" name="last_stg_end_3rd">Derrote $ Inimigos!</message>
+	<message index="475" name="sonic_stg_wvo_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="476" name="sonic_stg_dtd_sonic_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="477" name="sonic_stg_wap_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="478" name="sonic_stg_csc_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="479" name="sonic_stg_flc_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="480" name="sonic_stg_rdt_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="481" name="sonic_stg_tpj_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="482" name="sonic_stg_wvo_tails_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="483" name="sonic_sonic_stg_kdv_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="484" name="sonic_stg_aqa_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="485" name="last_stg_end_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="486" name="all_stg_5th">Conclua o Modo Difícil!</message>
+	<message index="487" name="msg_act01">Chegue ao Objetivo!</message>
+	<message index="488" name="msg_act02">Chegue ao Objetivo antes de $ minutos!</message>
+	<message index="489" name="msg_act03">Colete $ Anéis!</message>
+	<message index="490" name="msg_act04">Derrote todos os inimigos!</message>
+	<message index="491" name="msg_act05">Derrote todos os inimigos!</message>
+	<message index="492" name="msg_act06">Chegue ao Objetivo antes de $ minutos!</message>
+	<message index="493" name="msg_act07">Colete $ Anéis!</message>
+	<message index="494" name="msg_act08">Chegue ao Objetivo antes do seu Rival!</message>
+	<message index="495" name="msg_act09">Chegue ao Objetivo antes do Fantasma!</message>
+	<message index="496" name="msg_act10">Encontre $ Chao!</message>
+	<message index="497" name="msg_act11">Encontre o Objetivo!</message>
+	<message index="498" name="msg_act12">Vá para o novo Objetivo!</message>
+	<message index="499" name="msg_act13">Conclua o Minigame!</message>
+	<message index="500" name="msg_act14">Conclua o Modo Difícil!</message>
+	<message index="501" name="msg_act15">Colete as Esmeraldas do Caos e salve o Sonic!</message>
+	<message index="502" name="msg_b0129">Encontre a Esmeralda do Caos!</message>
+	<message index="503" name="msg_act16">Derrote Iblis!</message>
+	<message index="504" name="msg_act17">Derrote o Eggman!</message>
+	<message index="505" name="msg_act18">Derrote Mephiles!</message>
+	<message index="506" name="msg_act19">Derrote o Eggman e salve a Elise!</message>
+	<message index="507" name="msg_act20">Derrote Mephiles!</message>
+	<message index="508" name="msg_act21">Sele Iblis!</message>
+	<message index="509" name="msg_act22">Derrote Sonic!</message>
+	<message index="510" name="msg_act23">Derrote Shadow!</message>
+	<message index="511" name="msg_act24">Derrote Silver!</message>
+	<message index="512" name="msg_act25">Derrote Solaris!</message>
+	<message index="513" name="msg_act26">Detenha a fúria de Solaris!</message>
+	<message index="514" name="msg_act27">Derrote o Egg Genesis!</message>
+	<message index="515" name="msg_act28">Derrote o Egg Cerberus!</message>
+	<message index="516" name="msg_act29">Derrote o Egg Wyvern!</message>
+	<message index="517" name="msg_twn_sonic01">Colete informações!</message>
+	<message index="518" name="msg_twn_sonic02">Descubra para onde foi a nave do Eggman!</message>
+	<message index="519" name="msg_twn_sonic03">Colete informações sobre o Eggman!</message>
+	<message index="520" name="msg_twn_sonic04">Encontre-se com o Tails!</message>
+	<message index="521" name="msg_twn_sonic05">Encontre-se com o Tails!</message>
+	<message index="522" name="msg_twn_sonic06">Vá para o oceano!</message>
+	<message index="523" name="msg_twn_sonic07">Vá para o deserto!</message>
+	<message index="524" name="msg_twn_sonic08">Consiga uma autorização do Lorde Regis, e vá para o deserto!</message>
+	<message index="525" name="msg_twn_sonic09">Vá para o túnel do deserto!</message>
+	<message index="526" name="msg_twn_sonic10">Consiga uma passagem para o túnel!</message>
+	<message index="527" name="msg_twn_sonic11">Busque Elise, e leve-a para o castelo!</message>
+	<message index="528" name="msg_twn_sonic12">Vá para as docas!</message>
+	<message index="529" name="msg_twn_sonic13">Vá atrás da Elise!</message>
+	<message index="530" name="msg_twn_sonic14">Encontre-se com o Knuckles!</message>
+	<message index="531" name="msg_twn_sonic15">Encontre-se com o Knuckles no armazém!</message>
+	<message index="532" name="msg_twn_sonic16">Vá para a base do Eggman!</message>
+	<message index="533" name="msg_twn_sonic17">Vá para a White Acropolis!</message>
+	<message index="534" name="msg_twn_sonic18">Colete informações sobre a Elise!</message>
+	<message index="535" name="msg_twn_sonic19">Vá para a estação!</message>
+	<message index="536" name="msg_twn_sonic20">Entre na estação!</message>
+	<message index="537" name="msg_twn_sonic21">Vá atrás do Eggman!</message>
+	<message index="538" name="msg_twn_sonic22">Fuja pela selva!</message>
+	<message index="539" name="msg_twn_sonic23">Fuja pela floresta!</message>
+	<message index="540" name="msg_twn_sonic24">Vá atrás da Elise!</message>
+	<message index="541" name="msg_twn_sonic25">Vá para a Wave Ocean!</message>
+	<message index="542" name="msg_twn_sonic26">Vá para a Cidade Nova!</message>
+	<message index="543" name="msg_twn_sonic27">Vá para o altar na Cidade do Castelo!</message>
+	<message index="544" name="msg_twn_sonic28">Vá para o antigo castelo de Soleanna!</message>
+	<message index="545" name="msg_twn_sonic29">Encontre-se com o bispo!</message>
+	<message index="546" name="msg_twn_sonic30">Complete as provas de Soleanna!</message>
+	<message index="547" name="msg_twn_sonic31">Vá para a entrada do antigo castelo!</message>
+	<message index="548" name="msg_twn_sonic32">Vá para o antigo castelo!</message>
+	<message index="549" name="msg_twn_sonic33">Vá para a base secreta do Eggman!</message>
+	<message index="550" name="msg_twn_sonic34">Vá para a loja!</message>
+	<message index="551" name="msg_twn_sonic35">Compre um "Light Chip"!</message>
+	<message index="552" name="msg_twn_sonic36">Compre um "Anti-Gravity"!</message>
+	<message index="553" name="msg_twn_sonic37">Compre "Bound Bracelet"!</message>
+	<message index="554" name="shadow_stg_wap">Resgate o Agente Capturado!</message>
+	<message index="555" name="shadow_stg_kdv">Vá para o Ponto de Restauração!</message>
+	<message index="556" name="shadow_stg_csc">Encontre a Esmeralda do Caos!</message>
+	<message index="557" name="shadow_stg_flc">Encontre a Esmeralda do Caos!</message>
+	<message index="558" name="shadow_stg_tpj_rouge">Encontre o E-123 Omega!</message>
+	<message index="559" name="shadow_stg_rdt">Vá atrás do Eggman!</message>
+	<message index="560" name="shadow_stg_aqa">Vá atrás do Mephiles!</message>
+	<message index="561" name="shadow_stg_wvo">Forneça o Backup para o E-123 Omega!</message>
+	<message index="562" name="shadow_stg_dtd">Encontre a Esmeralda do Caos!</message>
+	<message index="563" name="shadow_stg_wap_3rd">Derrote $ Inimigos!</message>
+	<message index="564" name="shadow_stg_kdv_3rd">Derrote $ Inimigos!</message>
+	<message index="565" name="shadow_stg_csc_3rd">Derrote $ Inimigos!</message>
+	<message index="566" name="shadow_stg_flc_3rd">Derrote $ Inimigos!</message>
+	<message index="567" name="shadow_stg_tpj_rouge_3rd">Derrote $ Inimigos!</message>
+	<message index="568" name="shadow_stg_rdt_3rd">Derrote $ Inimigos!</message>
+	<message index="569" name="shadow_stg_aqa_3rd">Derrote $ Inimigos!</message>
+	<message index="570" name="shadow_stg_wvo_3rd">Derrote $ Inimigos!</message>
+	<message index="571" name="shadow_stg_dtd_3rd">Derrote $ Inimigos!</message>
+	<message index="572" name="shadow_stg_wap_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="573" name="shadow_stg_kdv_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="574" name="shadow_stg_csc_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="575" name="shadow_stg_flc_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="576" name="shadow_stg_tpj_rouge_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="577" name="shadow_stg_rdt_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="578" name="shadow_stg_aqa_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="579" name="shadow_stg_wvo_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="580" name="shadow_stg_dtd_4th">Chegue ao Objetivo Antes de $</message>
+	<message index="581" name="msg_twn_shadow01">Vá para o ponto de extração no antigo castelo!</message>
+	<message index="582" name="msg_twn_shadow02">Vá para o antigo castelo!</message>
+	<message index="583" name="msg_twn_shadow03">Vá para o antigo castelo de Soleanna!</message>
+	<message index="584" name="msg_twn_shadow04">Realize um Light Dash para passar pela ponte!</message>
+	<message index="585" name="msg_twn_shadow05">Encontre a asadelta escondida na floresta!</message>
+	<message index="586" name="msg_twn_shadow06">Destrua a pedra que bloqueia a entrada da caverna!</message>
+	<message index="587" name="msg_twn_shadow07">Use a asadelta para chegar na entrada do antigo castelo!</message>
+	<message index="588" name="msg_twn_shadow08">Colete informações sobre o E-123 Omega!</message>
+	<message index="589" name="msg_twn_shadow09">Encontre o E-123 Omega!</message>
+	<message index="590" name="msg_twn_shadow10">Vá para a selva!</message>
+	<message index="591" name="msg_twn_shadow11">Encontre-se com a Rouge!</message>
+	<message index="592" name="msg_twn_shadow12">Vá depressa para o armazém!</message>
+	<message index="593" name="msg_twn_shadow13">Encontre-se com a Rouge no distrito do armazém!</message>
+	<message index="594" name="msg_twn_shadow14">Colete informações sobre o Eggman!</message>
+	<message index="595" name="msg_twn_shadow15">Vá para a estação!</message>
+	<message index="596" name="msg_twn_shadow16">Colete informações sobre o Cetro da Escuridão!</message>
+	<message index="597" name="msg_twn_shadow17">Encontre os arqueólogos!</message>
+	<message index="598" name="msg_twn_shadow18">Encontre arqueólogos na Cidade do Castelo!</message>
+	<message index="599" name="msg_twn_shadow19">Resolve o quebra-cabeça of the dark candlestick!</message>
+	<message index="600" name="msg_twn_shadow20">Pegue o Cetro da Escuridão!</message>
+	<message index="601" name="msg_twn_shadow21">Vá para a Wave Ocean!</message>
+	<message index="602" name="msg_twn_shadow22">Vá atrás do E-123 Omega!</message>
+	<message index="603" name="msg_twn_shadow23">Colete informações sobre o Mephiles!</message>
+	<message index="604" name="msg_twn_shadow24">Vá para o prédio da sede na Cidade Nova!</message>
+	<message index="605" name="msg_twn_shadow25">Vá atrás do Mephiles!</message>
+	<message index="606" name="msg_twn_shadow26">Vá para o deserto!</message>
 	<message index="607" name="msg_twn_shadow27">Head for the tunnel leading to the desert!</message>
 	<message index="608" name="msg_twn_shadow28">Head for the shop!</message>
 	<message index="609" name="msg_twn_shadow29">Buy an "Air Chip"!</message>
