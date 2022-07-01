@@ -1,116 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mst06 name="msg_shop" mst_version="1" endianness="B">
-	<message index="0" name="msg_shop_001">Welcome!</message>
-	<message index="1" name="msg_shop_002">I'm the owner here, Enrique.\nThanks for coming by!\fWell, take a look around. They're all valuable\nitems that I got through special channels.\fI'll do my best to find good products, so come by\nonce in a while and see what I've got!\fSo, what do you want to buy?</message>
-	<message index="2" name="msg_shop_003">Hey, you're back!\nWhat are you looking for today?</message>
-	<message index="3" name="msg_shop_004">Surprised?\nThis is a "Network Shop."\fThis is a new shop that was developed for\npeople who want to shop whenever they want!\fIt's not only high-tech, it's on the cutting edge\nof cool! Don't you think so?\fYou can use this Network Shop to buy exactly\nthe same things that you can buy at my shop\nin the Castle Town!\fWell, that's enough chitchat. What do you want\nto buy?</message>
-	<message index="4" name="msg_shop_005">Do you want to buy this?</message>
-	<message index="5" name="msg_shop_006">Thanks for your business!</message>
-	<message index="6" name="msg_shop_007">Do you want to buy anything else?</message>
-	<message index="7" name="msg_shop_008">It looks like you don't have enough Rings.\nSorry, but business is business.</message>
-	<message index="8" name="msg_shop_009">Hey, I told you, you don't have enough Rings.</message>
-	<message index="9" name="msg_shop_010">You don't have enough Rings!\nCome on, are you making fun of me?</message>
-	<message index="10" name="msg_shop_011">Sorry, but I've sold out of everything I've\ngot in right now.\fI'll get some more products in soon, so come\nback later.</message>
-	<message index="11" name="msg_shop_012">Hey, are you leaving already?\fCome again soon!</message>
-	<message index="12" name="msg_shop_013">Sorry, I'm all sold out.\fSorry about that.\nWell, come by again to say hi!</message>
-	<message index="13" name="msg_shop_014">Welcome!\fHmm... Sorry, but I don't have anything that really\nsuits you... \fBut thanks for coming!\nI'm Enrique. Don't forget me!</message>
-	<message index="14" name="msg_shop_015">Hey, surprised?\nThis is a "Network Shop."\f"I want to shop whenever I want to!"\n"I want to buy things wherever I want!"\n"I want the cool things from Enrique's shop!"\f"I want to see Enrique whenever I want!"\n"Enrique's too handsome for words!"\n"I can't get enough of Enrique!"\fThat's what people kept telling me, you see.\fSo due to overwhelming public demand,\nI developed this new type of shop!\fIt's not only high-tech, it's on the cutting edge\nof cool! Don't you think so?\fYou can use this Network Shop to buy exactly\nthe same things that you can buy at my shop\nin the Castle Town!\fWell, that's enough chitchat. What do you want\nto buy?</message>
-	<message index="15" name="msg_shop_016">Welcome!</message>
-	<message index="16" name="msg_shop_017">This is a "Network Shop."</message>
-	<message index="17" name="msg_shop_018">Here, you can purchase items from "Enrique's\nShop" in the Soleanna Castle Town, via the\nnetwork.</message>
-	<message index="18" name="msg_shop_019">Please select the product you would like to\npurchase.</message>
-	<message index="19" name="msg_shop_020">Would you like to purchase this product?</message>
-	<message index="20" name="msg_shop_021">Thank you for your business!</message>
-	<message index="21" name="msg_shop_022">Would you like to purchase anything else?</message>
-	<message index="22" name="msg_shop_023">You do not have enough Rings.</message>
-	<message index="23" name="msg_shop_024">Sorry, all items at this shop are sold out.</message>
-	<message index="24" name="msg_shop_025">Thank you!\nPlease come again!</message>
-	<message index="25" name="msg_shop_026">We are currently waiting for our next shipment.\fThe system cannot be used until the shipment\narrives.\fThank you for coming.</message>
-	<message index="26" name="msg_shop_027">Sorry, all items you may be interested in\nare sold out.\fThank you for coming.</message>
-	<message index="27" name="msg_shop_028">Sorry, it doesn't look like we carry any items you\nmay be interested in... \fThank you for coming.</message>
-	<message index="28" name="msg_shop_101">Allows you to use the "Light\nDash." By using the Light\nDash, you can move quickly\nthrough a trail of Rings.</message>
-	<message index="29" name="msg_shop_102">Allows you to use "Sliding."\nBy sliding, you can attack\nenemies while moving.</message>
-	<message index="30" name="msg_shop_103">Allows you to use the\n"Bound Jump." This lets\nyou jump to higher places\nand attack below you.</message>
-	<message index="31" name="msg_shop_105">Allows you to use the\n"Tornado" custom action.\nCreates wind to attack\nsurrounding enemies.</message>
-	<message index="32" name="msg_shop_106">Allows you to use the "Slow"\ncustom action. Slows the flow\nof time in the immediate area.</message>
-	<message index="33" name="msg_shop_107">Allows you to use the "Mach\nSpeed" custom action. Enables\nyou to do a Supersonic\nBoost Dash.</message>
-	<message index="34" name="msg_shop_108">Allows you to use the "Homing\nSmash" custom action. Enables\nyou to stop in midair, and\ndo a Homing Smash Attack.</message>
-	<message index="35" name="msg_shop_109">Allows you to use the "Gun\nDrive" custom action. Enables\nyou to throw an Gem\nand teleport to that location.</message>
-	<message index="36" name="msg_shop_110">Allows you to use the\n"Thunder Guard" custom action.\nDefends against attacks while\nattracting nearby Rings.</message>
-	<message index="37" name="msg_shop_111">Allows you to use the "Scale"\ncustom action.\nChanges Sonic's size.</message>
-	<message index="38" name="msg_shop_112">???\nYou'll need to buy it to see\nwhat it does!</message>
-	<message index="39" name="msg_shop_201">Allows you to use the "Light\nDash." By using the Light\nDash, you can move quickly\nthrough a trail of Rings.</message>
-	<message index="40" name="msg_shop_202">"Chaos Boost Level 1." \nDuring the boost you will be\ngranted "Chaos Snap," an \nupgrade to Chaos Attack \nand Chaos Smash.</message>
-	<message index="41" name="msg_shop_203">"Chaos Boost Level 2." \nDuring the boost you will be\ngranted "Chaos Lance," an \nupgrade to Chaos Spear.</message>
-	<message index="42" name="msg_shop_204">"Chaos Boost Level 3." \nDuring the boost you will be\nable to activate\n"Chaos Blast."</message>
-	<message index="43" name="msg_shop_301">Allows you to use "Hold\nSmash." This allows you\nto throw what you have\ngrabbed in a single throw.</message>
-	<message index="44" name="msg_shop_302">Allows you to use\n"Grab-All." This allows\nyou to grab things in a\nwider range.</message>
-	<message index="45" name="msg_shop_303" placeholder="picture(button_a)">Press the $ button twice\nquickly to perform "Teleport\nDash." This allows you to do\ninstantaneous Teleport\nDashes.</message>
-	<message index="46" name="msg_shop_304" placeholder="picture(button_x)">Hold the $ button during jump\nto perform "Psychoshock."\nThis allows you\nto stun nearby\nenemies and grab them.</message>
-	<message index="47" name="msg_shop_305">Allows you to "Speed Up."\nThis increases your\nmovement speed.</message>
+	<message index="0" name="msg_shop_001">Bem-vindo!</message>
+	<message index="1" name="msg_shop_002">Sou o dono desse estabelecimento, me chamo Enrique.\nObrigado por vir!\fBem, que tal ver o meu estoque? Eu só consegui todos\n esses itens porque tenho meus contatos especiais.\fEu farei o meu melhor pra conseguir bons produtos, então apareça aqui\nde vez em quando pra ver o que tenho de novo!\fEnfim, o que você deseja comprar?</message>
+	<message index="2" name="msg_shop_003">Ei, você voltou!\nDiga-me, o que você deseja?</message>
+	<message index="3" name="msg_shop_004">Surpreso?\nEssa é a "Loja Virtual."\fEla foi feita\npara que as pessoas pudessem comprar algo quando bem quisessem!\fEla não só é uma tecnologia de ponta, como ela também é\nextraordinária! Você não acha?\fVocê pode usar essa Loja Virtual para comprar exatamente\nas mesmas coisas que também estão à venda na minha loja\nna Cidade do Castelo!\fEnfim, acho que já conversamos o bastante.\nO que você deseja comprar?</message>
+	<message index="4" name="msg_shop_005">Deseja mesmo comprar isso?</message>
+	<message index="5" name="msg_shop_006">Obrigado pela sua compra!</message>
+	<message index="6" name="msg_shop_007">Deseja comprar mais algo?</message>
+	<message index="7" name="msg_shop_008">Parece que você não possui Anéis o suficiente.\nFoi mal, mas negócios são negócios.</message>
+	<message index="8" name="msg_shop_009">Ei, eu já te disse, você não possui Anéis o suficiente.</message>
+	<message index="9" name="msg_shop_010">Eu já te disse! Você não tem Anéis o suficiente!\nQualé, você tá de palhaçada comigo?</message>
+	<message index="10" name="msg_shop_011">Lamento, mas eu já vendi tudo\no que eu tinha em estoque.\fEu vou receber mais produtos em breve, então não esqueça\nde vir aqui outra hora.</message>
+	<message index="11" name="msg_shop_012">Ei, você já vai embora?\fTudo bem, obrigado e volte sempre!</message>
+	<message index="12" name="msg_shop_013">Foi mal, mas eu já vendi tudo.\fEu lamento de verdade por isso.\nMas enfim, não deixe de voltar aqui outra hora!</message>
+	<message index="13" name="msg_shop_014">Seja bem-vindo!\fHmm... Foi mal, mas eu não tenho nada que\n possa sirva em você... \fMas mesmo assim, obrigado por vir!\nMe chamo Enrique. Vê se não se esquece de mim!</message>
+	<message index="14" name="msg_shop_015">Ei, está surpreso?\nEssa é uma "Loja Virtual."\f"Eu quero fazer compras a qualquer momento!"\n"Eu quero fazer compras em qualquer lugar!"\n"Eu quero comprar as coisas incríveis da loja do Enrique!"\f"Eu quero ver o Enrique a qualquer hora!"\n"Palavras não bastam para descrever a beleza do Enrique!"\n"Eu não me canso do Enrique!"\fComo pôde ver, isso era o que as pessoas costumavam me dizer.\fEntão, devido à grande demanda do público,\nEu desenvolvi esse novo tipo de loja!\fEla não só é uma tecnologia de ponta, como ela também é\nextraordinária! Você não acha?\fVocê pode usar essa Loja Virtual para comprar exatamente\nas mesmas coisas que estão à venda na minha loja\nna Cidade do Castelo!\fEnfim, acho que já conversamos o bastante.\n O que você deseja comprar?</message>
+	<message index="15" name="msg_shop_016">Bem-vindo!</message>
+	<message index="16" name="msg_shop_017">Isso é uma "Loja Virtual."</message>
+	<message index="17" name="msg_shop_018">Aqui, você pode comprar os itens da "Loja do Enrique"\n via rede.</message>
+	<message index="18" name="msg_shop_019">Por favor, selecione o produto que você deseja\ncomprar.</message>
+	<message index="19" name="msg_shop_020">Deseja mesmo comprar esse produto?</message>
+	<message index="20" name="msg_shop_021">Obrigado pela sua compra!</message>
+	<message index="21" name="msg_shop_022">Deseja comprar mais algo?</message>
+	<message index="22" name="msg_shop_023">Você não possui Anéis o suficiente.</message>
+	<message index="23" name="msg_shop_024">Lamento, mas todos os itens dessa loja estão esgotados.</message>
+	<message index="24" name="msg_shop_025">Obrigado e volte sempre!</message>
+	<message index="25" name="msg_shop_026">Nós estamos aguardando o nosso novo estoque chegar.\fO sistema não pode ser usado até que a nova mercadoria\nchegue.\fObrigado por vir.</message>
+	<message index="26" name="msg_shop_027">Lamento, mas todos os itens que talvez sejam do seu interesse\nestão esgotados.\fObrigado por vir.</message>
+	<message index="27" name="msg_shop_028">Lamento, mas parece que não temos nenhum item que possa\nser do seu interesse... \fObrigado por vir.</message>
+	<message index="28" name="msg_shop_101">Permite que você realize o "Light\nDash." Usando o Light\nDash, você poderá se mover rapidamente\npor uma trilha de Anéis.</message>
+	<message index="29" name="msg_shop_102">Permite que você realize o "Slide."\nUsando o Slide, você poderá atacar\ninimigos enquanto se move.</message>
+	<message index="30" name="msg_shop_103">Permite que você realize o\n"Bound Jump." Isso fará\ncom que você possa alcancar locais mais altos\ne que possa atacar o que estiver abaixo de você.</message>
+	<message index="31" name="msg_shop_105">Permite que você utilize a G\n"Tornado" custom action.\nCria um Tornado para atacar\n inimigos próximos.</message>
+	<message index="32" name="msg_shop_106">Permite que você utilize a habilidade "Slow".\nReduz o fluxo temporal ao seu redor.</message>
+	<message index="33" name="msg_shop_107">Permite que você utilize a habilidade "Mach Speed".\nFaz com que você realize um\n impulso supersônico.</message>
+	<message index="34" name="msg_shop_108">Permite que você utilize a habilidade "Homing Smash".\nFaz com que você pare no ar,\n e realize um Homing Smash.</message>
+	<message index="35" name="msg_shop_109">Permite que você utilize a habilidade "Gun Drive".\nFaz com que você arremesse uma Gema\ne que se teletransporte para onde ela caiu.</message>
+	<message index="36" name="msg_shop_110">Permite que você utilize a habilidade "Thunder Guard".\nTe defende contra inimigos\nenquanto atrai Anéis.</message>
+	<message index="37" name="msg_shop_111">Permite que você utilize a habilidade "Scale".\nAltera o tamanho do Sonic.</message>
+	<message index="38" name="msg_shop_112">???\nVocê terá que comprar esse item para descobrir\no que isso faz!</message>
+	<message index="39" name="msg_shop_201">Permite que você realize o "Light Dash."\n Usando o Light\nDash, você poderá se mover rapidamente\npor uma trilha de Anéis.</message>
+	<message index="40" name="msg_shop_202">"Chaos Boost Nível 1." \nDurante esse nível, você poderá\nusar o "Chaos Snap," uma melhoria \npara o Chaos Attack \ne o Chaos Smash.</message>
+	<message index="41" name="msg_shop_203">"Chaos Boost Nível 2." \nDurante esse nível, você poderá\nusar o "Chaos Lance," uma \nmelhoria para o Chaos Spear.</message>
+	<message index="42" name="msg_shop_204">"Chaos Boost Nível 3." \nDurante esse nível, você poderá\nativar o "Chaos Blast."</message>
+	<message index="43" name="msg_shop_301">Permite que você utilize o "Hold\nSmash." Isso fará com que você\narremesse de uma vez só\n o que você estiver segurando.</message>
+	<message index="44" name="msg_shop_302">Permite que você utilize o\n"Grab-All." Isso fará com que você\npegue coisas a uma\ndistância maior.</message>
+	<message index="45" name="msg_shop_303" placeholder="picture(button_a)">Pressione $ duas vezes\nrapidamente para realizar um "Teleport\nDash." Isso fará com que você \nrealize Teleport\nDashes.</message>
+	<message index="46" name="msg_shop_304" placeholder="picture(button_x)">Matenha $ pressionado durante um pulo\npara realizar um "Psychoshock."\nIsso fará com que você\natorde inimigos\npróximos e que você os pegue.</message>
+	<message index="47" name="msg_shop_305">Permite que você aumente a sua velocidade.</message>
 	<message index="48" name="msg_shop_401">A 1-up item.</message>
-	<message index="49" name="msg_shop_402">"Sonic Adventure" music</message>
-	<message index="50" name="msg_shop_403">"Sonic Adventure 2" music</message>
-	<message index="51" name="msg_shop_404">"Sonic Heroes" music</message>
-	<message index="52" name="msg_shop_405">"Shadow The Hedgehog" music</message>
-	<message index="53" name="msg_shop_406">"Sonic The Hedgehog" music</message>
-	<message index="54" name="msg_shop_407">"Sonic The Hedgehog 2" music</message>
-	<message index="55" name="msg_shop_408">"Sonic The Hedgehog 3" music</message>
-	<message index="56" name="msg_shop_409">"Sonic &amp; Knuckles" music</message>
-	<message index="57" name="msg_shop_410">"Sonic 3D Blast" music</message>
-	<message index="58" name="msg_shop_411">"Sonic R" music</message>
-	<message index="59" name="msg_shop_412">"Sonic Riders" music</message>
-	<message index="60" name="msg_shop_413">"Sonic Adventure" music,\npart 2</message>
-	<message index="61" name="msg_shop_414">"Sonic Adventure" music,\npart 3</message>
-	<message index="62" name="msg_shop_415">"Sonic Adventure 2" music,\npart 2</message>
-	<message index="63" name="msg_shop_416">"Sonic Adventure 2" music,\npart 3</message>
-	<message index="64" name="msg_shop_417">"Sonic Heroes" music, part 2</message>
-	<message index="65" name="msg_shop_418">"Sonic Heroes" music, part 3</message>
-	<message index="66" name="msg_shop_419">"Shadow The Hedgehog" music,\npart 2</message>
-	<message index="67" name="msg_shop_420">"Shadow The Hedgehog" music,\npart 3</message>
-	<message index="68" name="msg_shop_421">"Sonic The Hedgehog" music,\npart 2</message>
-	<message index="69" name="msg_shop_422">"Sonic The Hedgehog" music,\npart 3</message>
-	<message index="70" name="msg_shop_423">"Sonic The Hedgehog 2" music,\npart 2</message>
-	<message index="71" name="msg_shop_424">"Sonic The Hedgehog 2" music,\npart 3</message>
-	<message index="72" name="msg_shop_425">"Sonic The Hedgehog 3" music,\npart 2</message>
-	<message index="73" name="msg_shop_426">"Sonic The Hedgehog 3" music,\npart 3</message>
+	<message index="49" name="msg_shop_402">Música de "Sonic Adventure"</message>
+	<message index="50" name="msg_shop_403">Música de "Sonic Adventure 2"</message>
+	<message index="51" name="msg_shop_404">Música de "Sonic Heroes"</message>
+	<message index="52" name="msg_shop_405">Música de "Shadow The Hedgehog"</message>
+	<message index="53" name="msg_shop_406">Música de "Sonic The Hedgehog"</message>
+	<message index="54" name="msg_shop_407">Música de "Sonic The Hedgehog 2"</message>
+	<message index="55" name="msg_shop_408">Música de "Sonic The Hedgehog 3"</message>
+	<message index="56" name="msg_shop_409">Música de "Sonic &amp; Knuckles"</message>
+	<message index="57" name="msg_shop_410">Música de "Sonic 3D Blast"</message>
+	<message index="58" name="msg_shop_411">Música de "Sonic R"</message>
+	<message index="59" name="msg_shop_412">Música de "Sonic Riders"</message>
+	<message index="60" name="msg_shop_413">Música de "Sonic Adventure",\nparte 2</message>
+	<message index="61" name="msg_shop_414">Música de "Sonic Adventure",\nparte 3</message>
+	<message index="62" name="msg_shop_415">Música "Sonic Adventure 2",\nparte 2</message>
+	<message index="63" name="msg_shop_416">Música de "Sonic Adventure 2",\nparte 3</message>
+	<message index="64" name="msg_shop_417">Música de "Sonic Heroes", parte 2</message>
+	<message index="65" name="msg_shop_418">Música de "Sonic Heroes", parte 3</message>
+	<message index="66" name="msg_shop_419">Música de "Shadow The Hedgehog",\nparte 2</message>
+	<message index="67" name="msg_shop_420">Música de "Shadow The Hedgehog",\nparte 3</message>
+	<message index="68" name="msg_shop_421">Música de "Sonic The Hedgehog",\nparte 2</message>
+	<message index="69" name="msg_shop_422">Música de "Sonic The Hedgehog",\nparte 3</message>
+	<message index="70" name="msg_shop_423">Música de "Sonic The Hedgehog 2",\nparte 2</message>
+	<message index="71" name="msg_shop_424">Música de "Sonic The Hedgehog 2",\nparte 3</message>
+	<message index="72" name="msg_shop_425">Música de "Sonic The Hedgehog 3",\nparte 2</message>
+	<message index="73" name="msg_shop_426">Música de "Sonic The Hedgehog 3",\nparte 3</message>
 	<message index="74" name="msg_shop_427">Light Chip</message>
 	<message index="75" name="msg_shop_428">Antigravity</message>
 	<message index="76" name="msg_shop_429">Bounce Bracelet</message>
-	<message index="77" name="msg_shop_604">Green Gem</message>
-	<message index="78" name="msg_shop_605">Red Gem</message>
-	<message index="79" name="msg_shop_606">Blue Gem</message>
-	<message index="80" name="msg_shop_607">White Gem</message>
-	<message index="81" name="msg_shop_608">Sky Gem</message>
-	<message index="82" name="msg_shop_609">Yellow Gem</message>
-	<message index="83" name="msg_shop_610">Purple Gem</message>
-	<message index="84" name="msg_shop_611">Rainbow Gem</message>
+	<message index="77" name="msg_shop_604">Gema Verde</message>
+	<message index="78" name="msg_shop_605">Gema Vermelha</message>
+	<message index="79" name="msg_shop_606">Gema Azul</message>
+	<message index="80" name="msg_shop_607">Gema Branca</message>
+	<message index="81" name="msg_shop_608">Gema Ciana</message>
+	<message index="82" name="msg_shop_609">Gema Amarela</message>
+	<message index="83" name="msg_shop_610">Gema Roxa</message>
+	<message index="84" name="msg_shop_611">Gema Arco-Íris</message>
 	<message index="85" name="msg_shop_612">Air Chip</message>
-	<message index="86" name="msg_shop_613">Memory Shard (blue)</message>
-	<message index="87" name="msg_shop_614">Memory Shard (red)</message>
-	<message index="88" name="msg_shop_615">Memory Shard (black)</message>
+	<message index="86" name="msg_shop_613">Memory Shard (azul)</message>
+	<message index="87" name="msg_shop_614">Memory Shard (vermelho)</message>
+	<message index="88" name="msg_shop_615">Memory Shard (preto)</message>
 	<message index="89" name="msg_shop_616">Single-Layered Extreme</message>
 	<message index="90" name="msg_shop_617">Power Bracelet</message>
 	<message index="91" name="msg_shop_618">Heart of Wind</message>
 	<message index="92" name="msg_shop_619">Shock Bracelet</message>
 	<message index="93" name="msg_shop_620">Speed Chip</message>
 	<message index="94" name="msg_shop_621">Extend</message>
-	<message index="95" name="msg_shop_622">Music 01</message>
-	<message index="96" name="msg_shop_623">Music 02</message>
-	<message index="97" name="msg_shop_624">Music 03</message>
-	<message index="98" name="msg_shop_625">Music 04</message>
-	<message index="99" name="msg_shop_626">Music 05</message>
-	<message index="100" name="msg_shop_627">Music 06</message>
-	<message index="101" name="msg_shop_628">Music 07</message>
-	<message index="102" name="msg_shop_629">Music 08</message>
-	<message index="103" name="msg_shop_630">Music 09</message>
-	<message index="104" name="msg_shop_631">Music 10</message>
-	<message index="105" name="msg_shop_632">Music 11</message>
-	<message index="106" name="msg_shop_633">Music 12</message>
-	<message index="107" name="msg_shop_634">Music 13</message>
-	<message index="108" name="msg_shop_635">Music 14</message>
-	<message index="109" name="msg_shop_700">Yes</message>
-	<message index="110" name="msg_shop_701">No</message>
-	<message index="111" name="msg_shop_702">Product</message>
-	<message index="112" name="msg_shop_703">Price</message>
+	<message index="95" name="msg_shop_622">Música 01</message>
+	<message index="96" name="msg_shop_623">Música 02</message>
+	<message index="97" name="msg_shop_624">Música 03</message>
+	<message index="98" name="msg_shop_625">Música 04</message>
+	<message index="99" name="msg_shop_626">Música 05</message>
+	<message index="100" name="msg_shop_627">Música 06</message>
+	<message index="101" name="msg_shop_628">Música 07</message>
+	<message index="102" name="msg_shop_629">Música 08</message>
+	<message index="103" name="msg_shop_630">Música 09</message>
+	<message index="104" name="msg_shop_631">Música 10</message>
+	<message index="105" name="msg_shop_632">Música 11</message>
+	<message index="106" name="msg_shop_633">Música 12</message>
+	<message index="107" name="msg_shop_634">Música 13</message>
+	<message index="108" name="msg_shop_635">Música 14</message>
+	<message index="109" name="msg_shop_700">Sim</message>
+	<message index="110" name="msg_shop_701">Não</message>
+	<message index="111" name="msg_shop_702">Produto</message>
+	<message index="112" name="msg_shop_703">Preço</message>
 </mst06>
