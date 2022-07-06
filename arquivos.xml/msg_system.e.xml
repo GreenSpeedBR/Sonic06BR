@@ -607,61 +607,61 @@
 	<message index="604" name="msg_twn_shadow24">Vá para o prédio da sede na Cidade Nova!</message>
 	<message index="605" name="msg_twn_shadow25">Vá atrás do Mephiles!</message>
 	<message index="606" name="msg_twn_shadow26">Vá para o deserto!</message>
-	<message index="607" name="msg_twn_shadow27">Head for the tunnel leading to the desert!</message>
-	<message index="608" name="msg_twn_shadow28">Head for the shop!</message>
-	<message index="609" name="msg_twn_shadow29">Buy an "Air Chip"!</message>
-	<message index="610" name="msg_twn_shadow30">Buy a "Memory Shard (Blue)"!</message>
-	<message index="611" name="silver_stg_csc">Hurry to Iblis, the Flames of Disaster!</message>
-	<message index="612" name="silver_stg_tpj">Escape the Jungle Ruins!</message>
-	<message index="613" name="silver_stg_wvo_blz">Head to Soleanna Castle Town!</message>
-	<message index="614" name="silver_stg_dtd">Find Sonic!</message>
-	<message index="615" name="silver_stg_wap">Infiltrate Dr. Eggman's Base!</message>
-	<message index="616" name="silver_stg_rdt">Find Sonic!</message>
-	<message index="617" name="silver_stg_aqa">Follow Iblis!</message>
-	<message index="618" name="silver_stg_kdv">Follow the Egg Carrier!</message>
-	<message index="619" name="silver_stg_flc">Hurry to Iblis!</message>
-	<message index="620" name="silver_stg_csc_3rd">Defeat $ Enemies!</message>
-	<message index="621" name="silver_stg_tpj_3rd">Defeat $ Enemies!</message>
-	<message index="622" name="silver_stg_wvo_blz_3rd">Defeat $ Enemies!</message>
-	<message index="623" name="silver_stg_dtd_3rd">Defeat $ Enemies!</message>
-	<message index="624" name="silver_stg_wap_3rd">Defeat $ Enemies!</message>
-	<message index="625" name="silver_stg_rdt_3rd">Defeat $ Enemies!</message>
-	<message index="626" name="silver_stg_aqa_3rd">Defeat $ Enemies!</message>
-	<message index="627" name="silver_stg_kdv_3rd">Defeat $ Enemies!</message>
-	<message index="628" name="silver_stg_flc_3rd">Defeat $ Enemies!</message>
-	<message index="629" name="silver_stg_csc_4th">Reach the Goal Within $</message>
-	<message index="630" name="silver_stg_tpj_4th">Reach the Goal Within $</message>
-	<message index="631" name="silver_stg_wvo_blz_4th">Reach the Goal Within $</message>
-	<message index="632" name="silver_stg_dtd_4th">Reach the Goal Within $</message>
-	<message index="633" name="silver_stg_wap_4th">Reach the Goal Within $</message>
-	<message index="634" name="silver_stg_rdt_4th">Reach the Goal Within $</message>
-	<message index="635" name="silver_stg_aqa_4th">Reach the Goal Within $</message>
-	<message index="636" name="silver_stg_kdv_4th">Reach the Goal Within $</message>
-	<message index="637" name="silver_stg_flc_4th">Reach the Goal Within $</message>
-	<message index="638" name="msg_twn_silver01">Find the Iblis Trigger!</message>
-	<message index="639" name="msg_twn_silver02">Head for the jungle!</message>
-	<message index="640" name="msg_twn_silver03">Go after the Iblis Trigger!</message>
-	<message index="641" name="msg_twn_silver04">Find Sonic!</message>
-	<message index="642" name="msg_twn_silver05">Find the person Amy's looking for!</message>
-	<message index="643" name="msg_twn_silver06">Head for the desert!</message>
-	<message index="644" name="msg_twn_silver07">Find Lord Regis!</message>
-	<message index="645" name="msg_twn_silver08">Find Lord Regis to get a pass to the desert!</message>
-	<message index="646" name="msg_twn_silver09">Find Lord Regis in the forest!</message>
-	<message index="647" name="msg_twn_silver10">Save Lord Regis!</message>
-	<message index="648" name="msg_twn_silver11">Go after Sonic!</message>
-	<message index="649" name="msg_twn_silver12">Head for the New City!</message>
-	<message index="650" name="msg_twn_silver13">Head for Dr. Eggman's base!</message>
-	<message index="651" name="msg_twn_silver14">Find Dr. Eggman's base!</message>
-	<message index="652" name="msg_twn_silver15">Escape and get to the castle!</message>
-	<message index="653" name="msg_twn_silver16">Head for the station!</message>
-	<message index="654" name="msg_twn_silver17">Stop Dr. Eggman's plans!</message>
-	<message index="655" name="msg_twn_silver18">Go after Dr. Eggman!</message>
-	<message index="656" name="msg_twn_silver19">Look for Anna!</message>
-	<message index="657" name="msg_twn_silver20">Complete the trials of Soleanna!</message>
-	<message index="658" name="msg_twn_silver21">Head for Soleanna's old castle!</message>
+	<message index="607" name="msg_twn_shadow27">Vá para o deserto pelo túnel!</message>
+	<message index="608" name="msg_twn_shadow28">Vá para a loja!</message>
+	<message index="609" name="msg_twn_shadow29">Compre um "Air Chip"!</message>
+	<message index="610" name="msg_twn_shadow30">Compre um "Memory Shard (Azul)"!</message>
+	<message index="611" name="silver_stg_csc">Chegue até Iblis, as Chamas do Desastre!</message>
+	<message index="612" name="silver_stg_tpj">Saia das Ruínas da Selva!</message>
+	<message index="613" name="silver_stg_wvo_blz">Vá para a Cidade do Castelo de Soleanna!</message>
+	<message index="614" name="silver_stg_dtd">Encontre o Sonic!</message>
+	<message index="615" name="silver_stg_wap">Infiltre-se na base do Eggman!</message>
+	<message index="616" name="silver_stg_rdt">Encontre o Sonic!</message>
+	<message index="617" name="silver_stg_aqa">Vá atrás do Iblis!</message>
+	<message index="618" name="silver_stg_kdv">Vá atrás do Egg Cargueiro!</message>
+	<message index="619" name="silver_stg_flc">Vá até o Iblis!</message>
+	<message index="620" name="silver_stg_csc_3rd">Derrote $ Inimigos!</message>
+	<message index="621" name="silver_stg_tpj_3rd">Derrote $ Inimigos!</message>
+	<message index="622" name="silver_stg_wvo_blz_3rd">Derrote $ Inimigos!</message>
+	<message index="623" name="silver_stg_dtd_3rd">Derrote $ Inimigos!</message>
+	<message index="624" name="silver_stg_wap_3rd">Derrote $ Inimigos!</message>
+	<message index="625" name="silver_stg_rdt_3rd">Derrote $ Inimigos!</message>
+	<message index="626" name="silver_stg_aqa_3rd">Derrote $ Inimigos!</message>
+	<message index="627" name="silver_stg_kdv_3rd">Derrote $ Inimigos!</message>
+	<message index="628" name="silver_stg_flc_3rd">Derrote $ Inimigos!</message>
+	<message index="629" name="silver_stg_csc_4th">Chegue ao Objetivo antes de $</message>
+	<message index="630" name="silver_stg_tpj_4th">Chegue ao Objetivo antes de $</message>
+	<message index="631" name="silver_stg_wvo_blz_4th">Chegue ao Objetivo antes de $</message>
+	<message index="632" name="silver_stg_dtd_4th">Chegue ao Objetivo antes de $</message>
+	<message index="633" name="silver_stg_wap_4th">Chegue ao Objetivo antes de $</message>
+	<message index="634" name="silver_stg_rdt_4th">Chegue ao Objetivo antes de $</message>
+	<message index="635" name="silver_stg_aqa_4th">Chegue ao Objetivo antes de $</message>
+	<message index="636" name="silver_stg_kdv_4th">Chegue ao Objetivo antes de $</message>
+	<message index="637" name="silver_stg_flc_4th">Chegue ao Objetivo antes de $</message>
+	<message index="638" name="msg_twn_silver01">Encontre o Arauto de Iblis!</message>
+	<message index="639" name="msg_twn_silver02">Vá para a selva!</message>
+	<message index="640" name="msg_twn_silver03">Vá atrás do Arauto de Iblis!</message>
+	<message index="641" name="msg_twn_silver04">Encontre o Sonic!</message>
+	<message index="642" name="msg_twn_silver05">Encontre a pessoa na qual a Amy está à procura!</message>
+	<message index="643" name="msg_twn_silver06">Vá para o deseto!</message>
+	<message index="644" name="msg_twn_silver07">Encontre o Lorde Regis!</message>
+	<message index="645" name="msg_twn_silver08">Encontre o Lorde Regis para receber uma passagem para o deserto!</message>
+	<message index="646" name="msg_twn_silver09">Encontre o Lorde Regis na floresta!</message>
+	<message index="647" name="msg_twn_silver10">Salve o Lorde Regis!</message>
+	<message index="648" name="msg_twn_silver11">Vá atrás do Sonic!</message>
+	<message index="649" name="msg_twn_silver12">Vá para a Cidade Nova!</message>
+	<message index="650" name="msg_twn_silver13">Vá para a base do Eggman!</message>
+	<message index="651" name="msg_twn_silver14">Encontre a base do Eggman!</message>
+	<message index="652" name="msg_twn_silver15">Fuja e chegue ao castelo!</message>
+	<message index="653" name="msg_twn_silver16">Vá para a estação!</message>
+	<message index="654" name="msg_twn_silver17">Impeça os planos do Eggman!</message>
+	<message index="655" name="msg_twn_silver18">Vá atrás do Eggman!</message>
+	<message index="656" name="msg_twn_silver19">Procure a Anna!</message>
+	<message index="657" name="msg_twn_silver20">Conclua os testes de Soleanna!</message>
+	<message index="658" name="msg_twn_silver21">Vá para o antigo castelo de Soleanna!</message>
 	<message index="659" name="msg_twn_silver22">From the royal seal, go to the old castle's entry!</message>
-	<message index="660" name="msg_twn_silver23">Head for the shop!</message>
-	<message index="661" name="msg_twn_silver24">Buy a "Heart of Wind"!</message>
-	<message index="662" name="msg_twn_silver25">Buy a "Shock Bracelet"!</message>
+	<message index="660" name="msg_twn_silver23">Vá para a loja!</message>
+	<message index="661" name="msg_twn_silver24">Compre um "Heart of Wind"!</message>
+	<message index="662" name="msg_twn_silver25">Compre um "Shock Bracelet"!</message>
 	<message index="663" name="msg_confirm">Confirmar</message>
 </mst06>
