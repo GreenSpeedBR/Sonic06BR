@@ -660,7 +660,7 @@
 	<message index="657" name="hint_mis01_e15_sd" placeholder="sound(mis01_e15_sd)">$The Doctor's not holding back, is he?\nLet him witness my ultimate power!</message>
 	<message index="658" name="msg_t00009b173_01_1">This is the station. Look, there's a lot of\npeople walking around the station.</message>
 	<message index="659" name="shadow_stg_wap">Resgate o Agente Capturado!</message>
-	<message index="660" name="shadow_stg_kdv"Vá para o Ponto de Restauração!</message>
+	<message index="660" name="shadow_stg_kdv">Vá para o Ponto de Restauração!</message>
 	<message index="661" name="shadow_stg_csc">Encontre a Esmeralda do Caos!</message>
 	<message index="662" name="shadow_stg_flc">Encontre a Esmeralda do Caos!</message>
 	<message index="663" name="shadow_stg_tpj_rouge">Encontre o Omega!</message>
